@@ -1,0 +1,293 @@
+﻿.navbar {
+	margin-top: 15px;
+}
+
+.mybody {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.mybody_search /*{
+	margin-top: 50px;
+	margin-bottom:50px;
+	*/
+text-align
+:
+ 
+center
+;
+
+
+}
+.center {
+	text-align: center;
+}
+
+.content {
+	height: auto;
+	min-height: 88%
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+.searchBox {
+	width: 550px;
+}
+
+.searchBtn {
+	width: 110px;
+}
+
+.25 {
+	line-height: 25px;
+}
+
+.bs-docs-example {
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
+
+.corner {
+	display: inline-block;
+	margin-bottom: 0;
+	margin-top: 5px;
+	vertical-align: middle;
+}
+
+.searchTip {
+	padding-left: 200px;
+	color: #666;
+}
+
+.qqTip {
+	color: #929292;
+}
+
+.footer {
+	text-align: center;
+	background-color: #101110;
+	padding: 10px 0px;
+	width: 100%;
+	font-size: 12px;
+	bottom: 0;
+	left: 0;
+	height: 60px;
+}
+
+#nav_baidu .nav-2_baidu {
+	background: url("../images/reg_hr_e84a6d3b.png") no-repeat scroll center
+		top rgba(0, 0, 0, 0);
+	height: 20px;
+	margin-top: 10px;
+}
+
+.content_body {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.head_p {
+	display: inline-block;
+	margin-bottom: 0;
+	margin-top: 5px;
+	vertical-align: middle;
+}
+
+a:link {
+	vertical-align: bottom;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+a:visited {
+	font-size: 13px;
+	color: #00c;
+	text-decoration: underline;
+}
+
+a:hover {
+	COLOR: #00c;
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+a:active {
+	COLOR: #ff7f24;
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+.footer a:link {
+	color: #929292;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.footer a:visited {
+	color: #929292;
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+.footer a:hover {
+	color: #929292;
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+.footer a:active {
+	color: #929292;
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+.form-actions a:link {
+	color: white;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.form-actions a:visited {
+	color: white;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.form-actions a:hover {
+	color: white;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.form-actions a:active {
+	color: white;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.btn:link {
+	font-size: 13px;
+	COLOR: white;
+	text-decoration: none;
+}
+
+.btn:visited {
+	font-size: 13px;
+	color: white;
+	text-decoration: underline;
+}
+
+.btn:hover {
+	COLOR: white;
+	text-decoration: underline;
+}
+
+.btn:active {
+	COLOR: white;
+	text-decoration: underline;
+}
+
+.blue {
+	COLOR: #929292;
+}
+
+.login-control-label {
+	float: left;
+	padding-top: 5px;
+	text-align: right;
+	width: 90px;
+}
+
+.login-controllers {
+	margin-left: 100px;
+}
+
+.key {
+	text-align: right;
+	border-top: 0px solid #dddddd;
+}
+
+.value {
+	text-align: left;
+	border-top: 0px solid #dddddd;
+	color: #ff6600;
+}
+
+.competitionTable {
+	border: 1px solid #dddddd;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.competitionTable th,.competitionTable td {
+	padding: 2px;
+	line-height: 20px;
+	border-top: 0px solid #dddddd;
+}
+
+.competitionTable th {
+	font-weight: bold;
+}
+
+.selectRow {
+	color: red;
+	background-color: #e2e4ff;
+}
+
+.tableTr {
+	background-color: #6699ff;
+	color: White;
+	font-family: 鐎瑰缍� font-size :   small;
+	height: 30px;
+}
+
+.content_body {
+	padding-bottom: 0px;
+	/
+	*闁插秷顪呴敍浣虹舶footer妫板嫮鏆�惃鍕敄闂傦拷
+	/
+}
+
+.sljgcys {
+	background: none repeat scroll 0 0 #ffffff;
+	float: right;
+	padding-right: 10px;
+	width: 160px;
+}
+
+.sljt {
+	float: left;
+	height: 17px;
+	padding-left: 15px !important;
+}
+
+.slj_sl {
+	padding-top: 15px;
+	color: #eb0b03;
+	float: left;
+	font-family: "瀵邦喛钂嬮梿鍛寸拨";
+	font-size: 24px;
+	text-align: center;
+	width: 160px;
+}
+
+.fontRed {
+	color: red;
+}
+
+.dateTimeTip {
+	text-align: left;
+	font-size: 11px;
+	font-family: "瀵邦喛钂嬮梿鍛寸拨";
+	color: #666;
+}
+
+.floatright{
+	float: right;
+}
