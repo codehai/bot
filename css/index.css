@@ -19,3 +19,13 @@
 .searchBox{
         width: 100%!important;
 }
+.right{
+        float: right!important;
+}
+.m-l-5{
+        margin-left: 5px;
+}
+.inline-box{
+        display: -webkit-inline-box;
+}
+
