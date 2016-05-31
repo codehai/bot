@@ -24,7 +24,7 @@
   </head>
 
   <body>
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -33,27 +33,32 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Bootstrap theme</a>
+          <a class="navbar-brand" href="index.html">鸽度</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
+          <!-- <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li> 
-          </ul>
-          <ul class="nav">
-            <div class="right inline-box">
-                <li ><a id="sign-in" type="button" class="btn btn-default navbar-btn btn-sm">登陆</a></li>
-                <li class="m-l-5"><a type="button" id="sign-up" class="btn btn-default navbar-btn btn-sm">注册</a></li>
-            </div>
+          </ul>  -->
+          <ul class="nav navbar-nav navbar-right">
+                <li >
+                    <a id="sign-in">登陆</a>
+                    <!-- <button id="sign-in" type="button" class="btn btn-default navbar-btn btn-sm">登陆</button> -->
+                </li>
+                <li>
+                    <a id="sign-up">注册</a>
+                    <!-- <button type="button" id="sign-up" class="btn btn-default navbar-btn btn-sm">注册</button> -->
+                </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+
+  <div id="main" class="hide">
    <div class="container">
-      <div class="starter-template">
-        <h1>Bootstrap starter template</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+      <div class="center">
+          <img hidefocus="true" src="./img/bd_logo1.png" width="270" height="129">
       </div>
   </div>
    <div class="search-container">
@@ -62,16 +67,50 @@
          <div class="col-lg-12">
             <div class="input-group">
                <input type="text" class="form-control">
-               <span class="input-group-btn">
+               <a href="./html/search.html" class="input-group-btn">
                   <button class="btn btn-primary" type="button">
                      百度一下
                   </button>
-               </span>
+               </a>
             </div><!-- /input-group -->
          </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->
    </form>
    </div>
+</div>
+
+<div id="register" class="container">
+   <form class="form-signup">
+        <legend>用户注册</legend>
+    </form>
+</div>
+
+   <div class="modal" id="mymodal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title">请登录</h4>
+      </div>
+      <div class="modal-body">
+        <form class="form-signin">
+        <label for="inputEmail" class="sr-only">帐号</label>
+        <input type="email" id="inputEmail" class="form-control" placeholder="帐号" required="" autofocus="">
+        <label for="inputPassword" class="sr-only">密码</label>
+        <input type="password" id="inputPassword" class="form-control" placeholder="密码" required="">
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="remember-me"> 记住我
+          </label>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">登录</button>
+      </form>
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -79,6 +118,7 @@
     <script src="./lib/jquery-1.12.4.min.js"></script>
     <script src="./lib/js/bootstrap.min.js"></script>
     <script src="./lib/Bacon.js"></script>
+    <script src="./js/main.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="./lib/assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
