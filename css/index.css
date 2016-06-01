@@ -2,6 +2,9 @@
 .searchBox{
         width: 550px!important;
 }
+body{
+    min-height: 100vh;
+}
 .search-container{
         width: 600px;
 }
@@ -88,8 +91,8 @@ a{
   display: table;
   bottom: 0;
   width: 100%;
-  /* Set the fixed height of the footer here */
   height: 60px;
+  margin-bottom: 0;
   text-align: center;
   background-color: #f5f5f5;
 }
