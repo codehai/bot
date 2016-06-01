@@ -9,9 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- <link rel="icon" href="../../favicon.ico"> -->
-
     <title>鸽度</title>
-
     <!-- Bootstrap core CSS -->
     <link href="./lib/css/bootstrap.min.css" rel="stylesheet">
 
@@ -77,12 +75,83 @@
    </div>
 </div>
 
-<div id="register" class="container">
-   <form class="form-signup">
-        <legend>用户注册</legend>
-    </form>
+<div id="register" class="container">       
+          <form class="form-horizontal" role="form">
+          <legend>用户注册</legend>
+   <div class="form-group">
+      <label for="firstname" class="col-sm-2 control-label">用户名</label>
+      <div class="col-sm-6">
+         <input type="text" class="form-control" id="firstname" 
+            placeholder="请输入用户名">
+      </div>
+   </div>
+   <div class="form-group">
+      <label for="lastname" class="col-sm-2 control-label">密码</label>
+      <div class="col-sm-6">
+         <input type="text" class="form-control" id="lastname" 
+            placeholder="请输入密码">
+      </div>
+   </div>
+   <div class="form-group">
+      <label for="lastname" class="col-sm-2 control-label">重复密码</label>
+      <div class="col-sm-6">
+         <input type="text" class="form-control" id="lastname" 
+            placeholder="请重复输入密码">
+      </div>
+   </div>
+   <div class="form-group">
+      <label for="lastname" class="col-sm-2 control-label">手机号码</label>
+      <div class="col-sm-4">
+         <input type="text" class="form-control" id="lastname" 
+            placeholder="请输入手机号码">
+      </div>
+      <div class="col-sm-2">
+        <button type="button" class="btn btn-primary btn-sm">点击发送</button>  
+      </div>
+   </div>
+   <div class="form-group">
+      <label for="lastname" class="col-sm-2 control-label">验证码</label>
+      <div class="col-sm-3">
+         <input type="text" class="form-control" id="lastname" 
+            placeholder="请输入手机验证码">
+      </div>
+   </div>
+   <div class="form-group">
+      <label for="lastname" class="col-sm-2 control-label">所属地区</label>
+      <div class="col-sm-2">
+         <select class="form-control">
+           <option>1</option>
+         </select>
+      </div>
+      <div class="col-sm-2">
+         <select class="form-control">
+           <option>1</option>
+         </select>
+      </div>
+      <div class="col-sm-2">
+         <select class="form-control">
+           <option>1</option>
+         </select>
+      </div>
+   </div>
+    <div class="form-group">
+      <label for="lastname" class="col-sm-2 control-label">注册条款</label>
+      <div class="col-sm-6">
+         <div class="checkbox">
+            <label>
+               <input type="checkbox" checked="true"> 我已仔细阅读并接受
+               <a href="">注册条款</a>
+            </label>
+         </div>
+      </div>
+   </div>
+   <div class="form-group">
+      <div class="col-sm-offset-2 col-sm-6">
+         <button type="submit" class="btn btn-primary btn-block">注册</button>
+      </div>
+   </div>
+</form>
 </div>
-
    <div class="modal" id="mymodal">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -111,8 +180,8 @@
 
     <footer class="footer">
         <div class="footer-content">
-            <p><a href="ewm.html">首页</a><span>|</span><a href="/wxGL/index.html">攻略</a><span>|</span><a href="about.html">关于我们</a><span>|</span><a href="product.html">业务详情</a><span>|</span><a href="connect.html">联系我们</a><br>
-            上海蜃楼机电科技有限公司 版权所有 ©www.reniku.cn 沪ICP备16000612号-1 </p>
+            <p><a href="index.html">首页</a><span>|</span><a href="index.html">攻略</a><span>|</span><a href="about.html">关于我们</a><span>|</span><a href="product.html">业务详情</a><span>|</span><a href="connect.html">联系我们</a><br>
+            鸽度科技有限公司 版权所有 ©www.gedusou.com 沪ICP备16000612号-1 </p>
         </div>
     </footer>
     <!-- Bootstrap core JavaScript

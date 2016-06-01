@@ -3,6 +3,7 @@ $("#sign-in").asEventStream('click').onValue(function(){
 }) 
 $("#sign-up").asEventStream('click').onValue(function(){
         $("#main").hide();
+        $(".footer").css("position","static");
         $("#register").show();
 })
 $(document).asEventStream('click').onValue(function(){
