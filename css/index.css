@@ -28,4 +28,8 @@
 .inline-box{
         display: -webkit-inline-box;
 }
-
+#sign-up,#sign-in:hover{
+        color: #555555;
+        background-color: #e6e6e6;
+        border-color: rgba(0,0,0,0.1);
+}
