@@ -80,4 +80,6 @@ a{
 .hide{
     display: none;
 }
-
+#register{
+        display: none;
+}
