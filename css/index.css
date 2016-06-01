@@ -85,6 +85,7 @@ a{
 }
 #register{
         display: none;
+        max-width: 750px;
 }
 .footer {
   position: absolute;
@@ -117,4 +118,4 @@ a{
 .footer-content{
         display: table-cell;
         vertical-align: middle;
-}    
+}
