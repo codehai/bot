@@ -13,7 +13,7 @@ r = requests.get(url, headers=headers)
 soup = BeautifulSoup(r.text, 'html.parser')
 content = soup.find_all('table',id='ctl00_ContentPlaceHolder1_GridView1')
 items = content[0].find_all('tr')
-
+item_name = ['url','organ','item','time','site','distance','number','coordinate','homing','weather']
 race_items = []
 for item in items:
         race_item = []
@@ -24,8 +24,8 @@ for item in items:
                 race_item.append(href)
                 for string in item.stripped_strings:
                         race_item.append(string)
-                print json.dumps(race_item,ensure_ascii=False)
-                race = {'organ':race_item[0],'item':race_item[1],'time':race_item[2],'site':race_item[3],'distance':race_item[4],'number':race_item[5],'coordinate':race_item[6],'homing':race_item[7],'weather':race_item[8],'url':url}
-        race_items.append(race_item)
-print len(race_items)
+                race = dict(zip(item_name,race_item))
+                print json.dumps(race,ensure_ascii=False,indent=2)
+                race_items.append(race)
+print json.dumps(race_items,ensure_ascii=False,indent=2)
 
