@@ -31,13 +31,12 @@ def score(score_soup,score_name,pagenum,race):
                                 del score_obj[u'暗码']
                                 del score_obj[u'当前坐标']
                                 del score_obj[u'插组']
-                                del score_obj[u'空距']
                                 del score_obj[u'团体']
                                 del score_obj[u'鸽舍坐标']
                                 score_obj[u'比赛名称'] = race[u'比赛项目']
                                 score_obj[u'所属单位'] = race[u'举办赛事组织']
                                 score_obj[u'司放时间'] = race[u'司放时间']
-                                score_obj[u'空距/KM'] = race[u'空距/KM']
+                                score_obj[u'归巢时间'] = re.findall('\d+\-\d+',score_obj[u'司放时间'])[0] +'-'+ re.findall('\d+\s\d+:\d+:\d+',score_obj[u'归巢时间'])[0]
                                 scores.append(score_obj)
                                 score = []
                                 t = 0
@@ -55,7 +54,7 @@ soup = BeautifulSoup(r.text, 'html.parser')
 content = soup.find_all('table',id='ctl00_ContentPlaceHolder1_GridView1')
 items = content[0].find_all('tr')
 item_name = ['url',u'举办赛事组织',u'比赛项目',u'司放时间',u'司放地点',u'空距/KM',u'上笼羽数',u'司放地坐标',u'当前归巢',u'司放天气']
-score_name = [u'名次',u'鸽主姓名',u'棚号',u'足环号码',u'暗码',u'归巢时间',u'空距',u'分速',u'鸽舍坐标',u'当前坐标',u'团体',u'插组']
+score_name = [u'名次',u'鸽主姓名',u'棚号',u'足环号码',u'暗码',u'归巢时间',u'空距/KM',u'分速',u'鸽舍坐标',u'当前坐标',u'团体',u'插组']
 race_items = []
 for item in items:
         race_item = []
