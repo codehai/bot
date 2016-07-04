@@ -1,0 +1,76 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465898320", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 09:58:40 GMT", "value": "1465898197,1465898212,1465898308,1465898320", "expiry": 1497434320, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "C9332059ABE603AD", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:58:28 GMT", "value": "f70bb51bfb4477b25fd86dfe51d646413772cc85b975c0b7a15f166433f4718d", "expiry": 1725098308, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:58:28 GMT", "value": "7d68544e95afda855c8a256ef4c19029", "expiry": 1725098308, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:58:28 GMT", "value": "d675c2cef17b450fa412af05b2c5e2", "expiry": 1725098308, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:58:28 GMT", "value": "0yVVg3SkdmVGhScDZLOUpmSHQ3SjJzVjlWNEdSfnNwVzByZFk1TlA2ZEVZb2RYQVFBQUFBJCQAAAAAAAAAAAEAAACtQVZPeHVuanhpZTUzODYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAETVX1dE1V9XR0", "expiry": 1725098308, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:58:28 GMT", "value": "fi_PncwhpxZ%7ETaJcztn68B2qfcZxfDd7SL1nJgLvKleuhgq%7EnEnyzeEiOUkwEUv4--3v2K2A3ftDSOApNc%7EKvRss0aKjQKC1YWryX2225C6JZsz3ArP8t9%7EfxTwzZUWu7cNZkDNCYfNYtqYTX3eZ53wdtPEvQ__", "expiry": 1725098308, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:58:28 GMT", "value": "2c7777ee015f027474f32b80f6676d9f6414e1", "expiry": 1725098308, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:58:28 GMT", "value": "wapp_1465898240777_581", "expiry": 1725098308, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 09:57:52 GMT", "value": "1", "expiry": 1465984672, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 09:57:36 GMT", "value": "1", "expiry": 1465984656, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 09:57:36 GMT", "value": "568", "expiry": 1497002256, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 09:57:36 GMT", "value": "320", "expiry": 1497002256, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 09:57:21 GMT", "value": "827F15C96B894C82BF00217BFD3F70FC:FG=1", "expiry": 1497434241, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 09:57:20 GMT", "value": "wapp_1465898240777_581", "expiry": 2411978240, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "7b011006b5fd9c5e680ff6c2", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:xunjxie5386
+Max Floor28
+Target Floor21
+find target floor
+[
+  "试水", 
+  "试水", 
+  "大型娱乐平台，各种体育下注，六合，时时彩，稳定计划，每天免费领计划，一起盈利，玩的朋友加QQ 2881294001"
+]
+{
+  "content": "因此，公司股权分置改革方案还需延后公告。", 
+  "url": "http://tieba.baidu.com/p/4592856768?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "体彩", 
+  "imgPath": "/data/lumppic/c8ea15ce36d3d539de05cace3887e950352ab087.jpg"
+}
+[
+  ""
+]
+Max Floor15
+Target Floor8
+find target floor
+[
+  "【日记】160614|为了自己想穿好看的衣服不受别人冷眼不自卑减肥", 
+  "加油↖(^ω^)↗", 
+  "以后每天记录", 
+  "自爆下体重身高", 
+  "我是属于那种树墩子类型的", 
+  "如果大家有好的招也可以教教我", 
+  "身高，158\n体重，136", 
+  "心好累", 
+  "决定从明天开始戒掉小吃这些的", 
+  "长得胖真的好痛苦，到处受别人冷眼，被别人开玩笑，夏天了还特别热，穿裙子什么的都会被嘲笑腿短粗短粗的还穿什么裙子", 
+  "戒饮料戒零食！我明天开始进行过午不食过早不食交替", 
+  "所以我想为自己减肥，我想穿好看的衣服我想让我喜欢的人不在冷眼相对我，我想让大家都不在嘲笑我胖，去店里或者淘宝上买衣服再也不用找大码，商场的衣服随便都可以穿上！", 
+  "我要让自己过得开心，不要再摆什么好心态了，什么胖又怎么了，我开心几天又没吃你家饭，那都是自欺欺人的话，其实只有自己明白胖是多么痛苦的事情，这个帖子就要一直记录自己的减肥历程，之前减肥好多次都没有成功，有的反弹了，就是自己没有坚持下去又海吃海喝的导致比原本没瘦的时候又胖了好几斤", 
+  "发点女神照片", 
+  "从明天开始每天记录饮食状况", 
+  "三天称一次体重", 
+  "每天做点运动", 
+  "我现在身高160体重52kg", 
+  "想七月初瘦到50kg↓"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 19:29:13http%3A%2f%2ftieba.baidu.com%2fp%2f4611181960%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

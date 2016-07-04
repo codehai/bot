@@ -1,0 +1,48 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465815518", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e8c, 13 6\\u6708 2017 10:58:38 GMT", "value": "1465815166,1465815281,1465815402,1465815518", "expiry": 1497351518, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "E45C512D530E73BF", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 10:58:27 GMT", "value": "fbc47011c6fea6e19c6af5722ceaf322596ecac4bf6456b832e88a22beab4832", "expiry": 1725015507, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 10:58:27 GMT", "value": "a9768ca2baf17c282d77da0f7e1cbdf6", "expiry": 1725015507, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 10:58:27 GMT", "value": "d2719e6a56390009f20f82b045d83fd62d", "expiry": 1725015507, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 10:58:27 GMT", "value": "n51WjVjaEJCcDhKMFRFeXEyMlBjRXcySC1MUlh-RHlCNUtQT35OUG5nclRIb1pYQVFBQUFBJCQAAAAAAAAAAAEAAABybzNVamluZ3NjdGFuMTMyOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANORXlfTkV5XR", "expiry": 1725015507, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 10:58:27 GMT", "value": "fi_PncwhpxZ%7ETaJc62nCzSdPd5k%7E2xUR51xUz427yKJpJ0TGY-wRhy9iQc7eLdXM4RJTGRE7-ONSens5YWJuRdIbhxJIA2pfxUQpwuRrOgd9T1bA5x-AfYUtr5jMG7q5bT%7EtVoba-PjIfFOf5mw%7EOCN-r8yPw__", "expiry": 1725015507, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 10:58:27 GMT", "value": "c35a796e629d8b0733249f864e0a1d3489ec426d47", "expiry": 1725015507, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 10:58:27 GMT", "value": "wapp_1465815443479_131", "expiry": 1725015507, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 10:57:52 GMT", "value": "1", "expiry": 1465901872, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 10:57:39 GMT", "value": "1", "expiry": 1465901859, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:57:39 GMT", "value": "568", "expiry": 1496919459, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:57:39 GMT", "value": "320", "expiry": 1496919459, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e8c, 13 6\\u6708 2017 10:57:24 GMT", "value": "8F2E596E89EE9FDF608268088A1AC9DF:FG=1", "expiry": 1497351444, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e09, 06 6\\u6708 2046 10:57:23 GMT", "value": "wapp_1465815443479_131", "expiry": 2411895443, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "998a33cf29bddf1f29c1441e", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:jingsctan1328
+Max Floor18
+Target Floor16
+find target floor
+[
+  "【Haus of GaGa】奥兰多枪击事件", 
+  "受害者名单以及Gaga的演讲稿", 
+  "赞。\n——在贴吧呆的越久越喜欢狗、", 
+  "[语音]", 
+  "坐等翻译"
+]
+{
+  "content": "中午，主任递过一叠文件叫我去复印。在学校时天天都和铁块、矿物打交道，我哪会用复印机呀。走进文印室，直接就把一叠文件往一个果皮箱般大小的机器里送，结果文件变成一大堆“爆米花”，我才知道那玩艺儿是废纸粉碎机。气得主任叼在嘴里的烟头掉到地上n次。", 
+  "url": "http://tieba.baidu.com/p/4611463740?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "ladygaga", 
+  "imgPath": "/data/lumppic/8b13632762d0f7035f35fdbf0afa513d2797c5ca.jpg"
+}
+2016-06-15 19:49:47http%3A%2f%2ftieba.baidu.com%2fp%2f4611463740%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 304, in <module>
+    floorContent()
+  File "open.py", line 133, in floorContent
+    postContent = p.find_element_by_class_name('content').text
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 70, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 457, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

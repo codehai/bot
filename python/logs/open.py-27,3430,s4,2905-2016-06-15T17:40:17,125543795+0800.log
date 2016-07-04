@@ -1,0 +1,278 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465904547", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:42:26 GMT", "value": "1465904325,1465904431,1465904435,1465904547", "expiry": 1497440546, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "044D753ED5C2AC23", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:42:16 GMT", "value": "4c92e652b43092a1f5ee3e0083ce877603c5c3200af1fdf8a580b8e8575b15c5", "expiry": 1725104536, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:42:16 GMT", "value": "ea1b1ffdb200a42cc7ece11f2b58b90f", "expiry": 1725104536, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:42:16 GMT", "value": "b58b9fbf8b7ab30ba6683329a5173445", "expiry": 1725104536, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:42:16 GMT", "value": "XRtaTJIM1NoNDZCclcxb29aamZNfmkxUlVzb1JNS0xMNnZCbm5sdEt-T1llb2RYQVFBQUFBJCQAAAAAAAAAAAEAAAAJtjZKd3ZoOTdiZGF6NW11AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJjtX1eY7V9XZ", "expiry": 1725104536, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:42:16 GMT", "value": "fi_PncwhpxZ%7ETaJc-fPKv9Fj2UZoyip6uache7eFjayJRox9ayCozkfdXaubVLtWJSI0%7EfTiFg2UNWAHkVT6wIsz7Jijw9DMCFR6ASVPzxs1ZgNTTQfsv8YcEqU3Vmn1xEXztHdX4dJLG-hC5p3gaohr7ZmqA__", "expiry": 1725104536, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:42:16 GMT", "value": "7856a99bc60be89720d90d6062ee4d68781dca1e", "expiry": 1725104536, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:42:16 GMT", "value": "wapp_1465904474304_56", "expiry": 1725104536, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:41:43 GMT", "value": "1", "expiry": 1465990903, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:41:29 GMT", "value": "1", "expiry": 1465990889, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:41:29 GMT", "value": "568", "expiry": 1497008489, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:41:29 GMT", "value": "320", "expiry": 1497008489, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:41:14 GMT", "value": "624FC1A19326D44131C09697714749E7:FG=1", "expiry": 1497440474, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:41:14 GMT", "value": "wapp_1465904474304_56", "expiry": 2411984474, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "c62288141f98c94301b00cba", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:wvh97bdaz5mu
+Max Floor7
+Target Floor2
+find target floor
+[
+  "求原图", 
+  "[语音]\n—SER GEROLD DAYNE, called DARKSTAR, the Knight of High Hermitage, his cousin and bannerman,", 
+  "[语音]\n—SER LAMBERT TURNBERRY, SER DERMOT OF THE RAINWOOD, SER TALLAD called THE TALL, SER BAYARD NORCROSS, SER BONIFER HASTY called BONIFER THE GOOD, SER HUGO VANCE, knights sworn to the Iron Throne,"
+]
+{
+  "content": "阿方索十三世还是一个胎儿的时候，他的父王就因病逝去，他一出世就成为国王（这样的例子，在欧洲历史上只有两例），长大后成为一位任性而热情的一国之主。19岁的时候，对英国的一次访问，使他迷上了“欧洲老祖母”维多利亚女王的外孙女——维多利亚.欧亨尼娅，两位出身高贵的青年一见钟情，私定终身。由于恐惧欧亨尼娅可能带有英国王室的家族病——血友病的致病因子，他们的婚约在西班牙遭到强烈反对，但最后，他终于说服了他的母亲——有“德行夫人”之称的太后克里斯蒂娜。", 
+  "url": "http://tieba.baidu.com/p/4612603820?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "女头", 
+  "imgPath": "/data/lumppic/9825bc315c6034a8a28113e0c913495409237674.jpg"
+}
+[
+  ""
+]
+Max Floor28
+Target Floor17
+find target floor
+[
+  "这吧去求了"
+]
+{
+  "content": "优秀的大学毕业生是我们公司主要的人才库，在过去GE公司进入中国20多年历史中，我们在大学招聘十多年，我们吸纳了很多优秀毕业生，也有很多优秀毕业生在GE公司承担了非常重要的领导岗位，他们的成功也给GE中国有限公司在中国的成功带来了希望，为此我感到非常激动。同时也非常感谢我们的主办方中华英才网以及其他主办单位给我们提供这样一个学习、交流的平台，使得我们在今后工作中做的更好，使我们GE中国有限公司真正成为大学生心目中的最佳雇主，同时使他们的梦想在GE公司起飞。", 
+  "url": "http://tieba.baidu.com/p/4563778863?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "美容", 
+  "imgPath": "/data/lumppic/a8773912b31bb0510f4e9740347adab44aede074.jpg"
+}
+[
+  ""
+]
+Max Floor28
+Target Floor3
+find target floor
+[
+  "教你祛痘知识，告诉你长痘原因", 
+  "图片上的虫子是显微镜下的皮肤螨虫和寄生虫😷，螨虫是一种肉眼看不见的微型害虫😣，易生长在油脂分泌旺盛的脸上，特别是与痤疮、酒渣鼻的发生关系密切😱，其尸体、分泌物和排泄物都是过敏原😰，你有注意过自己的脸上是否存在吗😷"
+]
+{
+  "content": "版权作品，请勿转载海上发射干扰弹", 
+  "url": "http://tieba.baidu.com/p/4554919407?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "美容", 
+  "imgPath": "/data/lumppic/6609c93d70cf3bc75e23058ad300baa1cd112ab1.jpg"
+}
+[
+  ""
+]
+Max Floor23
+Target Floor10
+find target floor
+[
+  "『谁与争锋』【锋吧】【外交】★MIC男团吧★邀请你共同关注赵泳", 
+  "〓〓〓〓〓〓〓〓★★★〓〓〓〓〓〓〓〓\n百度☆MIC男团吧☆全体大麦\n邀您一起关注赵泳鑫新歌《Get out》\n祝愿两吧友谊长存，长长久久,\n〓〓〓〓〓〓〓〓★★★〓〓〓〓〓〓〓〓", 
+  "有颜值，更有音乐态度！\n2016太合麦田年度唱作新人——赵泳鑫《Get Out》解放自我！音乐的独立宣言！\nGet Out To Find Out，这是赵泳鑫从MIC单飞不解散中的音乐之路。\n赵泳鑫2016全新唱作专辑-《Get Out》，第一次以完整的11首独立作品，集词、曲、制作、视觉、舞蹈偏配于一身，完整呈现个人音乐创作态度。对他来说——创作音乐，需要很拼！\n兼具音乐才华与偶像颜值的赵泳鑫，有着敏感处女座与众不同的观察力，透过音乐魔力，展现着非天才，却爆发力十足的新地才，把属于自己的音乐、才华和态度统统交出来，创造属于赵泳鑫的“音乐鑫版图”！\n第1同名专辑主打歌-《Get Out》，由赵泳鑫作曲，和好友张敬豪共同作词，轻快直白有力道的POP曲风，有着强烈的音乐态度，也属于个人经历的情感发泄，收放自如，力道得当的愉悦听感。\n愤怒不需掀翻世界，悲伤也无须痛哭流涕。点到为止，呈现创新的情感语系。C段部分用超高音的假声演绎他的无理取闹，神来之笔对应《Get Out》的情感，有着小鑫式的声音魔力 ！", 
+  "假如你老公出去喝酒彻夜未归，到了第二天下午才回来，那时候你还发现他跟一个KTV的坐台小姐在一起，"
+]
+{
+  "content": "33", 
+  "url": "http://tieba.baidu.com/p/4612413946?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "谢霆锋", 
+  "imgPath": "/data/lumppic/94cad1c8a786c917f3854a37cb3d70cf3bc7573d.jpg"
+}
+[
+  "『谁与争锋』【锋吧】【外交】★MIC男团吧★邀请你共同关注赵泳", 
+  "〓〓〓〓〓〓〓〓★★★〓〓〓〓〓〓〓〓\n百度☆MIC男团吧☆全体大麦\n邀您一起关注赵泳鑫新歌《Get out》\n祝愿两吧友谊长存，长长久久,\n〓〓〓〓〓〓〓〓★★★〓〓〓〓〓〓〓〓", 
+  "有颜值，更有音乐态度！\n2016太合麦田年度唱作新人——赵泳鑫《Get Out》解放自我！音乐的独立宣言！\nGet Out To Find Out，这是赵泳鑫从MIC单飞不解散中的音乐之路。\n赵泳鑫2016全新唱作专辑-《Get Out》，第一次以完整的11首独立作品，集词、曲、制作、视觉、舞蹈偏配于一身，完整呈现个人音乐创作态度。对他来说——创作音乐，需要很拼！\n兼具音乐才华与偶像颜值的赵泳鑫，有着敏感处女座与众不同的观察力，透过音乐魔力，展现着非天才，却爆发力十足的新地才，把属于自己的音乐、才华和态度统统交出来，创造属于赵泳鑫的“音乐鑫版图”！\n第1同名专辑主打歌-《Get Out》，由赵泳鑫作曲，和好友张敬豪共同作词，轻快直白有力道的POP曲风，有着强烈的音乐态度，也属于个人经历的情感发泄，收放自如，力道得当的愉悦听感。\n愤怒不需掀翻世界，悲伤也无须痛哭流涕。点到为止，呈现创新的情感语系。C段部分用超高音的假声演绎他的无理取闹，神来之笔对应《Get Out》的情感，有着小鑫式的声音魔力 ！", 
+  "假如你老公出去喝酒彻夜未归，到了第二天下午才回来，那时候你还发现他跟一个KTV的坐台小姐在一起，", 
+  "33"
+]
+Max Floor23
+Target Floor14
+find target floor
+[
+  "『谁与争锋』【锋吧】跪求这种演唱会高清版DVD，要哭了玛德", 
+  "小时候，家里刚买DVD还是什么来着记住，\n堂哥买了张叫《谢霆锋 世纪预言风起云涌演唱会》的DVD还是VCD，从此开始喜欢谢霆锋了。\n然后然后，\n不多说，差不多10多年过去了吧？\n反正那种碟找不到了。（之前有找到，不过乱码了，然后我藏起来，估计给我奶奶丢了）\n然后- -\n反正去某宝找了很久，一直找不到那张碟的高清版，都是盗版。\n买了几个版本都和网上的AV画质一样，\n且碟子封面也不一样。\n我不确定我之前那个是正版，不过记忆力挺清晰，音质也很好。（家里32寸那种大体积的电视，放了N遍）\n啊啊啊啊不说了，妈个鸡网上也找了很久一直没有。。\n恩。。挺怀念。", 
+  "某宝真的还有货么- -\n记得之前那个DVD封面是穿大衣的。\n演唱会LIVE版。", 
+  "九零后不结婚的都到了晚婚的年龄， 不结婚还单身的九零后的女生真的是铁打的汉子。自己一个人可以解", 
+  "以前穷啊，买的都盗版碟", 
+  "不管楼主是男是女 我顶", 
+  "不管楼主是男是女 我顶", 
+  "皮肤差的原因很多 来让我给你分析分析？ 最好带图", 
+  "(⊙o⊙)哇", 
+  "没有高清版。", 
+  "锋行天下官网应该有", 
+  "我的转卖给你", 
+  "我家里有，可惜和你一样都丢了，很多演唱会的"
+]
+{
+  "content": "我个人认为用笔头记忆的效果特别好，把英语单词做成像扑克牌一样，正面写英文和发音，反面写中文，甚至有时候写它的同义词、反义词、形容词、动词结构等等写上，像洗扑克牌一样。需要同学有大量的耐心做这个工作，每课单词做成卡片，每天做一些，每天做一些，最后有一摞卡片。如果分组记忆的话，一组记九个一般能记大约九组，一天能记81个单词，两个月就能把所有的单词记住。需要你做分门别类加工做卡片这样的工作，甚至用竞赛的方式等等，有意识耐心勤奋做这件事情。", 
+  "url": "http://tieba.baidu.com/p/4611110719?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "谢霆锋", 
+  "imgPath": "/data/lumppic/9c16fdfaaf51f3de9d40eaa496eef01f3b29797b.jpg"
+}
+[
+  "『谁与争锋』【锋吧】跪求这种演唱会高清版DVD，要哭了玛德", 
+  "小时候，家里刚买DVD还是什么来着记住，\n堂哥买了张叫《谢霆锋 世纪预言风起云涌演唱会》的DVD还是VCD，从此开始喜欢谢霆锋了。\n然后然后，\n不多说，差不多10多年过去了吧？\n反正那种碟找不到了。（之前有找到，不过乱码了，然后我藏起来，估计给我奶奶丢了）\n然后- -\n反正去某宝找了很久，一直找不到那张碟的高清版，都是盗版。\n买了几个版本都和网上的AV画质一样，\n且碟子封面也不一样。\n我不确定我之前那个是正版，不过记忆力挺清晰，音质也很好。（家里32寸那种大体积的电视，放了N遍）\n啊啊啊啊不说了，妈个鸡网上也找了很久一直没有。。\n恩。。挺怀念。", 
+  "某宝真的还有货么- -\n记得之前那个DVD封面是穿大衣的。\n演唱会LIVE版。", 
+  "九零后不结婚的都到了晚婚的年龄， 不结婚还单身的九零后的女生真的是铁打的汉子。自己一个人可以解", 
+  "以前穷啊，买的都盗版碟", 
+  "不管楼主是男是女 我顶", 
+  "不管楼主是男是女 我顶", 
+  "皮肤差的原因很多 来让我给你分析分析？ 最好带图", 
+  "(⊙o⊙)哇", 
+  "没有高清版。", 
+  "锋行天下官网应该有", 
+  "我的转卖给你", 
+  "我家里有，可惜和你一样都丢了，很多演唱会的", 
+  "我个人认为用笔头记忆的效果特别好，把英语单词做成像扑克牌一样，正面写英文和发音，反面写中文，甚至有时候写它的同义词、反义词、形容词、动词结构等等写上，像洗扑克牌一样。需要同学有大量的耐心做这个工作，每课单词做成卡片，每天做一些，每天做一些，最后有一摞卡片。如果分组记忆的话，一组记九个一般能记大约九组，一天能记81个单词，两个月就能把所有的单词记住。需要你做分门别类加工做卡片这样的工作，甚至用竞赛的方式等等，有意识耐心勤奋做这件事情。"
+]
+Max Floor31
+Target Floor19
+find target floor
+[
+  "痴情的你我他，", 
+  "在这痴情的世界，也许只是你我他，当寂寞的时候，谁又能来了解我?"
+]
+{
+  "content": "35.80", 
+  "url": "http://tieba.baidu.com/p/4612585256?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "寂寞", 
+  "imgPath": "/data/lumppic/eac4b74543a98226c3bbef508882b9014a90eb4b.jpg"
+}
+[
+  "痴情的你我他，", 
+  "在这痴情的世界，也许只是你我他，当寂寞的时候，谁又能来了解我?", 
+  "35.80"
+]
+Max Floor31
+Target Floor21
+find target floor
+[
+  "又过了十二点了，咋没人加我好友了", 
+  "好寂寞呀～", 
+  "hhhhh", 
+  "刚注册的微信号就被封了是怎么回事", 
+  "男人违章停车被罚款会和警察吵一架，女人在一边劝；女人违章停车被罚款会和身边的男人吵一架，警察在一边劝。", 
+  "啦啦啦 楼主先来 脉动 你从未见过乳此性感的小尾巴 　来自助手版客户端", 
+  "嗨", 
+  "我只是看看", 
+  "寂寞解脱看这边", 
+  "……", 
+  "来一发", 
+  "楼主，想干啥呀？", 
+  "好吧。不是交友贴吗？"
+]
+{
+  "content": "反思“二战”的历史经验，他认为要高度重视民族主义问题，“民族主义是一把双刃剑，善御者自强，不善御者自伤”。六千万士兵和平民死亡，“如果让这样的历史匆匆而过，历史便没有成为一面镜子。”", 
+  "url": "http://tieba.baidu.com/p/4609449514?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "寂寞", 
+  "imgPath": "/data/lumppic/c9fcc3cec3fdfc032e18d8b6d63f8794a4c2265f.jpg"
+}
+[
+  "又过了十二点了，咋没人加我好友了", 
+  "好寂寞呀～", 
+  "hhhhh", 
+  "刚注册的微信号就被封了是怎么回事", 
+  "男人违章停车被罚款会和警察吵一架，女人在一边劝；女人违章停车被罚款会和身边的男人吵一架，警察在一边劝。", 
+  "啦啦啦 楼主先来 脉动 你从未见过乳此性感的小尾巴 　来自助手版客户端", 
+  "嗨", 
+  "我只是看看", 
+  "寂寞解脱看这边", 
+  "……", 
+  "来一发", 
+  "楼主，想干啥呀？", 
+  "好吧。不是交友贴吗？", 
+  "反思“二战”的历史经验，他认为要高度重视民族主义问题，“民族主义是一把双刃剑，善御者自强，不善御者自伤”。六千万士兵和平民死亡，“如果让这样的历史匆匆而过，历史便没有成为一面镜子。”"
+]
+Max Floor31
+Target Floor25
+find target floor
+[
+  "😁", 
+  "下雨了，怎么办，", 
+  "收衣服", 
+  "关窗户", 
+  "等我"
+]
+{
+  "content": "关于创新的问题。新的技术、新的发展是一个企业能够不断地盈利，走向新的辉煌的基础。这个创新可能是从每一天的工作开始，我的工作能不能做的更有效率，把时间管理好，把压力变小一点，都在自己的手上。", 
+  "url": "http://tieba.baidu.com/p/4612467019?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "寂寞", 
+  "imgPath": "/data/lumppic/dcc451da81cb39db3ecf0297d2160924aa1830e7.jpg"
+}
+[
+  "😁", 
+  "下雨了，怎么办，", 
+  "收衣服", 
+  "关窗户", 
+  "等我", 
+  "关于创新的问题。新的技术、新的发展是一个企业能够不断地盈利，走向新的辉煌的基础。这个创新可能是从每一天的工作开始，我的工作能不能做的更有效率，把时间管理好，把压力变小一点，都在自己的手上。"
+]
+Max Floor31
+Target Floor14
+find target floor
+[
+  "额", 
+  "聊天", 
+  "暖暖", 
+  "怎么了", 
+  "聊啊", 
+  "来了", 
+  "聊聊", 
+  "聊什么", 
+  "撩", 
+  "来吧", 
+  "哥哥顶我", 
+  "聊人生谈理想", 
+  "聊啥？", 
+  "聊18厘米吗", 
+  "真心话大冒险", 
+  "跟我聊啊", 
+  "只是一个没人爱没人疼，冷暖自知的那人 网络+原创", 
+  "聊呗", 
+  "来聊天", 
+  "生活还是要继续，为了那份归属感，努力吧"
+]
+{
+  "content": "作为索菲特品牌在中国的旗舰酒店-北京索菲特万达大饭店将于2007年开业，该酒店将成为索菲特品牌在中国的代表酒店。", 
+  "url": "http://tieba.baidu.com/p/4612240654?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "寂寞", 
+  "imgPath": "/data/lumppic/48540923dd54564ebc69a238b1de9c82d1584fa6.jpg"
+}
+[
+  "额", 
+  "聊天", 
+  "暖暖", 
+  "怎么了", 
+  "聊啊", 
+  "来了", 
+  "聊聊", 
+  "聊什么", 
+  "撩", 
+  "来吧", 
+  "哥哥顶我", 
+  "聊人生谈理想", 
+  "聊啥？", 
+  "聊18厘米吗", 
+  "真心话大冒险", 
+  "跟我聊啊", 
+  "只是一个没人爱没人疼，冷暖自知的那人 网络+原创", 
+  "聊呗", 
+  "来聊天", 
+  "生活还是要继续，为了那份归属感，努力吧"
+]
+Max Floor13
+Target Floor5
+find target floor
+2016-06-15 17:49:36http%3A%2f%2ftieba.baidu.com%2fp%2f4612618725%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 274, in <module>
+    ActionChains(driver).move_to_element(btn).click().perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 282.214
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

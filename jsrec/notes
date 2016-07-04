@@ -1,0 +1,3 @@
+console api
+	getEventListeners;
+	console.trace;

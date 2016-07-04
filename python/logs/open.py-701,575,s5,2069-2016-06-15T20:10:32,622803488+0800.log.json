@@ -1,0 +1,112 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": "news.766ba.net",
+			"name": "CNZZDATA1259464672",
+			"expires": "\\u5468\\u4e09, 07 12\\u6708 2016 16:21:33 GMT",
+			"value": "1691840657-1465398448-http%253A%252F%252Ftieba.baidu.com%252F%7C1465398448",
+			"expiry": 1481127693,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "news.766ba.net",
+			"name": "JSESSIONID",
+			"value": "DDBD86913ED1E8B5158CBD5E81E9CEAE",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u56db, 09 6\\u6708 2016 16:20:48 GMT",
+			"value": "1",
+			"expiry": 1465489248,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u516d, 03 6\\u6708 2017 16:20:48 GMT",
+			"value": "568",
+			"expiry": 1496506848,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u516d, 03 6\\u6708 2017 16:20:48 GMT",
+			"value": "320",
+			"expiry": 1496506848,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u56db, 08 6\\u6708 2017 16:20:33 GMT",
+			"value": "8F627E0B5C2CCC7F90FEC6657D896D61:FG=1",
+			"expiry": 1496938833,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u4e94, 01 6\\u6708 2046 16:20:32 GMT",
+			"value": "wapp_1465402832786_164",
+			"expiry": 2411482832,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "bcf772fd3d580d17d10abf53",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"未登录成功，没有查询到用户",
+	"2016-06-15 20:11:07http%3A%2f%2ftieba.baidu.com%2f%3Fpage%3Duser.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 200, in <module>",
+	"    wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'user_info_name')))",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py\", line 80, in until",
+	"    raise TimeoutException(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: ",
+	""
+]

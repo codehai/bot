@@ -1,0 +1,122 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465903343", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:22:23 GMT", "value": "1465903232,1465903235,1465903251,1465903343", "expiry": 1497439343, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "B434997068CFB9C7", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:22:10 GMT", "value": "e290663e4179490404471d05264910b3b623765e1638bb7d4560e8964c497be2", "expiry": 1725103330, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:22:10 GMT", "value": "d2e84da718aa432ca0d22c1be6aa34be", "expiry": 1725103330, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:22:10 GMT", "value": "521cd964821e42f910647ee08c040c017b", "expiry": 1725103330, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:22:10 GMT", "value": "9nc1RJTDNnLWI2cHlHVmEtcTJRSjFSdFVSMHZ5cUZhMXdPRVB4SzgtcmlkWWRYQVFBQUFBJCQAAAAAAAAAAAEAAADzsHAqU3VradCh0MfQxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOLoX1fi6F9XN2", "expiry": 1725103330, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:22:10 GMT", "value": "fi_PncwhpxZ%7ETaJc50kjwDXxeTTtgh0zIhm7KumyUMyFUpE2F1%7EvFDj7p3ClQFMvQUZlcyfQks1MOuG03d6Nyooayf4H3x8WrXsgiFnhXfumU-DaL--jX-nP-ODpjJBcTNhQn8kxmseNL%7E21GLHlClcxlCY", "expiry": 1725103330, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:22:10 GMT", "value": "1e21ea917545ba8ec691a68bca32c6d36b7de46dc63b143c5635983eeae3", "expiry": 1725103330, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:22:10 GMT", "value": "wapp_1465903279697_776", "expiry": 1725103330, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:21:51 GMT", "value": "1", "expiry": 1465989711, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:21:35 GMT", "value": "1", "expiry": 1465989695, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:21:35 GMT", "value": "568", "expiry": 1497007295, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:21:35 GMT", "value": "320", "expiry": 1497007295, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:21:19 GMT", "value": "D81E694E324D238EE39D87D468403CAA:FG=1", "expiry": 1497439279, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:21:19 GMT", "value": "wapp_1465903279697_776", "expiry": 2411983279, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "f034d094be35feedecf0a1b6", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:Suki小星星
+Max Floor16
+Target Floor12
+find target floor
+[
+  "玩家：从什么时候开始 我们变的非赢不可（转载）", 
+  "导读从什么时候开始，我们变的非赢不可..\n喜欢\n我有一个朋友是荷兰队的球迷。\n很遗憾这届欧洲杯没有荷兰。\n这届春季赛也没有IG战队。\nIG很像荷兰，有DOTA史上最才华横溢的成员，有行云流水的团战，幸运的是IG在DOTA这个战场上曾经加冕为王。\n这个朋友俱乐部喜欢巴萨，国家队喜欢荷兰。\n在没有巴萨的欧冠决赛和没有荷兰队的欧洲杯，都是他同我一起度过。\n三十岁看了二十年球的男人，没有一次看到心爱的球队举起大力神杯，但他为每一个精彩的进球喝彩，他说：我喜欢足球。\n不管CNDOTA能不能够夺冠，我依旧喜欢这个游戏。\n单车和小色\nDOTA之兴，兴于单车。\n六年前单车口吐九字真言：merlini不行，徒有虚名。\n急急如律令，保我CN4年不死。\n微风吹过，蝴蝶煽动翅膀，整个欧洲和北美DOTA战队全部沦陷，中国DOTA强势崛起。\n又有谁知道，如今的毒奶，是上天对你逆天改命的惩罚。\n另外一个人天命毒奶，叫做小色。\n除了苟小云，方少云，纳兰容容吊打韩国之外，中国星际抗韩100年。\n那年的星际叫做赢不了。\n抗着抗着就抗出了SKY。\n取代星际电子竞技第一宝座的叫war3。\nSKY，木瓜群雄逐鹿，创造了一个精彩纷呈的war3世界。\nWAR3我们有赢有输。\n取代war3的叫做DOTA。\n中国DOTA制霸之前是欧洲战队，欧洲战队之前是毛子，毛子之前是北美。\n如今又到了北美和欧洲战队争霸的时候，无论历史还是荣耀，外国战队又何尝输过中国战队半分颜色。\n但偏偏这个时候，我们就不能输了。\n2002年到2014年，4届世界杯，德国获得一冠，一亚，两季军。\n在这期间，最出彩的是西班牙和荷兰，德国并不在榜单上。\n一个成熟的竞技项目，本就应该是百花齐放。\n一枝独秀的叫做乒乓球。\n老兵与新人\n820在冬季赛的时候说：这并没有什么好笑的。\n我们总将失败的原因归结给一些老兵。\n老兵马刺依旧在争冠，全是新人的76人依旧在摆烂。\nVGR夺冠功臣之一，叫做战神7.\n曾经英格兰的救世主贝克汉姆，在国家队的最后一场比赛上，这位老兵依旧是跑动最多的人。\n老兵不死，只是凋零。\nCNDOTA的老人，能否向820一样告诉后来者：这并没有什么好笑的，这里我们曾经创造荣耀。\n冬季赛冠军，最出彩的是w33。\n春秋霸主OG，最亮眼的是奇迹哥。\nTI5举起不朽盾牌的，是苏美尔。\n苏美尔代表天赋。\nW33代表勤奋。\n奇迹哥则代表态度。\n你能想象bone7徒弟MOON教奇迹哥打DOTA的画面吗?\n事实上，MOON就是这么做的，奇迹哥就是这样学的。\nMOON说：我们教miracle一些事的时候，他不会说，我比你们分好，我比你们厉害为什么你们还要教我。他会说，好的，然后就学到了很多。\n不要抱怨自己的天赋有多好，不要抱怨自己有多么努力。\n至少，你们比老职业选手的环境要好的太多。\n至少，你们还有海涛的好汉杯。\n至于态度，你们学会了吗?\n本文来源于dotamax合作伙伴游久DOTA2\n访问量: 100161", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！"
+]
+{
+  "content": "菲尼克斯太阳：54胜28负，西区第二，进攻得分108.4，防守失分102.8", 
+  "url": "http://tieba.baidu.com/p/4612658550?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "dota2", 
+  "imgPath": "/data/lumppic/7af40ad162d9f2d3e3a561f0abec8a136327cc7d.jpg"
+}
+[
+  ""
+]
+Max Floor34
+Target Floor32
+find target floor
+[
+  "请教一些关于上海CJ安检的问题", 
+  "如题，楼主和几个小伙伴准备出全境封锁的cos。当然作为一款射击游戏题材的游戏来讲 枪 肯定是必不可少的。我就想问问我们在网上买的水弹枪能不能带进去，当然是塑料的。还有在这里如果有喜欢枪械，准备一起出一波军迷的小伙伴们也可以留下QQ。", 
+  "这个吧好歹有40W人关注，来个好心人指个明路啊。我每年看有人在里面拿着枪啊。", 
+  "卧槽来个人解答疑惑啊", 
+  "不会这也删吧？", 
+  "同学你好， 想让你帮我做一个宝贝详情页，就是有点难，我父亲想开一个淘宝店铺。可是宝贝详情页做的", 
+  "人家都让进，就不让你进", 
+  "一晚上没睡好", 
+  "机场爆炸，现在严打了"
+]
+{
+  "content": "■广告中夸大疗效，宣传保证治愈，尤其是广告中保证或者变相保证治愈牛皮癣(银屑病)、艾滋病、癌症(恶性肿瘤)、癫痫、乙型肝炎、白癜风、红斑狼疮、股骨头坏死、不孕不育等各种疑难疾病；", 
+  "url": "http://tieba.baidu.com/p/4607316090?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "chinajoy", 
+  "imgPath": "/data/lumppic/f9198618367adab432dfba1b89d4b31c8701e45f.jpg"
+}
+[
+  ""
+]
+Max Floor34
+Target Floor30
+find target floor
+[
+  "求组团cj,江苏丹阳出发", 
+  "有木有人或者群，老司机带队，最好是摄影小伙伴。。。"
+]
+{
+  "content": "来源：[国际先驱导报]", 
+  "url": "http://tieba.baidu.com/p/4609691065?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "chinajoy", 
+  "imgPath": "/data/lumppic/30adcbef76094b36b70d79d7a0cc7cd98d109d68.jpg"
+}
+[
+  ""
+]
+Max Floor34
+Target Floor19
+find target floor
+[
+  "去年贴吧中的chinajoy礼品都没发过来", 
+  "我这么说会不会被关小黑屋", 
+  "发了！", 
+  "什么礼品？", 
+  "坐在你的身上做那种事，你懂得", 
+  "偶然看到这个吧 勾起了原来通宵cs的回忆", 
+  "你应该及时反馈。", 
+  "特娘的，老子去年忙实习没关注情况，竟然还送礼品了。@ 宅男小萝莉"
+]
+{
+  "content": "一个黑影身手敏捷，悄然从楼顶翻身而下。在接近特二楼宿舍时，他迅速向窗户里投进了两个发烟罐！", 
+  "url": "http://tieba.baidu.com/p/4600370196?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "chinajoy", 
+  "imgPath": "/data/lumppic/d52a2834349b033bff6866d317ce36d3d439bdd3.jpg"
+}
+[
+  ""
+]
+Max Floor23
+Target Floor19
+find target floor
+[
+  "【魅蓝3s】", 
+  "本人手持米5，今天看见朋友的魅蓝馒头。我擦，特么的好漂亮呀，系统看起来也很棒，米5丑丑哒", 
+  "你女友和你妈同时掉水里，你先刷贴吧还是先发朋友圈？"
+]
+{
+  "content": "第十名：宋真宗（赵恒）", 
+  "url": "http://tieba.baidu.com/p/4612630629?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "魅族", 
+  "imgPath": "/data/lumppic/4ec2d5628535e5ddce06cdb474c6a7efce1b62b6.jpg"
+}
+[
+  ""
+]
+Max Floor35
+Target Floor1
+find target floor
+2016-06-15 18:04:39http%3A%2f%2ftieba.baidu.com%2fp%2f4612251423%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0.png
+Traceback (most recent call last):
+  File "open.py", line 276, in <module>
+    floorContent()
+  File "open.py", line 127, in floorContent
+    wait.until(EC.presence_of_element_located((By.CLASS_NAME,'post_title_embed')))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+

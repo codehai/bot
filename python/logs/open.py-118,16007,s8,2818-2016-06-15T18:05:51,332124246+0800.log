@@ -1,0 +1,507 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465903127", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:18:47 GMT", "value": "1465903110,1465903115,1465903116,1465903127", "expiry": 1497439127, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "C53C6F3F8452588F", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:36 GMT", "value": "95d2b9f498c27d5e7ec20ebdfc6470c449f1ca9939c8a0e63e683dd3063ef539", "expiry": 1725103116, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:36 GMT", "value": "486fb4a63ab606f605a7179517310b50", "expiry": 1725103116, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:36 GMT", "value": "0dde52aceea55f9f6d5f870c67a4a0", "expiry": 1725103116, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:36 GMT", "value": "dXOGlNamJsa2J-WjVHRjkxTXJZZ01-SEptaTFnVFQwdW1ENlNXbTFORU1kWWRYQVFBQUFBJCQAAAAAAAAAAAEAAABvUBRVcXNodWltamhsNjUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzoX1cM6F9XcT", "expiry": 1725103116, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:36 GMT", "value": "fi_PncwhpxZ%7ETaJc3RdbTd%7EeKdMIm-fcF1CfYTGw11%7E91oF0cWPsbvoO4PAaoK2W73ta3YSvsMDPZbbySW3urfp57KCmAeovnyQGeD94W6TAoCSqrxRXrfNITtpVHBUuwCU2MrP0cU-ZN%7EI%7Eo2jbpLECcusKw__", "expiry": 1725103116, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:36 GMT", "value": "159ac8b9efb8723f7e0f5eee5d01ac2c2ff520", "expiry": 1725103116, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:36 GMT", "value": "wapp_1465903040700_59", "expiry": 1725103116, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:17:59 GMT", "value": "1", "expiry": 1465989479, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:17:36 GMT", "value": "1", "expiry": 1465989456, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:17:36 GMT", "value": "568", "expiry": 1497007056, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:17:36 GMT", "value": "320", "expiry": 1497007056, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:17:20 GMT", "value": "B2FA7E5A9D38F316DFB59ABBCA559997:FG=1", "expiry": 1497439040, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:17:20 GMT", "value": "wapp_1465903040700_59", "expiry": 2411983040, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "48badcfe2c0cb64a54f4b6b1", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:qshuimjhl65
+Max Floor19
+Target Floor10
+find target floor
+[
+  "处qy", 
+  "聊天的", 
+  "d", 
+  "d", 
+  "1135757307", 
+  "d", 
+  "d", 
+  "你主动吗。。", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "楼主", 
+  "d", 
+  "我是不会搞你的"
+]
+{
+  "content": "“技术突袭”与“技术预警”", 
+  "url": "http://tieba.baidu.com/p/4612660533?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "处qy", 
+  "imgPath": "/data/lumppic/9358d109b3de9c82e6b7a28f6e81800a18d843db.jpg"
+}
+[
+  "处qy", 
+  "聊天的", 
+  "d", 
+  "d", 
+  "1135757307", 
+  "d", 
+  "d", 
+  "你主动吗。。", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "d", 
+  "楼主", 
+  "d", 
+  "我是不会搞你的"
+]
+Max Floor16
+Target Floor12
+find target floor
+[
+  "cqy", 
+  "互相伤害 承包你头像\n连麦给你唱歌\ncqy留q 处by扣1", 
+  "唠嗑", 
+  "dd", 
+  "dd", 
+  "1831046362", 
+  "dd", 
+  "dd", 
+  "209622145", 
+  "758577863", 
+  "qq多少我加", 
+  "dd", 
+  "dd", 
+  "2908218812", 
+  "864562580", 
+  "dd", 
+  "1006464808", 
+  "dd", 
+  "dd", 
+  "╭( ▔▽▔)╮我今天要表演变章鱼！\n╜ ╙\n╭( ▔▽▔)╯要开始了~\n╜ ╙\n╰( ≥﹏≤)╯恩…\n╜ ╙\n( ▔◎▔) 喔耶~变身完毕~厉害吧\n╱│││╲\n(‖▔◎▔)　喔…\n╱│││╲\n(‖╤◎╤)　阿勒~变不回来了…\n╱│││╲", 
+  "dd"
+]
+{
+  "content": "sun保护眼睛免受烈日的伤害；B)prevent“阻止，防止”：Vitamin C is supposed to prevent colds.", 
+  "url": "http://tieba.baidu.com/p/4612454865?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "处qy", 
+  "imgPath": "/data/lumppic/83025aafa40f4bfbf24c4ca2014f78f0f63618a3.jpg"
+}
+[
+  "cqy", 
+  "互相伤害 承包你头像\n连麦给你唱歌\ncqy留q 处by扣1", 
+  "唠嗑", 
+  "dd", 
+  "dd", 
+  "1831046362", 
+  "dd", 
+  "dd", 
+  "209622145", 
+  "758577863", 
+  "qq多少我加", 
+  "dd", 
+  "dd", 
+  "2908218812", 
+  "864562580", 
+  "dd", 
+  "1006464808", 
+  "dd", 
+  "dd", 
+  "╭( ▔▽▔)╮我今天要表演变章鱼！\n╜ ╙\n╭( ▔▽▔)╯要开始了~\n╜ ╙\n╰( ≥﹏≤)╯恩…\n╜ ╙\n( ▔◎▔) 喔耶~变身完毕~厉害吧\n╱│││╲\n(‖▔◎▔)　喔…\n╱│││╲\n(‖╤◎╤)　阿勒~变不回来了…\n╱│││╲", 
+  "dd"
+]
+Max Floor15
+Target Floor11
+find target floor
+[
+  "处qy,我挺好相处的", 
+  "势利眼别来", 
+  "，", 
+  "机器都没一个……", 
+  "，", 
+  "如何忘记一个想忘记的人", 
+  "，", 
+  "，", 
+  "，", 
+  "，", 
+  "ying@qwq.nu", 
+  "2396219331", 
+  "，", 
+  "89175.145", 
+  "1137157416", 
+  "1472013418", 
+  "1614217793", 
+  "dd", 
+  "2508626434，", 
+  "╭( ▔▽▔)╮我今天要表演变章鱼！\n╜ ╙\n╭( ▔▽▔)╯要开始了~\n╜ ╙\n╰( ≥﹏≤)╯恩…\n╜ ╙\n( ▔◎▔) 喔耶~变身完毕~厉害吧\n╱│││╲\n(‖▔◎▔)　喔…\n╱│││╲\n(‖╤◎╤)　阿勒~变不回来了…\n╱│││╲", 
+  "1546770871"
+]
+{
+  "content": "2005年4月，中华英才网与全球第一大招聘网站Monster达成重大战略合作，Monster向中华英才网注资4000万美金，助力其国际化发展。2005年5月，中华英才网又与国内最大的门户网站新浪签署了为期三年的垄断性招聘频道共建协议。凭借这两个震撼业内的举措，中华英才网已然树立了“中国第一招聘网站”的地位。", 
+  "url": "http://tieba.baidu.com/p/4612648422?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "处qy", 
+  "imgPath": "/data/lumppic/503d269759ee3d6d53be9fdb42166d224f4adea1.jpg"
+}
+[
+  "处qy,我挺好相处的", 
+  "势利眼别来", 
+  "，", 
+  "机器都没一个……", 
+  "，", 
+  "如何忘记一个想忘记的人", 
+  "，", 
+  "，", 
+  "，", 
+  "，", 
+  "ying@qwq.nu", 
+  "2396219331", 
+  "，", 
+  "89175.145", 
+  "1137157416", 
+  "1472013418", 
+  "1614217793", 
+  "dd", 
+  "2508626434，", 
+  "╭( ▔▽▔)╮我今天要表演变章鱼！\n╜ ╙\n╭( ▔▽▔)╯要开始了~\n╜ ╙\n╰( ≥﹏≤)╯恩…\n╜ ╙\n( ▔◎▔) 喔耶~变身完毕~厉害吧\n╱│││╲\n(‖▔◎▔)　喔…\n╱│││╲\n(‖╤◎╤)　阿勒~变不回来了…\n╱│││╲", 
+  "1546770871"
+]
+Max Floor14
+Target Floor1
+find target floor
+[
+  "这里。", 
+  "看看", 
+  "我漂亮么，下面给你吃", 
+  "新人求交福州同城朋友", 
+  "内个来么,哥.哥.", 
+  "农村妹子就没人愿意和我交朋友吗", 
+  "处点朋友", 
+  "@y6wGaJrXrg 我只是来打酱油的", 
+  "約袍", 
+  "@东营车子解码器 看完楼主的这个帖子之后,我竟感发生出一种无以名之的悲痛感――啊,这么好的帖子", 
+  "能不能不要验证码？", 
+  "图", 
+  "。", 
+  "http://pan.baidu.com/mbox/homepage?short=bp0r6gv", 
+  "！", 
+  "货6沙TpM@免费福利请戳我", 
+  "却跟你表白。 他什么心理？？？", 
+  "与女朋友聊的水深火热到淡如多余，这还是爱情吗，我认真了，却感觉不到爱的存在。天天关心她，早上"
+]
+{
+  "content": "上述武器的目标可能是对准海峡水域通行的大型油轮，也能直接威胁到美国第五舰队的水面战舰。", 
+  "url": "http://tieba.baidu.com/p/4611746806?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "屌丝", 
+  "imgPath": "/data/lumppic/f636afc379310a55eef470fdb54543a9832610e2.jpg"
+}
+[
+  "这里。", 
+  "看看", 
+  "我漂亮么，下面给你吃", 
+  "新人求交福州同城朋友", 
+  "内个来么,哥.哥.", 
+  "农村妹子就没人愿意和我交朋友吗", 
+  "处点朋友", 
+  "@y6wGaJrXrg 我只是来打酱油的", 
+  "約袍", 
+  "@东营车子解码器 看完楼主的这个帖子之后,我竟感发生出一种无以名之的悲痛感――啊,这么好的帖子", 
+  "能不能不要验证码？", 
+  "图", 
+  "。", 
+  "http://pan.baidu.com/mbox/homepage?short=bp0r6gv", 
+  "！", 
+  "货6沙TpM@免费福利请戳我", 
+  "却跟你表白。 他什么心理？？？", 
+  "与女朋友聊的水深火热到淡如多余，这还是爱情吗，我认真了，却感觉不到爱的存在。天天关心她，早上", 
+  "上述武器的目标可能是对准海峡水域通行的大型油轮，也能直接威胁到美国第五舰队的水面战舰。"
+]
+Max Floor25
+Target Floor23
+find target floor
+[
+  "【心恩惠动】06.11[签到]人生最大的失败，就是放弃", 
+  "晚安", 
+  "晚安", 
+  "晚安", 
+  "安", 
+  "到", 
+  "到", 
+  "[语音]", 
+  "到", 
+  "到", 
+  "到", 
+  "到！", 
+  "早", 
+  "到了。", 
+  "到了", 
+  "到", 
+  "到咯到咯", 
+  "到，早安", 
+  "我做人真失败", 
+  "安", 
+  "到"
+]
+{
+  "content": "汉语言文学（050114）", 
+  "url": "http://tieba.baidu.com/p/4603321245?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "尹恩惠", 
+  "imgPath": "/data/lumppic/aa64034f78f0f7363930260f0855b319eac413f5.jpg"
+}
+[
+  "【心恩惠动】06.11[签到]人生最大的失败，就是放弃", 
+  "晚安", 
+  "晚安", 
+  "晚安", 
+  "安", 
+  "到", 
+  "到", 
+  "4''", 
+  "到", 
+  "到", 
+  "到", 
+  "到！", 
+  "早", 
+  "到了。", 
+  "到了", 
+  "到", 
+  "到咯到咯", 
+  "到，早安", 
+  "我做人真失败", 
+  "安", 
+  "到"
+]
+Max Floor33
+Target Floor22
+find target floor
+[
+  "谁可以带带我", 
+  "我想卖鞋子", 
+  "luo3745", 
+  "309851315我扣扣，我是开鞋厂的", 
+  "楼上我服开鞋厂", 
+  "1204876060qq", 
+  "来，淘天", 
+  "有的 高品质 VX：5193894 走宝", 
+  "加我，定位显示一切。V465578805", 
+  "Wechat：us99737", 
+  "看看我这 高品质带你飞\nACP5151@微信"
+]
+{
+  "content": "深圳石化化工有限公司 USD7.7万及利息 深圳市龙岗区人民法院", 
+  "url": "http://tieba.baidu.com/p/4611777328?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "潮鞋", 
+  "imgPath": "/data/lumppic/e1fe9925bc315c6039bfd51f8eb1cb1349547713.jpg"
+}
+[
+  "谁可以带带我", 
+  "我想卖鞋子", 
+  "luo3745", 
+  "309851315我扣扣，我是开鞋厂的", 
+  "楼上我服开鞋厂", 
+  "1204876060qq", 
+  "来，淘天", 
+  "有的 高品质 VX：5193894 走宝", 
+  "加我，定位显示一切。V465578805", 
+  "Wechat：us99737", 
+  "看看我这 高品质带你飞\nACP5151@微信", 
+  "深圳石化化工有限公司 USD7.7万及利息 深圳市龙岗区人民法院"
+]
+Max Floor19
+Target Floor14
+find target floor
+[
+  "【美图】好看的图片", 
+  "类似这样的图片有吗有吗？？？"
+]
+{
+  "content": "「第66条」", 
+  "url": "http://tieba.baidu.com/p/4607597165?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "唯美图片", 
+  "imgPath": "/data/lumppic/9a504fc2d56285358bdff02192ef76c6a7ef63f6.jpg"
+}
+[
+  "【美图】好看的图片", 
+  "类似这样的图片有吗有吗？？？", 
+  "「第66条」"
+]
+Max Floor19
+Target Floor17
+find target floor
+[
+  "【娱乐】放松一下心情好", 
+  "人说，活的如此无奈是因为命该如此，还是自作孽，其实都不是，只是一开始，自己偏离了一些，而后，偏离了更多了罢了。\n为什么我们很难活成想象中的我们，而不只是我们，当然还有他们，也许是想象中的未来，总是和现实偏差的有些距离。短短的距离，代表了各种无奈，以及遥不可及，\n有些人的理想很单纯，从小开始就是如此，举个例子，我的理想是当一名警察，而我的一生将全部奉献给这个理想。仔细想想，多可怕呀，一生只为一件事，如果成功了，大家都会为你欢呼，你自己心中也会得到满足。但若是失败了呢？不会有人去为你曾经做过的种种努力欢呼，他们只会在背后议论：啊！这个人曾经多努力啊，可是还是失败了，他以后还能做别的吗？你没错，你只是失败了而已，别人也没错，他们只是看不见你的过程，只能看到你的结果，就着结果议论你罢了。\n人要学会阶梯思想，路重要一步一步走，走路看脚下，这是长辈常说的。\n快速转变适应力，有时候选择很多，也许你都会尝试，不代表都适合，学会应对任何情况，切换方式和情绪，仿若变色龙一般。\n坚持带来的是心安理得，也要学会更重要的一点，叫做放弃，适时的放弃，会让你的路，更好走，而你所谓的坚持，需要的是四大因素来支撑：能力、经济、好运、承受力。而放弃，需要的是决断力，和逻辑分析能力。\n所谓的成功，不是众人眼里你辉煌的模样，而是你经历过一切后，还能悠然自得，享受所拥有的任何，哪怕一文不值。\n努力可谓有界限，放弃之后继续前行，是一种新境界，而我还正在努力的路上行走......", 
+  "一个神奇的工众号：syf-bbsc", 
+  "还有多少人愿意单身 卖头像了"
+]
+{
+  "content": "4月18日，当知性美女徐静蕾身着白色连衣裙，俏皮地用手划出英文字母“C”的广告形象出现在全国各地之时，年轻、有才华、秀外慧中的徐静蕾也同时将长虹的新品牌形象完整的展现给消费者。它恰如徐静蕾所演绎的那样：聪明（Clever）、舒适（Comfort）、酷（Cool）。而这，也是长虹所希望传达给消费者的3C时代家电产品的消费文化——快乐创造C生活。", 
+  "url": "http://tieba.baidu.com/p/4612384357?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "唯美图片", 
+  "imgPath": "/data/lumppic/503d269759ee3d6dc2e229c241166d224f4ade97.jpg"
+}
+[
+  "【娱乐】放松一下心情好", 
+  "人说，活的如此无奈是因为命该如此，还是自作孽，其实都不是，只是一开始，自己偏离了一些，而后，偏离了更多了罢了。\n为什么我们很难活成想象中的我们，而不只是我们，当然还有他们，也许是想象中的未来，总是和现实偏差的有些距离。短短的距离，代表了各种无奈，以及遥不可及，\n有些人的理想很单纯，从小开始就是如此，举个例子，我的理想是当一名警察，而我的一生将全部奉献给这个理想。仔细想想，多可怕呀，一生只为一件事，如果成功了，大家都会为你欢呼，你自己心中也会得到满足。但若是失败了呢？不会有人去为你曾经做过的种种努力欢呼，他们只会在背后议论：啊！这个人曾经多努力啊，可是还是失败了，他以后还能做别的吗？你没错，你只是失败了而已，别人也没错，他们只是看不见你的过程，只能看到你的结果，就着结果议论你罢了。\n人要学会阶梯思想，路重要一步一步走，走路看脚下，这是长辈常说的。\n快速转变适应力，有时候选择很多，也许你都会尝试，不代表都适合，学会应对任何情况，切换方式和情绪，仿若变色龙一般。\n坚持带来的是心安理得，也要学会更重要的一点，叫做放弃，适时的放弃，会让你的路，更好走，而你所谓的坚持，需要的是四大因素来支撑：能力、经济、好运、承受力。而放弃，需要的是决断力，和逻辑分析能力。\n所谓的成功，不是众人眼里你辉煌的模样，而是你经历过一切后，还能悠然自得，享受所拥有的任何，哪怕一文不值。\n努力可谓有界限，放弃之后继续前行，是一种新境界，而我还正在努力的路上行走......", 
+  "一个神奇的工众号：syf-bbsc", 
+  "还有多少人愿意单身 卖头像了", 
+  "4月18日，当知性美女徐静蕾身着白色连衣裙，俏皮地用手划出英文字母“C”的广告形象出现在全国各地之时，年轻、有才华、秀外慧中的徐静蕾也同时将长虹的新品牌形象完整的展现给消费者。它恰如徐静蕾所演绎的那样：聪明（Clever）、舒适（Comfort）、酷（Cool）。而这，也是长虹所希望传达给消费者的3C时代家电产品的消费文化——快乐创造C生活。"
+]
+Max Floor19
+Target Floor5
+find target floor
+[
+  "【美图】逆袭一夏，留个教你做零基础女神，这个夏天让你美美哒~"
+]
+{
+  "content": "后，公司原定计划将最晚于5月10日披露股权分置改革方案沟通协商情况和结果", 
+  "url": "http://tieba.baidu.com/p/4612658948?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "唯美图片", 
+  "imgPath": "/data/lumppic/a8014c086e061d95bcf0652778f40ad162d9ca7f.jpg"
+}
+[
+  "【美图】逆袭一夏，留个教你做零基础女神，这个夏天让你美美哒~"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:qshuimjhl65
+Max Floor24
+Target Floor7
+find target floor
+[
+  "哪位好心的吧友借我300还250～", 
+  "好不好我愿意献出黄瓜", 
+  "@_@", 
+  "我数学不好你不要骗我", 
+  "6666", 
+  "借我250", 
+  "13. 认不是生智慧水，水能调五味、合五色，随方就圆。人的性子，要能炼得像水一样，就成道了。所以古人说“上善若水”。"
+]
+{
+  "content": "据了解，今年6月份的英语四、六级试点改革主要针对四级考试。新四级的报名群体是针对全国180所试点学校，这些学校的学生可以自由选择报考新四级或旧四级，两者只可以选择其一。届时新老四级同时进行，6月17日上午报考旧四级，6月24日上午考新四级。六级的改革比四级晚半年，也就是说新的六级考试要于明年1月份在全国180所试点学校试行。从明年6月份的六级考试开始，全国考生都参加新六级考试。", 
+  "url": "http://tieba.baidu.com/p/4612668619?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "西安", 
+  "imgPath": "/data/lumppic/32fa828ba61ea8d33d3eb109950a304e251f589b.jpg"
+}
+[
+  "哪位好心的吧友借我300还250～", 
+  "好不好我愿意献出黄瓜", 
+  "@_@", 
+  "我数学不好你不要骗我", 
+  "6666", 
+  "借我250", 
+  "13. 认不是生智慧水，水能调五味、合五色，随方就圆。人的性子，要能炼得像水一样，就成道了。所以古人说“上善若水”。", 
+  "据了解，今年6月份的英语四、六级试点改革主要针对四级考试。新四级的报名群体是针对全国180所试点学校，这些学校的学生可以自由选择报考新四级或旧四级，两者只可以选择其一。届时新老四级同时进行，6月17日上午报考旧四级，6月24日上午考新四级。六级的改革比四级晚半年，也就是说新的六级考试要于明年1月份在全国180所试点学校试行。从明年6月份的六级考试开始，全国考生都参加新六级考试。"
+]
+Max Floor27
+Target Floor6
+find target floor
+[
+  "无意找到最初版in the end", 
+  "感觉一点都不比现在的差", 
+  "推荐大家听听", 
+  "谁和你说这是最初版", 
+  "弄错了不好意思", 
+  "混音版", 
+  "没用核嗓，这只是混音版不是最初的吧……", 
+  "刚开始听歌词觉得是最初版，后来查了一下才知道", 
+  "我口渴,哥哥", 
+  "懂得一起啪.啪.啪", 
+  "这首6", 
+  "新人求罩", 
+  "[语音]", 
+  "最初版", 
+  "混音好吗。", 
+  "逗比。。。。"
+]
+{
+  "content": "在全国本科院校开展实验教学示范中心建设和评审工作，是《2003－2007年教育振兴行动计划》的重要组成部分，是提升办学水平和教育质量的重要举措。各省级教育行政部门和主管部门要高度重视，完善相关政策、加大经费投入，进一步推进高等学校实验教学示范中心建设工作，形成国家级、省级两级实验教学示范体系。同时，积极组织、推动本地区、本部门高等学校与国家级、省级实验教学示范中心的交流与合作，充分发挥实验教学示范体系的示范辐射作用。", 
+  "url": "http://tieba.baidu.com/p/4610914560?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "linkin", 
+  "imgPath": "/data/lumppic/6f061d950a7b02086a7505ef60d9f2d3572cc87b.jpg"
+}
+[
+  "无意找到最初版in the end", 
+  "感觉一点都不比现在的差", 
+  "推荐大家听听", 
+  "谁和你说这是最初版", 
+  "弄错了不好意思", 
+  "混音版", 
+  "没用核嗓，这只是混音版不是最初的吧……", 
+  "刚开始听歌词觉得是最初版，后来查了一下才知道", 
+  "我口渴,哥哥", 
+  "懂得一起啪.啪.啪", 
+  "这首6", 
+  "新人求罩", 
+  "[语音]", 
+  "最初版", 
+  "混音好吗。", 
+  "逗比。。。。"
+]
+Max Floor34
+Target Floor8
+find target floor
+[
+  "有去过清西陵的吗？好玩吗？", 
+  "还行 挺不错的", 
+  "你懂风水吗？你懂古建筑吗？你喜欢什么样的风景？", 
+  "还可以", 
+  "环境可以，只开放了一部分，没啥看头"
+]
+{
+  "content": "游客们获救时，其中3人已经患上了雪盲，许多人的腿脚被冻坏了，几个小孩的面部已经脱皮。官兵们连忙为他们分发食品饮料，并为伤者察看伤情，分发药品。", 
+  "url": "http://tieba.baidu.com/p/4612193241?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "河北", 
+  "imgPath": "/data/lumppic/7acb0a46f21fbe0973dcdd1a69600c338744ad39.jpg"
+}
+[
+  "有去过清西陵的吗？好玩吗？", 
+  "还行 挺不错的", 
+  "你懂风水吗？你懂古建筑吗？你喜欢什么样的风景？", 
+  "还可以", 
+  "环境可以，只开放了一部分，没啥看头", 
+  "游客们获救时，其中3人已经患上了雪盲，许多人的腿脚被冻坏了，几个小孩的面部已经脱皮。官兵们连忙为他们分发食品饮料，并为伤者察看伤情，分发药品。"
+]
+Max Floor35
+Target Floor17
+find target floor
+[
+  "第三次中国—中东欧国家地方领导人会议筹备工作正在紧张有序进行", 
+  "随着第三次中国—中东欧国家地方领导人会议日益临近，各项筹备工作正在紧张有序进行。图为6月13日，施工人员在展馆周边制作、悬挂第三次中国—中东欧国家地方领导人会议的标识。\n本报记者 吕光宇 摄"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:11:45http%3A%2f%2ftieba.baidu.com%2fp%2f4611672949%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

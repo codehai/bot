@@ -1,0 +1,97 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465817194", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e8c, 13 6\\u6708 2017 11:26:34 GMT", "value": "1465816475,1465816835,1465816964,1465817194", "expiry": 1497353194, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "7A7A71E028CC15B7", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:26:24 GMT", "value": "1f11b8b027833922de52ff3bd015f61f223d982083cb9a051fec4605eef98ca0", "expiry": 1725017184, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:26:24 GMT", "value": "9290b402bcec533fad942db073f3cb59", "expiry": 1725017184, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:26:24 GMT", "value": "b9962cd1053c60a956347a2449", "expiry": 1725017184, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:26:24 GMT", "value": "HFJSjh4UHpDfmpNaWRNTWZraE5IUld5b2h6MG9TbUtPWUFoM1ZvfjNJbGZKWVpYQVFBQUFBJCQAAAAAAAAAAAEAAACpmoFPZmNoaXJpbzI5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF-YXldfmF5XT", "expiry": 1725017184, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:26:24 GMT", "value": "fi_PncwhpxZ%7ETaJcyAIk6UXGEZFUImrIL6k32BZmUe0thfxT3rR8qPQ%7Efvyjl0U44YooDsuEvg1x%7EtFfYo9RjRix1pK6QXxHSqUjqkN8%7EqfoRL64OTMw3sydITJzb4DcqyjPxoT-mzWjECwCNiEEqUXnMKqTw__", "expiry": 1725017184, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:26:24 GMT", "value": "63e15e40c13c6d644e03d48df9d404ee79", "expiry": 1725017184, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:26:24 GMT", "value": "wapp_1465817122145_704", "expiry": 1725017184, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 11:25:52 GMT", "value": "1", "expiry": 1465903552, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 11:25:38 GMT", "value": "1", "expiry": 1465903538, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 11:25:38 GMT", "value": "568", "expiry": 1496921138, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 11:25:38 GMT", "value": "320", "expiry": 1496921138, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e8c, 13 6\\u6708 2017 11:25:22 GMT", "value": "C5ABE92C8C404DAF792049D9D188DB0E:FG=1", "expiry": 1497353122, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e09, 06 6\\u6708 2046 11:25:22 GMT", "value": "wapp_1465817122145_704", "expiry": 2411897122, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "3df45865024090bb09fad701", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:fchirio29
+Max Floor14
+Target Floor6
+find target floor
+[
+  "Tang。[160614发贴]大唐游仙记", 
+  "大家有帮糖糖投票“帮花”吗，玩游戏的亲去官微帮糖糖投票吧。", 
+  "顶，支持", 
+  "妹妹我要,有来的吗?", 
+  "顶", 
+  "唐嫣越来越成熟知性大气，糖蜜们也要成长起来，多多支持唐嫣，理智粉糖，爱唐嫣不将就。", 
+  "顶", 
+  "顶！支持", 
+  "顶", 
+  "dd", 
+  "顶，爱唐嫣，支持唐嫣支持唐嫣支持唐嫣", 
+  "顶，爱唐嫣，支持唐嫣支持唐嫣支持唐嫣", 
+  "顶，爱唐嫣，支持唐嫣支持唐嫣支持唐嫣", 
+  "顶", 
+  "我爱你，一句简单的我爱你你却老不信。", 
+  "顶", 
+  "顶", 
+  "帮顶", 
+  "人的幸福，不是吃的好，穿的好，住的好就叫幸福！是拥有一个爱自己懂自己的人，不管他有多大能力，"
+]
+{
+  "content": "大连人才招聘会上，相邻两家招聘企业吸引的应聘者多寡不均。新华社发", 
+  "url": "http://tieba.baidu.com/p/4610327465?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "唐嫣", 
+  "imgPath": "/data/lumppic/9922720e0cf3d7ca990f5715f01fbe096a63a9dc.jpg"
+}
+[
+  "Tang。[160614发贴]大唐游仙记", 
+  "大家有帮糖糖投票“帮花”吗，玩游戏的亲去官微帮糖糖投票吧。", 
+  "顶，支持", 
+  "妹妹我要,有来的吗?", 
+  "顶", 
+  "唐嫣越来越成熟知性大气，糖蜜们也要成长起来，多多支持唐嫣，理智粉糖，爱唐嫣不将就。", 
+  "顶", 
+  "顶！支持", 
+  "顶", 
+  "dd", 
+  "顶，爱唐嫣，支持唐嫣支持唐嫣支持唐嫣", 
+  "顶，爱唐嫣，支持唐嫣支持唐嫣支持唐嫣", 
+  "顶，爱唐嫣，支持唐嫣支持唐嫣支持唐嫣", 
+  "顶", 
+  "我爱你，一句简单的我爱你你却老不信。", 
+  "顶", 
+  "顶", 
+  "帮顶", 
+  "人的幸福，不是吃的好，穿的好，住的好就叫幸福！是拥有一个爱自己懂自己的人，不管他有多大能力，"
+]
+Max Floor30
+Target Floor27
+find target floor
+[
+  "【冰冰邦邦】160613〖图片〗#封神传奇#发布会新图", 
+  "粉丝团微博", 
+  "下面是跟其他演员的合照", 
+  "美哭", 
+  "up", 
+  "这个衣服只有冰后的主"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 19:42:43http%3A%2f%2ftieba.baidu.com%2fp%2f4608205567%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D1%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

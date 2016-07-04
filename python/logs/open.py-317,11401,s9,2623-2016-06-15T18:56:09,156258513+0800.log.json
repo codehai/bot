@@ -1,0 +1,397 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465900483",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:34:43 GMT",
+			"value": "1465900371,1465900471,1465900478,1465900483",
+			"expiry": 1497436483,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "F54A5730D7A044F3",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:34:31 GMT",
+			"value": "347cd7f8a61b007a0e1f1d1318975e1414566822adda7aa7d27e8402899dc9c7",
+			"expiry": 1725100471,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:34:31 GMT",
+			"value": "152a8cdddaa9fd1c2d952480352acfed",
+			"expiry": 1725100471,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:34:31 GMT",
+			"value": "bea0739b722ef24228d6c6f3fd12063a3640",
+			"expiry": 1725100471,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:34:31 GMT",
+			"value": "kI3WmhKOHJ2UX5Sa0RrUWVRcktkRFlNQ0k3aW02eHdQc1ZXSlJkanVSTzJhb2RYQVFBQUFBJCQAAAAAAAAAAAEAAAC-4lRPc2hhbnRzaGFuZ3Q4MjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALbdX1e23V9Xf",
+			"expiry": 1725100471,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:34:31 GMT",
+			"value": "fi_PncwhpxZ%7ETaJc8nDR863hGGhomyvq-nW68shB6h62lHGu9kG9J47CQHrVmAZ7XCtkHB9H1t7JmuJpHO3kJgLsfn5mZK4bK4pdL6GSxlLry6wz-DGbYBd3TzLnbXV%7EX2R90lSJM04DI0KlcLkcr-rGpGtmg__",
+			"expiry": 1725100471,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:34:31 GMT",
+			"value": "fc0441e82bbf1edb834f12ca4ee1b5f817aa03697476",
+			"expiry": 1725100471,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:34:31 GMT",
+			"value": "wapp_1465900397770_902",
+			"expiry": 1725100471,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:33:57 GMT",
+			"value": "1",
+			"expiry": 1465986837,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:33:33 GMT",
+			"value": "1",
+			"expiry": 1465986813,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:33:33 GMT",
+			"value": "568",
+			"expiry": 1497004413,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:33:33 GMT",
+			"value": "320",
+			"expiry": 1497004413,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:33:18 GMT",
+			"value": "9466D5C5ABFE7F1D2011E9BB3DB6CF61:FG=1",
+			"expiry": 1497436398,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:33:17 GMT",
+			"value": "wapp_1465900397770_902",
+			"expiry": 2411980397,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "99184f0644cb72a1222b63ca",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:shantshangt820",
+	"Max Floor25",
+	"Target Floor2",
+	"find target floor",
+	[
+		"玩咖曝光个色群59855914,好多腐女,勇敢表白吧* 图片在",
+		"是扣扣企鹅群，百度八大最热最火的贴吧，你认识几个？",
+		"管理好漂亮",
+		"空间好多照片",
+		"是QQ的群",
+		"已加。",
+		"已加。",
+		"管理好漂亮",
+		"空间有亮点",
+		"管理好漂亮",
+		"空间好多照片",
+		"好多人",
+		"已经进了。",
+		"还有视频直播。"
+	],
+	"",
+	{
+		"content": "东方网4月23日消息：3月16日,华中某机场云低雾浓。上午8时，随着阵阵震天撼地的轰鸣声，一架架战机穿云破雾直击苍穹。空军航空兵某运输师结合主题教育培育官兵昂扬战斗精神，扎实做好军事斗争准备，加大深训精训力度，增强部队履行使命的本领。",
+		"url": "http://tieba.baidu.com/p/4587771872?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "玩咖",
+		"imgPath": "/data/lumppic/d1160924ab18972b5d7061a1e5cd7b899e510a16.jpg"
+	},
+	"",
+	[
+		"玩咖曝光个色群59855914,好多腐女,勇敢表白吧* 图片在",
+		"是扣扣企鹅群，百度八大最热最火的贴吧，你认识几个？",
+		"管理好漂亮",
+		"空间好多照片",
+		"是QQ的群",
+		"已加。",
+		"已加。",
+		"管理好漂亮",
+		"空间有亮点",
+		"管理好漂亮",
+		"空间好多照片",
+		"好多人",
+		"已经进了。",
+		"还有视频直播。"
+	],
+	"",
+	"Max Floor13",
+	"Target Floor2",
+	"find target floor",
+	[
+		"じ禁め吧ぱ发る贴",
+		"q 1票(16.67%)\n1297な2041て70 5票(83.33%)\n截止时间：2017-03-04 16:35\n已有投票人数：6"
+	],
+	"",
+	{
+		"content": "朴茨茅",
+		"url": "http://tieba.baidu.com/p/4432069973?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "校园代理",
+		"imgPath": "/data/lumppic/9213b07eca806538b4a03c0994dda144ad348266.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor13",
+	"Target Floor12",
+	"find target floor",
+	[
+		"新手小白求带",
+		"做了三个多月没有起色 求高手指点",
+		"非诚忽扰",
+		"求带"
+	],
+	"",
+	{
+		"content": "nbsp;",
+		"url": "http://tieba.baidu.com/p/3748142715?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "校园代理",
+		"imgPath": "/data/lumppic/9d82d158ccbf6c813b89f465be3eb13532fa4085.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor13",
+	"Target Floor6",
+	"find target floor",
+	[
+		"路过",
+		"加我 0票(0.00%)\nqq452587746 0票(0.00%)\n截止时间：2017-03-04 16:35\n已有投票人数：0"
+	],
+	"",
+	{
+		"content": "主持人：沙洲坝介绍一下。",
+		"url": "http://tieba.baidu.com/p/4429537763?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "校园代理",
+		"imgPath": "/data/lumppic/64380cd7912397dd439f2a0d5b82b2b7d1a287d1.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor13",
+	"Target Floor13",
+	"find target floor",
+	[
+		"找工作",
+		"找工作"
+	],
+	"",
+	{
+		"content": "小黄是本市某高职应届毕业生，一年前，他和女友为互相表达爱意，决定在身上刻下对方的名字。为了醒目，小黄在胸口文了带有女友英文名的蜥蜴。不料，这个“爱的标记”在最近的几次毕业生招聘会上，竟成了招聘单位拒绝他的理由。原本有家外贸公司挺看好他的，结果小黄一不小心露出了那只“蜥蜴”，用人单位的神情即刻大变，让他回去等消息，而这一等就渺无音讯。",
+		"url": "http://tieba.baidu.com/p/3748200882?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "校园代理",
+		"imgPath": "/data/lumppic/a686c9177f3e670919649bff39c79f3df8dc554e.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor34",
+	"Target Floor25",
+	"find target floor",
+	[
+		"心情不好，生气",
+		"1男朋友女朋友 2最亲爱的父母 3最要好的闺蜜 4还是喜欢一个人静静地待着 男生来选择一下，让我猜下你",
+		"感觉，情怀，",
+		"位败嫌摔查敞",
+		"一个小小的情感问题 我问:你喜欢我吗？ 她答:你这是什么话？ 请大家指点一下，我该怎么办？",
+		"哪位大大知道呀，小弟在此感激不尽",
+		"求一萌弟弟,么么哒",
+		"生活里的情趣还需要自己去挖掘，打开内心是最重要的方式。若你无法用热情去感知喜悦，便只能收获忧伤；若你无法用真心去感知爱情，便只能收获孤单。可是，若你有足够的热情、足够的用心和足够的善意，你就一定能拥有全世界最惊艳的那朵玫瑰花。要知道，你有趣了，你的生活才会有趣。",
+		"“喜欢他孤独地站在门前，那个冷静的样子像极了一只小心翼翼的猫咪。他的样子你说不上什么好，但就",
+		"今朝有酒今朝醉 明日愁来明日愁",
+		"2009年认识的，那一年，我十八他十九。我们一次偶然认识了，然后就在一起了。在一起四年。2014年、我结",
+		"我在春风中睡去，在噩梦中醒来，醒来，一种孤枕无边的冷！",
+		"有多远滚多远，你他妈的究竟在干什么",
+		"顶",
+		"和男朋友是在高一开始处的，刚过七年，期间也磕磕碰碰吵吵闹闹分过手，几乎每次分手都是因为他用社"
+	],
+	"",
+	{
+		"content": "本科",
+		"url": "http://tieba.baidu.com/p/4611038768?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "沧州",
+		"imgPath": "/data/lumppic/55e736d12f2eb938120fb7ffd7628535e5dd6f59.jpg"
+	},
+	"",
+	[
+		"心情不好，生气",
+		"1男朋友女朋友 2最亲爱的父母 3最要好的闺蜜 4还是喜欢一个人静静地待着 男生来选择一下，让我猜下你",
+		"感觉，情怀，",
+		"位败嫌摔查敞",
+		"一个小小的情感问题 我问:你喜欢我吗？ 她答:你这是什么话？ 请大家指点一下，我该怎么办？",
+		"哪位大大知道呀，小弟在此感激不尽",
+		"求一萌弟弟,么么哒",
+		"生活里的情趣还需要自己去挖掘，打开内心是最重要的方式。若你无法用热情去感知喜悦，便只能收获忧伤；若你无法用真心去感知爱情，便只能收获孤单。可是，若你有足够的热情、足够的用心和足够的善意，你就一定能拥有全世界最惊艳的那朵玫瑰花。要知道，你有趣了，你的生活才会有趣。",
+		"“喜欢他孤独地站在门前，那个冷静的样子像极了一只小心翼翼的猫咪。他的样子你说不上什么好，但就",
+		"今朝有酒今朝醉 明日愁来明日愁",
+		"2009年认识的，那一年，我十八他十九。我们一次偶然认识了，然后就在一起了。在一起四年。2014年、我结",
+		"我在春风中睡去，在噩梦中醒来，醒来，一种孤枕无边的冷！",
+		"有多远滚多远，你他妈的究竟在干什么",
+		"顶",
+		"和男朋友是在高一开始处的，刚过七年，期间也磕磕碰碰吵吵闹闹分过手，几乎每次分手都是因为他用社",
+		"本科"
+	],
+	"",
+	"Max Floor21",
+	"Target Floor20",
+	"find target floor",
+	[
+		"买二手机抹掉所有数据之后是不是就安全了",
+		"我怕有人在手机隐藏什么偷窃信息的东西，抹掉是不是就好了",
+		"0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！"
+	],
+	"",
+	{
+		"content": "这次事件使毕重远感到越是临近起义越要谨慎从事。他一面向不可靠人员散布起义策划终止的消息，一面制定了十分周密的具体方案。筹划起义的其他几位骨干对20岁的毕重远在谋划大事上显示出的老练和成熟，无不感到惊讶和钦佩。",
+		"url": "http://tieba.baidu.com/p/4612570135?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "iphone4s",
+		"imgPath": "/data/lumppic/bd3eb13533fa828b1b515994ff1f4134970a5a53.jpg"
+	},
+	"",
+	"2016-06-15 18:59:13http%3A%2f%2ftieba.baidu.com%2fp%2f4612570135%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 304, in <module>",
+	"    floorContent()",
+	"  File \"open.py\", line 133, in floorContent",
+	"    postContent = p.find_element_by_class_name('content').text",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py\", line 70, in text",
+	"    return self._execute(Command.GET_ELEMENT_TEXT)['value']",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py\", line 457, in _execute",
+	"    return self._parent.execute(command, params)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 233, in execute",
+	"    self.error_handler.check_response(response)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 194, in check_response",
+	"    raise exception_class(message, screen, stacktrace)",
+	"selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document",
+	"  (Session info: chrome=38.0.2125.104)",
+	"  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)",
+	""
+]

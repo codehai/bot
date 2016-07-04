@@ -1,0 +1,86 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1466155334", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u516d, 17 6\\u6708 2017 09:22:14 GMT", "value": "1465904906,1465905393,1466155301,1466155334", "expiry": 1497691334, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "9889566B13369BD3", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:22:03 GMT", "value": "3dc628bb8f2591b2c0c681b078bc3a519865d39bec66bb26cf856403fb5a4425", "expiry": 1725355323, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:22:03 GMT", "value": "083cb09a0640e65085ae712d9f081610", "expiry": 1725355323, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:22:03 GMT", "value": "b95371b8980fb68e34056728c6ca82", "expiry": 1725355323, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:22:03 GMT", "value": "B1aGJZbnpMSFlifm1zN29pNX5BNGpUSzNYa0F1eE4xemthNi1zLWx4QTdUb3RYQVFBQUFBJCQAAAAAAAAAAAEAAADDazJVdGFuc3JkaWs2MjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvBY1c7wWNXSl", "expiry": 1725355323, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:22:03 GMT", "value": "fi_PncwhpxZ%7ETaJc0Uvlka8L2u26wbYlEQHrIUCWnAtdADqtJMAHolirEZnMrL1Y8KnvOZdN5GdxBdltPkDTGo2zGLuFqNcrSkQGXg3budsTDXO8943yqO0wg0QtP%7EyeY-vlNVkyN8uyJfMHbaqGs4YQQMgJw__", "expiry": 1725355323, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:22:03 GMT", "value": "f11e6783bc424b674a1fe8df9e1082f7442b01", "expiry": 1725355323, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:22:03 GMT", "value": "wapp_1466155243965_199", "expiry": 1725355323, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u516d, 18 6\\u6708 2016 09:21:16 GMT", "value": "1", "expiry": 1466241676, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u516d, 18 6\\u6708 2016 09:21:00 GMT", "value": "1", "expiry": 1466241660, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e00, 12 6\\u6708 2017 09:21:00 GMT", "value": "568", "expiry": 1497259260, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e00, 12 6\\u6708 2017 09:21:00 GMT", "value": "320", "expiry": 1497259260, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u516d, 17 6\\u6708 2017 09:20:44 GMT", "value": "450053B2C45FB77C6257F6B5E4DF7EEC:FG=1", "expiry": 1497691244, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 10 6\\u6708 2046 09:20:43 GMT", "value": "wapp_1466155243965_199", "expiry": 2412235243, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "7e36470125e2eb51daf8e1ee", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:tansrdik620
+Max Floor30
+Target Floor21
+find target floor
+[
+  "枯藤老树昏鸦。", 
+  "枯藤老树昏鸦。", 
+  "小桥流水人家", 
+  "古道西风瘦马", 
+  "断肠人在天涯", 
+  "蹴罢秋千 起来慵整纤纤手。", 
+  "同是天涯寂寞人，相逢何必偏相识", 
+  "流水人家"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+<type 'dict'>
+{
+  "Result": "江南前端", 
+  "Id": "0f4d742a-3f8c-4e85-8468-4a53ac4d466d"
+}
+江南前端
+<type 'unicode'>
+网络出现异常，发贴失败，请重试
+{
+  "content": "nbsp;nbsp; 　　1．经前期紧张综合症", 
+  "url": "http://tieba.baidu.com/p/4615817606?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "寂寞", 
+  "imgPath": "/data/lumppic/6609c93d70cf3bc7046fdbbfd300baa1cd112a71.jpg"
+}
+[
+  "枯藤老树昏鸦。", 
+  "枯藤老树昏鸦。", 
+  "小桥流水人家", 
+  "古道西风瘦马", 
+  "断肠人在天涯", 
+  "蹴罢秋千 起来慵整纤纤手。", 
+  "同是天涯寂寞人，相逢何必偏相识", 
+  "流水人家"
+]
+Max Floor30
+Target Floor18
+find target floor
+[
+  "私聊吗", 
+  "'有妹子私聊吗？", 
+  "可以有", 
+  "其实很简单，把下面的话复制一下 然后回复我，很快你们就可以到达5级了，就可以要到辅助教程了\n我的目标是成为18级大神。假如你每天签到拿4经验，18级300000/4=75000天，如果从1岁开始签到，那100年=36500天，你差不多要活200年保持每天签到（谁知道200年后还有没有签到这玩意），如果你每天再水4经验，时间减半，但考虑现实，你不可能再活100年，取50年吧，你就要每天水16经验，可能你是个勤快的人，每天水32经验，那就需要25年！！！再如果你是个大水怪，每天水64经验，那就只要12.5年！！！还如果你个心急的人，每天水128经验，你只要6.25年！！！！假如你已经急不可耐了，每天水256经验，那你碉堡了，只要3.125年！！！当然，你会觉得3年还是太远了，每天你闲的蛋疼，忙忙碌碌的水512经验，碉堡了，你只需要1.5625年，只比1年半多一点！！！什么！！你还不满意，那你觉得你可能一天水1024经验吗，可能吗！！可能吗！！！据说回复100字或者一百字以上可以得到11~30经验，那么，按照队形，点击复制，吧我的话复制一片 自从度娘出了回复带八张图加经验，几乎每张帖子都有类似这种回复：\n发图也会涨经验\n这是真的吗\n不会是度娘骗我玩的吧\n度娘你要是骗我就太没节操了吧\n坑爹啊这是\n还好事前试了下插图片真的好多经验啊\n拿到经验的一刹那、简直就像狂欢一样\n大家都来试试哦\n迭斯。\n——『皮卡丘』:　　 要不是我没有带充电宝，我电死你丫的这", 
+  "平均每1.1秒就有一人选择OPPO R9系列 ，OPPO R9 雪岩灰 6.18震撼上市。", 
+  "我有事 找你 速度、联系我一下", 
+  "可以"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-17 17:37:19http%3A%2f%2ftieba.baidu.com%2fp%2f4615926852%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

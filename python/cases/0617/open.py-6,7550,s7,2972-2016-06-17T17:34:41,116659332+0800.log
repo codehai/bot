@@ -1,0 +1,535 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1466155446", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u516d, 17 6\\u6708 2017 09:24:06 GMT", "value": "1466155430,1466155442,1466155445,1466155446", "expiry": 1497691446, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "E2143DFB9EB985F7", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:23:55 GMT", "value": "151c254de8df8590e1597186dfd250003531a1ededf13f2fd3c413204b3ee12a", "expiry": 1725355435, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:23:55 GMT", "value": "d20ee2c21b2621ebccad6acdcfcf2253", "expiry": 1725355435, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:23:55 GMT", "value": "7440094abd7e499ed823156051", "expiry": 1725355435, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:23:55 GMT", "value": "1hob0VFQkZSQ1hldTJSN1ZxU00xOGVkNDJOSGRkVXhLNHdhS0o3bUdrLXJUb3RYQVFBQUFBJCQAAAAAAAAAAAEAAAAOtRRVamhlYXd1MjE0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKvBY1erwWNXc", "expiry": 1725355435, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:23:55 GMT", "value": "fi_PncwhpxZ%7ETaJc9SwC2tmk5mH9lckNFAUae6HS0rxbMWRVsli0offUwNqUXiHrQV6RiGV7v5EOBWjCoVNFbg4gshz3ij1qDiXutMP8IBpCWKWFe1TpT3rP17wu2uM9pEgpnoCSpFiFd77o-mEHwkGL6Kw-w__", "expiry": 1725355435, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:23:55 GMT", "value": "877f3434c276b0fa786da6ac9e03552a61", "expiry": 1725355435, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:23:55 GMT", "value": "wapp_1466155364388_772", "expiry": 1725355435, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u516d, 18 6\\u6708 2016 09:23:18 GMT", "value": "1", "expiry": 1466241798, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u516d, 18 6\\u6708 2016 09:23:01 GMT", "value": "1", "expiry": 1466241781, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e00, 12 6\\u6708 2017 09:23:01 GMT", "value": "568", "expiry": 1497259381, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e00, 12 6\\u6708 2017 09:23:01 GMT", "value": "320", "expiry": 1497259381, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u516d, 17 6\\u6708 2017 09:22:44 GMT", "value": "15AD19DC0E4287FCD3EADA6AB32CD022:FG=1", "expiry": 1497691364, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 10 6\\u6708 2046 09:22:44 GMT", "value": "wapp_1466155364388_772", "expiry": 2412235364, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "3b1b6fd714a853a14b971eee", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:jheawu214
+Max Floor27
+Target Floor3
+find target floor
+[
+  "【软萌淑】一个人的夜太孤单", 
+  "[语音]\nThe mouse was half as long as his pinky finger, with black eyes and soft grey fur", 
+  "，", 
+  "我不能像十岁那样 因为感动就跟一个人浪迹天涯 我交出真心 只能是因为爱.", 
+  "，", 
+  "@金鹰317 为什么妈妈送旺仔牛奶来学校时学校没有广播叫我？ 为什么我去超市买益达忘了拿也没有美女跟我说 :嘿！你的益达 ？", 
+  "11", 
+  "美", 
+  "，，，", 
+  "看资料", 
+  "点我", 
+  "，，，", 
+  "，，", 
+  "，，", 
+  "，，，", 
+  "订", 
+  "——佛像前的尘埃扫了又覆，诵经声歇了又来。\n他低吟佛理，心如止水。\n“大师，看我的破军终于齐了！”\n“……”\n“大师，等我拿到大扇子跳舞给你看！”\n“……”\n“少林的路我比秀坊还熟悉呢！”\n“……”\n“大师……”\n“嗯？”\n她红衣似火，艳若桃花　。\n“我要嫁人了。”\n……不知何故，佛珠散了一地　　　　　　　　　“阿弥陀佛。”"
+]
+{
+  "content": "nbsp;", 
+  "url": "http://tieba.baidu.com/p/4610567941?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "软萌淑", 
+  "imgPath": "/data/lumppic/d833c895d143ad4bb254f4c980025aafa40f0644.jpg"
+}
+[
+  "【软萌淑】一个人的夜太孤单", 
+  "2''\nThe mouse was half as long as his pinky finger, with black eyes and soft grey fur", 
+  "，", 
+  "我不能像十岁那样 因为感动就跟一个人浪迹天涯 我交出真心 只能是因为爱.", 
+  "，", 
+  "@金鹰317 为什么妈妈送旺仔牛奶来学校时学校没有广播叫我？ 为什么我去超市买益达忘了拿也没有美女跟我说 :嘿！你的益达 ？", 
+  "11", 
+  "美", 
+  "，，，", 
+  "看资料", 
+  "点我", 
+  "，，，", 
+  "，，", 
+  "，，", 
+  "，，，", 
+  "订", 
+  "——佛像前的尘埃扫了又覆，诵经声歇了又来。\n他低吟佛理，心如止水。\n“大师，看我的破军终于齐了！”\n“……”\n“大师，等我拿到大扇子跳舞给你看！”\n“……”\n“少林的路我比秀坊还熟悉呢！”\n“……”\n“大师……”\n“嗯？”\n她红衣似火，艳若桃花　。\n“我要嫁人了。”\n……不知何故，佛珠散了一地　　　　　　　　　“阿弥陀佛。”"
+]
+Max Floor27
+Target Floor6
+find target floor
+[
+  "【软萌淑】一次就好，让我陪你到天荒地老", 
+  "相亲两个人都带眼镜接吻咋办啊。。。。。", 
+  "——佛像前的尘埃扫了又覆，诵经声歇了又来。\n他低吟佛理，心如止水。\n“大师，看我的破军终于齐了！”\n“……”\n“大师，等我拿到大扇子跳舞给你看！”\n“……”\n“少林的路我比秀坊还熟悉呢！”\n“……”\n“大师……”\n“嗯？”\n她红衣似火，艳若桃花　。\n“我要嫁人了。”\n……不知何故，佛珠散了一地　　　　　　　　　“阿弥陀佛。”", 
+  "[语音]\nIt was gloomy within the sept with the sky so grey outside", 
+  "这个问题满分……", 
+  "我诚心要交朋友你要的,我给"
+]
+{
+  "content": "我们应该警醒失宠的信号，以利对形势的变化作出及时的反应，调整自己的言行，至少对可能发生的情况有一个心理准备，并做好下一步行动的准备。其实失宠也是有征兆的。", 
+  "url": "http://tieba.baidu.com/p/4616232790?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "软萌淑", 
+  "imgPath": "/data/lumppic/279759ee3d6d55fbfb83a9266f224f4a20a4dd6d.jpg"
+}
+[
+  "【软萌淑】一次就好，让我陪你到天荒地老", 
+  "相亲两个人都带眼镜接吻咋办啊。。。。。", 
+  "——佛像前的尘埃扫了又覆，诵经声歇了又来。\n他低吟佛理，心如止水。\n“大师，看我的破军终于齐了！”\n“……”\n“大师，等我拿到大扇子跳舞给你看！”\n“……”\n“少林的路我比秀坊还熟悉呢！”\n“……”\n“大师……”\n“嗯？”\n她红衣似火，艳若桃花　。\n“我要嫁人了。”\n……不知何故，佛珠散了一地　　　　　　　　　“阿弥陀佛。”", 
+  "5''\nIt was gloomy within the sept with the sky so grey outside", 
+  "这个问题满分……", 
+  "我诚心要交朋友你要的,我给", 
+  "我们应该警醒失宠的信号，以利对形势的变化作出及时的反应，调整自己的言行，至少对可能发生的情况有一个心理准备，并做好下一步行动的准备。其实失宠也是有征兆的。"
+]
+Max Floor27
+Target Floor20
+find target floor
+[
+  "心里好难受！喜欢上女神！她比我大一旬！这都不是重点！重点是我们", 
+  "有时候，明明很累了，但却没有办法停止脚步。因为有太多的责任，太多的梦想！", 
+  "[语音]\n—JEYNE, widowed wife of Robb Stark,", 
+  "[语音]\n—LADY ALYSE LADYBRIGHT, lord treasurer,", 
+  "当初你说的那些话，我都还记得，你的承诺，你为我许下的誓言，现在呢，你走了，留下我独自一人，守", 
+  "你是否要我", 
+  "两情迢迢，别来无恙", 
+  "[语音]\n你喜欢玩肥皂么？", 
+  "找个男朋友 不怕距离有多远 也不在乎你是不是很有钱 只要你真心对我孝顺父母 脾气能好点 可以的话加我", 
+  "@学想除 楼主的话概括扼要,一语道出了我们苦想多年的而不可得答案的几个重大问题的根本"
+]
+{
+  "content": "nbsp;", 
+  "url": "http://tieba.baidu.com/p/4615727909?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "软萌淑", 
+  "imgPath": "/data/lumppic/4afbfbedab64034f2de16946adc379310a551d45.jpg"
+}
+[
+  "心里好难受！喜欢上女神！她比我大一旬！这都不是重点！重点是我们", 
+  "有时候，明明很累了，但却没有办法停止脚步。因为有太多的责任，太多的梦想！", 
+  "1''\n—JEYNE, widowed wife of Robb Stark,", 
+  "2''\n—LADY ALYSE LADYBRIGHT, lord treasurer,", 
+  "当初你说的那些话，我都还记得，你的承诺，你为我许下的誓言，现在呢，你走了，留下我独自一人，守", 
+  "你是否要我", 
+  "两情迢迢，别来无恙", 
+  "31''\n你喜欢玩肥皂么？", 
+  "找个男朋友 不怕距离有多远 也不在乎你是不是很有钱 只要你真心对我孝顺父母 脾气能好点 可以的话加我", 
+  "@学想除 楼主的话概括扼要,一语道出了我们苦想多年的而不可得答案的几个重大问题的根本", 
+  "nbsp;"
+]
+Max Floor27
+Target Floor24
+find target floor
+[
+  "对绝大多数人来说，房子是个用品，居住用品。跟一个爱疯或者rot", 
+  "其实每个人心里都会有说不出的话，只当在这发泄一下好了，其实……真的很有用，我也是想帮帮那些心", 
+  "找,男闺蜜，来一发.", 
+  "[语音]", 
+  "处友，你想约么", 
+  "姐妹们认识我的祝福我们一起慢慢变老好吗…！", 
+  "。。。", 
+  "你会要我吗?", 
+  "我喜欢，大夫。", 
+  "[语音]\n在现在这样一个物欲横流的金钱社会里，竟然还能见到您这样的性情中人，无疑是我这辈子最大的幸运。让我深深感受到了人性的伟大", 
+  "[语音]\nwhat疑问 try again"
+]
+{
+  "content": "nbspnbspnbspnbsp一、本次会议召开情况", 
+  "url": "http://tieba.baidu.com/p/4614134091?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "软萌淑", 
+  "imgPath": "/data/lumppic/ac4bd11373f08202b52e5a5d49fbfbedab641b10.jpg"
+}
+[
+  "对绝大多数人来说，房子是个用品，居住用品。跟一个爱疯或者rot", 
+  "其实每个人心里都会有说不出的话，只当在这发泄一下好了，其实……真的很有用，我也是想帮帮那些心", 
+  "找,男闺蜜，来一发.", 
+  "4''", 
+  "处友，你想约么", 
+  "姐妹们认识我的祝福我们一起慢慢变老好吗…！", 
+  "。。。", 
+  "你会要我吗?", 
+  "我喜欢，大夫。", 
+  "31''\n在现在这样一个物欲横流的金钱社会里，竟然还能见到您这样的性情中人，无疑是我这辈子最大的幸运。让我深深感受到了人性的伟大", 
+  "31''\nwhat疑问 try again", 
+  "nbspnbspnbspnbsp一、本次会议召开情况"
+]
+Max Floor27
+Target Floor11
+find target floor
+[
+  "这难道就是爱不知所以吗", 
+  "老司机的辛苦你们不懂(溃莎嗅) Vxin: nanyin558 目前挺不错的一个 你们能懂吗", 
+  "分了三年多了，在梦里她交了新的男朋友，那男人一身痞气她还是傻傻的，我不服我不愿意她找这样的男", 
+  "你问我，我问你，你犹豫，让我等到了现在", 
+  "现在很多人早熟，然而22左右结婚对他们来说其实都算早婚，因为他们很迟成熟，所以婚后有很多问题常见", 
+  "[语音]\nMore ghosts, Brienne thought", 
+  "你的那个大大的，好想要", 
+  "找一个男友，大战三天四夜", 
+  "给我一个能感动女生的句子", 
+  "求交流啊", 
+  "路过，必须顶", 
+  "顶顶顶", 
+  "我迫不及待了 哈哈", 
+  "支持，此帖必火"
+]
+{
+  "content": "来源：英文雅虎", 
+  "url": "http://tieba.baidu.com/p/4614681183?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "软萌淑", 
+  "imgPath": "/data/lumppic/dc54564e9258d10901786dbbd358ccbf6c814d24.jpg"
+}
+[
+  "这难道就是爱不知所以吗", 
+  "老司机的辛苦你们不懂(溃莎嗅) Vxin: nanyin558 目前挺不错的一个 你们能懂吗", 
+  "分了三年多了，在梦里她交了新的男朋友，那男人一身痞气她还是傻傻的，我不服我不愿意她找这样的男", 
+  "你问我，我问你，你犹豫，让我等到了现在", 
+  "现在很多人早熟，然而22左右结婚对他们来说其实都算早婚，因为他们很迟成熟，所以婚后有很多问题常见", 
+  "1''\nMore ghosts, Brienne thought", 
+  "你的那个大大的，好想要", 
+  "找一个男友，大战三天四夜", 
+  "给我一个能感动女生的句子", 
+  "求交流啊", 
+  "路过，必须顶", 
+  "顶顶顶", 
+  "我迫不及待了 哈哈", 
+  "支持，此帖必火", 
+  "来源：英文雅虎"
+]
+Max Floor27
+Target Floor19
+find target floor
+[
+  "【软萌淑】一次就好，让我陪你到天荒地老", 
+  "相亲两个人都带眼镜接吻咋办啊。。。。。", 
+  "[语音]\n呵呵，我也这么觉得", 
+  "我只能眼睁睁的看着她们难过 不作什么表达 更帮不上什么忙", 
+  "啊啊啊 谢谢恩", 
+  "[语音]\nIt was midday when Brienne heard chanting drifting through the bare brown trees", 
+  "看贴吧这么久给兄弟们一点福利！我在微信jiangjialun1991看到了之前很火的母子系列视频的完整版！网站上的不完整！有半个多小时，那个女的在沙发上午睡，儿子就来搞！女的说：＂别这样儿子，我是你妈妈！＂儿子说：＂妈妈我要你！＂女的身材不错，毛很少！视频是高清，对话也清晰！我希望你们能回来赞我！", 
+  "@evil财神惰 看个标题就走了", 
+  "你可以来,满足我."
+]
+{
+  "content": "经多学科合作，“工程”对宾组卜辞中五次月食的年代进行证认，并计算出五次月食的绝对年代，参照文献所见商代积年和武丁及其后诸王年代的记载以及由周祭卜辞对商末三王年祀的研究，得出的克商年范围也在公元前1050—前1020年之间。", 
+  "url": "http://tieba.baidu.com/p/4616234219?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "软萌淑", 
+  "imgPath": "/data/lumppic/b21bb051f81986183ac624e648ed2e738ad4e6cb.jpg"
+}
+[
+  "【软萌淑】一次就好，让我陪你到天荒地老", 
+  "相亲两个人都带眼镜接吻咋办啊。。。。。", 
+  "31''\n呵呵，我也这么觉得", 
+  "我只能眼睁睁的看着她们难过 不作什么表达 更帮不上什么忙", 
+  "啊啊啊 谢谢恩", 
+  "2''\nIt was midday when Brienne heard chanting drifting through the bare brown trees", 
+  "看贴吧这么久给兄弟们一点福利！我在微信jiangjialun1991看到了之前很火的母子系列视频的完整版！网站上的不完整！有半个多小时，那个女的在沙发上午睡，儿子就来搞！女的说：＂别这样儿子，我是你妈妈！＂儿子说：＂妈妈我要你！＂女的身材不错，毛很少！视频是高清，对话也清晰！我希望你们能回来赞我！", 
+  "@evil财神惰 看个标题就走了", 
+  "你可以来,满足我.", 
+  "经多学科合作，“工程”对宾组卜辞中五次月食的年代进行证认，并计算出五次月食的绝对年代，参照文献所见商代积年和武丁及其后诸王年代的记载以及由周祭卜辞对商末三王年祀的研究，得出的克商年范围也在公元前1050—前1020年之间。"
+]
+Max Floor27
+Target Floor19
+find target floor
+[
+  "这些年掉发太多了，不知道怎么回事，烦人？", 
+  "这些年掉发太多了，不知道怎么回事，烦人?", 
+  "头发问题我可以帮你，以前我也是这样的，掉发厉害，后来看见一个吧友分享自己治疗脱发过程，我也试着按他说的用了3个月，结果完全好了，现在我头发浓密，也不会油腻。你也可以试试！点击 http://tieba.baidu.com/p/4573551426?521 就能看到帖子了", 
+  "[语音]\nShe appeared suddenly upon a dune, mounted on a golden sand steed with a mane like fine white silk", 
+  "请问有认识做认识做彩票的老板吗 手上有大量的单，现因庄家问题想找个有实力的庄家合作，有兴趣的私", 
+  "找,男闺蜜，来一发.", 
+  "你只想爱爱，我的口小。", 
+  "@fg9f888 为什么我吃冰工厂没有被冻住 ？为什么我用飘柔洗头感觉不到一点自信 ？", 
+  "你说我胸大难道有错,看", 
+  "好想喝哥哥的牛奶,哈哈", 
+  "@creatior 为什么我用了闪亮眼睛也没有闪亮起来 ？为什么我吃了绿箭妹子还是走了？", 
+  "[语音]\n然后呢", 
+  "[语音]\n不是你吗", 
+  "我有一个很聪明的办法 你用么", 
+  "掉头发不要着急，可以治好的，"
+]
+{
+  "content": "回报驱动型：这类人特别看重通过工作所获得回报，包括物质上、精神上等各个方面的回报。", 
+  "url": "http://tieba.baidu.com/p/4611395802?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "软萌淑", 
+  "imgPath": "/data/lumppic/43a7d933c895d143156ae02971f082025aaf079f.jpg"
+}
+[
+  "这些年掉发太多了，不知道怎么回事，烦人？", 
+  "这些年掉发太多了，不知道怎么回事，烦人?", 
+  "头发问题我可以帮你，以前我也是这样的，掉发厉害，后来看见一个吧友分享自己治疗脱发过程，我也试着按他说的用了3个月，结果完全好了，现在我头发浓密，也不会油腻。你也可以试试！点击 http://tieba.baidu.com/p/4573551426?521 就能看到帖子了", 
+  "2''\nShe appeared suddenly upon a dune, mounted on a golden sand steed with a mane like fine white silk", 
+  "请问有认识做认识做彩票的老板吗 手上有大量的单，现因庄家问题想找个有实力的庄家合作，有兴趣的私", 
+  "找,男闺蜜，来一发.", 
+  "你只想爱爱，我的口小。", 
+  "@fg9f888 为什么我吃冰工厂没有被冻住 ？为什么我用飘柔洗头感觉不到一点自信 ？", 
+  "你说我胸大难道有错,看", 
+  "好想喝哥哥的牛奶,哈哈", 
+  "@creatior 为什么我用了闪亮眼睛也没有闪亮起来 ？为什么我吃了绿箭妹子还是走了？", 
+  "31''\n然后呢", 
+  "31''\n不是你吗", 
+  "我有一个很聪明的办法 你用么", 
+  "掉头发不要着急，可以治好的，", 
+  "回报驱动型：这类人特别看重通过工作所获得回报，包括物质上、精神上等各个方面的回报。"
+]
+Max Floor24
+Target Floor17
+find target floor
+[
+  "妈的预算2500不知道买那个好了！！！！！", 
+  "一加～～小米～～ZUK～～～820～～～", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！"
+]
+{
+  "content": "第10场", 
+  "url": "http://tieba.baidu.com/p/4616338051?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "android", 
+  "imgPath": "/data/lumppic/472309f790529822bdd461c3d5ca7bcb0b46d4cf.jpg"
+}
+[
+  "妈的预算2500不知道买那个好了！！！！！", 
+  "一加～～小米～～ZUK～～～820～～～", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "第10场"
+]
+Max Floor42
+Target Floor2
+find target floor
+[
+  "天喵星人【06.17 天猫吧规】大家看哦靠这"
+]
+{
+  "content": "债是讨回来了，可我心里也沉甸甸的——网吧老板毕竟算是朋友的朋友，以前也一起吃过饭。为了讨债，打得人家鼻青脸肿，我于心不安。这样的事，我再也不想经历。于是索性卖掉股份，重新替人打工。", 
+  "url": "http://tieba.baidu.com/p/4615881725?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "天猫", 
+  "imgPath": "/data/lumppic/e7cd7b899e510fb32de48381da33c895d1430c22.jpg"
+}
+[
+  "天喵星人【06.17 天猫吧规】大家看哦靠这", 
+  "债是讨回来了，可我心里也沉甸甸的——网吧老板毕竟算是朋友的朋友，以前也一起吃过饭。为了讨债，打得人家鼻青脸肿，我于心不安。这样的事，我再也不想经历。于是索性卖掉股份，重新替人打工。"
+]
+Max Floor25
+Target Floor19
+find target floor
+[
+  "●●●想整或整过的都近来多给点意见吧:)●●●●", 
+  "我一开始也是想试试来着，并没有当真，因为反正是免费咨询的啊，问问又不要钱，然后就百度了【整么网 】这个网站，让他们客服帮我推荐了医院医生，我大概看了下，确实都是评价比较好的，后来我还是自己去医院看了，印象挺好的就做了，最终结果确实没有失望。", 
+  "做手术的话医院和医生的选择是很重要的，可以到【整么网 】这个网站上去查找医生，医院的信息。", 
+  "顶，还是不顶？我的思想进行着激烈的斗争。", 
+  "全程一股荔枝味", 
+  "在看完这帖子以后,我没有立即回复,因为我生怕我庸俗不堪的回复会玷污了这网上少有的帖子.但是我还是回复了,因为我觉得如果不能在如此精彩的帖子后面留下自己的网名,那我死也不会瞑目的!"
+]
+{
+  "content": "三联生活周刊：现实生活中，在公司运作里可能也有这些因素？", 
+  "url": "http://tieba.baidu.com/p/4607957940?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "隆鼻", 
+  "imgPath": "/data/lumppic/f2deb48f8c5494eee3fc45bc2ff5e0fe98257ebc.jpg"
+}
+[
+  "●●●想整或整过的都近来多给点意见吧:)●●●●", 
+  "我一开始也是想试试来着，并没有当真，因为反正是免费咨询的啊，问问又不要钱，然后就百度了【整么网 】这个网站，让他们客服帮我推荐了医院医生，我大概看了下，确实都是评价比较好的，后来我还是自己去医院看了，印象挺好的就做了，最终结果确实没有失望。", 
+  "做手术的话医院和医生的选择是很重要的，可以到【整么网 】这个网站上去查找医生，医院的信息。", 
+  "顶，还是不顶？我的思想进行着激烈的斗争。", 
+  "全程一股荔枝味", 
+  "在看完这帖子以后,我没有立即回复,因为我生怕我庸俗不堪的回复会玷污了这网上少有的帖子.但是我还是回复了,因为我觉得如果不能在如此精彩的帖子后面留下自己的网名,那我死也不会瞑目的!", 
+  "三联生活周刊：现实生活中，在公司运作里可能也有这些因素？"
+]
+Max Floor29
+Target Floor12
+find target floor
+[
+  "微星1077", 
+  "这款电脑值得入手么？性能怎么样？会不会很快发热？", 
+  "准备明天入1077 或867 ，看看优惠幅度\n1077某猫6300 送固态鼠标包啥的，不知道83这里有啥优惠咋样\n有路过的83 优惠幅度一样或者更低的话，私信下", 
+  "可以的，详细的找豪哥", 
+  "1077活动中", 
+  "1077不错的", 
+  "不错的，杭州微星实体店地址:杭州市西湖区学院路99号颐高学院店一楼1090"
+]
+{
+  "content": "越改革花钱越多出“怪圈”", 
+  "url": "http://tieba.baidu.com/p/4616288350?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "微星", 
+  "imgPath": "/data/lumppic/838ba61ea8d3fd1f721de95d324e251f95ca5f44.jpg"
+}
+[
+  "微星1077", 
+  "这款电脑值得入手么？性能怎么样？会不会很快发热？", 
+  "准备明天入1077 或867 ，看看优惠幅度\n1077某猫6300 送固态鼠标包啥的，不知道83这里有啥优惠咋样\n有路过的83 优惠幅度一样或者更低的话，私信下", 
+  "可以的，详细的找豪哥", 
+  "1077活动中", 
+  "1077不错的", 
+  "不错的，杭州微星实体店地址:杭州市西湖区学院路99号颐高学院店一楼1090"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:jheawu214
+Max Floor17
+Target Floor10
+find target floor
+[
+  "【视频】AKB48 柏木由紀・渡辺麻友 スペシャルコメント!神", 
+  "AKB48 柏木由紀・渡辺麻友 スペシャルコメント!神の手\n（又是什么骗钱企划？）", 
+  "卖总选现场空气的神企划", 
+  "什么鬼", 
+  "是卖空气吗……", 
+  "賣空氣"
+]
+{
+  "content": "损容性皮肤病与文饰", 
+  "url": "http://tieba.baidu.com/p/4615196144?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "渡边麻友", 
+  "imgPath": "/data/lumppic/96dda144ad345982028e6d820df431adcbef849e.jpg"
+}
+[
+  "【视频】AKB48 柏木由紀・渡辺麻友 スペシャルコメント!神", 
+  "AKB48 柏木由紀・渡辺麻友 スペシャルコメント!神の手\n（又是什么骗钱企划？）", 
+  "卖总选现场空气的神企划", 
+  "什么鬼", 
+  "是卖空气吗……", 
+  "賣空氣", 
+  "损容性皮肤病与文饰"
+]
+Max Floor16
+Target Floor2
+find target floor
+[
+  "今天麻友的直播几点开始啊，知道的人能说一下吗"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+<type 'dict'>
+{
+  "Result": "8937", 
+  "Id": "4e19a366-69e9-423c-88bc-601ce6ffd1d1"
+}
+8937
+<type 'unicode'>
+回贴成功！
+send ok!
+{
+  "content": "所以通过这个教训的建议是：考前一定要严格时间，真正按照考研的要求做几套题目，把时间的分配和答题的步骤搞搞好。", 
+  "url": "http://tieba.baidu.com/p/4616311805?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "渡边麻友", 
+  "imgPath": "/data/lumppic/0b55b319ebc4b7455499665fcdfc1e178a82156d.jpg"
+}
+[
+  "今天麻友的直播几点开始啊，知道的人能说一下吗", 
+  "所以通过这个教训的建议是：考前一定要严格时间，真正按照考研的要求做几套题目，把时间的分配和答题的步骤搞搞好。"
+]
+Max Floor35
+Target Floor18
+find target floor
+[
+  "今年的小麦怎么没有人收呀", 
+  "麦子没人要", 
+  "此话怎讲？", 
+  "太潮！以后肯定得涨价！", 
+  "大量收 你想卖多少钱吧"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+<type 'dict'>
+{
+  "Result": "2175", 
+  "Id": "26104991-9e1b-4857-8564-fc7400a5acc5"
+}
+2175
+<type 'unicode'>
+回贴成功！
+send ok!
+{
+  "content": "当时宫廷吸烟分为水、旱、潮和鼻烟4种。水烟的原料主要以兰州皮丝、青丝、幼丝（以上皆烟叶切制成丝之名称）燃吸之。", 
+  "url": "http://tieba.baidu.com/p/4616192622?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "定州", 
+  "imgPath": "/data/lumppic/1f178a82b9014a90efe79b18aa773912b21beebe.jpg"
+}
+[
+  "今年的小麦怎么没有人收呀", 
+  "麦子没人要", 
+  "此话怎讲？", 
+  "太潮！以后肯定得涨价！", 
+  "大量收 你想卖多少钱吧", 
+  "当时宫廷吸烟分为水、旱、潮和鼻烟4种。水烟的原料主要以兰州皮丝、青丝、幼丝（以上皆烟叶切制成丝之名称）燃吸之。"
+]
+Max Floor35
+Target Floor17
+find target floor
+[
+  "谁的c本快到期了借几分。哥们请", 
+  "谁的c本快到期了借几分。哥们请客不喜勿喷谢谢", 
+  "飘过", 
+  "我就知道你会飘过来", 
+  "几分", 
+  "我这可以扣七分", 
+  "我这是A2，好像不行", 
+  "心意领了谢谢a2扣了还得学习", 
+  "我这里有，多少钱", 
+  "没看主题吗"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+<type 'dict'>
+{
+  "Result": "6781", 
+  "Id": "39d60750-4cf4-43d2-aa03-a981c1a21a6b"
+}
+6781
+<type 'unicode'>
+回贴成功！
+send ok!
+{
+  "content": "现在我自由了，北京，你还能拿我怎么样，我喜欢这个城市，给我伤的不是你 ，是依附在你身上的败类。对不起 ，朋友，既然我自由了 ，我又有了选择的机会，工作上我又要有动作了。", 
+  "url": "http://tieba.baidu.com/p/4616228068?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "定州", 
+  "imgPath": "/data/lumppic/7dd98d1001e93901aee0533379ec54e737d196d9.jpg"
+}
+[
+  "谁的c本快到期了借几分。哥们请", 
+  "谁的c本快到期了借几分。哥们请客不喜勿喷谢谢", 
+  "飘过", 
+  "我就知道你会飘过来", 
+  "几分", 
+  "我这可以扣七分", 
+  "我这是A2，好像不行", 
+  "心意领了谢谢a2扣了还得学习", 
+  "我这里有，多少钱", 
+  "没看主题吗", 
+  "现在我自由了，北京，你还能拿我怎么样，我喜欢这个城市，给我伤的不是你 ，是依附在你身上的败类。对不起 ，朋友，既然我自由了 ，我又有了选择的机会，工作上我又要有动作了。"
+]
+Max Floor34
+Target Floor14
+find target floor
+[
+  "八王爷蒙古大营。", 
+  "物美价廉，有喜欢的来看看。", 
+  "嗯", 
+  "在哪", 
+  "不得热死了"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-17 17:40:40http%3A%2f%2ftieba.baidu.com%2fp%2f4616310291%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

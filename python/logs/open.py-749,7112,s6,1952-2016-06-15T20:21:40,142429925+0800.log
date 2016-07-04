@@ -1,0 +1,60 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465382865", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:47:45 GMT", "value": "1465381965,1465382423,1465382533,1465382865", "expiry": 1496918865, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "B5666B86A485B229", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:47:33 GMT", "value": "a9d5cbc1858df5140ec814ff69f0be984a631e4eb197506ac76ba8dfaf55e7b0", "expiry": 1724582853, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:47:33 GMT", "value": "3619b3348a358ad610e989f2c7b16221", "expiry": 1724582853, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:47:33 GMT", "value": "8f247cc9c13dd27624209643e9c71cebd627259223fc98f8ca", "expiry": 1724582853, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:47:33 GMT", "value": "0ZYSXhtV1gwUjJFMGlufllwSENjbW16YkUxZTQtUXF1c29qeWxrcUI0TEZoSDlYQVFBQUFBJCQAAAAAAAAAAAEAAAA6ozpSsbG53tLoxeHS6bq60vEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMX3V1fF91dXS", "expiry": 1724582853, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:47:33 GMT", "value": "fi_PncwhpxZ%7ETaJc7o3zlpI9tTosciavM6EzmyIo1w8Btc11zhzpzlgQu0nOacSwuJRhFv-XjOOe616sLsHTSYB9XRQw85y8YdxdyAWEI6YZvRTfj3zO8pryxgcx2OTvTFV4cCkRTZ8xM9obB80GOa6jKIP%7EA__", "expiry": 1724582853, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:47:33 GMT", "value": "63e164569c662e3a7d44dac991e558e4264a0918967e43978a16490cca5b1bb1d98c3fce42e7f22fc4e192c9ad4ed50fb283", "expiry": 1724582853, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:47:33 GMT", "value": "wapp_1465382729380_779", "expiry": 1724582853, "path": "/", "httponly": false, "secure": false}, {"domain": ".cnzz.com", "name": "cna", "expires": "\\u5468\\u516d, 06 6\\u6708 2026 10:46:50 GMT", "value": "kuXeD05IzBoCATookfYxXpoy", "expiry": 1780742810, "path": "/", "httponly": false, "secure": false}, {"domain": ".cnzz.mmstat.com", "name": "atpsida", "expires": "\\u5468\\u516d, 06 6\\u6708 2026 10:46:42 GMT", "value": "69e52e4bed5e02b46713fea3_1465382802", "expiry": 1780742802, "path": "/", "httponly": false, "secure": false}, {"domain": ".cnzz.mmstat.com", "name": "sca", "value": "81ab90c9", "path": "/", "httponly": false, "secure": false}, {"domain": ".mmstat.com", "name": "cna", "expires": "\\u5468\\u516d, 06 6\\u6708 2026 10:46:42 GMT", "value": "kuXeD05IzBoCATookfYxXpoy", "expiry": 1780742802, "path": "/", "httponly": false, "secure": false}, {"domain": "news.766ba.net", "name": "CNZZDATA1259464672", "expires": "\\u5468\\u4e09, 07 12\\u6708 2016 10:46:25 GMT", "value": "1062798908-1465379927-http%253A%252F%252Ftieba.baidu.com%252F%7C1465379927", "expiry": 1481107585, "path": "/", "httponly": false, "secure": false}, {"domain": "news.766ba.net", "name": "JSESSIONID", "value": "2C3910440A746A9463D794C6D5E8ACCA", "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:46:00 GMT", "value": "1", "expiry": 1465469160, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:45:44 GMT", "value": "1", "expiry": 1465469144, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:45:44 GMT", "value": "568", "expiry": 1496486744, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:45:44 GMT", "value": "320", "expiry": 1496486744, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:45:29 GMT", "value": "DC5C77FBCD33C47461957E6419EA344A:FG=1", "expiry": 1496918729, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 01 6\\u6708 2046 10:45:29 GMT", "value": "wapp_1465382729380_779", "expiry": 2411462729, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "783d41e25dc284fec43c37a0", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:北罐诣裴议汉荫
+Max Floor23
+Target Floor13
+find target floor
+[
+  "日妆种草拔草录～", 
+  "日本护肤发烧友～来种草拔草～", 
+  "下面我会分享一些自用的护肤品和彩妆～", 
+  "有兴趣可以看看哦", 
+  "会持续更新～", 
+  "有人看吗", 
+  "sk2清莹露 和神仙水是搭档 在我来说就像清洁水 算是洗脸后的二次清洁 用在神仙水之前 然后是神仙水～先来吐槽一下他的味道 真的是有股口水味儿。。刚用的时候有点刺痛 但是慢慢的觉得爱上了他 皮肤感觉变的光滑 毛孔也小了 是我的心理作用吗 反正是入了这个坑了～～～", 
+  "图片拍的有点渣～就是那么随手一拍 没办法小清新 凑合看不要嫌弃哟～", 
+  "不一定全是日本的 就是我觉得比较好用的 安利给大家～", 
+  "经典产品 雪花秀的当家花旦 有压嘴 使用方便 干净卫生 焦糖色透明液体 香味有种药材的味道 吸收快 不油不腻 这是水前精华 应该和肌底液的功能差不多 促进后续产品吸收 会无限回购的一个产品", 
+  "科颜氏牛油果眼霜～ 这个有点不太好推 建议两只无名指在一起搓搓再涂眼睛 涂开很水 这个14g都可以用很久 感觉更适合年轻的妹子 眼霜一定要用啊！不然以后长干纹就来不及了", 
+  "码住", 
+  "爱熬夜的我 小棕瓶真是我的救星 晚上用完脸亮亮的 可以均匀肤色 ～～～不是只有四十岁才能用雅诗兰黛哦", 
+  "明天更～", 
+  "有人看吗", 
+  "收藏了", 
+  "雪肌精 我已经用了三瓶 这瓶快见底了 我觉得特别适合夏天 搭配着kose纸膜 或者用化妆棉湿敷 很舒服～有人说有股酒精味 确实是有 但是我能接受 还挺喜欢那味道 而且真的有美白的作用 感觉自己有变白", 
+  "这是我刚买的 haba焕鲨油 据说这个特别适合角质层薄的人 和haba G露搭配着使用效果更佳 我是只买了一个油～期待效果 我发现用粉底液的时候加一滴特别服帖～", 
+  "明天更 有小伙伴看吗～", 
+  "有的有的#(#(开心)其实是想看有没有关于fancl柔滑洁面粉的……。等你明天更噢"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 20:22:50http%3A%2f%2ftieba.baidu.com%2fp%2f4604966904%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

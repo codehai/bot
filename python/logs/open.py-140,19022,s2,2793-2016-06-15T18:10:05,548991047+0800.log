@@ -1,0 +1,198 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": "tieba.baidu.com", "name": "PMS_JT", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 11:14:34 GMT", "value": "%28%7B%22s%22%3A1465902859995%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29", "expiry": 1465902874, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "TIEBAUID", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "d96b8929df47676864d1d29c", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:14:15 GMT", "value": "85125f4e2fe76e9291a08c8b6360820c796b0e0b372d79cdc3c53dd58194d2e3", "expiry": 1725102855, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:14:15 GMT", "value": "144f2ff5c5a487efdd7aaa3e9f2673b9", "expiry": 1725102855, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:14:15 GMT", "value": "075690415f8f1ed26f4d883dddf45bbd", "expiry": 1725102855, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:14:15 GMT", "value": "s0WU9BbkdyfmkwMm80UFE5QnVKY1J0QUpDSXdMLXlKRVVLdWIta0gxOEhkSWRYQVFBQUFBJCQAAAAAAAAAAAEAAADuH41Kb3Vhb3BlYTU4MDU2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfnX1cH519Xb0", "expiry": 1725102855, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:14:15 GMT", "value": "fi_PncwhpxZ%7ETaJc3niSJic-0GpS8bJGAvQmiTj6qB3mw7T8EdMoO8byB55-8xRy1X7x5r2Q5H%7Et3hE8NrA0SXdS-m8ziWoM9BzmKoslT78wdDkAOVGIQn4fF8AYZu%7E92Ch-B3Iunw7IPkv3ALNCvhaQuGvRQ__", "expiry": 1725102855, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:14:15 GMT", "value": "421a2a76d88b6e4987cecbc2a3dbb41af2e59fe6", "expiry": 1725102855, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:14:15 GMT", "value": "wapp_1465902792467_623", "expiry": 1725102855, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:13:41 GMT", "value": "1", "expiry": 1465989221, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:13:27 GMT", "value": "1", "expiry": 1465989207, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:13:27 GMT", "value": "568", "expiry": 1497006807, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:13:27 GMT", "value": "320", "expiry": 1497006807, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:13:12 GMT", "value": "7210FE42D7560DF648B52720F83077CB:FG=1", "expiry": 1497438792, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:13:12 GMT", "value": "wapp_1465902792467_623", "expiry": 2411982792, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "ae4849f4ba1bb24a5440beb0", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:ouaopea58056
+Max Floor9
+Target Floor8
+find target floor
+[
+  "【娱乐八卦】去陕西的经历", 
+  "地点：陕西 去银行办业务，前面一大姐办理完急忙离开，我发现她手机忘了拿，我急忙用普通话而且音妥的比较长大喊：“大姐大姐大姐“，结果她跑的更快了，周围的人也迅速和我保持距离，更有甚者爬到地上，我正纳闷呢突然被人从后面按到地上，然后听到“打劫的这货逮住列，大家包怕，一会弄死这碎逼“\nhttp://www.699633.com/699.php?id=185&amp;sign=tieba", 
+  "你像夏天，每一年都来我的生命里绽放，可不知道哪一次是永别，遮住艳阳，带走花香，连同南飞的大雁劫走我渺小的盼望。幸好四季流转轮回，让我有了理由觊觎下一季的繁花。你若真的来，我便等下去。你若南飞，我便追随。一生中，四季里只过夏天。", 
+  "每个成功男人的背后，都有个折磨他的女人。", 
+  "我大约德尔人镇楼，大家好，我不是小明！", 
+  "规则: ，从开始倒数 ，不能连续两楼是同一个人。 (据说天空之城吧用了年才完成，林志炫吧现在", 
+  "在对的时间，遇见对的人，是一生幸福；在对的时间，遇见错的人，是一场心伤；在错的时间，遇见错的人，是一段荒唐；在错的时间，遇见对的人，是一阵叹息。", 
+  "一直都想着他，折磨自己对吗？他都已经放下爱上了另一个她，过去的情话 回忆全是伤疤，骗自己成全他", 
+  "让自己尽快成为本行的专家——只要功夫深，铁杵磨成针。", 
+  "d", 
+  "那些年华，恍然如梦。 亦如，流水，一去不返。 不泣离别，不诉终殇。", 
+  "一点都不错", 
+  "吃不到的醋最酸", 
+  "谁信啊", 
+  "和她相恋369天 幸福的369天 我们要把这369的幸福一延续下去"
+]
+{
+  "content": "体重标准有上限", 
+  "url": "http://tieba.baidu.com/p/4550608275?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "八卦", 
+  "imgPath": "/data/lumppic/bd315c6034a85edf26a03b2e4b540923dd54758b.jpg"
+}
+[
+  "【娱乐八卦】去陕西的经历", 
+  "地点：陕西 去银行办业务，前面一大姐办理完急忙离开，我发现她手机忘了拿，我急忙用普通话而且音妥的比较长大喊：“大姐大姐大姐“，结果她跑的更快了，周围的人也迅速和我保持距离，更有甚者爬到地上，我正纳闷呢突然被人从后面按到地上，然后听到“打劫的这货逮住列，大家包怕，一会弄死这碎逼“\nhttp://www.699633.com/699.php?id=185&amp;sign=tieba", 
+  "你像夏天，每一年都来我的生命里绽放，可不知道哪一次是永别，遮住艳阳，带走花香，连同南飞的大雁劫走我渺小的盼望。幸好四季流转轮回，让我有了理由觊觎下一季的繁花。你若真的来，我便等下去。你若南飞，我便追随。一生中，四季里只过夏天。", 
+  "每个成功男人的背后，都有个折磨他的女人。", 
+  "我大约德尔人镇楼，大家好，我不是小明！", 
+  "规则: ，从开始倒数 ，不能连续两楼是同一个人。 (据说天空之城吧用了年才完成，林志炫吧现在", 
+  "在对的时间，遇见对的人，是一生幸福；在对的时间，遇见错的人，是一场心伤；在错的时间，遇见错的人，是一段荒唐；在错的时间，遇见对的人，是一阵叹息。", 
+  "一直都想着他，折磨自己对吗？他都已经放下爱上了另一个她，过去的情话 回忆全是伤疤，骗自己成全他", 
+  "让自己尽快成为本行的专家——只要功夫深，铁杵磨成针。", 
+  "d", 
+  "那些年华，恍然如梦。 亦如，流水，一去不返。 不泣离别，不诉终殇。", 
+  "一点都不错", 
+  "吃不到的醋最酸", 
+  "谁信啊", 
+  "和她相恋369天 幸福的369天 我们要把这369的幸福一延续下去", 
+  "体重标准有上限"
+]
+Max Floor9
+Target Floor7
+find target floor
+[
+  "他不喜欢拍照，也不喜欢说笑，他总是说我自恋的很，结果现在他不在", 
+  "我就是不结婚，我就是不谈恋爱，我相信一个人也可以活出自己的精彩。这个时代的爱情，廉价的让人反胃。", 
+  "笑死你哟......", 
+  "95年，天秤女，爱自由也想有个家", 
+  "你为什么不谈恋爱？ 因为遇不到合适，让我去放弃享受一个人的美好 你为什么不结婚？ 因为我不想为了", 
+  "lol上分攻略tb电铺搜索：西瓜你个呱呱呱", 
+  "处伙伴，只要10J以上的想约可加!么么哒!"
+]
+{
+  "content": "Haifa小姐现在是一名舞蹈老师，她8岁开始进行舞蹈训练，14岁时,她将突尼斯民族舞蹈作为自己的专业，并且在17岁时成为专业的舞蹈家。8年前，她成立了属于她自己的乐队。", 
+  "url": "http://tieba.baidu.com/p/4612570588?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "八卦", 
+  "imgPath": "/data/lumppic/dcc451da81cb39db09054b1ed2160924aa1830b4.jpg"
+}
+[
+  ""
+]
+Max Floor21
+Target Floor15
+find target floor
+[
+  "[微博 160613]陆毅更博 出游红宝书 #养娃不用再吃土#", 
+  "《胭脂》周宇浩新图", 
+  "陆毅的微博：http://weibo.com/luyi", 
+  "娱乐不忘工作阿61宝宝最近更博好勤快～我喜欢", 
+  "陆毅更博好高速", 
+  "这广告配合陆毅东欧游。赞！", 
+  "赞的人真少"
+]
+{
+  "content": "4月10日，江苏省连云港市军地联合下发《关于规范乡镇武装部长工作的实施意见》，一些乡镇武装部长也卸下了招商引资、土地管理等工作重担。", 
+  "url": "http://tieba.baidu.com/p/4608130964?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "陆毅", 
+  "imgPath": "/data/lumppic/908fa0ec08fa513dd8b568d43f6d55fbb2fbd999.jpg"
+}
+[
+  "[微博 160613]陆毅更博 出游红宝书 #养娃不用再吃土#", 
+  "《胭脂》周宇浩新图", 
+  "陆毅的微博：http://weibo.com/luyi", 
+  "娱乐不忘工作阿61宝宝最近更博好勤快～我喜欢", 
+  "陆毅更博好高速", 
+  "这广告配合陆毅东欧游。赞！", 
+  "赞的人真少", 
+  "4月10日，江苏省连云港市军地联合下发《关于规范乡镇武装部长工作的实施意见》，一些乡镇武装部长也卸下了招商引资、土地管理等工作重担。"
+]
+Max Floor14
+Target Floor11
+find target floor
+[
+  "┌PS々【软件下载】ps各种版本下载"
+]
+{
+  "content": "——临沧古茶资源丰富。临沧是世界茶树的起源地，茶树资源十分丰富，是古茶树遗产存量最大、最具有代表性的地区，拥有当今世界最粗、树龄最长的古茶树。全市现有野生古茶树28万亩，栽培型古茶园61万亩。", 
+  "url": "http://tieba.baidu.com/p/4612374704?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "ps教程", 
+  "imgPath": "/data/lumppic/f3d3572c11dfa9ec4acf047f60d0f703908fc1f1.jpg"
+}
+[
+  "┌PS々【软件下载】ps各种版本下载"
+]
+Max Floor17
+Target Floor6
+find target floor
+[
+  "IU-Ready『图图』160615◇Mexicana Chicken官方FB更新1P", 
+  "“软豆腐 捏捏捏”白雪公主色搭配下衬出的李IU也嫩得想让人捏捏呢\n【资源：小雪】\ncr.onlyU-IU中国首站", 
+  "我老婆真美", 
+  "[语音]", 
+  "懂得一起啪.啪.啪"
+]
+{
+  "content": "12", 
+  "url": "http://tieba.baidu.com/p/4612275758?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "iu", 
+  "imgPath": "/data/lumppic/72f082025aafa40f4c1713dda964034f79f019d8.jpg"
+}
+[
+  "IU-Ready『图图』160615◇Mexicana Chicken官方FB更新1P", 
+  "“软豆腐 捏捏捏”白雪公主色搭配下衬出的李IU也嫩得想让人捏捏呢\n【资源：小雪】\ncr.onlyU-IU中国首站", 
+  "我老婆真美", 
+  "4''", 
+  "懂得一起啪.啪.啪", 
+  "12"
+]
+Max Floor17
+Target Floor11
+find target floor
+[
+  "IU-Ready『消息』160614◇IU点赞姜汉娜INS", 
+  "我们的小公举终于粗线在INS了\n看来两个人都很喜欢这只兔子哈\n\n配文：“Rollin，这就是你的生活” 所以这是在拍什么戏呢？或许两人在一起？\n\n【资源：小雪】\ncr.onIyU-IU中国首站", 
+  "表白知恩小公举", 
+  "喔哇哇哇", 
+  "可爱", 
+  "孤剑，指尖，谈笑。 人生，壮哉!", 
+  "可爱也！！！", 
+  "嗯哼", 
+  "又想到iu穿兔子衣服的样子了，可爱。", 
+  "我要,我要,我要,", 
+  "想问下，iu有回复ins粉丝留言的习惯吗"
+]
+{
+  "content": "教育部日前公布第一批国家级实验教学示范中心名单（附后）。教育部强调，在全国本科院校开展实验教学示范中心建设和评审工作，是《2003－2007年教育振兴行动计划》的重要组成部分，是提升办学水平和教育质量的重要举措。各省级教育行政部门和主管部门要高度重视，完善相关政策、加大经费投入，进一步推进高等学校实验教学示范中心建设工作，形成国家级、省级两极实验教学示范体系。同时，积极组织、推动本地区、本部门高等学校与国家级、省级实验教学示范中心的交流与合作，充分发挥实验教学示范体系的示范辐射作用。　　附件：　　第一批国家级实验教学示范中心名单　　物理类：　　　　　　北京大学基础物理实验教学中心　　中国科学技术大学物理实验教学中心　　南京大学物理学实验教学中心　　上海交通大学物理实验中心　　北京交通大学物理实验中心　　西安交通大学物理教学实验中心　　化学类：　　　　　　　　　　南京大学化学实验教学中心　　北京大学化学基础实验教学中心　　厦门大学化学实验教学中心　　浙江大学化学实验教学中心　　南开大学化学实验教学中心　　中山大学化学实验教学中心　　天津大学化学化工实验教学中心　　大连理工大学基础化学实验中心　　生物类：　　　　　　清华大学现代生命科学实验教学中心　　武汉大学生物学实验教学中心　　复旦大学生物科学实验教学中心　　厦门大学生命科学实验教学中心　　吉林大学生物基础实验教学中心　　电子类：　　　　　　华南大学电工电子实验教学中心　　西安电子科技大学电工电子实验中心　　北京理工大学电工电子教学实验中心　　电子科技大学电子实验中心　　哈尔滨工程大学电工电子实验教学中心", 
+  "url": "http://tieba.baidu.com/p/4610905667?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "iu", 
+  "imgPath": "/data/lumppic/55e736d12f2eb9389b34cefbd7628535e5dd6f59.jpg"
+}
+[
+  "IU-Ready『消息』160614◇IU点赞姜汉娜INS", 
+  "我们的小公举终于粗线在INS了\n看来两个人都很喜欢这只兔子哈\n\n配文：“Rollin，这就是你的生活” 所以这是在拍什么戏呢？或许两人在一起？\n\n【资源：小雪】\ncr.onIyU-IU中国首站", 
+  "表白知恩小公举", 
+  "喔哇哇哇", 
+  "可爱", 
+  "孤剑，指尖，谈笑。 人生，壮哉!", 
+  "可爱也！！！", 
+  "嗯哼", 
+  "又想到iu穿兔子衣服的样子了，可爱。", 
+  "我要,我要,我要,", 
+  "想问下，iu有回复ins粉丝留言的习惯吗", 
+  "教育部日前公布第一批国家级实验教学示范中心名单（附后）。教育部强调，在全国本科院校开展实验教学示范中心建设和评审工作，是《2003－2007年教育振兴行动计划》的重要组成部分，是提升办学水平和教育质量的重要举措。各省级教育行政部门和主管部门要高度重视，完善相关政策、加大经费投入，进一步推进高等学校实验教学示范中心建设工作，形成国家级、省级两极实验教学示范体系。同时，积极组织、推动本地区、本部门高等学校与国家级、省级实验教学示范中心的交流与合作，充分发挥实验教学示范体系的示范辐射作用。　　附件：　　第一批国家级实验教学示范中心名单　　物理类：　　　　　　北京大学基础物理实验教学中心　　中国科学技术大学物理实验教学中心　　南京大学物理学实验教学中心　　上海交通大学物理实验中心　　北京交通大学物理实验中心　　西安交通大学物理教学实验中心　　化学类：　　　　　　　　　　南京大学化学实验教学中心　　北京大学化学基础实验教学中心　　厦门大学化学实验教学中心　　浙江大学化学实验教学中心　　南开大学化学实验教学中心　　中山大学化学实验教学中心　　天津大学化学化工实验教学中心　　大连理工大学基础化学实验中心　　生物类：　　　　　　清华大学现代生命科学实验教学中心　　武汉大学生物学实验教学中心　　复旦大学生物科学实验教学中心　　厦门大学生命科学实验教学中心　　吉林大学生物基础实验教学中心　　电子类：　　　　　　华南大学电工电子实验教学中心　　西安电子科技大学电工电子实验中心　　北京理工大学电工电子教学实验中心　　电子科技大学电子实验中心　　哈尔滨工程大学电工电子实验教学中心"
+]
+2016-06-15 18:18:00http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3Diu%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7.png
+Traceback (most recent call last):
+  File "open.py", line 234, in <module>
+    ActionChains(driver).click(driver.find_element_by_id('btn')).perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 299.101
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

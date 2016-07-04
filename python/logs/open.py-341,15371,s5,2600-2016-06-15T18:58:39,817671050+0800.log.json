@@ -1,0 +1,353 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465900134",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:28:54 GMT",
+			"value": "1465899995,1465900111,1465900116,1465900134",
+			"expiry": 1497436134,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "3DFA4271E0CA2F1E",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:42 GMT",
+			"value": "0252e1c3fd056d346d28a2fed7eb68db3f315c0095503af2ef24b6cc7b03b09e",
+			"expiry": 1725100122,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:42 GMT",
+			"value": "53feb302ad418cd195462e4302c210f6",
+			"expiry": 1725100122,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:42 GMT",
+			"value": "a19f449e2a81240c879e5da40bfa808423ba",
+			"expiry": 1725100122,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:42 GMT",
+			"value": "FBJbEIxcklqQnJHeVg0SmlKQ3FPd0c5aVFQN1BQb3pKNExxWXVTSDFpQmFhWWRYQVFBQUFBJCQAAAAAAAAAAAEAAADjaDBVY2hlbnpoeW9uZ3gzMDgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFrcX1da3F9XU",
+			"expiry": 1725100122,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:42 GMT",
+			"value": "fi_PncwhpxZ%7ETaJcyaGYTR7n4sgVQg8nTjPrrHr2D1ut48aQogvWylPyxEGwWElADJQyDXFYMBrpghZjIvpLeRrB4s06SU7YA4S7Wub98GFk2pkwNMB2BiB4RQ339KGwIMCd1IN6ITEg5096QhYqqu5bkFvag__",
+			"expiry": 1725100122,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:42 GMT",
+			"value": "d3d9fb1076697692810b292289844d00074bd7ee7b8c",
+			"expiry": 1725100122,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:42 GMT",
+			"value": "wapp_1465900042657_956",
+			"expiry": 1725100122,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:28:03 GMT",
+			"value": "1",
+			"expiry": 1465986483,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:27:39 GMT",
+			"value": "1",
+			"expiry": 1465986459,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:27:39 GMT",
+			"value": "568",
+			"expiry": 1497004059,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:27:39 GMT",
+			"value": "320",
+			"expiry": 1497004059,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:27:22 GMT",
+			"value": "5AFE0A65B05BB585F7207EF70D1DC51E:FG=1",
+			"expiry": 1497436042,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:27:22 GMT",
+			"value": "wapp_1465900042657_956",
+			"expiry": 2411980042,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "2da17e7c7ce3e970a68cfcc5",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:chenzhyongx308",
+	"Max Floor18",
+	"Target Floor12",
+	"find target floor",
+	[
+		"啦啦啦，求各位帮帮忙",
+		"我有一张图片，不过这个只是组图的其中一幅，求有其他三幅图的人赠图",
+		"有人来吗",
+		"@笙尽笙离"
+	],
+	"",
+	{
+		"content": "600022 Ｇ济钢 4.39 4.99",
+		"url": "http://tieba.baidu.com/p/4607179853?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "夏目友人帐",
+		"imgPath": "/data/lumppic/8ad4b31c8701a18b6cb1004e9c2f07082838fe5d.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor17",
+	"Target Floor13",
+	"find target floor",
+	[
+		"画一幅超大夏目",
+		"已经画好差上色了（上色中……）",
+		"上完色后再发图……😃"
+	],
+	"",
+	{
+		"content": "就这样不断地重复，周而复始，没有空闲。渐渐地，小娟开始厌倦自己的工作，厌倦为写而写的文字，她感到自己的心绪和激情正在走向枯竭，她感到了危机。为了自救，小娟开始强迫自己，恢复以前每天阅读的习惯，无论工作再忙，她都会抽空营造一个阅读环境，去看一些完全是自己喜欢的书籍或文章，其中也包",
+		"url": "http://tieba.baidu.com/p/4612669707?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "夏目友人帐",
+		"imgPath": "/data/lumppic/d50735fae6cd7b896e3dfd8e0d2442a7d9330e6e.jpg"
+	},
+	"",
+	[
+		"画一幅超大夏目",
+		"已经画好差上色了（上色中……）",
+		"上完色后再发图……😃",
+		"就这样不断地重复，周而复始，没有空闲。渐渐地，小娟开始厌倦自己的工作，厌倦为写而写的文字，她感到自己的心绪和激情正在走向枯竭，她感到了危机。为了自救，小娟开始强迫自己，恢复以前每天阅读的习惯，无论工作再忙，她都会抽空营造一个阅读环境，去看一些完全是自己喜欢的书籍或文章，其中也包"
+	],
+	"",
+	"Max Floor17",
+	"Target Floor2",
+	"find target floor",
+	[
+		"啦啦啦，求各位帮帮忙",
+		"我有一张图片，不过这个只是组图的其中一幅，求有其他三幅图的人赠图",
+		"有人来吗",
+		"@笙尽笙离"
+	],
+	"",
+	{
+		"content": "最关注：景点是否拥挤",
+		"url": "http://tieba.baidu.com/p/4607179853?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "夏目友人帐",
+		"imgPath": "/data/lumppic/a08b87d6277f9e2fa0e546081d30e924b999f3da.jpg"
+	},
+	"",
+	[
+		"啦啦啦，求各位帮帮忙",
+		"我有一张图片，不过这个只是组图的其中一幅，求有其他三幅图的人赠图",
+		"有人来吗",
+		"@笙尽笙离",
+		"最关注：景点是否拥挤"
+	],
+	"",
+	"Max Floor17",
+	"Target Floor5",
+	"find target floor",
+	[
+		"我发表了一篇图片贴，大伙来看看吧~",
+		"分享一下我滴收藏",
+		"娘口三三萌萌哒",
+		"我和前男友是网恋的，分手四个月了。我删了他QQ，忘记了他！以后我再也不会和他联系了！他和他现任男"
+	],
+	"",
+	{
+		"content": "nbspnbspnbspnbsp",
+		"url": "http://tieba.baidu.com/p/4604529479?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "夏目友人帐",
+		"imgPath": "/data/lumppic/241f95cad1c8a7867bdb797c6509c93d71cf50ca.jpg"
+	},
+	"",
+	[
+		"我发表了一篇图片贴，大伙来看看吧~",
+		"分享一下我滴收藏",
+		"娘口三三萌萌哒",
+		"我和前男友是网恋的，分手四个月了。我删了他QQ，忘记了他！以后我再也不会和他联系了！他和他现任男",
+		"nbspnbspnbspnbsp"
+	],
+	"",
+	"Max Floor17",
+	"Target Floor17",
+	"find target floor",
+	[
+		"。",
+		"@男宠 id出吗"
+	],
+	"",
+	{
+		"content": "所谓“绿色东北”，就是要在新的发展观的指导下，在实施振兴战略中，正确处理经济发展与人口、生态环境、资源的关系，创造经济、社会、环境良性循环、协调发展的新模式，努力把东北地区塑造成我国及东北亚地区的生态优良区和生态产业基地，以促进东北老工业基地调整改造振兴和粮食安全基地建设，促进东北地区的全面振兴和可持续发展。",
+		"url": "http://tieba.baidu.com/p/4612571139?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "夏目友人帐",
+		"imgPath": "/data/lumppic/472309f7905298225f7e03cdd5ca7bcb0a46d46a.jpg"
+	},
+	"",
+	[
+		"。",
+		"@男宠 id出吗",
+		"所谓“绿色东北”，就是要在新的发展观的指导下，在实施振兴战略中，正确处理经济发展与人口、生态环境、资源的关系，创造经济、社会、环境良性循环、协调发展的新模式，努力把东北地区塑造成我国及东北亚地区的生态优良区和生态产业基地，以促进东北老工业基地调整改造振兴和粮食安全基地建设，促进东北地区的全面振兴和可持续发展。"
+	],
+	"",
+	"Max Floor34",
+	"Target Floor15",
+	"find target floor",
+	[
+		"【魅杂谈·06.13】瞅瞅新电池",
+		"来自iPhone9s 128G 钛合金碳纤维满钻乔布斯临终签名鳄鱼皮镶翡翠顶级vip定制限量瞳孔识别版土豪金客户端+VERTU镶他妈的108颗钻石皇家M2香槟当洗脚水殿堂级客户端\n1分钟前 迪拜帆船酒店豪华总统套房",
+		"还特么可以，反正我是满足了\n\n来自iPhone9s 128G 钛合金碳纤维满钻乔布斯临终签名鳄鱼皮镶翡翠顶级vip定制限量瞳孔识别版土豪金客户端+VERTU镶他妈的108颗钻石皇家M2香槟当洗脚水殿堂级客户端\n1分钟前 迪拜帆船酒店豪华总统套房",
+		"楼主用妹4玩的狂野飙车8？？",
+		"作为一个贴吧萌新，我发誓水到7级就不水了，别说我已经10级了，我懒得改\n也别说我才3级，是你们瞎了，看错了",
+		"楼主在哪里买的电池",
+		"私信下店铺",
+		"私密店铺 谢谢",
+		"搜索结果，第二个\n\n来自iPhone9s 128G 钛合金碳纤维满钻乔布斯临终签名鳄鱼皮镶翡翠顶级vip定制限量瞳孔识别版土豪金客户端+VERTU镶他妈的108颗钻石皇家M2香槟当洗脚水殿堂级客户端\n1分钟前 迪拜帆船酒店豪华总统套房",
+		"都还在坚持用cm吗？",
+		"刷过一次cm失败成砖，CM是怎么刷的，求教"
+	],
+	"",
+	{
+		"content": "90分钟16毫米彩色故事片",
+		"url": "http://tieba.baidu.com/p/4608009330?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "魅族mx4",
+		"imgPath": "/data/lumppic/7c1ed21b0ef41bd51011cbf453da81cb39db3d6b.jpg"
+	},
+	"",
+	"2016-06-15 19:00:42http%3A%2f%2ftieba.baidu.com%2fp%2f4608009330%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 304, in <module>",
+	"    floorContent()",
+	"  File \"open.py\", line 133, in floorContent",
+	"    postContent = p.find_element_by_class_name('content').text",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py\", line 265, in find_element_by_class_name",
+	"    return self.find_element(by=By.CLASS_NAME, value=name)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py\", line 477, in find_element",
+	"    {\"using\": by, \"value\": value})['value']",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py\", line 457, in _execute",
+	"    return self._parent.execute(command, params)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 233, in execute",
+	"    self.error_handler.check_response(response)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 194, in check_response",
+	"    raise exception_class(message, screen, stacktrace)",
+	"selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document",
+	"  (Session info: chrome=38.0.2125.104)",
+	"  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)",
+	""
+]

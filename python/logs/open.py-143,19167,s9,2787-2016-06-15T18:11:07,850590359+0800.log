@@ -1,0 +1,52 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465902757", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:12:37 GMT", "value": "1465902528,1465902661,1465902752,1465902757", "expiry": 1497438757, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "04A16E443382FB71", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:12:26 GMT", "value": "c3c6dcc84339ae7a5d585ed46973216c75434edb43f25a6143c0c0128c7cb624", "expiry": 1725102746, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:12:26 GMT", "value": "f424fe796588204e088a6cc982b86c0a", "expiry": 1725102746, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:12:26 GMT", "value": "6dbc05cead88395cacc2eded3af39c", "expiry": 1725102746, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:12:26 GMT", "value": "taVEF2anJTOUhKdmpiWHA4fjlnWnZFWDF-TXFoYjFzUDdtY2t3aldMdVpjNGRYQVFBQUFBJCQAAAAAAAAAAAEAAACphsJIdHVpcGt6aTU5MzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJnmX1eZ5l9XYm", "expiry": 1725102746, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:12:26 GMT", "value": "fi_PncwhpxZ%7ETaJc-bO33OZykziM4mQtqgympDlnd0YiV7UYhdYGWNFYPS3SUvjt1rNkz1Ao2ARUxOE8ugKwMnrw7DxwMnQtTelGreGk4Xss9CwYBVdIh858qo%7EvN2nYRZ9s%7EvBlTlmyZyzOi2wx0Rjz1nSoQ__", "expiry": 1725102746, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:12:26 GMT", "value": "0bcb291680894eed52f7bbb70cfc512a812217", "expiry": 1725102746, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:12:26 GMT", "value": "wapp_1465902679978_333", "expiry": 1725102746, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:11:49 GMT", "value": "1", "expiry": 1465989109, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:11:35 GMT", "value": "1", "expiry": 1465989095, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:11:35 GMT", "value": "568", "expiry": 1497006695, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:11:35 GMT", "value": "320", "expiry": 1497006695, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:11:20 GMT", "value": "721E2BB8BE0621A7BEA87C0A92432D56:FG=1", "expiry": 1497438680, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:11:19 GMT", "value": "wapp_1465902679978_333", "expiry": 2411982679, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "85ff978c08f66c76891409b3", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:tuipkzi5930
+Max Floor8
+Target Floor6
+find target floor
+[
+  "野燕麦有没有功效", 
+  "【菩优】的野燕麦适合所有18-60岁的所有成年男性使用。一个疗程平均能增长3-6CM，粗度增加大约25%-30%左右。同时性功能也达到长远稳定性的改善，延长性爱时间及勃起之后的力度和硬。!", 
+  "要知道野燕麦是一种天然植物，作为一种天然的植物，其所具有的安全性就一定要比一些化学制剂方法更加具有安全性。另外野燕麦也是经过数千年的服用使用历史的，所以在具体服用当中其安全性是经过数以亿计人次的服用使用，因此安全性绝对是可以肯定的。另外野燕麦是使用了一种温和全面的调节身体机能，这种特殊的调节功效也绝对是其他药物所不能取代的，所以在服用当中安全性也是所有其他产品所不能够取代的。【菩优】就有野燕麦", 
+  "【菩优】的野燕麦适应亚健康人群的作用是什么？野燕麦当中所含有的特殊生物碱以及丰富的氨基酸成分，是直接具有减轻目前繁重的工作生活压力的 ，在具体使用当中能够很快小戳我们在生活以及工作当中的困乏以及疲劳犹豫，能够是我们获得对生活的信心，快乐。另外在野燕麦当中所含有的有效成分也会直接作用于人体的脑垂体，能够直接抵抗压力缓解情绪波动。维持大脑活力，是头脑清晰，改善压力生活无规律而引起的失眠问题，能够保持良好的体力以及最佳的反应力，所以说野燕麦对于一些处于亚健康状态的人群也是非常使用服用的。特别是处于一些大城市公司白领以及学习工作有较强压力的朋友人群，在出现记忆力减退或者是睡眠，身体抵抗力低下的时候，这一类人群都应该及时关注自己的健康，及时使用这种野燕麦来治疗亚健康状态。", 
+  "说到此物，上次是同事向我介绍的，还说是于【菩优】弄来的，后来我自己有看了下介绍，不过只是带来了一盒做下尝试，真是让我太惊喜了，现在老婆都夸我厉害了。", 
+  "可以放心啦,拿回来使用的是没有什么负作用啦", 
+  "之前因为有点那方面的问题，拿来后,对提升那个能力帮助很大", 
+  "可以放心啦,拿回来使用的是没有什么负作用啦"
+]
+{
+  "content": "TNT 专业欠缺遭婉拒", 
+  "url": "http://tieba.baidu.com/p/3468859103?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "血钻野燕麦", 
+  "imgPath": "/data/lumppic/a8014c086e061d95885e9e3179f40ad162d9ca9b.jpg"
+}
+[
+  ""
+]
+2016-06-15 18:17:15http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E8%25A1%2580%25E9%2592%25BB%25E9%2587%258E%25E7%2587%2595%25E9%25BA%25A6%26page_from_search%3Dindex%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 309, in <module>
+    ActionChains(driver).click(driver.find_element_by_css_selector(".blue_kit_left a.blue_kit_btn_back")).perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 299.373
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

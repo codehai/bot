@@ -1,0 +1,277 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465893898",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 08:44:57 GMT",
+			"value": "1465819227,1465893840,1465893853,1465893898",
+			"expiry": 1497429897,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "9AB9C0C838AA7F80",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:44:46 GMT",
+			"value": "c071fdb5f1716c935f285c73f7ff12292d048768fc83e2d10768d82d390bddc5",
+			"expiry": 1725093886,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:44:46 GMT",
+			"value": "e10399152944510b83583349fd9be12e",
+			"expiry": 1725093886,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:44:46 GMT",
+			"value": "3e6d55e417ba5ea4bfb52c37ffe766df",
+			"expiry": 1725093886,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:44:46 GMT",
+			"value": "m41dzl3MGNNOUtJei1-TmJEflk4V3NMdFJwelJPRTJwajFCVW10SElxSC1VSWRYQVFBQUFBJCQAAAAAAAAAAAEAAAB9VzhVz8TEv8Pcxr0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7DX1f-w19XT",
+			"expiry": 1725093886,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:44:46 GMT",
+			"value": "fi_PncwhpxZ%7ETaJc4JEDw1Bs6o22B1k9-4a8Oex88sxjXkeDxLobLscIWi0zF3Vlk0VEUNHRI54cngJ24NuIdlf6x3UmtmlLQhZhAVCGSuR6Gy50pTFrNcD7enw-EZSjLQk34LE7SA5JmdiDf9CT1VS5Z3MiJY_",
+			"expiry": 1725093886,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:44:46 GMT",
+			"value": "a919ac6f21ba0d1f69f89edb2bdde5bfb2af7864481207bd5f10d3732beadd2a",
+			"expiry": 1725093886,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:44:46 GMT",
+			"value": "wapp_1465893810059_614",
+			"expiry": 1725093886,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 08:44:11 GMT",
+			"value": "1",
+			"expiry": 1465980251,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 08:43:47 GMT",
+			"value": "1",
+			"expiry": 1465980227,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 08:43:47 GMT",
+			"value": "568",
+			"expiry": 1496997827,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 08:43:47 GMT",
+			"value": "320",
+			"expiry": 1496997827,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 08:43:30 GMT",
+			"value": "50D66607DD18A680AEF726DDC664E004:FG=1",
+			"expiry": 1497429810,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u56db, 07 6\\u6708 2046 08:43:30 GMT",
+			"value": "wapp_1465893810059_614",
+			"expiry": 2411973810,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "54b9edf0a7c45d2f7942a4ed",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:夏目密平",
+	"Max Floor27",
+	"Target Floor18",
+	"find target floor",
+	[
+		"求解戴尔Venue 11 Pro",
+		"如题，恢复不了系统也装不了系统，咋搞？",
+		"用U盘安装吧\n\n明　　　你\n你　月　看　站\n装　装　风　在\n饰　饰　景　桥\n了　了　的　上\n别　你　人　看\n人　的　在　风\n的　窗　楼　景\n梦　子　上\n看\n你"
+	],
+	"",
+	{
+		"content": "0-0",
+		"url": "http://tieba.baidu.com/p/4609581821?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "windows8",
+		"imgPath": "/data/lumppic/fc1f4134970a304eedf679f3d3c8a786c8175ce7.jpg"
+	},
+	"",
+	[
+		"求解戴尔Venue 11 Pro",
+		"如题，恢复不了系统也装不了系统，咋搞？",
+		"用U盘安装吧\n\n明　　　你\n你　月　看　站\n装　装　风　在\n饰　饰　景　桥\n了　了　的　上\n别　你　人　看\n人　的　在　风\n的　窗　楼　景\n梦　子　上\n看\n你",
+		"0-0"
+	],
+	"",
+	"Max Floor33",
+	"Target Floor7",
+	"find target floor",
+	[
+		"只求一败",
+		"本人玩全民枪战已有俩年余载，遥想当年扛了把狂龙独闯华南大区华南一，取名，玫瑰小赌叔。独战各路大神小学生人妖，只求一败。然一余载过去，未能如愿。朕愤然离去，随后一年余载朕转战华东，华北，成都，华南，北京等各大区心中只有一个目标，只求一败。然俩余载过去，依然未尝一败。暮然回首，一败难求。从今以后放下屠刀。枪战不在有小赌叔",
+		"你们有什么要说的",
+		"没人\n这是未来18级大神在用流量水帖，不准对我发 这些没礼貌的表情，尤其是\n------\n上帝作证，我的女神叫陈都灵！"
+	],
+	"",
+	{
+		"content": "这和他们的社会制度、文化传承是一种怎样的因果？这恐怕不能都归结为时间的长短，这些留待以后再谈吧。X兄，就像我前面说的，我不打算说服谁，也不打算说服你。只是把我的想法告诉朋友。我希望我没有简单的误会了你。我只想在你我之间做一点交流。千里迢迢，也只好长话短说，只好言不及义。顺便问一句，你看到过有哪位左派的思想家、理论家反省、批判过，为什么在世界范围内社会主义国家都普遍产生了专制政体这样的弊端？有这类的书或者文章吗？陈独秀先生晚年的深刻反省和批判应当算是这方面少有的精神遗产。哈耶克的有关著述我看过一点，很精彩，可那是“自由主义者”的观点。我想看看不同立场的反省和批判。",
+		"url": "http://tieba.baidu.com/p/4612784795?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "全民枪战",
+		"imgPath": "/data/lumppic/e61190ef76c6a7ef21b0062ffffaaf51f3de6621.jpg"
+	},
+	"",
+	[
+		"只求一败",
+		"本人玩全民枪战已有俩年余载，遥想当年扛了把狂龙独闯华南大区华南一，取名，玫瑰小赌叔。独战各路大神小学生人妖，只求一败。然一余载过去，未能如愿。朕愤然离去，随后一年余载朕转战华东，华北，成都，华南，北京等各大区心中只有一个目标，只求一败。然俩余载过去，依然未尝一败。暮然回首，一败难求。从今以后放下屠刀。枪战不在有小赌叔",
+		"你们有什么要说的",
+		"没人\n这是未来18级大神在用流量水帖，不准对我发 这些没礼貌的表情，尤其是\n------\n上帝作证，我的女神叫陈都灵！"
+	],
+	"",
+	"Max Floor33",
+	"Target Floor16",
+	"find target floor",
+	[
+		"黑改路漫漫。",
+		"还要10个才能改，还要半个月吧，",
+		"我已经改了",
+		"走之前差点忘了给你个滑稽",
+		"这是未来18级大神在用流量水帖，不准对我发 这些没礼貌的表情，尤其是\n------\n上帝作证，我的女神叫陈都灵！"
+	],
+	"",
+	{
+		"content": "nbsp;",
+		"url": "http://tieba.baidu.com/p/4603827612?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "全民枪战",
+		"imgPath": "/data/lumppic/0e2442a7d933c89594200e25d31373f082020015.jpg"
+	},
+	"",
+	"2016-06-15 19:35:53http%3A%2f%2ftieba.baidu.com%2fp%2f4603827612%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 304, in <module>",
+	"    floorContent()",
+	"  File \"open.py\", line 133, in floorContent",
+	"    postContent = p.find_element_by_class_name('content').text",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py\", line 70, in text",
+	"    return self._execute(Command.GET_ELEMENT_TEXT)['value']",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py\", line 457, in _execute",
+	"    return self._parent.execute(command, params)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 233, in execute",
+	"    self.error_handler.check_response(response)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 194, in check_response",
+	"    raise exception_class(message, screen, stacktrace)",
+	"selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document",
+	"  (Session info: chrome=38.0.2125.104)",
+	"  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)",
+	""
+]

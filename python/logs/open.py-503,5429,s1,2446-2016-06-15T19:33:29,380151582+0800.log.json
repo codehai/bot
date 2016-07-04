@@ -1,0 +1,272 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465894374",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 08:52:54 GMT",
+			"value": "1465893853,1465893898,1465894251,1465894374",
+			"expiry": 1497430374,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "E639C23736BE449C",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:52:40 GMT",
+			"value": "70e8f705c89a14988798e5e77bd33aa6517bcc2d99391cee9551b52108eeaa0e",
+			"expiry": 1725094360,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:52:40 GMT",
+			"value": "a89816c35cc7354ff218f51eea80bc56",
+			"expiry": 1725094360,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:52:40 GMT",
+			"value": "b02c5ef40d6eb0f802da73d5a12f",
+			"expiry": 1725094360,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:52:40 GMT",
+			"value": "40RVEtT1o1dzkwT21rTDhSMUx0NlR3eG9CSjR4eFE5VX5wdVh-cWVGWFlVb2RYQVFBQUFBJCQAAAAAAAAAAAEAAACfSntPcGluamlleGkwNQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANjFX1fYxV9XMW",
+			"expiry": 1725094360,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:52:40 GMT",
+			"value": "fi_PncwhpxZ%7ETaJc6ewTnt3RWOGypD%7EBVgNP6baUrouYEac6CecR1IUIkMsu3rxNqk5chJhh7ZTAyoSLbcX0pGqcnKnM8Z1CsjYmqTwWHoccahMV-WOwvRh4M35kcgbw3G7MNg29HZqq2iyffHCaHc5YAxmhg__",
+			"expiry": 1725094360,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:52:40 GMT",
+			"value": "62f57c3162fc256cd4a1ecec77448aef9e6c",
+			"expiry": 1725094360,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 08:52:40 GMT",
+			"value": "wapp_1465894288941_190",
+			"expiry": 1725094360,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 08:52:04 GMT",
+			"value": "1",
+			"expiry": 1465980724,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 08:51:47 GMT",
+			"value": "1",
+			"expiry": 1465980707,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 08:51:47 GMT",
+			"value": "568",
+			"expiry": 1496998307,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 08:51:47 GMT",
+			"value": "320",
+			"expiry": 1496998307,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 08:51:29 GMT",
+			"value": "E06476254C888B2E40236210966876D3:FG=1",
+			"expiry": 1497430289,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u56db, 07 6\\u6708 2046 08:51:28 GMT",
+			"value": "wapp_1465894288941_190",
+			"expiry": 2411974288,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "d13c2dc6fc4c6c98bb2c46d2",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:pinjiexi05",
+	"Max Floor11",
+	"Target Floor9",
+	"find target floor",
+	[
+		"水泥路",
+		"水泥路是什么呢，就是遇到水之后就成为了泥了，故曰：水泥路。"
+	],
+	"",
+	{
+		"content": "资料图：美军比较忌讳的我军装备",
+		"url": "http://tieba.baidu.com/p/4612646323?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "百闻不如一贴",
+		"imgPath": "/data/lumppic/72f082025aafa40fb39a0dd4a864034f78f0195f.jpg"
+	},
+	"",
+	[
+		"水泥路",
+		"水泥路是什么呢，就是遇到水之后就成为了泥了，故曰：水泥路。",
+		"资料图：美军比较忌讳的我军装备"
+	],
+	"",
+	"Max Floor42",
+	"Target Floor25",
+	"find target floor",
+	[
+		"★韩都十年★",
+		"老糖干啥",
+		"韩风十年"
+	],
+	"",
+	{
+		"content": "nbsp;nbsp;nbsp; 还有另外两处骑士餐厅值得推荐，分别在卡塞尔（KASSEL）的近郊和阿尔费尔德（ERFURT），就位于图林根民族博物馆的隔壁。前者主要烧烤里脊肉猪排，可以亲身体验一下骑士餐的壮观场面，而后者则是将炭烤的猪肉及鸡肉放在一个大盘子上，只用一支像拌沙拉用的大叉子食用。",
+		"url": "http://tieba.baidu.com/p/4609386464?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "韩都衣舍",
+		"imgPath": "/data/lumppic/ae51f3deb48f8c5426282f7538292df5e1fe7ff5.jpg"
+	},
+	"",
+	[
+		"★韩都十年★",
+		"老糖干啥",
+		"韩风十年",
+		"nbsp;nbsp;nbsp; 还有另外两处骑士餐厅值得推荐，分别在卡塞尔（KASSEL）的近郊和阿尔费尔德（ERFURT），就位于图林根民族博物馆的隔壁。前者主要烧烤里脊肉猪排，可以亲身体验一下骑士餐的壮观场面，而后者则是将炭烤的猪肉及鸡肉放在一个大盘子上，只用一支像拌沙拉用的大叉子食用。"
+	],
+	"",
+	"Max Floor19",
+	"Target Floor10",
+	"find target floor",
+	[
+		"男女装",
+		"男女装",
+		"千百种服装选购。支持一件验货",
+		"不需要什么加盟费，直接批发",
+		"顶",
+		"顶",
+		"顶"
+	],
+	"",
+	"有验证码type1!!!!!!!!!!!!!!!!!!!",
+	"utf-8",
+	"2016-06-15 19:35:24http%3A%2f%2ftieba.baidu.com%2fp%2f4612488381%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 297, in <module>",
+	"    testStatus(1)\t",
+	"  File \"open.py\", line 91, in testStatus",
+	"    fillType1Code()",
+	"  File \"open.py\", line 56, in fillType1Code",
+	"    resultCode = sendCodeImg(region)",
+	"  File \"open.py\", line 49, in sendCodeImg",
+	"    print type(r.json())",
+	"  File \"/usr/lib/python2.7/site-packages/requests/models.py\", line 808, in json",
+	"    return complexjson.loads(self.text, **kwargs)",
+	"  File \"/usr/lib64/python2.7/json/__init__.py\", line 338, in loads",
+	"    return _default_decoder.decode(s)",
+	"  File \"/usr/lib64/python2.7/json/decoder.py\", line 365, in decode",
+	"    obj, end = self.raw_decode(s, idx=_w(s, 0).end())",
+	"  File \"/usr/lib64/python2.7/json/decoder.py\", line 383, in raw_decode",
+	"    raise ValueError(\"No JSON object could be decoded\")",
+	"ValueError: No JSON object could be decoded"
+]

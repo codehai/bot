@@ -1,0 +1,112 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465900332", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:32:12 GMT", "value": "1465900116,1465900134,1465900248,1465900332", "expiry": 1497436332, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "DC9F94E2BB2A72FD", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:00 GMT", "value": "676e0635ee3327302f46673e04a82c614f70e894459894bb1786a29461c35dcb", "expiry": 1725100320, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:00 GMT", "value": "6cc0daa3288ce0340dcd2dafdc10590d", "expiry": 1725100320, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:00 GMT", "value": "1fbad08201fa4acf898ed614ba55", "expiry": 1725100320, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:00 GMT", "value": "HFJbGN4dVdoZlpGemRWMnh6QVNURVlrc1JWTTVnY25mZnlSbXJWUmMtTWdhb2RYQVFBQUFBJCQAAAAAAAAAAAEAAAB8Of1UbW91aHVwaDI1MwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACDdX1cg3V9XT", "expiry": 1725100320, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:00 GMT", "value": "fi_PncwhpxZ%7ETaJc18byDN5fr8tqZs441rrGchJVlwgYU9QXBUQYrfGPQdvTyWmg5omKhTbfhthUOqWvzFkhKL5iUTrUpe8OdsvVIBpTb97arlNx3QLtb1DOye9s9e3N2Qo-nycAL1V4uabtJ89nm-IOE-inQ__", "expiry": 1725100320, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:00 GMT", "value": "87fb3876fd87f81af4262fae8d8ee6058316", "expiry": 1725100320, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:00 GMT", "value": "wapp_1465900269852_278", "expiry": 1725100320, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:31:41 GMT", "value": "1", "expiry": 1465986701, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:31:25 GMT", "value": "1", "expiry": 1465986685, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:31:25 GMT", "value": "568", "expiry": 1497004285, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:31:25 GMT", "value": "320", "expiry": 1497004285, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:31:10 GMT", "value": "2238C3B822AAA33D5203DDC8FEC78F1E:FG=1", "expiry": 1497436270, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:31:09 GMT", "value": "wapp_1465900269852_278", "expiry": 2411980269, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "6a1d9b6266e91856cf22e3ca", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:mouhuph253
+Max Floor29
+Target Floor20
+find target floor
+[
+  "三指到底是怎么分布的？？？四指", 
+  "三指到底是怎么分布的？？？四指又是怎么分布的？？？有没有大神交一下啊？？？习惯二指的我，已经被虐成渣"
+]
+{
+  "content": "自述人：陈小姐生物工程专业作为一个生物专业的理科生，本科，女生，再加上其他原因，我找工作的局限很大。生物是一个科研型专业，当初考进来的时候分数线挺高，但如果不打算继续读硕士和博士，不走研究型的道路，找工作就有点麻烦了。我对生物挺感兴趣，想做和专业相关的工作，投过几次简历，不是很满意，现在手上的几个Offer都和专业关联不大，工作到现在还没落实下来。", 
+  "url": "http://tieba.baidu.com/p/4606500801?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "全民枪战", 
+  "imgPath": "/data/lumppic/8d5494eef01f3a294e57d1c49b25bc315c607c18.jpg"
+}
+[
+  "三指到底是怎么分布的？？？四指", 
+  "三指到底是怎么分布的？？？四指又是怎么分布的？？？有没有大神交一下啊？？？习惯二指的我，已经被虐成渣", 
+  "自述人：陈小姐生物工程专业作为一个生物专业的理科生，本科，女生，再加上其他原因，我找工作的局限很大。生物是一个科研型专业，当初考进来的时候分数线挺高，但如果不打算继续读硕士和博士，不走研究型的道路，找工作就有点麻烦了。我对生物挺感兴趣，想做和专业相关的工作，投过几次简历，不是很满意，现在手上的几个Offer都和专业关联不大，工作到现在还没落实下来。"
+]
+Max Floor9
+Target Floor1
+find target floor
+[
+  "【许嵩·青年晚报】这就尴尬了", 
+  "想不想笑", 
+  "长颈嵩", 
+  "每天的生活重复还是重复 感觉没有意义", 
+  "哪里好笑", 
+  "其实，我们只是想找一个谈得来、合脾性，在一起舒坦、分开久了有点想念，安静久了想闹腾一下、吵架", 
+  "伴虎", 
+  "明明是大嵩的鼻孔更具有代表性。", 
+  "看表情", 
+  "这是为了表达精分，不精分根本唱不出c3高音，不信你试试，最喜欢这个mv最后嵩哥近乎崩溃的状态，太真实了，唱最后一句流过血的人都无所谓真的需要用尽全力"
+]
+{
+  "content": "17:45 重播 绿茵共同体:欧冠杂志", 
+  "url": "http://tieba.baidu.com/p/4612724921?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "vae", 
+  "imgPath": "/data/lumppic/7dd98d1001e93901921c7f3379ec54e736d196a5.jpg"
+}
+[
+  "【许嵩·青年晚报】这就尴尬了", 
+  "想不想笑", 
+  "长颈嵩", 
+  "每天的生活重复还是重复 感觉没有意义", 
+  "哪里好笑", 
+  "其实，我们只是想找一个谈得来、合脾性，在一起舒坦、分开久了有点想念，安静久了想闹腾一下、吵架", 
+  "伴虎", 
+  "明明是大嵩的鼻孔更具有代表性。", 
+  "看表情", 
+  "这是为了表达精分，不精分根本唱不出c3高音，不信你试试，最喜欢这个mv最后嵩哥近乎崩溃的状态，太真实了，唱最后一句流过血的人都无所谓真的需要用尽全力", 
+  "17:45 重播 绿茵共同体:欧冠杂志"
+]
+Max Floor15
+Target Floor8
+find target floor
+[
+  "什么游戏是可以控制ooxx的 不要凌辱要自愿的", 
+  "有没有啊", 
+  "有啊", 
+  "school day", 
+  "各类gal", 
+  "playstation 随便一个游戏不xxoo几万次我不信你能通关", 
+  "我就知道，，暴雨，，可以，，别的H游戏就甭说了", 
+  "七宗罪7sins，我玩过", 
+  "御宅伴侣", 
+  "经典的╭(╯ε╰)╮性感沙滩3！！！！", 
+  "人工少女", 
+  "真实女友", 
+  "奎秃子", 
+  "这不是奎秃子的特色么", 
+  "自愿哪有快感啊", 
+  "御宅伴侣可以，需要增加欲望的神秘药剂", 
+  "人工少女3", 
+  "质量效应\n巫师", 
+  "大绅士\n--来自助手版贴吧日呆的崛起美痴的末日客户端，不服你来打我啊。", 
+  "大宝健"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:57:58http%3A%2f%2ftieba.baidu.com%2fp%2f2209618002%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

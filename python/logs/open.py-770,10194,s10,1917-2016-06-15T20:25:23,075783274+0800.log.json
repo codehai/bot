@@ -1,0 +1,170 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:13:45 GMT",
+			"value": "wapp_1465380737321_723",
+			"expiry": 1724580825,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".cnzz.com",
+			"name": "cna",
+			"expires": "\\u5468\\u516d, 06 6\\u6708 2026 10:13:40 GMT",
+			"value": "zN3eD0osUQACAXJZc+lr7Jnx",
+			"expiry": 1780740820,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".cnzz.mmstat.com",
+			"name": "atpsida",
+			"expires": "\\u5468\\u516d, 06 6\\u6708 2026 10:13:32 GMT",
+			"value": "e7cae0698648587b76882740_1465380812",
+			"expiry": 1780740812,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".cnzz.mmstat.com",
+			"name": "sca",
+			"value": "b39a2ac8",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".mmstat.com",
+			"name": "cna",
+			"expires": "\\u5468\\u516d, 06 6\\u6708 2026 10:13:32 GMT",
+			"value": "zN3eD0osUQACAXJZc+lr7Jnx",
+			"expiry": 1780740812,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "news.766ba.net",
+			"name": "CNZZDATA1259464672",
+			"expires": "\\u5468\\u4e09, 07 12\\u6708 2016 10:13:15 GMT",
+			"value": "1654391381-1465376419-http%253A%252F%252Ftieba.baidu.com%252F%7C1465376419",
+			"expiry": 1481105595,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "news.766ba.net",
+			"name": "JSESSIONID",
+			"value": "C9DB0F5ABDD290AD63BC00D3F40EA282",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:12:49 GMT",
+			"value": "1",
+			"expiry": 1465467169,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:12:33 GMT",
+			"value": "1",
+			"expiry": 1465467153,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:12:33 GMT",
+			"value": "568",
+			"expiry": 1496484753,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:12:33 GMT",
+			"value": "320",
+			"expiry": 1496484753,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:12:17 GMT",
+			"value": "52080E68541D2EA36DE1F9429A56AE76:FG=1",
+			"expiry": 1496916737,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u4e94, 01 6\\u6708 2046 10:12:17 GMT",
+			"value": "wapp_1465380737321_723",
+			"expiry": 2411460737,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "a320d01db9c2b3fd877d6fb8",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"未登录成功，没有查询到用户",
+	"2016-06-15 20:25:57http%3A%2f%2ftieba.baidu.com%2f%3Fpage%3Duser.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 200, in <module>",
+	"    wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'user_info_name')))",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py\", line 80, in until",
+	"    raise TimeoutException(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: ",
+	""
+]

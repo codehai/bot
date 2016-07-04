@@ -1,0 +1,99 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": "tieba.baidu.com", "name": "PMS_JT", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 10:28:51 GMT", "value": "%28%7B%22s%22%3A1465900116539%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29", "expiry": 1465900131, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "TIEBAUID", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "41e80a42cc0893bc11dda39e", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:30 GMT", "value": "86d287d97136f7b075b3165b4cb24ed7e80a20e8572a1fe7a6c903594e85dc5d", "expiry": 1725100110, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:30 GMT", "value": "4e9a6c7ea0d1ed84bd669350d0a435c9", "expiry": 1725100110, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:30 GMT", "value": "1944394303a53a8e88d501c9407a3ce43042f6", "expiry": 1725100110, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:30 GMT", "value": "GM1MmhraXptSEl3TExwU2lHSzJGTHJ3RjN-cEpCfjdaSjd6Z1hJQlFtUk9hWWRYQVFBQUFBJCQAAAAAAAAAAAEAAADJP0Mousiy6MHEzOzM7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE7cX1dO3F9XO", "expiry": 1725100110, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:30 GMT", "value": "fi_PncwhpxZ%7ETaJczEpblNzWF6sgtwdzC6XCDxGhyqmtTaH9lZ7ju8p9XHTdbJ52JzWYAp2do4harUvbRxEaMOse8%7EGpurK0mPFLVdi0PRACrTO%7EA0x%7EnqPXXtz20i7PAusqGU7fmGyYRUSyRyMHBg1SeBC", "expiry": 1725100110, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:30 GMT", "value": "f7ea80ac602cb18bd11fa42729abf3a6dc35054c816686d93fdf37544a5ec0f53b7c0b2871bc", "expiry": 1725100110, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:30 GMT", "value": "wapp_1465900042866_574", "expiry": 1725100110, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:27:54 GMT", "value": "1", "expiry": 1465986474, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:27:42 GMT", "value": "1", "expiry": 1465986462, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:27:42 GMT", "value": "568", "expiry": 1497004062, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:27:42 GMT", "value": "320", "expiry": 1497004062, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:27:23 GMT", "value": "F1FAEBCB18693C68ED1935DDB0831411:FG=1", "expiry": 1497436043, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:27:22 GMT", "value": "wapp_1465900042866_574", "expiry": 2411980042, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "2da17e7c7ce3e970a68cfcc5", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:喝茶聊天天
+Max Floor14
+Target Floor7
+find target floor
+[
+  "买菜去了"
+]
+{
+  "content": "再看一看其它国家的统计，跟中国不大一样，咱们是把所有的费用，从人头费，一直到活动费用，维持费，到装备费全统计进来。但美国就不一样，美国统计的也是人头费统计，但是人头费以外，比如我们还包括军人的配偶，这方面的社会保险，社会活动方面的费用，这我们也计算在内的，但美国是不计算在内的。同样美国外层空间的活动费用，不计算在军费之内。而（美国在）欧洲其它盟国，一方面国家层面的军事行动的费用计算在内，但在地方层面不计算在内，所以这样一看，我觉得中国的费用现在炒得很热，但如果研究一下军费，看一看中国军费是怎么回事，我们有哪些费用，我们哪些是透明的，我倒认为中国是最透明。", 
+  "url": "http://tieba.baidu.com/p/4612199875?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "星座", 
+  "imgPath": "/data/lumppic/cb8065380cd79123d6a78675af345982b2b7806f.jpg"
+}
+[
+  ""
+]
+Max Floor21
+Target Floor21
+find target floor
+[
+  "美服定级中", 
+  "由于网络不稳定，艰难地打了3场，目前1胜2负。", 
+  "各种任性选诺娃，把把有诺娃，谁拿诺娃，哪一方就输，诺娃大神没看到过。", 
+  "这很明显的信息，你需要抢诺娃，ban诺娃", 
+  "碰见了各种伪国服玩家，还遇见了一个日本人。", 
+  "目前两大难题让我头疼，一是交流困难，二是网络不稳定。唉，希望能顺利打完10场，明天回国服玩耍。", 
+  "第四场，我们三后排，对面冲脸，各种死各种漏经验，实在无法进行下去了，我选择挂机。等待第五场", 
+  "我口渴,哥哥", 
+  "只玩自己想玩的，不玩队伍需要的，不看阵容选人，呵呵哒。", 
+  "8胜2负钻石3", 
+  "好多钻3，好多5-5，6-4都是定在钻3.", 
+  "以速战速决为核心，能打则打，不能则投。", 
+  "LZ想请问下 不管之前分数多高 最高定级就是钻三吗", 
+  "美服玩家也很任性的，有人就是一副我想玩什么就玩什么的态度", 
+  "你之前mmr太低了吧，没碰到那么多选诺娃的啊，不过的确碰到好多几个月没玩的回来定级了。。。醉了"
+]
+{
+  "content": "来源:河南教育网　　镜头", 
+  "url": "http://tieba.baidu.com/p/4612099280?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "风暴英雄", 
+  "imgPath": "/data/lumppic/14ce36d3d539b60010eb15ffeb50352ac65cb754.jpg"
+}
+[
+  ""
+]
+Max Floor20
+Target Floor18
+find target floor
+[
+  "感觉xt今天很不在状态啊！", 
+  "打个菲律宾都能强行55开。", 
+  "两把感觉都是因为对面送温暖赢得虽然赢了就说明一切但是确实感觉很不舒服", 
+  "感觉lol就像一个无低洞，以前", 
+  "打菲律宾不在状态没什么，虽然赢的很不爽\n希望遇到myi dig他们的时候，能打出应有的风采，被欧洲队教做人可就不好玩了\n如果遇到中韩的话，感觉有状态也打不赢", 
+  "还有谁想顶妹妹的,来", 
+  "什么是老实人？拾到钱包就上交，没车经过照样等红灯变绿，循规蹈矩、安安分分。 老实人在人群中普遍", 
+  "我今年大四即将毕业，去年五月份和比自己小两岁及小两届的学弟恋爱，起初就是留个回忆，说话毕业分"
+]
+{
+  "content": "34", 
+  "url": "http://tieba.baidu.com/p/4611434649?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "风暴英雄", 
+  "imgPath": "/data/lumppic/35a85edf8db1cb130bc5526bdf54564e92584b1d.jpg"
+}
+[
+  ""
+]
+Max Floor20
+Target Floor1
+find target floor
+2016-06-15 19:08:06http%3A%2f%2ftieba.baidu.com%2fp%2f4612695291%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 274, in <module>
+    ActionChains(driver).move_to_element(btn).click().perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 295.063
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

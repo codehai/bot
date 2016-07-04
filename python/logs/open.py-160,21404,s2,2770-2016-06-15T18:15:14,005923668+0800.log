@@ -1,0 +1,126 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465902519", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:08:39 GMT", "value": "1465902404,1465902409,1465902512,1465902519", "expiry": 1497438519, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "83BD42D7B3FE6CB1", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:27 GMT", "value": "2e3683cce2c1bfa48d811e3ab1f08005dc65874dc29758e61810fd28be5a16e3", "expiry": 1725102507, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:27 GMT", "value": "4d2b8d3d7501da463d0dae7f6ed40b77", "expiry": 1725102507, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:27 GMT", "value": "61489d10aaf656b5ea4b69b88cfb1b15", "expiry": 1725102507, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:27 GMT", "value": "E1YWp2LWxhUmswa0U2bXZMc1Q1Vi1sVnNaQnVGT3ZsVGtkcjk5Ukc0bXJjb2RYQVFBQUFBJCQAAAAAAAAAAAEAAADtHExV1Lm-ubK7tPMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKvlX1er5V9XcX", "expiry": 1725102507, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:27 GMT", "value": "fi_PncwhpxZ%7ETaJc9UpuEZQo2ivk5WOJd85Xo8W1TahigpmnbX3Pol6cUJubzmbXVgKqToHdidvySJvY3apiB-53jo0iDJfdUwCCbhWKH8R8BN9JWZh7M1Mqp64%7EC9nibWZ2xcQqZdqb-KLJc8SrS7LxsDg8A__", "expiry": 1725102507, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:27 GMT", "value": "e9e99357320aac7e4f3ca2427c9b7826f69211940c9c685adbce07ca3fc29454", "expiry": 1725102507, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:27 GMT", "value": "wapp_1465902445193_749", "expiry": 1725102507, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:07:53 GMT", "value": "1", "expiry": 1465988873, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:07:40 GMT", "value": "1", "expiry": 1465988860, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:07:40 GMT", "value": "568", "expiry": 1497006460, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:07:40 GMT", "value": "320", "expiry": 1497006460, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:07:25 GMT", "value": "E3380BDB50F113C9C681B1B32AB265F5:FG=1", "expiry": 1497438445, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:07:25 GMT", "value": "wapp_1465902445193_749", "expiry": 2411982445, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "99184f0644f372a1222b63b2", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:怨竟不大
+Max Floor29
+Target Floor26
+find target floor
+[
+  "吧友们谁那有真骨头的佛头三通啊？？？？给我看看行吗》？？？？"
+]
+{
+  "content": "记者回访医院时，碰到外科副主任医师陈卫彬刚从手术台上下来，他刚为一女病人做完腹腔镜胆囊切除手术，这个病人也是与医院签了单病种限价协议的，医院开出的费用上限为6200元，而在三甲医院做同样的手术要9000元至1.2万元。这名34岁的病人黄女士是手拿着报纸来住院的，她患有慢性胆囊炎早该做手术了，她比较了多家医院的收费情况后，选择了新海医院。她了解过，这种胆囊手术是很成熟的手术，在二甲医院和三甲医院治疗没什么区别，而省下的6000多元是她三四个月的工资。", 
+  "url": "http://tieba.baidu.com/p/1947595084?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "文玩天下", 
+  "imgPath": "/data/lumppic/50da81cb39dbb6fd1f9e5c6d0b24ab18962b37b7.jpg"
+}
+[
+  ""
+]
+Max Floor35
+Target Floor17
+find target floor
+[
+  "~Angel SUHO°【160610│图片】EX'ACT俊勉小卡扫图2P", 
+  "cr:【slowmotion408】", 
+  "-封-", 
+  "dd", 
+  "❤️", 
+  "★☆★百度金俊勉吧宝石☆★☆\n当我再年老些\n更懂得初秋的意境和等待的语言\n我将写下一封信\n婉婉辞去年少的花季\n留一阶苔痕犹碧 等你来启\n在一片青绿的岁月上\n留下过许多关于你的痕迹\n情深不寿，强极则辱\n谦谦公子，温润如玉\n★☆★欢迎大家踊跃发帖☆★☆", 
+  "顶顶顶", 
+  "(´・ω・`)"
+]
+{
+  "content": "周华愤怒地说：“这种做法太不规范，简直没有丝毫诚信可言。”这也是大多数业外资本对于业内企业指责最多之处。", 
+  "url": "http://tieba.baidu.com/p/4602714570?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "金俊勉", 
+  "imgPath": "/data/lumppic/35a85edf8db1cb13d784f61edf54564e93584bca.jpg"
+}
+[
+  ""
+]
+Max Floor35
+Target Floor9
+find target floor
+[
+  "~Angel SUHO°【160610│图片】MBC二重唱歌谣祭预告更新俊勉5P", 
+  "CR：【MBC_entertain】", 
+  "160610【MBC_entertain】更新4P“二重奏歌谣祭 6月10日 晚上9点30(韩国时间)死守直播\"", 
+  "160610【MBC_entertain】更新动图1P", 
+  "封。", 
+  "好看", 
+  "在这个安静的夜晚，我躺在床上，思索着这两年来的变化", 
+  "★☆★百度金俊勉吧宝石☆★☆\n当我再年老些\n更懂得初秋的意境和等待的语言\n我将写下一封信\n婉婉辞去年少的花季\n留一阶苔痕犹碧 等你来启\n在一片青绿的岁月上\n留下过许多关于你的痕迹\n情深不寿，强极则辱\n谦谦公子，温润如玉\n★☆★欢迎大家踊跃发帖☆★☆", 
+  "暖", 
+  "顶顶顶", 
+  "(´・ω・`)", 
+  "暖", 
+  "暖男", 
+  "爱人"
+]
+{
+  "content": "搜狐直播员: 拉希德·华莱士左翼投篮不中，马绍尔取得篮板 [87:78 ]", 
+  "url": "http://tieba.baidu.com/p/4602657794?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "金俊勉", 
+  "imgPath": "/data/lumppic/9922720e0cf3d7caaa256476f01fbe096a63a9db.jpg"
+}
+[
+  ""
+]
+Max Floor25
+Target Floor14
+find target floor
+[
+  "【吐槽】06-14丨为什么有人会喜欢对别人的妆容打扮评头论足！", 
+  "第一次发帖，吐槽而已，求同存异，大家和和气气的哈，听我讲讲我身边的一个女性朋友以及我们之间的故事", 
+  "我们用倒叙的方式说吧，先说说致使楼主来吐槽的起因，是昨天聚会，一个学弟随口说了一句楼主皮肤不错，她就又一次当着所有人的面，大声的说那是因为楼主化了妆，她皮肤比楼主好很多，都不需要化妆，只有不自信的人，出门才会打扮自己，而她，就是那个天生丽质又自信的人。楼主这么多年，每次被她当众指出化妆，都只是尴尬的笑笑，昨天真真是没忍住，就回了一句，我皮肤很好，化妆不是因为皮肤差要掩饰什么，是我自己喜欢而已。然后她又迷之自信的说，那你也没我好，我比你们花了妆的都好。楼主竟无言以对，真的太憋气了。。。", 
+  "然后呢？接下来你要po你两的皮肤对比图了吗？", 
+  "羡慕嫉妒恨吧她", 
+  "这个女的有病吧", 
+  "直播呀直播啊", 
+  "……到现在很多人还觉得 素颜很值得骄傲 不会化妆很值得骄傲\n它们觉得丑人才要化妆 特殊职业才需要化妆～\n特别是整容 那比起化妆简直就更是死罪～\n也是原始人啊", 
+  "好啦，我们从头开始讲起。楼主大学期间参加了学校礼仪队（不是自夸哈，楼主长相只是普通人，但是身高够！171！）那里的老师会教我们仪表仪态之类，当然，还有化妆，那个时候是楼主最早开始接触彩妆。然后女生都爱美，互相交流化妆打扮经验，大家懂吧，上了大学，都越来越会打扮了，慢慢的，就养成了出门涂个隔离呀，画个眉毛嘴唇呀，总之是比较简单的妆的习惯。而且有大型的活动，学院新年晚会之类的，同学也会互相帮忙画个好看的完整的妆，高高兴兴去参加，总之，在大学毕业之前，没有因为化妆被别人指指点点过，过得很快乐。", 
+  "传说中的素颜婊", 
+  "对 就是有这种人 有时候还会说用和护肤品怎么怎么了每次都快被气死还什么都不能说", 
+  "大学毕业之后，楼主边打打工边考了雅思，就闯荡到欧洲某巨小的镇子上读硕士来了，在这里，我遇到了她——H姐。她和我同时出国，她申请的是博士。那一年，我23岁，她28岁。第一次见面就有点尴尬。我和几个硕士一起去学校，在门口遇到了她。有个同学就问她，你是中国人吗？她点点头。见到国人真的很开心，那个同学就继续问，你是来读硕士还是博士呀？H姐瞬间脸垮下来了，说，刚刚有好几个外国人都问我，是不是在读初中的。之后指着自己身上的衣服鞋子，骄傲的告诉我们，这些都是她在欧洲这里买的童装（因为她160，而欧洲人比较人高马大，童装最大码到170，童鞋最大的39号），额，总之当时楼主感觉她怪怪的，因为不熟，也没太搭理。", 
+  "开学的几天热闹过去后，很多交换生就回到了临近城市的主校区去读书了，只有IT学院的留在我们小镇。由于语言不适应，时差不适应，楼主和国内的男友分手了，虽然明知道异地两年不可能，可是那么高频率的吵架以及这么快的分手结果，让楼主很烦心，有次就找一个女生倒苦水。正聊着，H姐来了，因为都是女生，也就继续说着分手的话题，H姐听了两句，鼻子一扬说，不就分个手嘛，虽然你不漂亮，但也不算丑啊，不至于就觉得自己就嫁不出去了吧。她的整个状态我猜她是真的想安慰我，但是这话听起来，真的不太舒服。接下去聊的，就都变成了H姐叙述着她从小到大在国内的追求者们，当然，那些追求者很优秀，不过她的眼光更高，总之就是各种抛弃伤害优质男的历史，楼主及另一个女生，竟无言以对。", 
+  "我记得有一次我出门和她一起去见男神，但是只有我化了妆，她不知道抽什么疯素颜就来，她看到第一眼就吼得老大声了，哟，你今天化了妆啊，涂了口红，还糊了面粉。我当时就想两巴掌糊过去你特么在学校天天化妆还戴着蓝色美瞳这么明显也不见我揭穿你啊，而且她一路上还用开玩笑的语气说我心机婊绿茶婊，虽然是开玩笑的语气但是我知道她心里也是这么想的，估计见完男神就要在背后说我坏话了", 
+  "或许是第一次她贬低楼主的时候，楼主没吱声，接下来，噩梦就开始了。因为欧洲的女孩子从十三四岁就开始化妆了，大到八九十岁的老太太也化妆，所以楼主很自然的保持着化妆的习惯。于是，在各种晚宴，生日party，登山钓鱼烧烤晒太阳活动中，H姐三句话内必提起楼主的妆，而且必须大声到让所有人听到。\n1）哎呀，你化妆啦，你天天化妆不累吗？（楼主：O__O \"…）\n2）你涂口红啦，是不是因为你的嘴巴不够红润啊（楼主：O__O \"…）。\n3）是不是你皮肤不好哇，不然为什么总是要擦粉底呢，我告诉你哦，越化妆皮肤越差的（楼主：O__O \"…）\n4）矮油，化了妆是不一样哈，眼睛画的真大（楼主：内眼线加睫毛膏的效果真好O__O \"…）\n是啊，楼主就是这样一个嘴笨但是心理又敏感的脆弱女纸，楼主只是喜欢彩妆护肤，喜欢瓶瓶罐罐，喜欢自己化上妆出门的样子，为什么要这样对我！！！内心千万匹草泥马，但是表面还是尴尬的呵呵呵！！", 
+  "既然是吐槽，我也就透露一下H姐的体重吧，她的体重和我一样，超过100，但是不到110。于是连楼主引以为傲的身材也成了H姐放箭的目标。遇到人就用心疼我的语气说，哎呀你看她那么瘦，现在男生都喜欢肉感的，昨天有一个亲戚就在视频的时候说我这种身材才算好，叫圆润！而且瘦的人都脸色蜡黄，难怪她要天天化妆！我的妈呀，真是三句不离化妆吧。。。\n我相信很多个子不高的女生都会比较羡慕高个子的，但是！个子高真的也很难，那是因为，稍微胖一点点，就很死壮！和其他女生走在路上，人家分分钟跨上你的胳膊，你瞬间就扮演出了男人的赶脚了。所以我承认我控制饮食，我少量多餐，我每顿饭只吃六分饱，但是我每天吃六顿！而且，我愿意这样保持自己的身材，而且，我木有蜡黄好咩！化妆不代表我就蜡黄好咩！", 
+  "终于有一次，楼主以为该有转机了，因为H姐来楼主这里咨询如何买化妆品了！楼主当时已经为此别扭紧绷一年的心，终于看到了希望。于是特别热心的给她分析肤质，介绍商场，还亲自陪她去店里试。H姐说第一次用，不想买太贵的，所以买了一套开价的欧莱雅吧还是蜜丝佛陀来着，下一次聚会，H姐就是化了妆去的。虽然她的眼线不够顺滑，睫毛膏不够根根分明，紫色眼影稍微过浓，粉底又没能盖住雀斑，但是无论男生女生都在夸赞她，都说女孩子适当化点妆其实很好。楼主也觉得，她在那么短的时间里，画成这样已经很厉害了。\n但是！\n两个多月之后，春天来了，天气暖了，一个晴空万里的早晨，H姐带着一个男生一起来楼主宿舍，那个男生帮她拎着一袋子东西。H姐见到楼主的一瞬间，用全楼都在颤抖的分贝喊道：哎呀妈呀，过了一个冬天，我的化妆品都不能用啦！楼主差异：肿么啦，不会这么快就过期了吧？H姐：没过期，但是一个冬天过去，我白了两个号！我的粉底粉饼遮瑕膏全部不能用啦，我想到你不是黑吗，所以就拿来送给你啦，省的扔掉浪费！说着，拉过男生手里的塑料袋塞到楼主手里，对着完全懵13了的楼主继续说：不知道这个你用了之后会不会太白了，要是实在太白了，就扔了吧，没办法，咱俩用都太不合适了。楼主：(⊙o⊙)…\n好吧，我承认我不白，所有的粉底我都得选第二白或者第三白，但是，用不用这样当着男同学的面讲的这么直白！", 
+  "研二开学的时候，新来了一个中国博士生，于是，楼主就恋爱啦，然后一年之后，楼主结婚啦。楼主老公读博士相当于工作，是有工资的，知道楼主喜欢彩妆，可是穷学生没钱买好牌子的，都25了还和18岁一样在用美宝莲，于是就会在生日或者圣诞之类的节日送给楼主一些稍微高端点的化妆品。有了老公的支持，楼主在心里对自己说，你更不需要在意别人说的话啦！。。。然并卵/(ㄒoㄒ)/~~\n这边除了学生圈里有中国人，还有一些已经进公司工作的人，或者开餐馆的，访问学者，还有教授们。H姐在楼主结婚之后，就把黑楼主的圈子扩大到了这些人的媳妇那里。基本刚过来没几年的媳妇们，都是找不到工作的，因为在学当地语言。于是一群主妇在一起（包括楼主在场），就总会听到H姐说，你（楼主）都结婚了还每天打扮自己，我看朋友圈里有的家庭主妇每天都会把饭菜做成有故事情节的拼盘，那样才叫尽职尽责吧，真鄙视你。", 
+  "real奇葩 楼主好脾气", 
+  "H姐后来不知道为什么开始减肥了，方法是不吃晚饭加素食，结果几个月之后，看起来依旧“圆润”，却开始对蛋白过敏了，鸡蛋都不能碰了，肉就更不用提，只要碰一丁点就会满身起红疹。但是H姐说了，这是因为她的皮肤太嫩了。而且坚持认为自己真的瘦了，总是说楼主比她腰粗，比她脸大。楼主今年27岁了，H姐比楼主大五岁，不过还没有结婚。当她把自己的单身解释成为自己太显小了，感觉还不到结婚年龄的时候，楼主彻悟了，如果一个人就是觉得自己宇宙无敌最美，那么无论发生神马，她都能自圆其说。\n有的时候真的挺想跟身边其他的女生交流一下H姐的问题的，可是又怕在这里国人圈子太小了，万一闹僵。其实很羡慕那些面对嘲讽，能理直气壮的说自己就是喜欢化妆，喜欢打扮，就是觉得自己没打扮很好看，打扮了更好看的暴脾气妹子。可是楼主太懦弱了，只敢在网络中吐槽这段忍受了四年的精神折磨。真的都是一些小事，一个没有礼貌的人，一些有心或者无心的话，只是时间久了，成为了心病。\n最后谢谢大家的关注~吐槽完了心情好多了，也希望每个女生坚持自己喜欢的生活方式，无论你的风格是淑女的，运动的，知性的还是随意的，都能活出最精彩的自己！", 
+  "其实这种人就是特别自卑，估计她学业恋爱什么的都不是太顺，所以说要找一个人来确立她在其他时候都没有的优越感。你去问问以前和你一块儿现在有工作的闺蜜基友，估计好多都会觉得这种人神烦，就是当时不好说。"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:17:44http%3A%2f%2ftieba.baidu.com%2fp%2f4610622888%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

@@ -1,0 +1,186 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465898077", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 09:54:36 GMT", "value": "1465894251,1465894374,1465894495,1465898077", "expiry": 1497434076, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "17636CC9A3B232C4", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:54:25 GMT", "value": "c0c33ce10b238324706defb56371af571bb3f5d26817275a3cbe274857d6075a", "expiry": 1725098065, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:54:25 GMT", "value": "e686fb960b5c2d435e427f4d91cbdbc7", "expiry": 1725098065, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:54:25 GMT", "value": "f3ed59b86d51eeca9c0e12e2924c", "expiry": 1725098065, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:54:25 GMT", "value": "mZlaGs5cFRXYnJGMG1XUzM0VVJvRTJiUU5TdlUtbjZKdExPeHFTbmJrSlJZWWRYQVFBQUFBJCQAAAAAAAAAAAEAAAA01lZVcWllZmF5bzk2MgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFHUX1dR1F9Xb", "expiry": 1725098065, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:54:25 GMT", "value": "fi_PncwhpxZ%7ETaJcy8mwx16zZxnwPWiCoB8FDIC9pNyfDH21CQfNQVkCmxRhPT40Ra8Z70bzqV9GiIQX9IO2dc7WiNqgW3I51rOvaG4mHxMe1Q58zfF6q-ZqGqRuV0f4jfvHuvpwkS9ibewbgO8druw8o1GaA__", "expiry": 1725098065, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:54:25 GMT", "value": "261a547fb1882387ee27d76fe0a0f586ab0f", "expiry": 1725098065, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 09:54:25 GMT", "value": "wapp_1465897994465_699", "expiry": 1725098065, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 09:53:51 GMT", "value": "1", "expiry": 1465984431, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 09:53:33 GMT", "value": "1", "expiry": 1465984413, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 09:53:33 GMT", "value": "568", "expiry": 1497002013, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 09:53:33 GMT", "value": "320", "expiry": 1497002013, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 09:53:15 GMT", "value": "64442F6E36F4DF031B7E185BB698E117:FG=1", "expiry": 1497433995, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 09:53:14 GMT", "value": "wapp_1465897994465_699", "expiry": 2411977994, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "2da17e7c7cebe970a68cfcdd", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:qiefayo962
+Max Floor34
+Target Floor8
+find target floor
+[
+  "薇尚不会找克原，又没想过找对芳伐", 
+  "@qiaobi462 @段氏二少 @wxinmkha084 @爱我中华者11 @末弘倒商", 
+  "我不是不怀念没什么的你我间 我不是不怀念无忧无虑的夏天 我不是不怀念用力的看你的脸 我不是不怀念 好想再见你一面", 
+  "@qiaobi462 @段氏二少 @wxinmkha084 @爱我中华者11 @末弘倒商", 
+  "@YSX渣TWVW @xievawq3406 @haonpaidbt59 @Q2050427144采q @dbw炒股秘籍u41", 
+  "@璨儿璨儿 @一叶知春啊呀 @e223er @苗勇andy @锑哥1975", 
+  "@hqabb080905 @ieqiang4806 @HTHTHT啊啊1 @jmlcl654 @nirui777", 
+  "@帅帅2777 @benteng12511 @hui870112 @哦哦耶耶day @蓉恰", 
+  "@城墙下的骚年 @fsulu0164 @踩邓俗士 @happyqcqgirl @ciulhpan55", 
+  "@这都不是事儿31 @sdzbcuib888 @wtchfy @愿您崇高 @zhl01230123"
+]
+{
+  "content": "nbspnbspnbspnbsp本补偿价格从2006 年起执行。", 
+  "url": "http://tieba.baidu.com/p/4592288770?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "瓷肌", 
+  "imgPath": "/data/lumppic/2f738bd4b31c870193df584e257f9e2f0708ff29.jpg"
+}
+[
+  "薇尚不会找克原，又没想过找对芳伐", 
+  "@qiaobi462 @段氏二少 @wxinmkha084 @爱我中华者11 @末弘倒商", 
+  "我不是不怀念没什么的你我间 我不是不怀念无忧无虑的夏天 我不是不怀念用力的看你的脸 我不是不怀念 好想再见你一面", 
+  "@qiaobi462 @段氏二少 @wxinmkha084 @爱我中华者11 @末弘倒商", 
+  "@YSX渣TWVW @xievawq3406 @haonpaidbt59 @Q2050427144采q @dbw炒股秘籍u41", 
+  "@璨儿璨儿 @一叶知春啊呀 @e223er @苗勇andy @锑哥1975", 
+  "@hqabb080905 @ieqiang4806 @HTHTHT啊啊1 @jmlcl654 @nirui777", 
+  "@帅帅2777 @benteng12511 @hui870112 @哦哦耶耶day @蓉恰", 
+  "@城墙下的骚年 @fsulu0164 @踩邓俗士 @happyqcqgirl @ciulhpan55", 
+  "@这都不是事儿31 @sdzbcuib888 @wtchfy @愿您崇高 @zhl01230123"
+]
+Max Floor18
+Target Floor10
+find target floor
+[
+  "吧里谁有我的7G多？", 
+  "看到一个伙伴说可以免费领7G半年包~果断参与了，移动联通电信都可以参与！\n羡慕不？\n好东西就要共享出来，我这发不出链接，一发就被抽。\n谁要弄直接+我贴吧好友吧。。\n我看到都会给私的。\n不加一律不私！\n不缺流量的请无视我", 
+  "真的假的？加你了，求私啊", 
+  "加了", 
+  "加了", 
+  "已加", 
+  "已加", 
+  "我只想通讯录里多一个你,好么?", 
+  "已加"
+]
+{
+  "content": "对这个分析报告，笔者有自己的看法。首先，对这个盈利能力表示怀疑，众所周知，网络游戏市场本来就是一个赢家通吃的年代，不可能所有的网络游戏商都可以盈利，如果那样才是一个不健康的市场，少数的网游商出现盈利是非常符合市场的发展规律的。盛大、网易、九城和金山无疑是目前国内网游市场的主力军，他们的发展是国内网游市场的缩影，因此说只要他们的发展是良性的，那国内的网游市场还是非常值得期待的。", 
+  "url": "http://tieba.baidu.com/p/4612530873?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "男生头像", 
+  "imgPath": "/data/lumppic/d439b6003af33a873936be14c45c10385343b561.jpg"
+}
+[
+  "吧里谁有我的7G多？", 
+  "看到一个伙伴说可以免费领7G半年包~果断参与了，移动联通电信都可以参与！\n羡慕不？\n好东西就要共享出来，我这发不出链接，一发就被抽。\n谁要弄直接+我贴吧好友吧。。\n我看到都会给私的。\n不加一律不私！\n不缺流量的请无视我", 
+  "真的假的？加你了，求私啊", 
+  "加了", 
+  "加了", 
+  "已加", 
+  "已加", 
+  "我只想通讯录里多一个你,好么?", 
+  "已加", 
+  "对这个分析报告，笔者有自己的看法。首先，对这个盈利能力表示怀疑，众所周知，网络游戏市场本来就是一个赢家通吃的年代，不可能所有的网络游戏商都可以盈利，如果那样才是一个不健康的市场，少数的网游商出现盈利是非常符合市场的发展规律的。盛大、网易、九城和金山无疑是目前国内网游市场的主力军，他们的发展是国内网游市场的缩影，因此说只要他们的发展是良性的，那国内的网游市场还是非常值得期待的。"
+]
+Max Floor18
+Target Floor16
+find target floor
+[
+  "┃男头┃其实逆袭男神女神很简单的", 
+  "聪明的小伙伴注定加我479369980 ！", 
+  "9311528233", 
+  "637448233"
+]
+{
+  "content": "nbspnbspnbspnbsp董 事 会", 
+  "url": "http://tieba.baidu.com/p/4612645814?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "男生头像", 
+  "imgPath": "/data/lumppic/38dbb6fd5266d0160bc4726e952bd40734fa3592.jpg"
+}
+[
+  "┃男头┃其实逆袭男神女神很简单的", 
+  "聪明的小伙伴注定加我479369980 ！", 
+  "9311528233", 
+  "637448233", 
+  "nbspnbspnbspnbsp董 事 会"
+]
+Max Floor22
+Target Floor4
+find target floor
+[
+  "各个尺寸凉席两元清仓，速度，勿删！", 
+  "《75岁创业85岁结果》的文章是谁发表的", 
+  "怎样清", 
+  "货到物流公司代收货款来500个", 
+  "怎么算啊", 
+  "15、成功需要付出代价，不成功需要付出更高的代价。", 
+  "19、相信信念能够战胜一切，这本身就是一个最伟大的信念。", 
+  "69、压力不是有人比你努力，而是那些比你牛×几倍的人依然比你努力。", 
+  "7、一寸光阴一寸金，寸金难买寸光阴。"
+]
+{
+  "content": "益智、宣泄、博弈、暧昧、情感……杀人吧，在这个颇具血腥的暴力名字下，却包裹和承载着太多“名不副实”的意义。", 
+  "url": "http://tieba.baidu.com/p/4587298262?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "地摊", 
+  "imgPath": "/data/lumppic/a9d3fd1f4134970a0e98513d96cad1c8a7865d3c.jpg"
+}
+[
+  "各个尺寸凉席两元清仓，速度，勿删！", 
+  "《75岁创业85岁结果》的文章是谁发表的", 
+  "怎样清", 
+  "货到物流公司代收货款来500个", 
+  "怎么算啊", 
+  "15、成功需要付出代价，不成功需要付出更高的代价。", 
+  "19、相信信念能够战胜一切，这本身就是一个最伟大的信念。", 
+  "69、压力不是有人比你努力，而是那些比你牛×几倍的人依然比你努力。", 
+  "7、一寸光阴一寸金，寸金难买寸光阴。", 
+  "益智、宣泄、博弈、暧昧、情感……杀人吧，在这个颇具血腥的暴力名字下，却包裹和承载着太多“名不副实”的意义。"
+]
+Max Floor18
+Target Floor11
+find target floor
+[
+  "发挥你的手机 告诉你一个秘密 玩着手机天天来佰", 
+  "这里是萌萌哒花火,各位小伙伴们眼熟我吧爱我吧~!"
+]
+{
+  "content": "（2）实施参数放行将提高无菌药品生产企业的生产及质量保证体系、验证、过程监控等水平，提高我国GMP检查员的素质，从而成为GMP深化的一个重要切入点，对我国制药行业将产生深远的积极影响。", 
+  "url": "http://tieba.baidu.com/p/4603865325?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "地摊", 
+  "imgPath": "/data/lumppic/eac4b74543a98226203110298882b9014b90ebc8.jpg"
+}
+[
+  ""
+]
+Max Floor22
+Target Floor10
+find target floor
+[
+  "怎样练出凶狠的眼神？", 
+  "跟别人打架时 气势是最关键的， 一个眼神 就可以吓倒对方。 像龙哥的眼神 直接秒杀！ 求指点。。。", 
+  "野兽的嚎叫", 
+  "我也觉得龙哥的眼神真的够犀利，不怒自威，不过练还真不知道怎么练，坐等大神来解答", 
+  "少撸", 
+  "打架不要命是获胜的真理，当然有功夫基础最好", 
+  "什么理论", 
+  "别刻意，你懂自信吗？自信是你通过平常训练锻炼自己的成果感到满意，满意才会有满足感，有了满足感你自然自信，自信会让你的敌人感到惧怕，生畏！而不是刻意的装出凶狠的眼神，其实就是内心恐惧，表现出的外在表情来掩饰恐惧，哥们！你得自信，哪怕是你自然的流露出一个微笑也能把敌人吓破胆！祝你好运！还有做个好人！", 
+  "呵呵， 自然就留露出！ 人在特别愤怒的时候！", 
+  "眼神犀利要有犀利的资本", 
+  "去当2年兵吧"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 19:36:37http%3A%2f%2ftieba.baidu.com%2fp%2f2229755820%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

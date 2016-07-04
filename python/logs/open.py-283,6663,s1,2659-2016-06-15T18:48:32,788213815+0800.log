@@ -1,0 +1,314 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465900975", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:42:54 GMT", "value": "1465900950,1465900952,1465900961,1465900975", "expiry": 1497436974, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "D9FDB1DA34A87784", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:42:44 GMT", "value": "58295a1d9da6e21d9730fdfd52d83d5144748154c6a5fa60f90ca66d3a40b679", "expiry": 1725100964, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:42:44 GMT", "value": "de040ba9303c9c3479fbd100064c758d", "expiry": 1725100964, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:42:44 GMT", "value": "fda57e3f731553b6581bc21f2dea5f7b", "expiry": 1725100964, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:42:44 GMT", "value": "VdQYkdtRjFNYkc2VzlNdXYxfjBrdm9-WFd3SE1McGJmZkhQYU9wdjRjQ2piSWRYQVFBQUFBJCQAAAAAAAAAAAEAAADZKTRVemhlbWdyYW4wODMxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKPfX1ej319XM", "expiry": 1725100964, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:42:44 GMT", "value": "fi_PncwhpxZ%7ETaJc9wLaXxHeiz9NDiib4KD3%7ETKqtGyWUWmR7xFQQFihMuDEqP3cTkyT1TIW77Z3B7Ecm8bsH2IvoOd8ozSr%7E5oL9gloOOSG9EX34jfrIN1PsHO9AixTjR11tWG0NdUf-zRtsRLT7wzpwtV9g__", "expiry": 1725100964, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:42:44 GMT", "value": "fc46c0b51363802a7856753b8ad53c71e4fb931c", "expiry": 1725100964, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:42:44 GMT", "value": "wapp_1465900875650_989", "expiry": 1725100964, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:42:01 GMT", "value": "1", "expiry": 1465987321, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:41:31 GMT", "value": "1", "expiry": 1465987291, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:41:31 GMT", "value": "568", "expiry": 1497004891, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:41:31 GMT", "value": "320", "expiry": 1497004891, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:41:16 GMT", "value": "45C36638ABC60FBA2BABA7EB66A1AC68:FG=1", "expiry": 1497436876, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:41:15 GMT", "value": "wapp_1465900875650_989", "expiry": 2411980875, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "c061bb2ce0f10b9474c43dc8", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:zhemgran0831
+Max Floor29
+Target Floor29
+find target floor
+[
+  "【记录我的烘焙之路】因为喜欢，所以用心。", 
+  "我是汕头的，接触烘焙到现在六个月了都是自学的，主要就是百度视频跟着做还有下载美食软件跟着做，还记得开始做是先做戚风，做了两次成功了，因为做之前查了好多资料，提前预防了失败的因素。戚风成功后就等于成功了一大半", 
+  "来看看我第一个蛋糕，因为刚接触所以挑了不用裱花的，用的法国进口铁塔动物淡奶油。拍完照就自己吃了因为自己本来就很喜欢吃蛋糕，自己做的赶紧试试味道", 
+  "然后就在微信扣扣宣传，慢慢的有个第一个订单，是朋友的朋友订的酸奶慕斯。这是她给我的反馈照拍的好好看", 
+  "加油！", 
+  "慢慢的时不时有人找我订蛋糕，我会根据他们的要求画，像这样一个6寸三层新鲜水果夹心的我卖128", 
+  "海洋世界酸奶慕斯", 
+  "这几个都是酸奶慕斯", 
+  "加油", 
+  "楼主可以交流一下吗？我也想做私房蛋糕，不知道买啥器材", 
+  "为了不被删帖，我来点个赞。", 
+  "今天下午玩出来的兔子和笔筒", 
+  "昨天在家没事练习挤花，挤了好多才有的这两朵，虽然顾客木有要花的要求，不过今天用来装饰蛋糕当做送给她了"
+]
+{
+  "content": "不利之处：演讲时要故作深沉；可笑的贵族嘴脸，看起来更像一条漂亮的大马哈鱼。", 
+  "url": "http://tieba.baidu.com/p/4598051183?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "蛋糕", 
+  "imgPath": "/data/lumppic/d31b0ef41bd5ad6e0dd7550f83cb39dbb6fd3c2c.jpg"
+}
+[
+  ""
+]
+Max Floor29
+Target Floor28
+find target floor
+[
+  "【甜在心】请教各位 关于糖粉和细砂糖的问题", 
+  "刚入烘焙，在网上搜戚风或者饼干 曲奇的配方，低筋面粉倒是好说，但是糖的部分 有糖粉 细砂糖等好几种，现在面临着采购，不知道该买糖粉？还是细砂糖？淘宝搜的话搜哪个关键词啊？"
+]
+{
+  "content": "那一次发言，是她第一次在公众面前讲话。有位当时在场的香港中文大学学生说，翁帆不是一个外交家，但她的讲话一下子拉近了她与场内人的距离。另一句评价则来自她的先生。杨振宁教授说过，翁帆一向不怕权贵。就是这一种性格，令她无论与什么人相处，都不卑不亢，泰然自若。", 
+  "url": "http://tieba.baidu.com/p/4610956307?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "蛋糕", 
+  "imgPath": "/data/lumppic/8435e5dde71190efbb721ca1cc1b9d16fcfa60c7.jpg"
+}
+[
+  ""
+]
+Max Floor29
+Target Floor20
+find target floor
+[
+  "求蛋黄酥秘诀", 
+  "我在家做了蛋黄酥，最开始用的红豆压碎的红豆泥包蛋黄，蛋黄用的超市买的咸鸭蛋，蛋黄很沙了，但朋友说有点咸，希望清淡点。\n图是我第二次做的蛋黄酥，用的市场买的新鲜咸鸭蛋做的，蛋黄刚好翻砂没有咸味，但我个人觉得蛋黄没有吃起来没有味道了，不够沙。另外我把红豆泥换成了豆沙，很淡的那种，不甜。\n在此我想请教下各位大神，做蛋黄酥是怎么搭配的呢？是用甜的豆沙包蛋黄还是用不甜的？用哪种蛋黄好呢？其他治疗。\n另外，蛋黄酥没用完的油皮个酥放冰箱包好，过几天还能用不？"
+]
+{
+  "content": "据介绍，李玉书购置这两处豪宅时自己并未费神装修，房产商早已将房间装修得花团锦簇，只等房主随时入住。上一页nbsp;[1]nbsp;[2]nbsp;[3]nbsp;[4]nbsp;[5]nbsp;下一页nbsp;　　胡淑芬，女，19XX年生于山东济南奶头山地瓜蛋子大队，现任西祠胡同居委会小脚委员会委员，曾获得“西祠胡同搞笑突出贡献奖”，两次被评为“西祠胡同先进版主”、先后被评为全国灌水系统先进工作者，西祠胡同模范工作者，西祠胡同技术拔尖人才，是西祠胡同唯一享受每贴必酷特殊津贴的灌水专家。", 
+  "url": "http://tieba.baidu.com/p/4611790612?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "蛋糕", 
+  "imgPath": "/data/lumppic/09fa513d269759ee1be35e9db0fb43166d22df30.jpg"
+}
+[
+  ""
+]
+Max Floor7
+Target Floor2
+find target floor
+[
+  "┇Unique★JYJ┇0615消息◇C-JeS声明 等待无嫌疑通知后表明立场", 
+  "C-JeS 发表声明等待无嫌疑通知后表明立场\nFR:韩国me2day\nBY:JYJFCTW", 
+  "大家好，我们是C-Je娱乐。\n\n\n从13日的最初报导开始到今日(15日)上午的撤诉报导，我们都没有接到过警方的任何正式通知，只是通过报导知道了被起诉和撤诉的事实。\n艺人是一个受到大众关注和爱的职业，因此作为经纪人，我们应当一边协助大众获得知情权，一边保护艺人的私生活。所以被恶意的利用并且经历过数次令人惊慌的威胁和恶意揣测，我们也认为这是应该去忍耐的部分。\n但恶性犯罪调查与之不同。这次的事件不仅没有经过警方的调查去确认事情的真伪与否，而仅仅因为是韩流明星的原因，某媒体仅凭借得知了警方确实接到了这样的起诉事件为基础进行了实名报导，使得我们从那一天起被贴上了犯罪者的标签，而之后也没有公开警方的调查相关内容及结果，而是以\"不问事实，不是的话就算了\"的态度仅凭与论对事情进行了判断。但是既然成了被起诉的嫌疑人，我们就秉承着现在还没有资格首先去强调我们被冤枉的委屈心情，而是一直主张强调要先向警方确认事情的真相。\n目前对方已经撤诉，但在发表我方立场之前，想先向大众媒体呼吁。这次的事件是可以左右一个人人生的重要事件，请各家媒体更加慎重，并且以警察的调查结果为优先取材内容进行报导。此前13日最开始出现新闻报导的时候，处于警方根本还没有开始进行调查的状态，也没有对外公开起诉状的内容，然而，充满虚假事实和过度解读的报导铺天盖地而来，仅仅一天的时间就对朴有天的形象造成了无法挽回的沉重打击和严重的名誉损害。对此，我们认为对方(指媒体)并非提起诉讼之人，在没有对事实真相进行确认的情况下就做出了毫无根据的报导。\n一如我们之前反复说过的那样，没有从警方那里接到被诉事实等通知，因此将等待警方发表无嫌疑的结果。再者，为了证明没有嫌疑，将在警方提出协助调查的时候诚实、诚恳地配合。我们今后也没有通过与论报导一一公开与这一事件相关的细枝末节的计划，会在警方给出结果的时候表明立场。\n非常感谢。", 
+  "===封===", 
+  "相信有天", 
+  "我相信有天沒有做"
+]
+{
+  "content": "nbspnbspnbspnbsp2、红利发放日：2006年5月17日", 
+  "url": "http://tieba.baidu.com/p/4612388095?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "jyj", 
+  "imgPath": "/data/lumppic/48540923dd54564e4ae61870b1de9c82d0584ffc.jpg"
+}
+[
+  "┇Unique★JYJ┇0615消息◇C-JeS声明 等待无嫌疑通知后表明立场", 
+  "C-JeS 发表声明等待无嫌疑通知后表明立场\nFR:韩国me2day\nBY:JYJFCTW", 
+  "大家好，我们是C-Je娱乐。\n\n\n从13日的最初报导开始到今日(15日)上午的撤诉报导，我们都没有接到过警方的任何正式通知，只是通过报导知道了被起诉和撤诉的事实。\n艺人是一个受到大众关注和爱的职业，因此作为经纪人，我们应当一边协助大众获得知情权，一边保护艺人的私生活。所以被恶意的利用并且经历过数次令人惊慌的威胁和恶意揣测，我们也认为这是应该去忍耐的部分。\n但恶性犯罪调查与之不同。这次的事件不仅没有经过警方的调查去确认事情的真伪与否，而仅仅因为是韩流明星的原因，某媒体仅凭借得知了警方确实接到了这样的起诉事件为基础进行了实名报导，使得我们从那一天起被贴上了犯罪者的标签，而之后也没有公开警方的调查相关内容及结果，而是以\"不问事实，不是的话就算了\"的态度仅凭与论对事情进行了判断。但是既然成了被起诉的嫌疑人，我们就秉承着现在还没有资格首先去强调我们被冤枉的委屈心情，而是一直主张强调要先向警方确认事情的真相。\n目前对方已经撤诉，但在发表我方立场之前，想先向大众媒体呼吁。这次的事件是可以左右一个人人生的重要事件，请各家媒体更加慎重，并且以警察的调查结果为优先取材内容进行报导。此前13日最开始出现新闻报导的时候，处于警方根本还没有开始进行调查的状态，也没有对外公开起诉状的内容，然而，充满虚假事实和过度解读的报导铺天盖地而来，仅仅一天的时间就对朴有天的形象造成了无法挽回的沉重打击和严重的名誉损害。对此，我们认为对方(指媒体)并非提起诉讼之人，在没有对事实真相进行确认的情况下就做出了毫无根据的报导。\n一如我们之前反复说过的那样，没有从警方那里接到被诉事实等通知，因此将等待警方发表无嫌疑的结果。再者，为了证明没有嫌疑，将在警方提出协助调查的时候诚实、诚恳地配合。我们今后也没有通过与论报导一一公开与这一事件相关的细枝末节的计划，会在警方给出结果的时候表明立场。\n非常感谢。", 
+  "===封===", 
+  "相信有天", 
+  "我相信有天沒有做", 
+  "nbspnbspnbspnbsp2、红利发放日：2006年5月17日"
+]
+Max Floor7
+Target Floor3
+find target floor
+[
+  "┇Unique★JYJ┇0615消息◇JYJ吧每日签到楼—陪你度过漫长岁月", 
+  "头痛了一晚上没睡着 现在分分钟要晕倒的节奏=_=", 
+  "今天我抢到沙发啦", 
+  "九九怎么一晚上没睡呢?要注意身体哦😊，有时间要抓紧休息，睡比吃更重要，美女睡出来的呀。", 
+  "大家早安，九九中午补觉吧，今天大家也要淡定", 
+  "可以把有天上班的那条新闻删了吗", 
+  "到", 
+  "希望一切都好", 
+  "东方神起是初心", 
+  "就老公一直在换初心不变", 
+  "从俊秀有天在在到ss501太阳GD……喜欢的人一个又一个最终最爱的还是最初喜欢的", 
+  "东方神起永远是五个人", 
+  "永远支持JYJ，哥仨不容易，靠自己的才华赢得了荣誉，有天挺你，四个字的不要在这吧里讲，有四字吧。", 
+  "请亲们不要发布什么新闻，给坏银有机可乘", 
+  "今天中午来做小蜜蜂，采采蜜，与吧里的亲们聊聊，JYJFighting", 
+  "我也来 今天中午来做小蜜蜂，采采蜜，与吧里的亲们聊聊，JYJFighting", 
+  "签到，今日心情还是比较复杂，希望明天会更好", 
+  "中午好！希望JYJ一切都好！相信JYJ支持JYJ!", 
+  "到"
+]
+{
+  "content": "认同不认同公司文化？百度致力于保持创业激情、愿意学习、富有创新的公司文化。但是有些人求稳，不愿意冒险，不愿意在高速成长的环境中工作，希望有一份稳定的工作和生活，那么这类人就不太适合百度。", 
+  "url": "http://tieba.baidu.com/p/4611628045?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "jyj", 
+  "imgPath": "/data/lumppic/79f0f736afc37931c6ab98bbe9c4b74542a91164.jpg"
+}
+[
+  "┇Unique★JYJ┇0615消息◇JYJ吧每日签到楼—陪你度过漫长岁月", 
+  "头痛了一晚上没睡着 现在分分钟要晕倒的节奏=_=", 
+  "今天我抢到沙发啦", 
+  "九九怎么一晚上没睡呢?要注意身体哦😊，有时间要抓紧休息，睡比吃更重要，美女睡出来的呀。", 
+  "大家早安，九九中午补觉吧，今天大家也要淡定", 
+  "可以把有天上班的那条新闻删了吗", 
+  "到", 
+  "希望一切都好", 
+  "东方神起是初心", 
+  "就老公一直在换初心不变", 
+  "从俊秀有天在在到ss501太阳GD……喜欢的人一个又一个最终最爱的还是最初喜欢的", 
+  "东方神起永远是五个人", 
+  "永远支持JYJ，哥仨不容易，靠自己的才华赢得了荣誉，有天挺你，四个字的不要在这吧里讲，有四字吧。", 
+  "请亲们不要发布什么新闻，给坏银有机可乘", 
+  "今天中午来做小蜜蜂，采采蜜，与吧里的亲们聊聊，JYJFighting", 
+  "我也来 今天中午来做小蜜蜂，采采蜜，与吧里的亲们聊聊，JYJFighting", 
+  "签到，今日心情还是比较复杂，希望明天会更好", 
+  "中午好！希望JYJ一切都好！相信JYJ支持JYJ!", 
+  "到", 
+  "认同不认同公司文化？百度致力于保持创业激情、愿意学习、富有创新的公司文化。但是有些人求稳，不愿意冒险，不愿意在高速成长的环境中工作，希望有一份稳定的工作和生活，那么这类人就不太适合百度。"
+]
+Max Floor23
+Target Floor5
+find target floor
+[
+  "１６５９１８３１３ 友测试 搬砖升级秒杀异界安图", 
+  "范妮贵鲍诚敢", 
+  "郭莫斑阎沐邯", 
+  "潘玮邯彭明棉"
+]
+{
+  "content": "泰达新外援阿格布首次亮相也成为本场比赛的最大看点。最终本场比赛泰达队凭借新外援阿格布两传一射的完美表现在主场4：2战胜了辽宁队取得三分。", 
+  "url": "http://tieba.baidu.com/p/4577121826?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "dnf商人", 
+  "imgPath": "/data/lumppic/cc11728b4710b9127096cdfcc1fdfc0392452258.jpg"
+}
+[
+  "１６５９１８３１３ 友测试 搬砖升级秒杀异界安图", 
+  "范妮贵鲍诚敢", 
+  "郭莫斑阎沐邯", 
+  "潘玮邯彭明棉"
+]
+Max Floor23
+Target Floor14
+find target floor
+[
+  "★゛T.O.P→『160612新闻』6.11上海国际电影节最美造型投票哦", 
+  "大家一起加油吧\n投票地址:☞ http://vote.weibo.cn/poll/137300265", 
+  "心中自然是我塔比和我洋", 
+  "top！！", 
+  "塔塔，刘亦菲", 
+  "已投～", 
+  "已投", 
+  "top", 
+  "谢谢吧里各位大爷，爱你们~"
+]
+{
+  "content": "因此可以这样说：I cannot bear it. That is to say， I cannot put up with it or I", 
+  "url": "http://tieba.baidu.com/p/4606364559?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "崔胜贤", 
+  "imgPath": "/data/lumppic/f9dcd100baa1cd11666ce829bb12c8fcc2ce2de4.jpg"
+}
+[
+  "★゛T.O.P→『160612新闻』6.11上海国际电影节最美造型投票哦", 
+  "大家一起加油吧\n投票地址:☞ http://vote.weibo.cn/poll/137300265", 
+  "心中自然是我塔比和我洋", 
+  "top！！", 
+  "塔塔，刘亦菲", 
+  "已投～", 
+  "已投", 
+  "top", 
+  "谢谢吧里各位大爷，爱你们~", 
+  "因此可以这样说：I cannot bear it. That is to say， I cannot put up with it or I"
+]
+Max Floor23
+Target Floor18
+find target floor
+[
+  "[公告]关于撤销 Oo天然烟熏゛T 吧主管理权限的说明", 
+  "接到用户举报，经核实吧主 Oo天然烟熏゛T 长期未对贴吧进行管理及发言，无法在建设贴吧内容上、言论导向上发挥应有的模范带头作用，严重违反吧主协议，故撤销其吧主管理权限。如对此项决议有异议，请至全民举报吧进行申诉，链接 http://tieba.baidu.com/p/4554732178百度贴吧管理组", 
+  "厉害"
+]
+{
+  "content": "严嘉：我们非常欢迎全国各地的考生选择中国地质大学来实现自己的人生梦想，我们在全国各省区除了音乐、美术、体育等专业放在提前批之外，其它的各专业都属于本科第一批或者重担本科批次。我们在各地的录取批次线参照各省区划定的重点分数线，根据我们近年来的情况表明，我们在各省的提档线一般比各省区的重点线高出5—10分左右，也有部分省区刚到重点线就可以录取。", 
+  "url": "http://tieba.baidu.com/p/4606322149?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "崔胜贤", 
+  "imgPath": "/data/lumppic/d62a6059252dd42acf5f5d18013b5bb5c9eab82b.jpg"
+}
+[
+  "[公告]关于撤销 Oo天然烟熏゛T 吧主管理权限的说明", 
+  "接到用户举报，经核实吧主 Oo天然烟熏゛T 长期未对贴吧进行管理及发言，无法在建设贴吧内容上、言论导向上发挥应有的模范带头作用，严重违反吧主协议，故撤销其吧主管理权限。如对此项决议有异议，请至全民举报吧进行申诉，链接 http://tieba.baidu.com/p/4554732178百度贴吧管理组", 
+  "厉害", 
+  "严嘉：我们非常欢迎全国各地的考生选择中国地质大学来实现自己的人生梦想，我们在全国各省区除了音乐、美术、体育等专业放在提前批之外，其它的各专业都属于本科第一批或者重担本科批次。我们在各地的录取批次线参照各省区划定的重点分数线，根据我们近年来的情况表明，我们在各省的提档线一般比各省区的重点线高出5—10分左右，也有部分省区刚到重点线就可以录取。"
+]
+Max Floor7
+Target Floor4
+find target floor
+[
+  "【圆美】看到猿美的HE感觉身体被掏空", 
+  "最后的lsw怎么可以这么甜", 
+  "猴哥休假去hmr接美美，猴哥陪美美逛街，去见丈母娘，美美夸猴哥是天才，美美一百点prprprprprprprprprrprprprpprpr", 
+  "看到了，甜炸了", 
+  "话说很久很久以前，鬼界中的鬼王，有一天突然萌生出要来人界走走的想法，就来了一场说走就走的旅行", 
+  "楼主两把都有", 
+  "第三次了！！！我是打广告还是发黄图，有意思吗！大晚上娱乐一下不可以吗，就是闲的", 
+  "昨天大晚上看到，兴奋的睡不着想跑圈", 
+  "开头虐结尾甜，首尾呼应", 
+  "没时间解释了快上车欢迎加入基腐宅，群号码：551560867", 
+  "这个结局打破了我对bd5min里刷屏的宗伏党的不爽", 
+  "有爱的人................"
+]
+{
+  "content": "会不会有什么急事？亚三揉了揉眼睛，打开床头灯拿起手机一看，只见上面显示：“姿势不对，起来重睡！”", 
+  "url": "http://tieba.baidu.com/p/4609790042?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "k", 
+  "imgPath": "/data/lumppic/a8773912b31bb051e4c66a21347adab44bede0dd.jpg"
+}
+[
+  "【圆美】看到猿美的HE感觉身体被掏空", 
+  "最后的lsw怎么可以这么甜", 
+  "猴哥休假去hmr接美美，猴哥陪美美逛街，去见丈母娘，美美夸猴哥是天才，美美一百点prprprprprprprprprrprprprpprpr", 
+  "看到了，甜炸了", 
+  "话说很久很久以前，鬼界中的鬼王，有一天突然萌生出要来人界走走的想法，就来了一场说走就走的旅行", 
+  "楼主两把都有", 
+  "第三次了！！！我是打广告还是发黄图，有意思吗！大晚上娱乐一下不可以吗，就是闲的", 
+  "昨天大晚上看到，兴奋的睡不着想跑圈", 
+  "开头虐结尾甜，首尾呼应", 
+  "没时间解释了快上车欢迎加入基腐宅，群号码：551560867", 
+  "这个结局打破了我对bd5min里刷屏的宗伏党的不爽", 
+  "有爱的人................", 
+  "会不会有什么急事？亚三揉了揉眼睛，打开床头灯拿起手机一看，只见上面显示：“姿势不对，起来重睡！”"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:zhemgran0831
+Max Floor27
+Target Floor24
+find target floor
+[
+  "【交流】刚搜鱼搜到的， 这哥们用生命告诉了我们一个道理！", 
+  "这个兄弟。好样的。果断弃号", 
+  "23333", 
+  "实在太屌", 
+  "触点呢", 
+  "魅蓝出来", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "【苹果官方】 九本中期便宜出http://ywr8cx.taoshouyou4.com/taoid_2134618.html?pop=438600", 
+  "666", 
+  "笑死了", 
+  "6666", 
+  "笑了", 
+  "魅蓝出来", 
+  "我看到了同样的贴同样的图，你们谁盗版谁的？", 
+  "666", 
+  "死鱼竟然资源这么少"
+]
+{
+  "content": "近日，笔者在担负新机保障任务的成空某场站看到：面对“敌”突袭，官兵们沉着应战，实施野战条件下的飞行保障，确保战鹰按时升空。成空后勤部着眼实战需要，不断创新训练模式，部队复杂条件下后勤保障能力明显增强。", 
+  "url": "http://tieba.baidu.com/p/4612078222?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "部落战争", 
+  "imgPath": "/data/lumppic/a8ec8a13632762d04befffbfa2ec08fa503dc6d9.jpg"
+}
+2016-06-15 18:53:51http%3A%2f%2ftieba.baidu.com%2fp%2f4612078222%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 304, in <module>
+    floorContent()
+  File "open.py", line 133, in floorContent
+    postContent = p.find_element_by_class_name('content').text
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 70, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 457, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

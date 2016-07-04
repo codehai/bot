@@ -1,0 +1,35 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465475855", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 12:37:35 GMT", "value": "1465405736,1465475734,1465475735,1465475855", "expiry": 1497011855, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "B3523C5CC720812F", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:37:25 GMT", "value": "74ea32d138aa76e4dbdee39ccc826ba501ad26e8e4a72f6a5f647ed4bf505dd7", "expiry": 1724675845, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:37:25 GMT", "value": "3bc6eaf4e38b9412184b4bcc76005da1", "expiry": 1724675845, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:37:25 GMT", "value": "d509cbb9ed895186320395112d6a86f79d", "expiry": 1724675845, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:37:25 GMT", "value": "hNTHVRRzJXWEdYRG52YnVoWHJZeE1MbjUxTkQ4TkRpN0ctNjZ3WWFSVUU4SUJYQVFBQUFBJCQAAAAAAAAAAAEAAAA3BiZVcGluZ3hpYW5vbmMyMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARjWVcEY1lXYV", "expiry": 1724675845, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:37:25 GMT", "value": "fi_PncwhpxZ%7ETaJc3snDdsNThUGcIZN5OT6sSCcUabNRKdP4HERhH%7E%7EzNoAnviZUY0ujMMiG3p3KeQKsapAMOcaNPVyXAqaSRC55cv-qNi7jpK6%7E2kTlxSEMPK7-hoyVlfjOW6GCHO2NHbI3ylLpTr-7U-0Iw__", "expiry": 1724675845, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:37:25 GMT", "value": "d648ec7d74fad7ba856b5e43be2183c250e46b4cf7", "expiry": 1724675845, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:37:25 GMT", "value": "wapp_1465475775990_375", "expiry": 1724675845, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e94, 10 6\\u6708 2016 12:36:45 GMT", "value": "1", "expiry": 1465562205, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e94, 10 6\\u6708 2016 12:36:31 GMT", "value": "1", "expiry": 1465562191, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u65e5, 04 6\\u6708 2017 12:36:31 GMT", "value": "568", "expiry": 1496579791, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u65e5, 04 6\\u6708 2017 12:36:31 GMT", "value": "320", "expiry": 1496579791, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 12:36:16 GMT", "value": "9A65762E05F13674BB8E03C143A85DD3:FG=1", "expiry": 1497011776, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 02 6\\u6708 2046 12:36:15 GMT", "value": "wapp_1465475775990_375", "expiry": 2411555775, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "9220a74e042a4bcf9cfaaf4c", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:pingxianonc20
+Max Floor38
+Target Floor38
+find target floor
+[
+  "【06-13 酷语】求助帖", 
+  "酷派ivvi 小i 这个手机一般充电速度怎么样啊？我是前两天买的手机，充电速度超慢。冲1小时才30%得电，要想充满得三四小时左右，还是在不耍手机的前提，想知道这种情况正常吗？", 
+  "有大神在么", 
+  "求告知", 
+  "正常呢，手机不能快充，充电的时候不要操作手机，关闭后台运行的程序应该会快一些", 
+  "有人吗", 
+  "～", 
+  "有人吗"
+]
+2016-06-15 20:06:13http%3A%2f%2ftieba.baidu.com%2fp%2f4608339313%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 289, in <module>
+    wait.until(EC.visibility_of_element_located((By.TAG_NAME,"textarea")))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+

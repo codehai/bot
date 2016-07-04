@@ -1,0 +1,95 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465900362", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:32:42 GMT", "value": "1465900134,1465900248,1465900332,1465900362", "expiry": 1497436362, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "271FEE4DF5BB7C16", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:31 GMT", "value": "87c512a33def02fe3bf7d39ed8470ed6ffafd1cddcf4677377eed312eb1e5b0f", "expiry": 1725100351, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:31 GMT", "value": "e7d09bcbcb6bc39d2ee81789d6067ca3", "expiry": 1725100351, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:31 GMT", "value": "373f99d8135f406fa3d775cd831e0c6c", "expiry": 1725100351, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:31 GMT", "value": "GpPUXYzQzI5Z1R2cHFpWS02S0pFTUdqQWZ-dUFucjFCaTU4aEx3aU9lc35hb2RYQVFBQUFBJCQAAAAAAAAAAAEAAABetxRVcHpob25nZXl3OTczAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD~dX1c~3V9XT", "expiry": 1725100351, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:31 GMT", "value": "fi_PncwhpxZ%7ETaJc0E8gfH9UVWOp2D1Jbbv%7EKkFS570LbJmrv6jXdkbCyMjBVHVHxP6zzx4A2I7SvE40GnxYsj%7EkzvKeKCAiw18EqKOv9FSLyoUXSEA9UXLzVhXe2wxPnLb3PnMir5eANP7xi2HbE4OLmBU1Q0_", "expiry": 1725100351, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:31 GMT", "value": "d9a64ca46447ef94cf4564dbe5021b5e2174c235", "expiry": 1725100351, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:32:31 GMT", "value": "wapp_1465900277759_136", "expiry": 1725100351, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:31:52 GMT", "value": "1", "expiry": 1465986712, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:31:33 GMT", "value": "1", "expiry": 1465986693, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:31:33 GMT", "value": "568", "expiry": 1497004293, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:31:33 GMT", "value": "320", "expiry": 1497004293, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:31:18 GMT", "value": "ADF46DC681F0A87B8EF11322ED55BCB4:FG=1", "expiry": 1497436278, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:31:17 GMT", "value": "wapp_1465900277759_136", "expiry": 2411980277, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "0929173ecc2fce766fe7ebca", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:pzhongeyw973
+Max Floor17
+Target Floor15
+find target floor
+[
+  "【教程】是不是觉得美美哒 是不是很想get 赶快行动起来"
+]
+{
+  "content": "美国《每日防务》2006年4月21日报道 BAE系统公司昨天宣布，台湾将为美制战斗机F-16详细 图片采购930万美元的计算机软件和硬件。这些采购项目将会在2008年以后提高F-16飞行员对敌方雷达信号的感知能力和反应速度。", 
+  "url": "http://tieba.baidu.com/p/4612188010?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "素材", 
+  "imgPath": "/data/lumppic/f636afc379310a55be9100bdb54543a9832610c5.jpg"
+}
+[
+  "【教程】是不是觉得美美哒 是不是很想get 赶快行动起来"
+]
+Max Floor13
+Target Floor2
+find target floor
+[
+  "卫生间逼格不满，快进来充电！", 
+  "你的卫生间还是这样的？\n\n或是这样的？\n\n嗯嗯，生活气息是很重，方便性也不错。但是这样的卫生间永久了是不是有点腻？连打扫的欲望都会减弱？有客人来使用的时候，没有眼前一亮的感觉？人吃五谷杂粮，如厕也是门学问。楼主大学虽然不是主修如厕学。。但是对卫生间的布置还是有一点点研究噢，这就和诸位看官分享一下我的卫生间布置经验。\n楼主尝试了很多办法，都没法兼顾卫生间的美观和实用性，放绿植吧，潮气滋生小飞虫。换浴帘吧，又不足以改变卫生间的装修风格，把卫生间挖个底朝天想想更不可取。网上一些高大上的卫生间图片实际并不实用，卫生间空间有限，日用品又多，很容易显得杂乱无章。\n所以楼主建议先从卫生间收纳开始，日系的简约收纳装置再合适不过了\n\n网易严选上买的竹木框架的，帆布袋子。收纳功能超强，卫生间的杂物好像突然间全部消失了！淡淡的日式清新味道，搭配大多数卫生间的暖色调瓷砖，是不是逼格满满！适合各种卫生间的格局噢！必备！\n\n由于大多数日用品都是塑料包装，卫生间也跟着飘洒“塑料风”，不管我们花了多少钱装修卫生间，把这些瓶瓶罐罐摆进去，质感迅速down到谷底。。所以楼主和闺蜜一起在严选上买了上图这套卫浴四件套。。大理石简约外观设计，在朦胧的镜前灯光下，是不是很有格调呢？担心那个洗漱杯拿不动的MM注意了，其实这套是天然树脂材质的噢！名符其实的摆着好看，用着轻便！\n\n在洗澡间，楼主选了这双人字拖哦，比普通的拖鞋防滑性好，洗澡时不宜脱脚，也是纯日式设计，和楼主前面介绍的东西都很搭配哦~也是提升逼格的良品，快换掉哪些花花绿绿的塑胶拖鞋吧。。\n有了这几样点缀，楼主的卫生间已经焕然一新啦，没有到处摆放的瓶瓶罐罐，毛巾浴巾，只有清新的卫生间整体设计。楼主家卫生间彻底还原了刚装修好时的质感，还增添了几抹和谐的日系味道！可惜的是楼主没有等到618，没想到网易严选也会在618搞活动，而且折扣还不低，三件以内全部八折。。楼主上面买的这三件八折算下来还能省下几十块呢。。", 
+  "平均每1.1秒就有一人选择OPPO R9系列 ，OPPO R9 雪岩灰 6.18震撼上市。"
+]
+{
+  "content": "nbsp;nbsp;nbsp;nbsp;自杀博士被热心市民廖先生等送到医院后，伤者迅速被送到了急诊室抢救。经过手术清创缝合后，林博士被送到了医院住院部进一步治疗。", 
+  "url": "http://tieba.baidu.com/p/4612740530?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "美食", 
+  "imgPath": "/data/lumppic/8326cffc1e178a8275507e54f403738da877e8d2.jpg"
+}
+[
+  ""
+]
+Max Floor13
+Target Floor2
+find target floor
+[
+  "记录 高考之后的美食日记", 
+  "高考已经过去好几天了，是时候开始开贴啦 用萌萌的西红柿镇楼！", 
+  "高考之后去给同寝室的同学过生日 去的锅工厂吃了好多串串！味道真心不错！赞一个！点了好大一杯🍉汁！", 
+  "你们的感情都是怎么保鲜的呀？", 
+  "和家里人一起去吃的自助餐 是刚开业的 东西多 还便宜！"
+]
+{
+  "content": "香港理工大学咨询人员说，港校一般都注重英语成绩，高考英语要在120分以上，低于120分的考生，申请会受到影响。", 
+  "url": "http://tieba.baidu.com/p/4612735248?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "美食", 
+  "imgPath": "/data/lumppic/241f95cad1c8a78600da90bb6509c93d71cf5097.jpg"
+}
+[
+  ""
+]
+Max Floor31
+Target Floor31
+find target floor
+[
+  "一天了，我这还有百分之七的电，你们那儿呢？", 
+  "刚收到的花，突然想起了小时候", 
+  "当年女神让我冒充她男朋友应付父母，谈好300块酬金，我去她家看到豪宅跑车，她父母也很满意我，晚上还安排女神和我一个房间睡。当晚，女神趴在我身上害羞的说：“要不你就真当我男朋友好了”。我一巴掌乎在她脸上：“你是不是耍赖，是不是不想给我那300块钱了？”", 
+  "百分百点"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:57:59http%3A%2f%2ftieba.baidu.com%2fp%2f4612681186%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

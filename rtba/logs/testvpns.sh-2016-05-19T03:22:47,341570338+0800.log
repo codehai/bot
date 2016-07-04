@@ -1,0 +1,41 @@
+s2
+Thu May 19 03:22:47 CST 2016
+* About to connect() to baidu.com port 80 (#0)
+*   Trying 111.13.101.208...
+* Connected to baidu.com (111.13.101.208) port 80 (#0)
+> GET / HTTP/1.1
+> User-Agent: curl/7.29.0
+> Host: baidu.com
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+< Date: Wed, 18 May 2016 19:23:01 GMT
+< Server: Apache
+< Last-Modified: Tue, 12 Jan 2010 13:48:00 GMT
+< ETag: "51-47cf7e6ee8400"
+< Accept-Ranges: bytes
+< Content-Length: 81
+< Cache-Control: max-age=86400
+< Expires: Thu, 19 May 2016 19:23:01 GMT
+< Connection: Keep-Alive
+< Content-Type: text/html
+< 
+{ [data not shown]
+* Connection #0 to host baidu.com left intact
+<html>
+<meta http-equiv="refresh" content="0;url=http://www.baidu.com/">
+</html>
+{
+  "时间": "2016-05-19T03:23:01+0800", 
+  "运营商": "电信", 
+  "IP": "114.89.117.102", 
+  "网络位置": "[中国-上海-上海-金山区](/map/ip?ip=114.89.117.102)", 
+  "行为位置": "上海-金山区", 
+  "真人概率": "85%"
+}
+s1
+Thu May 19 03:23:16 CST 2016
+* Could not resolve host: baidu.com; Unknown error
+* Closing connection 0
+something wrong
+"2016-05-19T03:23:16+0800\n\n\nelapsed 0.16\n"

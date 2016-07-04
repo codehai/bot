@@ -1,0 +1,432 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465899995", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:26:34 GMT", "value": "1465899759,1465899883,1465899885,1465899995", "expiry": 1497435994, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "E9899696AB08E932", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:26:23 GMT", "value": "8bbffd8ea06566e3625dfacec7a90396436b0d6755380a77e789e66b039aae93", "expiry": 1725099983, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:26:23 GMT", "value": "539e3fd3a4190925bb3a7b73496984dc", "expiry": 1725099983, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:26:23 GMT", "value": "b7799052908cd86f9b95b01320c08e", "expiry": 1725099983, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:26:23 GMT", "value": "UtV0FPNUd1WlhNcDVUck9zZ3VHcnlFZERQa05ZV2pTc2dpLXZPbmFYTE9hSWRYQVFBQUFBJCQAAAAAAAAAAAEAAAD0yFVVcWlhb3Fhdm83MTkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7bX1fO219XZj", "expiry": 1725099983, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:26:23 GMT", "value": "fi_PncwhpxZ%7ETaJc7HrQ-BNrmacFGSbKWupJhNHYNPEHuFc0GrhqJmUiyFkzAK4hUKbik5sZe5t-ECVclcocCC3OR7rNmwe0MhzUgWEw0JM692qvh9mLFaHhhBoEl-nHmuE5AiQ2xCHTW7%7EIrREc1YOCv-nRw__", "expiry": 1725099983, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:26:23 GMT", "value": "f510ae9c25d7063479f45804433f4cc4181105", "expiry": 1725099983, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:26:23 GMT", "value": "wapp_1465899916589_598", "expiry": 1725099983, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:25:46 GMT", "value": "1", "expiry": 1465986346, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:25:32 GMT", "value": "1", "expiry": 1465986332, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:25:32 GMT", "value": "568", "expiry": 1497003932, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:25:32 GMT", "value": "320", "expiry": 1497003932, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:25:17 GMT", "value": "CDF648649D023A270B8C27AD88328CD6:FG=1", "expiry": 1497435917, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:25:16 GMT", "value": "wapp_1465899916589_598", "expiry": 2411979916, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "902f5df66f2ab75a253f42c4", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:qiaoqavo719
+Max Floor29
+Target Floor1
+find target floor
+[
+  "HyunA﹏160614°消息┃泫雅将参加7.16在巴厘岛举行的ViralFest", 
+  "solo\n算个公演吧（？） 海报上有马儿", 
+  "封", 
+  "希望solo大红", 
+  "赞赞赞 马儿", 
+  "好期待", 
+  "期待", 
+  "会带来新曲表演么", 
+  "真心希望马儿如果选择留在方块（可能是想保住洪爸爸的心血吧），那方块就不要在作死，把马儿送上韩国顶尖国际歌手top吧！", 
+  "突然感觉这样也是挺好的", 
+  "帮补一个宣传视频", 
+  "顶啊"
+]
+{
+  "content": "临摹王励勤的右手，手心处还画上奥运五环和“2008”字样。第一队的队歌也引出话题，原来他们跟第四队选择了同一首歌，张怡宁的教练李隼在台下“抗议”道：“我们是正版，打击盗版。”于是，第四队在队歌最后还加上一句“支持正版，打击盗版”，众人笑作一团。", 
+  "url": "http://tieba.baidu.com/p/4611196158?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "金泫雅", 
+  "imgPath": "/data/lumppic/b3119313b07eca80466b4ee6932397dda1448340.jpg"
+}
+[
+  "HyunA﹏160614°消息┃泫雅将参加7.16在巴厘岛举行的ViralFest", 
+  "solo\n算个公演吧（？） 海报上有马儿", 
+  "封", 
+  "希望solo大红", 
+  "赞赞赞 马儿", 
+  "好期待", 
+  "期待", 
+  "会带来新曲表演么", 
+  "真心希望马儿如果选择留在方块（可能是想保住洪爸爸的心血吧），那方块就不要在作死，把马儿送上韩国顶尖国际歌手top吧！", 
+  "突然感觉这样也是挺好的", 
+  "帮补一个宣传视频", 
+  "顶啊"
+]
+Max Floor29
+Target Floor25
+find target floor
+[
+  "HyunA﹏160606°图图┃160606 他人ins更新泫雅相关汇总贴", 
+  "开个汇总贴方便看", 
+  "mr_donstagram", 
+  "noone1208 更新在练习室的庆生视频\nhttp://weibo.com/p/2304446e9b9af4dd511b926f1f7ef098e8f13b", 
+  "bicksancho", 
+  "noone1208", 
+  "1theK推特\nhttp://weibo.com/p/2304442a0fb3c3fad1de8b3f4744a415432281", 
+  "jessicho_o ins评论", 
+  "真好 看见泫雅这么开心", 
+  "求科普里面是谁", 
+  "第一张男的好像Bigbang的伴舞😏", 
+  "第一张是yg双胞胎dancer中的弟弟。。为什么马儿会跟他认识的？？", 
+  "求金泫雅快点脱单", 
+  "redmoon_dalnim", 
+  "jessicah_o", 
+  "mjbaby0203", 
+  "o.k_sun", 
+  "TONYMOLYPH推特", 
+  "泫雅muamua", 
+  "哪里来的小天使啊", 
+  "好想看到泫雅更新ins"
+]
+{
+  "content": "姬海涛（个体出租车老板）：八次到九次，那是两个月给你返了3400（元）。", 
+  "url": "http://tieba.baidu.com/p/4593047136?lp=5028&mo_device=1&is_jingpost=1&pn=0&", 
+  "ba": "金泫雅", 
+  "imgPath": "/data/lumppic/71cf3bc79f3df8dc50a2857bcf11728b461028b8.jpg"
+}
+[
+  "HyunA﹏160606°图图┃160606 他人ins更新泫雅相关汇总贴", 
+  "开个汇总贴方便看", 
+  "mr_donstagram", 
+  "noone1208 更新在练习室的庆生视频\nhttp://weibo.com/p/2304446e9b9af4dd511b926f1f7ef098e8f13b", 
+  "bicksancho", 
+  "noone1208", 
+  "1theK推特\nhttp://weibo.com/p/2304442a0fb3c3fad1de8b3f4744a415432281", 
+  "jessicho_o ins评论", 
+  "真好 看见泫雅这么开心", 
+  "求科普里面是谁", 
+  "第一张男的好像Bigbang的伴舞😏", 
+  "第一张是yg双胞胎dancer中的弟弟。。为什么马儿会跟他认识的？？", 
+  "求金泫雅快点脱单", 
+  "redmoon_dalnim", 
+  "jessicah_o", 
+  "mjbaby0203", 
+  "o.k_sun", 
+  "TONYMOLYPH推特", 
+  "泫雅muamua", 
+  "哪里来的小天使啊", 
+  "好想看到泫雅更新ins"
+]
+Max Floor30
+Target Floor28
+find target floor
+[
+  "『 大神去哪儿』雷神911EC1", 
+  "玩英雄联盟总会无缘无故的弹桌面，求解答，到底什么情况。特烦，经常这样死", 
+  "大神在哪里！", 
+  "1", 
+  "2", 
+  "3", 
+  "4", 
+  "5", 
+  "6", 
+  "7", 
+  "8", 
+  "9", 
+  "10", 
+  "跪求解决方法。，", 
+  "目测 火不了。", 
+  "只求解决", 
+  "有人可以帮帮我吗", 
+  "您好，切换一下输入法试试，可能是输入法的问题。感谢您的支持祝您生活愉快", 
+  "换手心输入法，可以解决，我之前也同样问题！"
+]
+{
+  "content": "工人说法", 
+  "url": "http://tieba.baidu.com/p/4611460583?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "雷神笔记本", 
+  "imgPath": "/data/lumppic/2fdda3cc7cd98d10dc42a238233fb80e7bec9021.jpg"
+}
+[
+  "『 大神去哪儿』雷神911EC1", 
+  "玩英雄联盟总会无缘无故的弹桌面，求解答，到底什么情况。特烦，经常这样死", 
+  "大神在哪里！", 
+  "1", 
+  "2", 
+  "3", 
+  "4", 
+  "5", 
+  "6", 
+  "7", 
+  "8", 
+  "9", 
+  "10", 
+  "跪求解决方法。，", 
+  "目测 火不了。", 
+  "只求解决", 
+  "有人可以帮帮我吗", 
+  "您好，切换一下输入法试试，可能是输入法的问题。感谢您的支持祝您生活愉快", 
+  "换手心输入法，可以解决，我之前也同样问题！", 
+  "工人说法"
+]
+Max Floor30
+Target Floor2
+find target floor
+[
+  "一元就可以买的VR游戏本，，别不相信，，进来看看就好了。", 
+  "不错，就是现在最火的带VR功能的雷神小钢炮——ST，这一炮真的很响！\n\n\n\n想参于活动请关注我们的公众号：游戏本之家 或扫描下面的二维码长按关注\n\n活动地址：http://mp.weixin.qq.com/s?__biz=MzA3MTg5MjAxOQ==&amp;mid=2247483713&amp;idx=1&amp;sn=0ba4755e985812ba69fd543a886ca8c7&amp;scene=0#rd", 
+  "666", 
+  "顶顶", 
+  "什么鬼"
+]
+{
+  "content": "■跟应聘职位沟通：确切地说是了解职位，到底该具备哪些技能、素质，包括公司所在的行业位置和发展目标、自己能对这家公司起什么帮助等。在了解职位基本情况后，对照自己，做好准备，以便向考官证明自身具备的技能和素质。", 
+  "url": "http://tieba.baidu.com/p/4612751168?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "雷神笔记本", 
+  "imgPath": "/data/lumppic/b58f8c5494eef01fbf3023cbe2fe9925bc317d93.jpg"
+}
+[
+  "一元就可以买的VR游戏本，，别不相信，，进来看看就好了。", 
+  "不错，就是现在最火的带VR功能的雷神小钢炮——ST，这一炮真的很响！\n\n\n\n想参于活动请关注我们的公众号：游戏本之家 或扫描下面的二维码长按关注\n\n活动地址：http://mp.weixin.qq.com/s?__biz=MzA3MTg5MjAxOQ==&amp;mid=2247483713&amp;idx=1&amp;sn=0ba4755e985812ba69fd543a886ca8c7&amp;scene=0#rd", 
+  "666", 
+  "顶顶", 
+  "什么鬼", 
+  "■跟应聘职位沟通：确切地说是了解职位，到底该具备哪些技能、素质，包括公司所在的行业位置和发展目标、自己能对这家公司起什么帮助等。在了解职位基本情况后，对照自己，做好准备，以便向考官证明自身具备的技能和素质。"
+]
+Max Floor16
+Target Floor16
+find target floor
+[
+  "【美图】此贴分享自己喜欢的图片", 
+  "包括了自己喜欢的明星图片，大家可把自己喜欢的图片分享给各位，抱图走请吱声(帅哥美女都会遵守这个约定的，只有丑人才不会)", 
+  "郭采洁ing", 
+  "好友太少，加好友咯！", 
+  "到这只为交友，真心的可私聊，玩"
+]
+{
+  "content": "两个月前，董建华在香港立法会作了题为《合力发展经济共建和谐社会》的第八份施政报告。这份施政报告特意选择了象征“茁壮成长”的绿色封皮，与前年“曙光初现”的橙色、去年“生机勃勃”的蓝色相呼应。", 
+  "url": "http://tieba.baidu.com/p/4609477561?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "图片", 
+  "imgPath": "/data/lumppic/0df431adcbef7609ed7860e82cdda3cc7cd99e52.jpg"
+}
+[
+  "【美图】此贴分享自己喜欢的图片", 
+  "包括了自己喜欢的明星图片，大家可把自己喜欢的图片分享给各位，抱图走请吱声(帅哥美女都会遵守这个约定的，只有丑人才不会)", 
+  "郭采洁ing", 
+  "好友太少，加好友咯！", 
+  "到这只为交友，真心的可私聊，玩"
+]
+Max Floor16
+Target Floor10
+find target floor
+[
+  "#军事酷图#这里是最精彩的军事图片！", 
+  "这里是最精彩的军事图片！", 
+  "如果等待可以换来奇迹的话，我宁愿等下去，哪怕一年。抑或一生！"
+]
+{
+  "content": "微软从去年11月起在挪威和瑞典还推行了正版软件行动（GSI），随后又有5个国家也加入了这一计划。", 
+  "url": "http://tieba.baidu.com/p/4612683399?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "图片", 
+  "imgPath": "/data/lumppic/96dda144ad345982d2a4dc3b0ef431adcbef8468.jpg"
+}
+[
+  "#军事酷图#这里是最精彩的军事图片！", 
+  "这里是最精彩的军事图片！", 
+  "如果等待可以换来奇迹的话，我宁愿等下去，哪怕一年。抑或一生！", 
+  "微软从去年11月起在挪威和瑞典还推行了正版软件行动（GSI），随后又有5个国家也加入了这一计划。"
+]
+Max Floor16
+Target Floor13
+find target floor
+[
+  "【美图】06-15", 
+  "这是谁啊", 
+  "朋友是什么，朋友是快乐日子里的一把吉它，尽情地为你弹奏生活的愉悦。", 
+  "交朋友，交朋友", 
+  "我有个故事，故事很长，我长话短", 
+  "[cp]【晚安】今天给大家出个", 
+  "求助"
+]
+{
+  "content": "劳累", 
+  "url": "http://tieba.baidu.com/p/4612648564?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "图片", 
+  "imgPath": "/data/lumppic/aec379310a55b31993a1367c41a98226cffc175a.jpg"
+}
+[
+  "【美图】06-15", 
+  "这是谁啊", 
+  "朋友是什么，朋友是快乐日子里的一把吉它，尽情地为你弹奏生活的愉悦。", 
+  "交朋友，交朋友", 
+  "我有个故事，故事很长，我长话短", 
+  "[cp]【晚安】今天给大家出个", 
+  "求助", 
+  "劳累"
+]
+Max Floor16
+Target Floor9
+find target floor
+[
+  "【美图】06-15跪求", 
+  "一张图上面的字是一房两人三餐四季", 
+  "为谁而喜，为谁而忧，为谁而悲，为谁而伤，为谁而感到如此凄凉？"
+]
+{
+  "content": "但昨天上午她再次查询报名信息，令她失望的是，上面显示“报名审核没通过”，“对不起，你的学历与所报考职位要求不符，请认真查阅招考简章。”", 
+  "url": "http://tieba.baidu.com/p/4612731579?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "图片", 
+  "imgPath": "/data/lumppic/b2de9c82d158ccbf2f9ce39a1ad8bc3eb1354169.jpg"
+}
+[
+  "【美图】06-15跪求", 
+  "一张图上面的字是一房两人三餐四季", 
+  "为谁而喜，为谁而忧，为谁而悲，为谁而伤，为谁而感到如此凄凉？", 
+  "但昨天上午她再次查询报名信息，令她失望的是，上面显示“报名审核没通过”，“对不起，你的学历与所报考职位要求不符，请认真查阅招考简章。”"
+]
+Max Floor16
+Target Floor11
+find target floor
+[
+  "【美图】06-15求大神，求帮忙", 
+  "求大神吧这三张图片制作一下，火焰当背景，然后Z2放上去", 
+  "是Z2不是2Z～", 
+  "谢谢了，完事私聊我，发红包", 
+  "。。。"
+]
+{
+  "content": "火车 train", 
+  "url": "http://tieba.baidu.com/p/4612678853?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "图片", 
+  "imgPath": "/data/lumppic/6159252dd42a28345ee4e40b59b5c9ea15cebf74.jpg"
+}
+[
+  "【美图】06-15求大神，求帮忙", 
+  "求大神吧这三张图片制作一下，火焰当背景，然后Z2放上去", 
+  "是Z2不是2Z～", 
+  "谢谢了，完事私聊我，发红包", 
+  "。。。", 
+  "火车 train"
+]
+Max Floor16
+Target Floor16
+find target floor
+[
+  "【求助】06-15寻：各漫画主角人物比赛亚人孙悟空比图", 
+  "如题 一张对比图说明宇宙最强是赛亚人孙悟空的图", 
+  "在这样一条河水里旅行，望着水光山色，体会水手们在工作上与饮食上的勇敢处，使我在寂寞里不由得不常作微笑！", 
+  "求图"
+]
+{
+  "content": "《华尔街日报》的报道称，美国文物经销商曾就此协议向美国国务院递交一份报告，报告里表示，他们的贸易活动实际上有助于文物保护。弗吉尼亚的一位经销商认为，中国有很多因为基础建设导致文物被破坏的现象。比如三峡工程，他的客户如果不购买这些墓葬品，它们很有可能被损毁。", 
+  "url": "http://tieba.baidu.com/p/4612565192?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "图片", 
+  "imgPath": "/data/lumppic/d833c895d143ad4b259685b780025aafa40f0609.jpg"
+}
+[
+  ""
+]
+Max Floor16
+Target Floor10
+find target floor
+[
+  "不想睡觉！", 
+  "寂寞夜徘徊 有一起欣赏刺激的吗 Vxin: sedi950 (大蛹扼)目前很不错的一个好地方", 
+  "乐观的生存，乐观的奋斗，只问耕耘，不问收获，这才是洒脱而坦荡的人生。", 
+  "交友", 
+  "抓紧时间看，真心好", 
+  "心交友，钱交狗。", 
+  "啦啦啦来玩吧", 
+  "全露啊，我擦，好贴", 
+  "牛逼，好", 
+  "可以,约你吗?", 
+  "老司机，我操，牛逼"
+]
+{
+  "content": "[丽江概况][丽江历史][丽江地理][丽江气候][丽江人文][丽江宗教][丽江民族][丽江图库]", 
+  "url": "http://tieba.baidu.com/p/4612587983?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "图片", 
+  "imgPath": "/data/lumppic/faf2b2119313b07e7eb0d5010ed7912397dd8cae.jpg"
+}
+[
+  "不想睡觉！", 
+  "寂寞夜徘徊 有一起欣赏刺激的吗 Vxin: sedi950 (大蛹扼)目前很不错的一个好地方", 
+  "乐观的生存，乐观的奋斗，只问耕耘，不问收获，这才是洒脱而坦荡的人生。", 
+  "交友", 
+  "抓紧时间看，真心好", 
+  "心交友，钱交狗。", 
+  "啦啦啦来玩吧", 
+  "全露啊，我擦，好贴", 
+  "牛逼，好", 
+  "可以,约你吗?", 
+  "老司机，我操，牛逼", 
+  "[丽江概况][丽江历史][丽江地理][丽江气候][丽江人文][丽江宗教][丽江民族][丽江图库]"
+]
+Max Floor13
+Target Floor4
+find target floor
+[
+  "［温暖人心］20高级功勋连开！", 
+  "看看我非酋的命运\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "出无尽", 
+  "墨迹全奖牌", 
+  "先来5个试试水结果给了11j升级符还有个4j石头\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "dd", 
+  "妈的楼上全奖牌的出来我们聊聊\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "还有7个怎么办我好担心……　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "全奖牌", 
+  "全奖牌", 
+  "祝早鸡刀 阿门 奖牌", 
+  "最后10个一起开除了几个升级符和一个四级真穿\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "让你墨迹", 
+  "我汐酱，就算胜率掉下50%，局局被弱智队友演，盘盘被黑车撞暴毙，也决不碰一下脏比英雄!!!\n。\n。\n。\n。\n。\n哎哟美嘉首胜真稳！", 
+  "等我暑假100个一起开", 
+  "为什么你们直播就都能开出好东西", 
+  "开东西时喇叭：ty帅b"
+]
+{
+  "content": "乙、英勇牺牲前赴后继的精神，这就是我们共产党军队光荣的传统，也就是林总司令向我们所要求的战斗作风。", 
+  "url": "http://tieba.baidu.com/p/4612715133?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "300英雄", 
+  "imgPath": "/data/lumppic/91ef76c6a7efce1bdbefb868ad51f3deb58f654f.jpg"
+}
+[
+  "［温暖人心］20高级功勋连开！", 
+  "看看我非酋的命运\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "出无尽", 
+  "墨迹全奖牌", 
+  "先来5个试试水结果给了11j升级符还有个4j石头\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "dd", 
+  "妈的楼上全奖牌的出来我们聊聊\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "还有7个怎么办我好担心……　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "全奖牌", 
+  "全奖牌", 
+  "祝早鸡刀 阿门 奖牌", 
+  "最后10个一起开除了几个升级符和一个四级真穿\n［哈～还真是弱小呢，雾雨家的大小姐却只有这么点力量嘛？］\n［啊，是啊……但即使这么弱小的我也想要守护大家啊！这是我对大家的眷恋啊！］\n【恋符！极焰火花！】", 
+  "让你墨迹", 
+  "我汐酱，就算胜率掉下50%，局局被弱智队友演，盘盘被黑车撞暴毙，也决不碰一下脏比英雄!!!\n。\n。\n。\n。\n。\n哎哟美嘉首胜真稳！", 
+  "等我暑假100个一起开", 
+  "为什么你们直播就都能开出好东西", 
+  "开东西时喇叭：ty帅b", 
+  "乙、英勇牺牲前赴后继的精神，这就是我们共产党军队光荣的传统，也就是林总司令向我们所要求的战斗作风。"
+]
+Max Floor12
+Target Floor12
+find target floor
+[
+  "发现圆出三相还是比魔剑有用些。", 
+  "起码三相的暴击不吃BKB，而且我是出双枪的，后期攻击上350，魔上200。", 
+  "。。。", 
+  "小圆这俩都不出 出肉", 
+  "讲道理啊三项圆好在哪里？圆不能暴击吧", 
+  "小圆不享受一切AD暴击吸血", 
+  "说的和真的一样，差点就上钩了，三项有肉有移速，伤害可以忽略，，刚道理，魔剑手指圆环战舰是一个打法，三项战舰鸟枪圆环又是另一个打法"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 19:07:52http%3A%2f%2ftieba.baidu.com%2fp%2f4612707324%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

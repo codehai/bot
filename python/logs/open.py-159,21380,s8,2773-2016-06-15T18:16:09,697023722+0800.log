@@ -1,0 +1,206 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465902528", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:08:47 GMT", "value": "1465902512,1465902519,1465902523,1465902528", "expiry": 1497438527, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "E0A2B4CC34DE45CA", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:37 GMT", "value": "d3408b622bfb15b9a9f4697e1aa0d8f6d0536619bfbb6272f05fe65947982fcb", "expiry": 1725102517, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:37 GMT", "value": "b5b1e2e781c050eb562e10ed93fdeda8", "expiry": 1725102517, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:37 GMT", "value": "e011767f65989d0d3077c2867f38004a", "expiry": 1725102517, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:37 GMT", "value": "RMaGR2dUJqTTVmbnlFU1B4VGIyTU5EbnRFcTZZLWI1SDBhcjFCNnBPVzBjb2RYQVFBQUFBJCQAAAAAAAAAAAEAAACDcDNVeGlleGliZWl3MjMxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALTlX1e05V9XbG", "expiry": 1725102517, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:37 GMT", "value": "fi_PncwhpxZ%7ETaJc8uIC3Zam3TnTRlRztEdUJJtMVt%7ET3i3Yv%7EEVy4psjozP-pd9Ca2Vj9SbPPldqwr1ENGqT2MjIxnAhtl6UkgHY7fARDM0xkBOR9HxxlVRUKAOj8K8SPMJ6t1wpO%7EPHXmr0TSOXmFg71qgQ__", "expiry": 1725102517, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:37 GMT", "value": "0641919040ef52a0e7ed4bec3f19a3aea83cc613", "expiry": 1725102517, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:37 GMT", "value": "wapp_1465902447674_125", "expiry": 1725102517, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:07:56 GMT", "value": "1", "expiry": 1465988876, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:07:43 GMT", "value": "1", "expiry": 1465988863, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:07:43 GMT", "value": "568", "expiry": 1497006463, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:07:43 GMT", "value": "320", "expiry": 1497006463, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:07:27 GMT", "value": "8D0A257F161EE2E204B60AC371077770:FG=1", "expiry": 1497438447, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:07:27 GMT", "value": "wapp_1465902447674_125", "expiry": 2411982447, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "dc152df64cce4cc8b3e161b2", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:xiexibeiw231
+Max Floor19
+Target Floor4
+find target floor
+[
+  "深夜有妹子嗑吗？", 
+  "我的天呐~ 居然让我发现了个这么完美的地方 Vxin: sedi950 你懂得 偶买噶! 吼吼(用鳃恨)", 
+  "谢楼主，牛逼"
+]
+{
+  "content": "25", 
+  "url": "http://tieba.baidu.com/p/4611511998?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "心情", 
+  "imgPath": "/data/lumppic/9345d688d43f87941ba07220d01b0ef41bd53a64.jpg"
+}
+[
+  "深夜有妹子嗑吗？", 
+  "我的天呐~ 居然让我发现了个这么完美的地方 Vxin: sedi950 你懂得 偶买噶! 吼吼(用鳃恨)", 
+  "谢楼主，牛逼", 
+  "25"
+]
+Max Floor19
+Target Floor16
+find target floor
+[
+  "关于一篇叫德仕家锅的心情日志", 
+  "我的家乡在德国，英文名字叫DENsleg，我的父亲利用高科技纳米技术给予了我健康养生的功效，父亲说我是八层合一的，每一层都有一个功能，第一层是滤油层，表面凸起的蜂巢可以达到滤油功效可以防治心脑血管等疾病的发生。\n第二层 不粘层，根据荷叶不粘原理生成物理不粘层，方便清洗。\n第三层 医用不锈钢与精铁嵌入技术，独配的不锈钢勺，通过与精铁层摩擦，产生微量铁元素可以适量对人体补充，预防缺铁性贫血等疾病发生。\n第四层 在锅体加热过程中，通过热辐射，可让食物适量降低糖分。\n第五层 钛合金嵌入技术，增加锅体强度美观耐用。\n第六层 技术均匀传热层，极速均匀传热可最大程度的保证食物的营养成分不流失。\n第七层 不锈钢导磁层，方便各种灶具使用。\n第八层 18\\10医用不锈钢高压一体锻造层，坚固，耐用，卫生。\n因为一次偶然我来到了中国，我希望我能够帮助更多人，与更多人交朋友，也希望更多的人能真正去了解我。"
+]
+{
+  "content": "一家三口患怪病", 
+  "url": "http://tieba.baidu.com/p/4612605718?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "心情", 
+  "imgPath": "/data/lumppic/9e3df8dcd100baa15a5558fa4410b912c8fc2e71.jpg"
+}
+[
+  "关于一篇叫德仕家锅的心情日志", 
+  "我的家乡在德国，英文名字叫DENsleg，我的父亲利用高科技纳米技术给予了我健康养生的功效，父亲说我是八层合一的，每一层都有一个功能，第一层是滤油层，表面凸起的蜂巢可以达到滤油功效可以防治心脑血管等疾病的发生。\n第二层 不粘层，根据荷叶不粘原理生成物理不粘层，方便清洗。\n第三层 医用不锈钢与精铁嵌入技术，独配的不锈钢勺，通过与精铁层摩擦，产生微量铁元素可以适量对人体补充，预防缺铁性贫血等疾病发生。\n第四层 在锅体加热过程中，通过热辐射，可让食物适量降低糖分。\n第五层 钛合金嵌入技术，增加锅体强度美观耐用。\n第六层 技术均匀传热层，极速均匀传热可最大程度的保证食物的营养成分不流失。\n第七层 不锈钢导磁层，方便各种灶具使用。\n第八层 18\\10医用不锈钢高压一体锻造层，坚固，耐用，卫生。\n因为一次偶然我来到了中国，我希望我能够帮助更多人，与更多人交朋友，也希望更多的人能真正去了解我。", 
+  "一家三口患怪病"
+]
+Max Floor34
+Target Floor1
+find target floor
+[
+  "不会是来找我咯吧。", 
+  "求大神解答~", 
+  "一楼只想送给我的奇葩婆婆", 
+  "我一直在这等着你，你在哪里", 
+  "女人对自己好一点，舍不得吃舍不得穿舍不得打扮，把最好的东西留给孩子留给老公，当有一天一切都变", 
+  "我是小姐，只要80快"
+]
+{
+  "content": "黄泰植：非常感谢朋友们，非常感谢大学生同学。现在我们每年都引进人才，我们确保我们公司的发展和大学生的发展，还有中国经济的发展，我们正在一起努力，以后我们共同努力开发人才。", 
+  "url": "http://tieba.baidu.com/p/4612483413?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "快乐大本营", 
+  "imgPath": "/data/lumppic/3c6d55fbb2fb4316f6c7d57322a4462308f7d3db.jpg"
+}
+[
+  ""
+]
+Max Floor26
+Target Floor11
+find target floor
+[
+  "小龙虾吃法。。。", 
+  "顶一下。。。", 
+  "1、牵起她的手\n2、亲亲吻一口\n3、捏住她的腰\n4、掀起红盖头\n5、解开红裤兜\n6、脱下红裤头\n7、品尝白嫩肉\n8、肉白嫩汁多～～………", 
+  "这是临海的么", 
+  "首先，你得有盘小龙虾！！", 
+  "别人吃了一盘你吃了一只", 
+  "人世间有百媚千红，唯有你是我情之所钟"
+]
+{
+  "content": "作战兵器向大型化、远洋化和核动力化方向发展计划组建2支多用途航母编队，数支由导弹驱逐舰和导弹护卫舰组成的海上驱逐舰队和1支以核动力潜艇为主的潜艇部队。其次是海军兵力部署在加强近海防御的基础上向远海发展。一是成立南部舰队，使海军在东、西、南三个近岸海区形成均衡部署；二是在安达曼和尼科巴群岛建立“远东地区司令部”，加强远海部署，提高远洋兵力投送能力。提高空中火力发展“四维空间战”", 
+  "url": "http://tieba.baidu.com/p/4610800526?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "糗事百科", 
+  "imgPath": "/data/lumppic/dc54564e9258d10981d0edf6d358ccbf6c814d46.jpg"
+}
+[
+  "小龙虾吃法。。。", 
+  "顶一下。。。", 
+  "1、牵起她的手\n2、亲亲吻一口\n3、捏住她的腰\n4、掀起红盖头\n5、解开红裤兜\n6、脱下红裤头\n7、品尝白嫩肉\n8、肉白嫩汁多～～………", 
+  "这是临海的么", 
+  "首先，你得有盘小龙虾！！", 
+  "别人吃了一盘你吃了一只", 
+  "人世间有百媚千红，唯有你是我情之所钟", 
+  "作战兵器向大型化、远洋化和核动力化方向发展计划组建2支多用途航母编队，数支由导弹驱逐舰和导弹护卫舰组成的海上驱逐舰队和1支以核动力潜艇为主的潜艇部队。其次是海军兵力部署在加强近海防御的基础上向远海发展。一是成立南部舰队，使海军在东、西、南三个近岸海区形成均衡部署；二是在安达曼和尼科巴群岛建立“远东地区司令部”，加强远海部署，提高远洋兵力投送能力。提高空中火力发展“四维空间战”"
+]
+Max Floor13
+Target Floor11
+find target floor
+[
+  "找货源～", 
+  "找货源～"
+]
+{
+  "content": "40", 
+  "url": "http://tieba.baidu.com/p/3748169006?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "校园代理", 
+  "imgPath": "/data/lumppic/d000baa1cd11728bbd6f736bcafcc3cec3fd2c3d.jpg"
+}
+[
+  ""
+]
+Max Floor30
+Target Floor11
+find target floor
+[
+  "爱上了，很容易。可是，爱下去呢？没事的粗来聊天了！！！！！！", 
+  "二楼", 
+  "来喽来喽", 
+  "哈哈", 
+  "2897135477"
+]
+{
+  "content": "延伸阅读：西方的“瘦身”与东方的“胖虚”nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp; 人民币不升值：美国是怎样抢中国钱的？上一页nbsp;[1]nbsp;[2]nbsp;[3]nbsp;[4]nbsp;[5]nbsp;[6]nbsp;[7]nbsp;下一页nbsp;", 
+  "url": "http://tieba.baidu.com/p/4612654029?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "邯郸", 
+  "imgPath": "/data/lumppic/09fa513d269759eeeea00bb3b0fb43166c22dfd2.jpg"
+}
+[
+  "爱上了，很容易。可是，爱下去呢？没事的粗来聊天了！！！！！！", 
+  "二楼", 
+  "来喽来喽", 
+  "哈哈", 
+  "2897135477", 
+  "延伸阅读：西方的“瘦身”与东方的“胖虚”nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp; 人民币不升值：美国是怎样抢中国钱的？上一页nbsp;[1]nbsp;[2]nbsp;[3]nbsp;[4]nbsp;[5]nbsp;[6]nbsp;[7]nbsp;下一页nbsp;"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:xiexibeiw231
+Max Floor23
+Target Floor21
+find target floor
+[
+  "戳我图像", 
+  "骗子死绝", 
+  "，", 
+  "爆一张你手机上一直不舍得删的照片吧", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "玩够了就找个老实人嫁了！老实人凭什么给你擦屁股？", 
+  "晚上,一个人谁来陪我,我就给谁口", 
+  "破得眼前机万象皆幻象", 
+  "你所谓的开玩笑就是玩了我还怪我没笑", 
+  "我能请问下怎么回事么？今天打了个跨区对抗，会本线，回不去了，出现这玩意，问客服，客服说我违反", 
+  "[语音]\n你们有见过这么整齐的十五个字吗", 
+  "希望：领导顺着你，汽车让着你，钞票贴着你，法院偏向你，官运伴着你，学校由着你，房产随便你，恋人爱着你", 
+  "男人们喜欢看的东西淘宝dianpu搜索：西瓜你个呱呱呱"
+]
+{
+  "content": "nbsp;nbsp;nbsp;", 
+  "url": "http://tieba.baidu.com/p/4611159686?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "妹纸", 
+  "imgPath": "/data/lumppic/9e3df8dcd100baa1ae0c2dc34510b912c8fc2ea1.jpg"
+}
+[
+  "戳我图像", 
+  "骗子死绝", 
+  "，", 
+  "爆一张你手机上一直不舍得删的照片吧", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "玩够了就找个老实人嫁了！老实人凭什么给你擦屁股？", 
+  "晚上,一个人谁来陪我,我就给谁口", 
+  "破得眼前机万象皆幻象", 
+  "你所谓的开玩笑就是玩了我还怪我没笑", 
+  "我能请问下怎么回事么？今天打了个跨区对抗，会本线，回不去了，出现这玩意，问客服，客服说我违反", 
+  "9''\n你们有见过这么整齐的十五个字吗", 
+  "希望：领导顺着你，汽车让着你，钞票贴着你，法院偏向你，官运伴着你，学校由着你，房产随便你，恋人爱着你", 
+  "男人们喜欢看的东西淘宝dianpu搜索：西瓜你个呱呱呱", 
+  "nbsp;nbsp;nbsp;"
+]
+Max Floor26
+Target Floor23
+find target floor
+2016-06-15 18:24:16http%3A%2f%2ftieba.baidu.com%2fp%2f4612529307%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 274, in <module>
+    ActionChains(driver).move_to_element(btn).click().perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 296.617
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

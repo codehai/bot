@@ -1,0 +1,22 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".cnzz.com", "name": "cna", "expires": "\\u5468\\u516d, 06 6\\u6708 2026 16:20:48 GMT", "value": "2DPfDzwd3SsCAXJZcSGeBXTg", "expiry": 1780762848, "path": "/", "httponly": false, "secure": false}, {"domain": ".cnzz.mmstat.com", "name": "atpsida", "expires": "\\u5468\\u516d, 06 6\\u6708 2026 16:20:40 GMT", "value": "22ae8e3727480b7f5d1f9130_1465402840", "expiry": 1780762840, "path": "/", "httponly": false, "secure": false}, {"domain": ".cnzz.mmstat.com", "name": "sca", "value": "24b81e9c", "path": "/", "httponly": false, "secure": false}, {"domain": ".mmstat.com", "name": "cna", "expires": "\\u5468\\u516d, 06 6\\u6708 2026 16:20:40 GMT", "value": "2DPfDzwd3SsCAXJZcSGeBXTg", "expiry": 1780762840, "path": "/", "httponly": false, "secure": false}, {"domain": "news.766ba.net", "name": "CNZZDATA1259464672", "expires": "\\u5468\\u4e09, 07 12\\u6708 2016 16:20:23 GMT", "value": "792367524-1465398448-http%253A%252F%252Ftieba.baidu.com%252F%7C1465398448", "expiry": 1481127623, "path": "/", "httponly": false, "secure": false}, {"domain": "news.766ba.net", "name": "JSESSIONID", "value": "F81D60AF2DC5918E44C0AAD703324DDE", "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 16:19:52 GMT", "value": "1", "expiry": 1465489192, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 16:19:52 GMT", "value": "568", "expiry": 1496506792, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 16:19:52 GMT", "value": "320", "expiry": 1496506792, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 16:19:37 GMT", "value": "D710A721D2CDC4C7CDCFA6231F2681C3:FG=1", "expiry": 1496938777, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 01 6\\u6708 2046 16:19:36 GMT", "value": "wapp_1465402776753_580", "expiry": 2411482776, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "d8c56c89ab8ae27b81484752", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+未登录成功，没有查询到用户
+2016-06-15 20:14:34http%3A%2f%2ftieba.baidu.com%2f%3Fpage%3Duser.png
+Traceback (most recent call last):
+  File "open.py", line 200, in <module>
+    wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'user_info_name')))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+

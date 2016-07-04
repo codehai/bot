@@ -1,0 +1,426 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465903479", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:24:38 GMT", "value": "1465903365,1465903464,1465903472,1465903479", "expiry": 1497439478, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "0009B76A518C8849", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:24:25 GMT", "value": "036fb454516ec25425eb9f8f7db71d443401d175eaccfcf16e55e5da61be9eae", "expiry": 1725103465, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:24:25 GMT", "value": "ce57b3dd9b4f17374db79c0cdbfb693c", "expiry": 1725103465, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:24:25 GMT", "value": "938cc067dfdcfa791508a72b99c28a", "expiry": 1725103465, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:24:25 GMT", "value": "G1-Y3FIM0FhMFZVT0N3TG12dnJMS0U2blNzeW5xNDdtNEhMRnhlamh0NXBkb2RYQVFBQUFBJCQAAAAAAAAAAAEAAADG4vxUcmFuZ3N4c2s1MjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGnpX1dp6V9Xe", "expiry": 1725103465, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:24:25 GMT", "value": "fi_PncwhpxZ%7ETaJcxdA-704tpD7xIwZhH6ZWqpnyq5bln0NtbMl%7ECgabv2XFJhxPA65GdShaHKi%7EduujCZaHI8Fqc6uPrKwzJvHqTZxp-Mx2EXWt8PrY0nj7MxDslpgCNbsMJ3ktkeksC6U9jngDjz7Yl0cFw__", "expiry": 1725103465, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:24:25 GMT", "value": "1f9a053461fc1c4d097624f4289a9d47301339", "expiry": 1725103465, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:24:25 GMT", "value": "wapp_1465903401469_583", "expiry": 1725103465, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:23:50 GMT", "value": "1", "expiry": 1465989830, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:23:37 GMT", "value": "1", "expiry": 1465989817, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:23:37 GMT", "value": "568", "expiry": 1497007417, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:23:37 GMT", "value": "320", "expiry": 1497007417, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:23:22 GMT", "value": "9E5A5B548617FA56FBE34F6EBA4B7990:FG=1", "expiry": 1497439402, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:23:21 GMT", "value": "wapp_1465903401469_583", "expiry": 2411983401, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "2fec9c755b3177c8ffe9dfb6", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:rangsxsk520
+Max Floor14
+Target Floor6
+find target floor
+[
+  "无语某人（亮点自寻）", 
+  "我在贴外面看到两张图，怎么点进来就剩下少恭了", 
+  "看熊猫直播，直播仙四，居然看到这一条，真是怒火上涌", 
+  "正常，没必要过火的安利，", 
+  "谁告诉他古剑没破解\n我华夏儿郎岂可降于满狗！\n李定国（明军著名抗清将领，民族英雄，曾多次于野战中击溃清军，阵斩努尔哈赤之孙。）", 
+  "这人是想说仙四是破解，所以仙四口碑就好，结果这么评价古剑", 
+  "自己想吃免费馅饼还怪人家商店不给？", 
+  "观念不同啦，大部分人没有正版意识。这人意思看起来只是说古剑因为正版的缘故（古1破解版我记得也是很久以后才有的，古2直接全程联网），玩的人不多，不如仙剑出名。没有贬低古剑的意思。虽然古剑不够隔壁出名当然不是这个原因。", 
+  "古剑1我记得破解了", 
+  "破解版古一广告太多了，之前下过一次，玩了一个星期因为受不了弹窗广告果断删除了"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+<type 'dict'>
+{
+  "Result": "不到首只", 
+  "Id": "2bdc6800-77ee-4489-8177-264d4329d1b1"
+}
+不到首只
+<type 'unicode'>
+回贴成功！
+send ok!
+{
+  "content": "32. 考生如何向高校咨询？", 
+  "url": "http://tieba.baidu.com/p/4609308542?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "古剑奇谭", 
+  "imgPath": "/data/lumppic/8718367adab44aed31e96551b11c8701a08bfbe4.jpg"
+}
+[
+  "无语某人（亮点自寻）", 
+  "我在贴外面看到两张图，怎么点进来就剩下少恭了", 
+  "看熊猫直播，直播仙四，居然看到这一条，真是怒火上涌", 
+  "正常，没必要过火的安利，", 
+  "谁告诉他古剑没破解\n我华夏儿郎岂可降于满狗！\n李定国（明军著名抗清将领，民族英雄，曾多次于野战中击溃清军，阵斩努尔哈赤之孙。）", 
+  "这人是想说仙四是破解，所以仙四口碑就好，结果这么评价古剑", 
+  "自己想吃免费馅饼还怪人家商店不给？", 
+  "观念不同啦，大部分人没有正版意识。这人意思看起来只是说古剑因为正版的缘故（古1破解版我记得也是很久以后才有的，古2直接全程联网），玩的人不多，不如仙剑出名。没有贬低古剑的意思。虽然古剑不够隔壁出名当然不是这个原因。", 
+  "古剑1我记得破解了", 
+  "破解版古一广告太多了，之前下过一次，玩了一个星期因为受不了弹窗广告果断删除了", 
+  "32. 考生如何向高校咨询？"
+]
+Max Floor37
+Target Floor4
+find target floor
+[
+  "【集贤论影】坚不可摧/永不屈服1280超清迅雷下载【8.1】", 
+  "坚不可摧/永不屈服1280超清迅雷下载【8.1】\n上映年代：2014\n状态：全集\n类型：战争 剧情 动作\n主演：杰克·奥康奈尔 杰·科特尼 芬·维特洛克\n地区：欧美\n更新日期：2015-3-23 0:05:11\n\n①http://pan.baidu.com/s/1i3qwuXJ\n②http://yun.baidu.com/share/home?uk=4197624415&amp;view=share#category/type=0\n迅雷：\nthunder://QUFodHRwOi8vYnQuMnR1LmNjLzZDOUIxOURDQTVBNUY1ODVBOTA1NUUzODI5NDAyOTQ4RjMyMkJEQjgvvOGyu7/JtN0uQkQxMjgwuN/H5dbQ06LLq9fWLm1wNFpa\n剧情介绍\n第二次世界大战时，前奥林匹克长跑选手路易·赞贝里尼（杰克·奥康奈尔 饰）驾驶的战机意外坠毁，路易与其他两位同机组员在海上漂流了47天之后，遭到日本海军长期囚禁，并受其中一位军官渡边长野（雅-MIYAVI- 饰）残忍虐待，甚至到战争结束后这个痛苦的梦魇仍挥之不去，他经常作恶梦、酗酒，在看似失去一切的时候，信仰解救了他，他最后更前往日本希望与渡边长野会面，愿意原谅他……", 
+  "啦", 
+  "g", 
+  "啦"
+]
+{
+  "content": "息差擴闊屬利好，滙控及社保基金為策略股東，預測市盈率19倍，市帳率2.4倍，估值合理。", 
+  "url": "http://tieba.baidu.com/p/3658317626?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/7aec54e736d12f2ea9f7eb604dc2d5628535683b.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor20
+find target floor
+[
+  "无-私-分-享，无-私-分-享，QQ 510424057 ，来-都-有", 
+  "1 2票(16.67%)\n2 10票(83.33%)\n截止时间：2017-03-04 16:35\n已有投票人数：12"
+]
+{
+  "content": "14", 
+  "url": "http://tieba.baidu.com/p/4611236926?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/9a504fc2d562853570cf172c92ef76c6a7ef6394.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor36
+find target floor
+[
+  "【集贤论影】涉足荒野1280超清迅雷下载【9.1】", 
+  "涉足荒野1280超清迅雷下载【9.1】\n上映年代：2014\n状态：全集\n类型：传记 剧情\n主演：瑞茜·威瑟斯彭 / 盖比·霍夫曼 / 劳拉·邓恩 / 查尔斯·贝克\n地区：欧美\n更新日期：2015-3-22 14:02:43\n\n云盘：\nhttp://pan.baidu.com/s/1bnwEifH\nhttp://yun.baidu.com/share/home?uk=4197624415&amp;view=share#category/type=0\n迅雷：\nthunder://QUFodHRwOi8vYnQuMnR1LmNjL0U1MzJFMTBGRTBEMzFERDlCNUREQThCOERFMEUxMjVGRTY0MTQ3MDIvyebX47vE0rAuQkQxMjgwuN/H5dbQ06LLq9fWLm1wNFpa\n剧情介绍\n影片改编自美国作家谢莉尔·斯瑞德2012年的同名自传，讲述婚姻触礁，母亲去世，自己在绝望中生活多年之后，虽然毫无徒步经验，却独自一人踏上Pacific Crest Trail 远足之路，通过长途步行找回自我的故事。", 
+  "↪ 看精品帖“集贤论影”，每天一部最新电影！", 
+  "香水：一个谋杀犯的故事1280超清迅雷下载\n上映年代：2006\n状态：全集\n类型：奇幻 剧情\n主演：达斯汀·霍夫曼 本·韦肖 约翰·赫特 阿伦·里克曼\n地区：欧美\n更新日期：2015-3-17 22:39:15\n\n云盘：\nhttp://pan.baidu.com/s/1pJ1FmmJ\n剧情介绍\n这将是最完美的香水。 以少女的绝妙体香为基底，含苞待放的芬芳为主干， 他将用这瓶香水，把她们的美永永远远地收藏……\n一个从出生身上就完全没有味道的男子葛奴乙，却是个嗅觉天才，他能制造出全世界最独一无二的杰出香水，这些香水的制作方式和一般的并无不同，唯一差别之处，是他所使用原料—处女的体香，只要是葛奴乙挑选中的女子，他便不计一切代价将她杀害，将新鲜的尸体身上的香味用来作成香水的材料，让这个香味永远只专属他一个人……", 
+  "k", 
+  "这"
+]
+{
+  "content": "关联方名称", 
+  "url": "http://tieba.baidu.com/p/3654342017?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/91529822720e0cf35c38c8890846f21fbf09aaf1.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor4
+find target floor
+[
+  "【集贤论影】坚不可摧/永不屈服1280超清迅雷下载【8.1】", 
+  "坚不可摧/永不屈服1280超清迅雷下载【8.1】\n上映年代：2014\n状态：全集\n类型：战争 剧情 动作\n主演：杰克·奥康奈尔 杰·科特尼 芬·维特洛克\n地区：欧美\n更新日期：2015-3-23 0:05:11\n\n①http://pan.baidu.com/s/1i3qwuXJ\n②http://yun.baidu.com/share/home?uk=4197624415&amp;view=share#category/type=0\n迅雷：\nthunder://QUFodHRwOi8vYnQuMnR1LmNjLzZDOUIxOURDQTVBNUY1ODVBOTA1NUUzODI5NDAyOTQ4RjMyMkJEQjgvvOGyu7/JtN0uQkQxMjgwuN/H5dbQ06LLq9fWLm1wNFpa\n剧情介绍\n第二次世界大战时，前奥林匹克长跑选手路易·赞贝里尼（杰克·奥康奈尔 饰）驾驶的战机意外坠毁，路易与其他两位同机组员在海上漂流了47天之后，遭到日本海军长期囚禁，并受其中一位军官渡边长野（雅-MIYAVI- 饰）残忍虐待，甚至到战争结束后这个痛苦的梦魇仍挥之不去，他经常作恶梦、酗酒，在看似失去一切的时候，信仰解救了他，他最后更前往日本希望与渡边长野会面，愿意原谅他……", 
+  "啦", 
+  "g", 
+  "啦"
+]
+{
+  "content": "0", 
+  "url": "http://tieba.baidu.com/p/3658317626?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/08f790529822720ebbd7519679cb0a46f21fab45.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor7
+find target floor
+[
+  "艺术家奉万大", 
+  "导演: 奉万大\n编剧: 奉万大\n主演: 奉万大 / 郭贤花 / 成恩 / 任弼星\n类型: 剧情 / 情色\n官方网站: artistbong.kr/\n制片国家/地区: 韩国\n语言: 韩语\n上映日期: 2013-08-29(韩国)\n片长: 102分钟\n又名: 艺术家奉万台 / 情欲异视界(台) / Artist Bong / Playboy Bong\n艺术家奉万大的剧情简介 · · · · · ·\n影片讲述了一个剧组在巴厘岛拍摄情色电影《Madness on the Beach》的趣事。由于一个叫奉万台的“大师”加入其中，并给电影带来了意想不到的生机。在奉万台的指导下，电影顺利完成了，正当人们开始庆祝的时候，制作公司忽然来人说电影要重新拍摄，奉万台的心血白费了吗？艺术家奉万大\n链接：http://pan.baidu.com/s/1kH40e\n密码：leac", 
+  "y", 
+  "没了", 
+  "拉", 
+  "111", 
+  "好！", 
+  "啦我", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "啦", 
+  "拉", 
+  "拉", 
+  "好看不？", 
+  "链接", 
+  "拉", 
+  "，", 
+  "拉", 
+  "拉"
+]
+{
+  "content": "24 《杜亚泉文选》，上海：华东师范大学出版社1993年版，第130页。下同", 
+  "url": "http://tieba.baidu.com/p/4116033404?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/377adab44aed2e73a74752b68401a18b86d6fafa.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor14
+find target floor
+[
+  "九层妖塔-HD1080P", 
+  "导演: 陆川\n编剧: 陆川 / 张牧野\n主演: 赵又廷 / 姚晨 / 凤小岳 / 李晨 / 唐嫣 / 冯瓅/ 李光洁 / 王庆祥 / 吴军 / 王德顺\n类型: 动作 / 惊悚 / 冒险\n制片国家/地区: 中国大陆\n语言: 汉语普通话\n上映日期: 2015-09-30(中国大陆)\n片长: 115分钟\n又名: 陆川版鬼吹灯 / 鬼吹灯之九层妖塔 / 吹灯传说之精绝古城 / 鬼吹灯 / Chronicles of the Ghostly Tribe\n九层妖塔的剧情简介 · · · · · ·　　1979年，昆仑山发生神秘生物骸骨，由胡八一（赵又廷 饰）率领的探险队深入昆仑山腹地，寻找有关古生物遗迹的更多秘密，却不料在这个过程中遭到不同神秘生物的轮番攻击，并意外坠入九层妖塔，除胡八一外，一行人生死成谜。\n胡八一退伍后回到北京，重逢了发小王凯旋（冯粒 饰），并在神秘人（李晨 饰）与科考队（凤小岳、唐嫣、李光洁 饰）两股力量的夹缝中重新踏上了探寻未知文明的征程，途中与Shirley杨（姚晨 饰）邂逅，熟识的面孔唤醒了他身处探险队那段日子的记忆。此行凶险，在还没来得及搞清楚Shirley的真实身份之际，胡八一、Shirley、王胖子率领一行人便在王子墓、石油小镇等地遭到不明生物的轰炸，这里所发生的一切再度指向九层妖塔，而这次等待他们的，将是一个尘封已千年的未解之谜…\n磁力下载链接：九层妖塔.Chronicles.of.the.Ghostly.Tribe.2015.HD1080P\n百度下载链接：http://pan.baidu.com/s/1kTKXIEb\n密码： g8sr", 
+  "重发一下谢谢 已失效", 
+  "n", 
+  "失效", 
+  "求重发", 
+  "求重发", 
+  "求重发", 
+  "拉", 
+  "垃圾电影，不要看啦，看了会后悔的呃呃", 
+  "g", 
+  "。"
+]
+{
+  "content": "搜狐直播员: 詹姆斯两罚全中 [95:89 ]", 
+  "url": "http://tieba.baidu.com/p/4142749174?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/48540923dd54564eb019ae9cb1de9c82d1584f12.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor13
+find target floor
+[
+  "各种设计素材", 
+  "第一批：\n【图片宝库】http://yunpan.cn/QCUyXaugPcQLM 提取码 8609\n【室内设计】http://yunpan.cn/QCUJe7sU7Yr9m 提取码 177a\n【平面设计】http://yunpan.cn/QCUjwhfb6ujNc 提取码 0f25\n【动漫设计】http://yunpan.cn/QCUwfv4h73ISJ 提取码 5402\n【机械设计】http://yunpan.cn/QCUQyDGYK9xGb 提取码 33b0\n【工业设计】http://yunpan.cn/QCDXdH9X2EXpE 提取码 8525\n【服装设计】http://yunpan.cn/QCDX9PkA9z8dP 提取码 207\n行业资料大全\n【百科教程】http://yunpan.cn/QCDbvpV8B9CXx 提取码 014a\n【影音动画】http://yunpan.cn/QCDUB48s7Bibj 提取码: 841f\n【考公务员】http://yunpan.cn/QCDDK42SmE98i 提取码: b819", 
+  "第三批：\n【ps和设计】http://yunpan.cn/QCDzXYdrxeTWT 提取码: 524e\n【机电资料】http://yunpan.cn/QCDpdwkYYxDIq 提取码: d8fd\n【机械工程】http://yunpan.cn/QCDpBk7RKk2kp 提取码: 28e7\n【建站资料】http://yunpan.cn/QCDpEKqRru8QP 提取码: ce04\n【编程技巧】http://yunpan.cn/QCD4Zfh5CFmnr 提取码 33fb\n【音乐学习】http://yunpan.cn/QCD4gfh9n8aJE 提取码: b77f\n【Linux资料】http://yunpan.cn/QCD4Wfhj77q4a 提取码: fbda", 
+  "3", 
+  "哥～恭喜发财～给个重发", 
+  "4", 
+  "3", 
+  "1", 
+  "啦", 
+  "拉", 
+  "，", 
+  "，", 
+  "，", 
+  "连接失效\n✎﹏₯㎕-----☞ 牵挂著你是那双我的手　飞过你的肩膀飞过你的手　我不愿看见你独自离去的身影　怕我会忍不住牵你手将你带走\n\n……♛鎏蒗莳荏♛"
+]
+{
+  "content": "连续三个交易日内，涨幅偏离值累计达15%的ST股票：无", 
+  "url": "http://tieba.baidu.com/p/3578764570?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/d01373f082025aaf0488057ff9edab64024f1acf.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor4
+find target floor
+[
+  "【集贤论影】坚不可摧/永不屈服1280超清迅雷下载【8.1】", 
+  "坚不可摧/永不屈服1280超清迅雷下载【8.1】\n上映年代：2014\n状态：全集\n类型：战争 剧情 动作\n主演：杰克·奥康奈尔 杰·科特尼 芬·维特洛克\n地区：欧美\n更新日期：2015-3-23 0:05:11\n\n①http://pan.baidu.com/s/1i3qwuXJ\n②http://yun.baidu.com/share/home?uk=4197624415&amp;view=share#category/type=0\n迅雷：\nthunder://QUFodHRwOi8vYnQuMnR1LmNjLzZDOUIxOURDQTVBNUY1ODVBOTA1NUUzODI5NDAyOTQ4RjMyMkJEQjgvvOGyu7/JtN0uQkQxMjgwuN/H5dbQ06LLq9fWLm1wNFpa\n剧情介绍\n第二次世界大战时，前奥林匹克长跑选手路易·赞贝里尼（杰克·奥康奈尔 饰）驾驶的战机意外坠毁，路易与其他两位同机组员在海上漂流了47天之后，遭到日本海军长期囚禁，并受其中一位军官渡边长野（雅-MIYAVI- 饰）残忍虐待，甚至到战争结束后这个痛苦的梦魇仍挥之不去，他经常作恶梦、酗酒，在看似失去一切的时候，信仰解救了他，他最后更前往日本希望与渡边长野会面，愿意原谅他……", 
+  "啦", 
+  "g", 
+  "啦"
+]
+{
+  "content": "爱尔兰以人文景观为主，但是如果驱车向西海岸行去，在西部小镇戈尔韦(Galway)，正面对着大西洋，有着全爱尔兰最棒的海景。", 
+  "url": "http://tieba.baidu.com/p/3658317626?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/adaf2edda3cc7cd945c5aed03b01213fb90e91cb.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor2
+find target floor
+[
+  "【集贤论影】第一支歌1280超清【8.1】", 
+  "第一支歌1280超清迅雷下载【8.1】\n上映年代：2014\n状态：全集\n类型：剧情\n主演：安妮·海瑟薇 玛丽·斯汀伯根 强尼·弗林\n地区：欧美\n更新日期：2015-3-19 20:46:36\n\n云盘：\nhttp://pan.baidu.com/share/home?uk=4197624415#category/type=0\nhttp://pan.baidu.com/s/1dDhGUy9\n迅雷\nthunder://QUFodHRwOi8vYnQuMnR1LmNjLzc3OUU5MzgzOUY2NjBDNDNBOURDMjdCRTZGNUNCMUMwMDVEQ0FCNkQvtdrSu9anuOguQkQxMjgwuN/H5dbQ06LLq9fWLm1wNFpa\n剧情介绍\n身为考古学家，多年漂泊在外的弗兰尼，在摩洛哥进行发掘工作时，接到母亲的电话，说弟弟亨利出了车祸，陷入昏迷。弗兰尼于是回到家乡，纽约布鲁克林。为了尽可能了解，自己不在的这段时间里，弟弟的生活，弗兰尼阅读亨利的日记，造访他去过的地方，寻觅他热爱的音乐家和歌手。在寻觅的过程中，弗兰尼与其中一位歌手，害羞的詹姆斯，在悠扬的音乐声中坠入爱河。", 
+  "↪ 看精品帖“集贤论影”，享最新电影资源！", 
+  "8", 
+  "时间终将我对你的爱消耗殆尽。 pdEva4uhQ悄陌ydKnh3hnQ迅隙 2015-12-21 01:12:12"
+]
+{
+  "content": "20、刑事诉讼法学（0260）", 
+  "url": "http://tieba.baidu.com/p/3654355818?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/c9fcc3cec3fdfc0366dd0382d73f8794a4c22667.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor6
+find target floor
+[
+  "【迅雷下载】露西亚的情人", 
+  "下载地址;\nhttp://www.xunleitiantang.com/movie/293.html", 
+  "？", 
+  "！", 
+  "啦", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "啦", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "片+微av8334", 
+  "啦"
+]
+{
+  "content": "彭志海：有几个忠告，对于一个终末期肝病的病人，比如说你有反复消化道大出血，有反复的肝昏迷，这种情况一定通过肝脏移植来解决，如果不通过肝脏移植来解决的话，比如说有消化道出血，反复出血的话，你会生活在非常恐怖的气氛当，理论来讲，一次消化道大出血死亡率达到50％，就是效果很差。这种情况下，靠其他治疗方法都是治标的方法，不治本的方法，只能通过肝脏移植来解决，肝脏移植效果很好，如果是年轻人，可以结婚，可以生孩子，可以回到正常的生活。肝脏所有的毛病造成终末期肝功能衰竭，肝移植是一个很好的方法。对肾脏移植也是，肾脏需要反复血透，这种情况可以通过肾移植。胰腺也谈了，糖尿病的病人又有严重的糖尿病，又发生了肾脏不好，也可通过器官移植来解决。", 
+  "url": "http://tieba.baidu.com/p/4381163740?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/f603918fa0ec08fac37abaae5bee3d6d55fbda45.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor21
+find target floor
+[
+  "007：幽灵党 Spectre (2015)-枪版无字幕", 
+  "导演: 萨姆·门德斯\n编剧: 约翰·洛根 / 尼尔·珀维斯 / 罗伯特·韦德 /杰斯·巴特沃斯 / 伊恩·弗莱明\n主演: 丹尼尔·克雷格 / 克里斯托弗·沃尔兹 / 蕾雅·赛杜 / 本·卫肖 / 娜奥米·哈里斯 / 更多...\n类型: 动作 / 惊悚 / 冒险\n制片国家/地区: 美国 / 英国\n语言: 英语\n上映日期: 2015-11-13(中国大陆) / 2015-10-26(英国) / 2015-11-06(美国)\n片长: 149分钟\n又名: 007：鬼影帝国(港) / 007：恶魔四伏(台) / 007：大破幽灵危机 / 007系列24：大破幽灵危机 / 邦德24\nIMDb链接: tt2379713\n007：幽灵党的剧情简介 · · · · · ·\n一个来自过去的加密信息让詹姆斯·邦德开始了一个神秘任务，从墨西哥城到最终的罗马，在那儿他邂逅了美艳的露琪亚·斯琪拉（莫妮卡·贝鲁奇 Monica Bellucci 饰），而她则是一名臭名昭著的意大利黑手党寡妇。邦德潜入到了一个密会中，揭开了一个名叫“幽灵党”的邪恶组织背后的秘密。\n然而，远在伦敦的国家安全中心的新任负责人马克思·登彼（安德鲁·斯考特 Andrew Scott 饰）怀疑邦德这次行动的目的，并挑战M（拉尔夫·费恩斯 Ralph Fiennes 饰）掌权的军情六处的地位。邦德暗中召集了钱班霓（奈奥米·哈莉斯 Naomi Harries 饰）和Q博士（本·威肖 Ben Whishaw 饰），协助他寻找他宿敌的女儿——玛德琳·斯旺（蕾雅·赛杜 Léa Seydoux 饰）的下落，玛德琳·斯旺手里握有解开幽灵党秘密的线索。作为一名杀手的女儿，斯旺比绝大多数人更了解邦德。\n正当邦德冒险潜入“幽灵党”中心时，他得知自己与他寻找的敌人（克里斯托弗·沃尔兹 Christoph Waltz 饰）之间有着骇人的联系……\n磁力下载链接：暂无\n百度下载链接：http://pan.baidu.com/s/1bnFPt7L\n密码：4h5i", 
+  "拉", 
+  "。", 
+  "啦", 
+  "拉", 
+  "啦", 
+  "啦", 
+  "啦"
+]
+{
+  "content": "伊瓜苏瀑布气势恢宏", 
+  "url": "http://tieba.baidu.com/p/4158066063?lp=5028&mo_device=1&is_jingpost=1&pn=0&#posterLayer", 
+  "ba": "云盘", 
+  "imgPath": "/data/lumppic/6a600c338744ebf8b73fcd5edbf9d72a6059a701.jpg"
+}
+[
+  ""
+]
+Max Floor47
+Target Floor25
+find target floor
+[
+  "【06-12 宝粉正能量】这个视频把马云看哭了"
+]
+{
+  "content": "4.51%", 
+  "url": "http://tieba.baidu.com/p/4606678180?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "加多宝", 
+  "imgPath": "/data/lumppic/203fb80e7bec54e7f6be91a2bb389b504fc26a38.jpg"
+}
+[
+  "【06-12 宝粉正能量】这个视频把马云看哭了", 
+  "4.51%"
+]
+Max Floor47
+Target Floor2
+find target floor
+[
+  "【06-15 宝粉大晒】新人报道。", 
+  "加多宝凉茶，全国销量遥遥领先。"
+]
+{
+  "content": "2．适量饮水，不憋尿。", 
+  "url": "http://tieba.baidu.com/p/4612657202?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "加多宝", 
+  "imgPath": "/data/lumppic/77c6a7efce1b9d1647927d68f1deb48f8c546466.jpg"
+}
+[
+  "【06-15 宝粉大晒】新人报道。", 
+  "加多宝凉茶，全国销量遥遥领先。", 
+  "2．适量饮水，不憋尿。"
+]
+Max Floor47
+Target Floor23
+find target floor
+[
+  "【06-11 宝粉大晒】加多宝和王老吉。什么关系", 
+  "求告知", 
+  "互喷关系"
+]
+{
+  "content": "1", 
+  "url": "http://tieba.baidu.com/p/4603915336?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "加多宝", 
+  "imgPath": "/data/lumppic/8b82b9014a90f603ededcc393b12b31bb051ed6b.jpg"
+}
+[
+  "【06-11 宝粉大晒】加多宝和王老吉。什么关系", 
+  "求告知", 
+  "互喷关系", 
+  "1"
+]
+Max Floor16
+Target Floor15
+find target floor
+[
+  "【老弟放假在家闲的无聊。想让我给他找一个火热的铲品做做玳理】", 
+  "。现在有合适的吗？请莲细我。V:AJM0906", 
+  "1", 
+  "a", 
+  "有，化妆品的", 
+  "1", 
+  "1"
+]
+{
+  "content": "链接一：代课教师", 
+  "url": "http://tieba.baidu.com/p/4568164526?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "新手开店", 
+  "imgPath": "/data/lumppic/42166d224f4a20a4b8eb338192529822730ed0fb.jpg"
+}
+[
+  "【老弟放假在家闲的无聊。想让我给他找一个火热的铲品做做玳理】", 
+  "。现在有合适的吗？请莲细我。V:AJM0906", 
+  "1", 
+  "a", 
+  "有，化妆品的", 
+  "1", 
+  "1", 
+  "链接一：代课教师"
+]
+Max Floor17
+Target Floor5
+find target floor
+[
+  "产品设计中的消息推送设计，需要注意哪些点？", 
+  "世界给草籽重压时，它总会用自己的方法破土而出。", 
+  "做对的事情比把事情做对重要。", 
+  "世界上那些最容易的事情中，拖延时间最不费力。"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:06:42http%3A%2f%2ftieba.baidu.com%2fp%2f4606634308%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

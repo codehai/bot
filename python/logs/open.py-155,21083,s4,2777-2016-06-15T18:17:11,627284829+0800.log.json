@@ -1,0 +1,66 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": "pos.baidu.com",
+			"name": "LDID",
+			"expires": "\\u5468\\u4e00, 11 3\\u6708 2019 11:10:22 GMT",
+			"value": "BE8DE5EC0C4FF4128C743DCC362C6779:FG=1",
+			"expiry": 1552302622,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:09:12 GMT",
+			"value": "478FA7F4E41767C1DCBF5024434C15DD:FG=1",
+			"expiry": 1497438552,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "TIEBA_USERTYPE",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "8f42a94318033b5a15b88eb3",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "TIEBAUID",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "cb23caae14130a0d384a57f1",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"2016-06-15 18:22:16http%3A%2f%2ftieba.baidu.com%2f.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 168, in <module>",
+	"    driver.get('http://tieba.baidu.com')",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 245, in get",
+	"    self.execute(Command.GET, {'url': url})",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 233, in execute",
+	"    self.error_handler.check_response(response)",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 194, in check_response",
+	"    raise exception_class(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 0.048",
+	"  (Session info: chrome=38.0.2125.104)",
+	"  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)",
+	""
+]

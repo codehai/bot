@@ -1,0 +1,111 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465382423", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:40:22 GMT", "value": "1465380788,1465381394,1465381965,1465382423", "expiry": 1496918422, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "15E13B9B09EA07E2", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:40:11 GMT", "value": "849d88bbce55ce9d5df3296d9508e486e34d5d099ef4d73feef7eec51460d74c", "expiry": 1724582411, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:40:11 GMT", "value": "0d3624c68702fda7049a6a1045fc6581", "expiry": 1724582411, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:40:11 GMT", "value": "744587929691a6dba277f1e5da64", "expiry": 1724582411, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:40:11 GMT", "value": "k5KR3VNMjM4STNXc0xmWE5abFhJMXR3WkN2U1pxV29RcnZwYVZOYXRZY0xnMzlYQVFBQUFBJCQAAAAAAAAAAAEAAABqC~tUamlhaWVjMDY0MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAv2V1cL9ldXT", "expiry": 1724582411, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:40:11 GMT", "value": "fi_PncwhpxZ%7ETaJc3RDurjp2LFxeLMYDA2963fUVOvbLmbiW8yetQuw958jtoUU0dYRKb8jn9RLjY-GLC6kkJH25tSBoDif1aa5e4moS0B2SB3qDE4xq8VDVnAeXLxFEENXwBgsglup4ITWrTHWFxvR3RhQIXk_", "expiry": 1724582411, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:40:11 GMT", "value": "e629b69dfa38489c6232e6473b946ebee327", "expiry": 1724582411, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:40:11 GMT", "value": "wapp_1465382341780_642", "expiry": 1724582411, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:39:33 GMT", "value": "1", "expiry": 1465468773, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:39:19 GMT", "value": "1", "expiry": 1465468759, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:39:19 GMT", "value": "568", "expiry": 1496486359, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:39:19 GMT", "value": "320", "expiry": 1496486359, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:39:02 GMT", "value": "453A4097343AD2A05AA946748D74E456:FG=1", "expiry": 1496918342, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 01 6\\u6708 2046 10:39:01 GMT", "value": "wapp_1465382341780_642", "expiry": 2411462341, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "69f9537a5980eaeeddfeb3a3", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:jiaiec0640
+Max Floor29
+Target Floor17
+find target floor
+[
+  "请教", 
+  "请教各位，这是什么石头？", 
+  "这个叫 毕加索 石！\n属于天然类石头虽然价值不高\n但是很有艺术感的！\n全世界都没有重样的第二个！！"
+]
+{
+  "content": "我的左手的小手指和中指习惯性得抖了一下：", 
+  "url": "http://tieba.baidu.com/p/2005831675?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "文玩天下", 
+  "imgPath": "/data/lumppic/b7003af33a87e95045c62a6c12385343faf2b4d9.jpg"
+}
+[
+  ""
+]
+Max Floor29
+Target Floor26
+find target floor
+[
+  "吧友们谁那有真骨头的佛头三通啊？？？？给我看看行吗》？？？？"
+]
+{
+  "content": "我最喜欢贴春联。全家人一起动手，窗上、门上、井台上，甚至鸡舍、鸽子架上都贴上春联，我甚至在马的额头上，羊的角上都贴上“福”字，只要我能逮住的东西，这一天我愿意不厌其烦地做这一件事，我觉得这才是完满的幸福，幸福就是那种能让每个生命个体都能感受到幸福的那种感觉。", 
+  "url": "http://tieba.baidu.com/p/1947595084?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "文玩天下", 
+  "imgPath": "/data/lumppic/908fa0ec08fa513df3f903b93f6d55fbb2fbd902.jpg"
+}
+[
+  ""
+]
+Max Floor26
+Target Floor18
+find target floor
+[
+  "永贝里全家都转会秦城FC，果然大手笔", 
+  "不是康斯坦特吗", 
+  "双卡的是lumia那款啊？\n————————————————来自黑又硬的撸妹1520", 
+  "一波全部带走啊", 
+  "康师傅全家桶", 
+  "康斯坦特和贾凯里尼", 
+  "我记得有一个和他断绝关系了没进去", 
+  "他儿子在牢里会有意外吗"
+]
+{
+  "content": "15", 
+  "url": "http://tieba.baidu.com/p/4612717910?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "ac米兰", 
+  "imgPath": "/data/lumppic/79f0f736afc379319925d798e9c4b74543a91135.jpg"
+}
+[
+  "永贝里全家都转会秦城FC，果然大手笔", 
+  "不是康斯坦特吗", 
+  "双卡的是lumia那款啊？\n————————————————来自黑又硬的撸妹1520", 
+  "一波全部带走啊", 
+  "康师傅全家桶", 
+  "康斯坦特和贾凯里尼", 
+  "我记得有一个和他断绝关系了没进去", 
+  "他儿子在牢里会有意外吗"
+]
+Max Floor20
+Target Floor7
+find target floor
+[
+  "召唤腹肌君", 
+  ".这年头要淡定点：朋友被五步蛇咬了，已经走了四步了此时他很着急的问贫僧怎么办，于是贫僧马上抓了几条蛇又咬了他，大概可以多走一百多步吧，他们都说贫僧机智", 
+  "漂亮啊", 
+  "跪舔君很多，一会全部到位。", 
+  "漂亮,还练个毛啊", 
+  "单纯练腹肌可以看网上一个 八分钟腹肌，如果减脂推荐有氧运动，慢跑、跳绳、游泳、单车都可以的，控制下饮食。还有不懂可以加 我Q"
+]
+{
+  "content": "“高级中等教育阶段获得全国中学生学科奥林匹克竞赛省赛区一等奖以及全国决赛一、二、三等奖者”；", 
+  "url": "http://tieba.baidu.com/p/4612848738?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "健身", 
+  "imgPath": "/data/lumppic/32fa828ba61ea8d3390aad09950a304e251f5897.jpg"
+}
+[
+  ""
+]
+2016-06-15 20:29:14http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E5%2581%25A5%25E8%25BA%25AB%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 309, in <module>
+    ActionChains(driver).click(driver.find_element_by_css_selector(".blue_kit_left a.blue_kit_btn_back")).perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 298.581
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

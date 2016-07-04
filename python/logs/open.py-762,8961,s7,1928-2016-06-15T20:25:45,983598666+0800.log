@@ -1,0 +1,258 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465381965", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:32:44 GMT", "value": "1465380788,1465381394,1465381965", "expiry": 1496917964, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "7FD4FE8AB620D3B3", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:32:34 GMT", "value": "53ff722290cf532e4ffb667a7543f494c44428b4d28e23497fb404e779b2e3d3", "expiry": 1724581954, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:32:34 GMT", "value": "173fbca152b8a5cf100915537480c893", "expiry": 1724581954, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:32:34 GMT", "value": "820c262b96dd09494c2fedda40fe0d7b", "expiry": 1724581954, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:32:34 GMT", "value": "1nUXJ6UzA1bkFUczE1SDZGUEwwRlF-TWhnfmZISUlFZGN1VWpuc3N5ZEJnWDlYQVFBQUFBJCQAAAAAAAAAAAEAAAB9YvlUemhhbmdqdHFpOTk0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEH0V1dB9FdXN2", "expiry": 1724581954, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:32:34 GMT", "value": "fi_PncwhpxZ%7ETaJcz451cXh6T5Prts1AlIA%7Exxyctz1X8NcmEyOZ1b%7EG4jCBEvFL2CotOHAqh2axBU9CT0aAGbUeLAfhbBrsfS0URjHPOsX-uClqvHFseU6s8sr7WM-fa8NFYSdw7URHvQsc%7EebONuFW3LdqA__", "expiry": 1724581954, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:32:34 GMT", "value": "60e0f8ec5db06b42f582c3052ad6f06c3b03c11c", "expiry": 1724581954, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:32:34 GMT", "value": "wapp_1465381867273_288", "expiry": 1724581954, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:31:49 GMT", "value": "1", "expiry": 1465468309, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:31:25 GMT", "value": "1", "expiry": 1465468285, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:31:25 GMT", "value": "568", "expiry": 1496485885, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:31:25 GMT", "value": "320", "expiry": 1496485885, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:31:07 GMT", "value": "F435298802ED582B9953B3807279E396:FG=1", "expiry": 1496917867, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 01 6\\u6708 2046 10:31:07 GMT", "value": "wapp_1465381867273_288", "expiry": 2411461867, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "8cd9aebb611b6a09dc0f95bd", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:zhangjtqi994
+Max Floor36
+Target Floor15
+find target floor
+[
+  "〖最美快报〗05.07唉唉唉╯▂╰", 
+  "咋了倒是，，，", 
+  "挤挤"
+]
+{
+  "content": "文章认为，研制撒手锏武器，对于像解放军这样的技术后发军队而言是当务之急。不仅如此，文章还引用了解放军团代表的发言：“我们不能总是跟着别人屁股后面跑，被人牵着鼻子走，必须得有自己的新观念和新路子”。的确，在成系统对抗的现代化战争中，一旦已方建立了较完善的作战体系就可以依靠撒手锏武器取得优势。但需要注意的是，在同体系完整的军事大国对抗中，如果自身作战体系尚不完整，那就很难凭着几件撒手锏武器去扭转战局。资料图：解放军武器库中到底谁才能被称为撒手锏我们不能总是跟着别人屁股后面跑，被人牵着鼻子走", 
+  "url": "http://tieba.baidu.com/p/4531674722?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "最美天气", 
+  "imgPath": "/data/lumppic/71cf3bc79f3df8dc83edd491cf11728b461028d9.jpg"
+}
+[
+  "〖最美快报〗05.07唉唉唉╯▂╰", 
+  "咋了倒是，，，", 
+  "挤挤", 
+  "文章认为，研制撒手锏武器，对于像解放军这样的技术后发军队而言是当务之急。不仅如此，文章还引用了解放军团代表的发言：“我们不能总是跟着别人屁股后面跑，被人牵着鼻子走，必须得有自己的新观念和新路子”。的确，在成系统对抗的现代化战争中，一旦已方建立了较完善的作战体系就可以依靠撒手锏武器取得优势。但需要注意的是，在同体系完整的军事大国对抗中，如果自身作战体系尚不完整，那就很难凭着几件撒手锏武器去扭转战局。资料图：解放军武器库中到底谁才能被称为撒手锏我们不能总是跟着别人屁股后面跑，被人牵着鼻子走"
+]
+Max Floor27
+Target Floor18
+find target floor
+[
+  "‖06-15‖【麦·技术】锋麦s有用抽风散热器的吗", 
+  "玩大型游戏温度很高，底座式的散热器基本上没效果，好多吧友说用抽风的，但这款本散热口和电源口很近，抽风式散热器的密封软胶会被充电插头挡住，还有7度角设计，抽风的散热器根本就放不平，是真有人用了，还是凭想象说的", 
+  "以前用联想的y450，夏天也是温度奇高，在网上订做了一个抽风的散热器，如果散热器和本的出风口对接不好，就没有降温效果了，锋麦设计感觉就用不了抽风的呀", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "d", 
+  "我也是锋麦s，我底下一个散热架，g1笔记本温度高的时候开，宿舍空调人在都是开着的，够用的", 
+  "表示不用，垫高弄个风扇吹一吹就行了", 
+  "以前用联想的y450，夏天也是温度奇高，在网上订做了一个抽风的散热器，如果散热器和本的出风口对接不好，就没有降温效果了，锋麦设计感觉就用不了抽风的呀", 
+  "估计都是随口说的，有用过的吗，进来说声", 
+  "有效果的", 
+  "我是黑麦i7的 底坐加抽风降10度以上", 
+  "和开g1一样效果，玩lol63℃左右"
+]
+{
+  "content": "陈甲亮原来的奥运金牌搭档吴俊明在2002年离开印尼国家队后便远赴美国，他之后代表美国队参加国际比赛，并出人意料地与白国豪合作夺得了2005年世锦赛男双冠军。而哈里姆目前也已前往美国，担任了美国队的教练，他也很有可能“重出江湖”，成为美国队的一员。", 
+  "url": "http://tieba.baidu.com/p/4611928237?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "麦本本", 
+  "imgPath": "/data/lumppic/962bd40735fae6cd1324e71c0db30f2442a70f3e.jpg"
+}
+[
+  "‖06-15‖【麦·技术】锋麦s有用抽风散热器的吗", 
+  "玩大型游戏温度很高，底座式的散热器基本上没效果，好多吧友说用抽风的，但这款本散热口和电源口很近，抽风式散热器的密封软胶会被充电插头挡住，还有7度角设计，抽风的散热器根本就放不平，是真有人用了，还是凭想象说的", 
+  "以前用联想的y450，夏天也是温度奇高，在网上订做了一个抽风的散热器，如果散热器和本的出风口对接不好，就没有降温效果了，锋麦设计感觉就用不了抽风的呀", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "d", 
+  "我也是锋麦s，我底下一个散热架，g1笔记本温度高的时候开，宿舍空调人在都是开着的，够用的", 
+  "表示不用，垫高弄个风扇吹一吹就行了", 
+  "以前用联想的y450，夏天也是温度奇高，在网上订做了一个抽风的散热器，如果散热器和本的出风口对接不好，就没有降温效果了，锋麦设计感觉就用不了抽风的呀", 
+  "估计都是随口说的，有用过的吗，进来说声", 
+  "有效果的", 
+  "我是黑麦i7的 底坐加抽风降10度以上", 
+  "和开g1一样效果，玩lol63℃左右"
+]
+Max Floor26
+Target Floor12
+find target floor
+[
+  "烤了好多次戚风了 每次都凹陷不熟要疯了！求指导！", 
+  "每次面糊都跟视频里一样 就是烘烤时间总是搞不明白\n原来150度40分钟 外面糊了里面湿的\n然后135度60分钟 外面都感觉干了 里面还是湿的\n然后135度30分钟，150度30分钟，本来以为这次好了，结果一出来还是大凹陷，里面没熟 外面表皮都干了\n求大神指导到底该怎么办", 
+  "确定是低粉？", 
+  "@粥猩猩414 信春哥，得永生!", 
+  "我假装无所谓 却发现你是真的不在乎。", 
+  "六寸150度50分钟。中途不能开烤箱门。", 
+  "你的蛋白应该打发的也不到位，烤出来里面还有布丁层。", 
+  "我们需要做的不仅仅是路过，在路过的同时还要关心楼主，鼓励楼主，在这个冷漠的时代，给予楼主温暖！顶！！", 
+  "配方发一下", 
+  "出炉后有没有倒扣，刚开始做没倒扣里面就是没熟的样子", 
+  "你可以试试萌妹子的法子 很好用 我跟她学的 一直开裂的问题都解决了", 
+  "蛋白没打好 像死面饼 不然就是搅拌的时候消泡了 油蛋和面粉没有完全混合 所以有大洞 这些没做好就是烤熟了拿出来了结果还是一样的", 
+  "啊，每个烤箱温度都不一样，慢慢调呗。偷偷告诉你，自从我买了厨师机戚风就能做好了", 
+  "还有切拌手法是必须练习的", 
+  "温度方面按配方来就行了，差不了太多的", 
+  "楼楼，戚风的蛋白要打发到9-10分发，然后取3/1打发好的蛋白拌到蛋黄面糊里，从下到上快速翻拌，拌好的蛋面糊倒回到剩余的蛋白里，也是从下到上快速翻拌，注意不要搅拌哦，不要消泡了。然后拌好的蛋糊倒入模具，摔一下模具，摔气泡出来。（8寸）然后开烤160度40-45分钟。时间一到马上拿出来，摔下热气，然后倒扣。再没有完全冷却的时候不要脱模"
+]
+{
+  "content": "nbsp;nbsp;nbsp; 44139 Dortmund", 
+  "url": "http://tieba.baidu.com/p/4612442132?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "烘焙", 
+  "imgPath": "/data/lumppic/8d5494eef01f3a297628d9979b25bc315d607c82.jpg"
+}
+[
+  "烤了好多次戚风了 每次都凹陷不熟要疯了！求指导！", 
+  "每次面糊都跟视频里一样 就是烘烤时间总是搞不明白\n原来150度40分钟 外面糊了里面湿的\n然后135度60分钟 外面都感觉干了 里面还是湿的\n然后135度30分钟，150度30分钟，本来以为这次好了，结果一出来还是大凹陷，里面没熟 外面表皮都干了\n求大神指导到底该怎么办", 
+  "确定是低粉？", 
+  "@粥猩猩414 信春哥，得永生!", 
+  "我假装无所谓 却发现你是真的不在乎。", 
+  "六寸150度50分钟。中途不能开烤箱门。", 
+  "你的蛋白应该打发的也不到位，烤出来里面还有布丁层。", 
+  "我们需要做的不仅仅是路过，在路过的同时还要关心楼主，鼓励楼主，在这个冷漠的时代，给予楼主温暖！顶！！", 
+  "配方发一下", 
+  "出炉后有没有倒扣，刚开始做没倒扣里面就是没熟的样子", 
+  "你可以试试萌妹子的法子 很好用 我跟她学的 一直开裂的问题都解决了", 
+  "蛋白没打好 像死面饼 不然就是搅拌的时候消泡了 油蛋和面粉没有完全混合 所以有大洞 这些没做好就是烤熟了拿出来了结果还是一样的", 
+  "啊，每个烤箱温度都不一样，慢慢调呗。偷偷告诉你，自从我买了厨师机戚风就能做好了", 
+  "还有切拌手法是必须练习的", 
+  "温度方面按配方来就行了，差不了太多的", 
+  "楼楼，戚风的蛋白要打发到9-10分发，然后取3/1打发好的蛋白拌到蛋黄面糊里，从下到上快速翻拌，拌好的蛋面糊倒回到剩余的蛋白里，也是从下到上快速翻拌，注意不要搅拌哦，不要消泡了。然后拌好的蛋糊倒入模具，摔一下模具，摔气泡出来。（8寸）然后开烤160度40-45分钟。时间一到马上拿出来，摔下热气，然后倒扣。再没有完全冷却的时候不要脱模", 
+  "nbsp;nbsp;nbsp; 44139 Dortmund"
+]
+Max Floor26
+Target Floor6
+find target floor
+[
+  "猪油在哪里买啊？", 
+  "求", 
+  "自己做就可以"
+]
+{
+  "content": "nbspnbspnbspnbsp委托人身份证号码：", 
+  "url": "http://tieba.baidu.com/p/4612383286?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "烘焙", 
+  "imgPath": "/data/lumppic/8718367adab44aedd01e84eab11c8701a18bfb68.jpg"
+}
+[
+  "猪油在哪里买啊？", 
+  "求", 
+  "自己做就可以", 
+  "nbspnbspnbspnbsp委托人身份证号码："
+]
+Max Floor26
+Target Floor2
+find target floor
+[
+  "烤了好多次戚风了 每次都凹陷不熟要疯了！求指导！", 
+  "每次面糊都跟视频里一样 就是烘烤时间总是搞不明白\n原来150度40分钟 外面糊了里面湿的\n然后135度60分钟 外面都感觉干了 里面还是湿的\n然后135度30分钟，150度30分钟，本来以为这次好了，结果一出来还是大凹陷，里面没熟 外面表皮都干了\n求大神指导到底该怎么办", 
+  "确定是低粉？", 
+  "@粥猩猩414 信春哥，得永生!", 
+  "我假装无所谓 却发现你是真的不在乎。", 
+  "六寸150度50分钟。中途不能开烤箱门。", 
+  "你的蛋白应该打发的也不到位，烤出来里面还有布丁层。", 
+  "我们需要做的不仅仅是路过，在路过的同时还要关心楼主，鼓励楼主，在这个冷漠的时代，给予楼主温暖！顶！！", 
+  "配方发一下", 
+  "出炉后有没有倒扣，刚开始做没倒扣里面就是没熟的样子", 
+  "你可以试试萌妹子的法子 很好用 我跟她学的 一直开裂的问题都解决了", 
+  "蛋白没打好 像死面饼 不然就是搅拌的时候消泡了 油蛋和面粉没有完全混合 所以有大洞 这些没做好就是烤熟了拿出来了结果还是一样的", 
+  "啊，每个烤箱温度都不一样，慢慢调呗。偷偷告诉你，自从我买了厨师机戚风就能做好了", 
+  "还有切拌手法是必须练习的", 
+  "温度方面按配方来就行了，差不了太多的", 
+  "楼楼，戚风的蛋白要打发到9-10分发，然后取3/1打发好的蛋白拌到蛋黄面糊里，从下到上快速翻拌，拌好的蛋面糊倒回到剩余的蛋白里，也是从下到上快速翻拌，注意不要搅拌哦，不要消泡了。然后拌好的蛋糊倒入模具，摔一下模具，摔气泡出来。（8寸）然后开烤160度40-45分钟。时间一到马上拿出来，摔下热气，然后倒扣。再没有完全冷却的时候不要脱模"
+]
+{
+  "content": "14-14", 
+  "url": "http://tieba.baidu.com/p/4612442132?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "烘焙", 
+  "imgPath": "/data/lumppic/71cf3bc79f3df8dc5cbc899acf11728b47102833.jpg"
+}
+[
+  "烤了好多次戚风了 每次都凹陷不熟要疯了！求指导！", 
+  "每次面糊都跟视频里一样 就是烘烤时间总是搞不明白\n原来150度40分钟 外面糊了里面湿的\n然后135度60分钟 外面都感觉干了 里面还是湿的\n然后135度30分钟，150度30分钟，本来以为这次好了，结果一出来还是大凹陷，里面没熟 外面表皮都干了\n求大神指导到底该怎么办", 
+  "确定是低粉？", 
+  "@粥猩猩414 信春哥，得永生!", 
+  "我假装无所谓 却发现你是真的不在乎。", 
+  "六寸150度50分钟。中途不能开烤箱门。", 
+  "你的蛋白应该打发的也不到位，烤出来里面还有布丁层。", 
+  "我们需要做的不仅仅是路过，在路过的同时还要关心楼主，鼓励楼主，在这个冷漠的时代，给予楼主温暖！顶！！", 
+  "配方发一下", 
+  "出炉后有没有倒扣，刚开始做没倒扣里面就是没熟的样子", 
+  "你可以试试萌妹子的法子 很好用 我跟她学的 一直开裂的问题都解决了", 
+  "蛋白没打好 像死面饼 不然就是搅拌的时候消泡了 油蛋和面粉没有完全混合 所以有大洞 这些没做好就是烤熟了拿出来了结果还是一样的", 
+  "啊，每个烤箱温度都不一样，慢慢调呗。偷偷告诉你，自从我买了厨师机戚风就能做好了", 
+  "还有切拌手法是必须练习的", 
+  "温度方面按配方来就行了，差不了太多的", 
+  "楼楼，戚风的蛋白要打发到9-10分发，然后取3/1打发好的蛋白拌到蛋黄面糊里，从下到上快速翻拌，拌好的蛋面糊倒回到剩余的蛋白里，也是从下到上快速翻拌，注意不要搅拌哦，不要消泡了。然后拌好的蛋糊倒入模具，摔一下模具，摔气泡出来。（8寸）然后开烤160度40-45分钟。时间一到马上拿出来，摔下热气，然后倒扣。再没有完全冷却的时候不要脱模", 
+  "14-14"
+]
+Max Floor26
+Target Floor25
+find target floor
+[
+  "芒果冻芝士蛋糕🎂", 
+  "第一次做，费了好大功夫，还算成功！烘焙的路，越陷越深！", 
+  "求方子，好美腻", 
+  "很漂亮，应该也非常好吃", 
+  "楼主，求方子。", 
+  "@丶带那该悲wr 楼主就好比社区的栋梁", 
+  "想问你们一个问题 如果一个男生和一个女生分手了，他把那个女生的QQ和微信都删了是不是真的就不爱那", 
+  "想学"
+]
+{
+  "content": "加拿大是个多民族的国家，有英裔、法裔、印第安人、爱斯基摩人、华人和少量欧美及亚洲各国移民。这些民族都具有自己的传统习惯和风俗，在婚礼上也表现如此，从而使加拿大成为一个有着多姿多彩婚礼习俗的国家。", 
+  "url": "http://tieba.baidu.com/p/4603907559?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "烘焙", 
+  "imgPath": "/data/lumppic/4afbfbedab64034f523c3f50acc379310b551df6.jpg"
+}
+[
+  "芒果冻芝士蛋糕🎂", 
+  "第一次做，费了好大功夫，还算成功！烘焙的路，越陷越深！", 
+  "求方子，好美腻", 
+  "很漂亮，应该也非常好吃", 
+  "楼主，求方子。", 
+  "@丶带那该悲wr 楼主就好比社区的栋梁", 
+  "想问你们一个问题 如果一个男生和一个女生分手了，他把那个女生的QQ和微信都删了是不是真的就不爱那", 
+  "想学", 
+  "加拿大是个多民族的国家，有英裔、法裔、印第安人、爱斯基摩人、华人和少量欧美及亚洲各国移民。这些民族都具有自己的传统习惯和风俗，在婚礼上也表现如此，从而使加拿大成为一个有着多姿多彩婚礼习俗的国家。"
+]
+Max Floor26
+Target Floor2
+find target floor
+[
+  "烤了好多次戚风了 每次都凹陷不熟要疯了！求指导！", 
+  "每次面糊都跟视频里一样 就是烘烤时间总是搞不明白\n原来150度40分钟 外面糊了里面湿的\n然后135度60分钟 外面都感觉干了 里面还是湿的\n然后135度30分钟，150度30分钟，本来以为这次好了，结果一出来还是大凹陷，里面没熟 外面表皮都干了\n求大神指导到底该怎么办", 
+  "确定是低粉？", 
+  "@粥猩猩414 信春哥，得永生!", 
+  "我假装无所谓 却发现你是真的不在乎。", 
+  "六寸150度50分钟。中途不能开烤箱门。", 
+  "你的蛋白应该打发的也不到位，烤出来里面还有布丁层。", 
+  "我们需要做的不仅仅是路过，在路过的同时还要关心楼主，鼓励楼主，在这个冷漠的时代，给予楼主温暖！顶！！", 
+  "配方发一下", 
+  "出炉后有没有倒扣，刚开始做没倒扣里面就是没熟的样子", 
+  "你可以试试萌妹子的法子 很好用 我跟她学的 一直开裂的问题都解决了", 
+  "蛋白没打好 像死面饼 不然就是搅拌的时候消泡了 油蛋和面粉没有完全混合 所以有大洞 这些没做好就是烤熟了拿出来了结果还是一样的", 
+  "啊，每个烤箱温度都不一样，慢慢调呗。偷偷告诉你，自从我买了厨师机戚风就能做好了", 
+  "还有切拌手法是必须练习的", 
+  "温度方面按配方来就行了，差不了太多的", 
+  "楼楼，戚风的蛋白要打发到9-10分发，然后取3/1打发好的蛋白拌到蛋黄面糊里，从下到上快速翻拌，拌好的蛋面糊倒回到剩余的蛋白里，也是从下到上快速翻拌，注意不要搅拌哦，不要消泡了。然后拌好的蛋糊倒入模具，摔一下模具，摔气泡出来。（8寸）然后开烤160度40-45分钟。时间一到马上拿出来，摔下热气，然后倒扣。再没有完全冷却的时候不要脱模"
+]
+{
+  "content": "4", 
+  "url": "http://tieba.baidu.com/p/4612442132?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "烘焙", 
+  "imgPath": "/data/lumppic/203fb80e7bec54e769a530aebb389b504fc26a30.jpg"
+}
+2016-06-15 20:28:31http%3A%2f%2ftieba.baidu.com%2fp%2f4612442132%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 304, in <module>
+    floorContent()
+  File "open.py", line 133, in floorContent
+    postContent = p.find_element_by_class_name('content').text
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 70, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 457, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

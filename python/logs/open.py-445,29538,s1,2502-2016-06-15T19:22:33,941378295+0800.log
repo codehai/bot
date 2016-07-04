@@ -1,0 +1,306 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": "tieba.baidu.com", "name": "PMS_JT", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 10:06:52 GMT", "value": "%28%7B%22s%22%3A1465898797637%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29", "expiry": 1465898812, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "TIEBAUID", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "251e382d234694288f036cb7", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:06:31 GMT", "value": "7399c644bed3ac83b86f2493f95259a2a31e16d2e3c09a7ae54fe820ea7c20b1", "expiry": 1725098791, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:06:31 GMT", "value": "54c76870687a058de8489a5123943dcd", "expiry": 1725098791, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:06:31 GMT", "value": "4597c9dfa0608d3d01c16f3458", "expiry": 1725098791, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:06:31 GMT", "value": "BFV2Fyc0FLd3JQSnhyZGhHVmk4dE04cDMzQVZzUVBYMVJta0xjeXpING1aSWRYQVFBQUFBJCQAAAAAAAAAAAEAAADH7BJVZ2p1Ynd0cTg0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACbXX1cm119XeH", "expiry": 1725098791, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:06:31 GMT", "value": "fi_PncwhpxZ%7ETaJc1l39kEDwcjTvMbCPnHtCYlh7k6WO0t1M-dfGhwYZcxHnADf%7EJY-AOKZtKUze1ITVfDLUDjUmQqhXj40mLvWQR8m8URKhGOYUB7RWarVbACRO5xT6-Xbfs4DK1cB6f07AU1lVh180IhQDA__", "expiry": 1725098791, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:06:31 GMT", "value": "dedb6ec703bcd92e8dea9089d212d2fe6a", "expiry": 1725098791, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:06:31 GMT", "value": "wapp_1465898718359_634", "expiry": 1725098791, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:05:55 GMT", "value": "1", "expiry": 1465985155, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:05:35 GMT", "value": "1", "expiry": 1465985135, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:05:35 GMT", "value": "568", "expiry": 1497002735, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:05:35 GMT", "value": "320", "expiry": 1497002735, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:05:18 GMT", "value": "0D4895B559CFCA9995867DF52F6FCB57:FG=1", "expiry": 1497434718, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:05:18 GMT", "value": "wapp_1465898718359_634", "expiry": 2411978718, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "5f4d5be10e008983f0bb90c0", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:gjubwtq84
+Max Floor43
+Target Floor6
+find target floor
+[
+  "唯品会【20160612 有奖活动】“唯品国际”正式启动", 
+  "为了让唯品会1.6亿会员在跨境电商的新时代下，能够买到更优质的产品、获得更贴心的服务。日前，唯品会“唯品国际”正式启动了包括“正品、精选、价格、服务、规模”五大核心差异化竞争优势的 “信赖升级”，并将继续深化唯品国际“海外直采、正品保障、免邮包税”的独特跨境特卖组合优势，让消费者足不出户、极速享受全球“高贵不贵”的品质生活。", 
+  "能够轻易就放弃的梦想，有存在的价值么？", 
+  "我最怀念某年,空气自由新鲜,远山和炊烟,狗和田野,我沉睡一夏天~!,"
+]
+{
+  "content": "（凯凯专家顾问群）", 
+  "url": "http://tieba.baidu.com/p/4606172301?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "唯品会", 
+  "imgPath": "/data/lumppic/8601a18b87d6277f897afa312a381f30e924fc4b.jpg"
+}
+[
+  ""
+]
+Max Floor43
+Target Floor32
+find target floor
+[
+  "唯品会【20160607 有奖活动】提供点到点无缝衔接创造价值", 
+  "唯品会通过为近2000万的活跃用户提供点到点无缝衔接的购物体验、多样化‘高贵不贵’的优质产品，唯品会将继续保持业绩增长并为股东创造更多价值。"
+]
+{
+  "content": "二级市场上，该股7个月以来以来一直围绕2.60元附近展开震荡，K线形态也形成箱形整理格局，在本轮大涨的行情里该股根本没什么良好的表现，在真个具有民族品牌的酒类公司集体疯狂上攻的背景下，作为最新注入优质“杞浓”系列保健酒的ST江纸有望上演比G椰岛更加火爆的上升行情，值得投资者重点关注。", 
+  "url": "http://tieba.baidu.com/p/4595743714?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "唯品会", 
+  "imgPath": "/data/lumppic/91529822720e0cf3fa2a6a5f0846f21fbf09aab0.jpg"
+}
+[
+  "唯品会【20160607 有奖活动】提供点到点无缝衔接创造价值", 
+  "唯品会通过为近2000万的活跃用户提供点到点无缝衔接的购物体验、多样化‘高贵不贵’的优质产品，唯品会将继续保持业绩增长并为股东创造更多价值。", 
+  "二级市场上，该股7个月以来以来一直围绕2.60元附近展开震荡，K线形态也形成箱形整理格局，在本轮大涨的行情里该股根本没什么良好的表现，在真个具有民族品牌的酒类公司集体疯狂上攻的背景下，作为最新注入优质“杞浓”系列保健酒的ST江纸有望上演比G椰岛更加火爆的上升行情，值得投资者重点关注。"
+]
+Max Floor43
+Target Floor1
+find target floor
+[
+  "唯品会【20160607 有奖活动】提供点到点无缝衔接创造价值", 
+  "唯品会通过为近2000万的活跃用户提供点到点无缝衔接的购物体验、多样化‘高贵不贵’的优质产品，唯品会将继续保持业绩增长并为股东创造更多价值。"
+]
+{
+  "content": "本规定所称的奖励，是指军队设置的专业技术人才奖和奖励性津贴。", 
+  "url": "http://tieba.baidu.com/p/4595743714?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "唯品会", 
+  "imgPath": "/data/lumppic/6a63f6246b600c3304042f7e184c510fd9f9a103.jpg"
+}
+[
+  "唯品会【20160607 有奖活动】提供点到点无缝衔接创造价值", 
+  "唯品会通过为近2000万的活跃用户提供点到点无缝衔接的购物体验、多样化‘高贵不贵’的优质产品，唯品会将继续保持业绩增长并为股东创造更多价值。"
+]
+Max Floor16
+Target Floor2
+find target floor
+[
+  "A°Pink┇160615图片┇0615 南珠ins更换新头像1P", 
+  "cr sarangdungy", 
+  "这张猴猴看啊！", 
+  "玩IG的都更了233", 
+  "美啊", 
+  "一张图入坑颜饭了", 
+  "窝瓜美美哒", 
+  "南瓜去哪啊", 
+  "南瓜越来越美了", 
+  "瓜倒是感觉没胖", 
+  "小南瓜"
+]
+{
+  "content": "nbsp;nbsp;", 
+  "url": "http://tieba.baidu.com/p/4612377826?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "apink", 
+  "imgPath": "/data/lumppic/03087bf40ad162d9dc81a26b13dfa9ec8a13cd5e.jpg"
+}
+[
+  ""
+]
+Max Floor38
+Target Floor21
+find target floor
+[
+  "没有游戏风云这个台了。。。。。。", 
+  "如题，求大神解释解释啊，咋回事啊，换了个什么玩意儿啊，天天播的比赛都啥玩意儿啊"
+]
+{
+  "content": "技能经验最受企业重视", 
+  "url": "http://tieba.baidu.com/p/4605799647?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "游戏风云", 
+  "imgPath": "/data/lumppic/a08b87d6277f9e2f9258a8091d30e924b899f346.jpg"
+}
+[
+  "没有游戏风云这个台了。。。。。。", 
+  "如题，求大神解释解释啊，咋回事啊，换了个什么玩意儿啊，天天播的比赛都啥玩意儿啊", 
+  "技能经验最受企业重视"
+]
+Max Floor38
+Target Floor21
+find target floor
+[
+  "很久以前看过的一个游戏 是什么（求助）", 
+  "一个游戏 一个人喊很多队友跟在身后可以去打怪 要是没地方走了人就解散了", 
+  "霸王？", 
+  "我的心久久不能压抑的喜悦，震动了整个生命！怎会有如此精妙绝伦的好贴？", 
+  "节奏游戏吧", 
+  "好像叫啪嗒嘭", 
+  "不是这些 我记得就是地图里面全是npc 有些npc很傲娇要人数到达50以上才能招募 然后那些打怪的地图里还可以把怪物变成自己人 战斗过程就是放技能打 把怪物打死了 怪物就会跟在自己屁股后面", 
+  "要是人多了没地方走了 npc自动解散 然后只剩下自己一个人", 
+  "霸王？？\n我有一个就算拼命也想实现的愿望，所以才会做魔法少女。\n--来自某ntr助手版贴吧客户端", 
+  "我们的大革命没记错的话", 
+  "好像是楼上的，我虽然模糊的记得我看过（兔子的吧），但我清晰的记得我没看名字", 
+  "我们的大革命", 
+  "[语音]\n栽林巴室喂状信煤县", 
+  "很久没有玩过传奇了，前一段时间去玩了几把，结果完全就不适应画质和渣都方式了，后来又玩了《古羌传奇:PK版》，我操！原来都有全3D效果了！那千人混战的吃鸡！激动的我直接网吧去包夜了，玩的正海，要来留言"
+]
+{
+  "content": "除了每次洗发后用护发素润发之外，每周还要再用发膜进一步呵护。发膜相当于面膜，含有许多强韧秀发、减少头发脆弱度并能增加秀发光泽度的成分。发膜护理能修护受损部分，抚平毛鳞片，使发丝柔顺好梳理，或者是增加干燥受损头发的光泽感。使用发膜，要在洗发后去除多余水分，将发膜均匀涂在湿发上，让其充分作用于发根至发梢，按摩3分钟后用清水冲洗。", 
+  "url": "http://tieba.baidu.com/p/4456565375?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "游戏风云", 
+  "imgPath": "/data/lumppic/3c6d55fbb2fb43161130f71c23a4462309f7d3ad.jpg"
+}
+[
+  "很久以前看过的一个游戏 是什么（求助）", 
+  "一个游戏 一个人喊很多队友跟在身后可以去打怪 要是没地方走了人就解散了", 
+  "霸王？", 
+  "我的心久久不能压抑的喜悦，震动了整个生命！怎会有如此精妙绝伦的好贴？", 
+  "节奏游戏吧", 
+  "好像叫啪嗒嘭", 
+  "不是这些 我记得就是地图里面全是npc 有些npc很傲娇要人数到达50以上才能招募 然后那些打怪的地图里还可以把怪物变成自己人 战斗过程就是放技能打 把怪物打死了 怪物就会跟在自己屁股后面", 
+  "要是人多了没地方走了 npc自动解散 然后只剩下自己一个人", 
+  "霸王？？\n我有一个就算拼命也想实现的愿望，所以才会做魔法少女。\n--来自某ntr助手版贴吧客户端", 
+  "我们的大革命没记错的话", 
+  "好像是楼上的，我虽然模糊的记得我看过（兔子的吧），但我清晰的记得我没看名字", 
+  "我们的大革命", 
+  "31''\n栽林巴室喂状信煤县", 
+  "很久没有玩过传奇了，前一段时间去玩了几把，结果完全就不适应画质和渣都方式了，后来又玩了《古羌传奇:PK版》，我操！原来都有全3D效果了！那千人混战的吃鸡！激动的我直接网吧去包夜了，玩的正海，要来留言", 
+  "除了每次洗发后用护发素润发之外，每周还要再用发膜进一步呵护。发膜相当于面膜，含有许多强韧秀发、减少头发脆弱度并能增加秀发光泽度的成分。发膜护理能修护受损部分，抚平毛鳞片，使发丝柔顺好梳理，或者是增加干燥受损头发的光泽感。使用发膜，要在洗发后去除多余水分，将发膜均匀涂在湿发上，让其充分作用于发根至发梢，按摩3分钟后用清水冲洗。"
+]
+Max Floor38
+Target Floor20
+find target floor
+[
+  "请问这是什么游戏", 
+  "这个时候 游戏风云正在播", 
+  "感觉特像lol", 
+  "300英雄呀", 
+  "300英雄", 
+  "300英雄", 
+  "300英雄不谢　　　 --楼楼:嘿！那边那只炎发灼眼的傲娇萝莉看过来\n萝莉酱:无路赛，无路赛，无路赛！最讨厌大叔了，吃我一记断罪！！！呀哈！！\n楼主卒，享年[哔~]岁。\n--来自助手版贴吧客户端", 
+  "大波妹妹，你要吗?", 
+  "300英雄", 
+  "12年的传奇情节，只要是看家有关传奇的帖子，都会很激动，之前不断的换私服玩，但是却怎么也找不到当年的感觉了，还好后来淘到了一款游戏叫《古羌传奇:PK版》，比传奇还流弊的是它是3D画质的，而且做的还不赖唷，区别于其他的一些同类游戏来说，它的装备还是没有绑定的，换句话说就是可以随便爆装备，你是不是激动了呢？"
+]
+{
+  "content": "九鼎中最大的首鼎重达60公斤，这是中国目前所发现最大的战国时期铜铁合铸器物。它的最珍贵之处在于鼎壁上刻的77行共469字，这是迄今发现的战国时期铭文字数最多的铜器，刻有已佚失的中山国和战国时期的有关史料。", 
+  "url": "http://tieba.baidu.com/p/4553291622?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "游戏风云", 
+  "imgPath": "/data/lumppic/72f082025aafa40f8b94d555a864034f79f019e3.jpg"
+}
+[
+  "请问这是什么游戏", 
+  "这个时候 游戏风云正在播", 
+  "感觉特像lol", 
+  "300英雄呀", 
+  "300英雄", 
+  "300英雄", 
+  "300英雄不谢　　　 --楼楼:嘿！那边那只炎发灼眼的傲娇萝莉看过来\n萝莉酱:无路赛，无路赛，无路赛！最讨厌大叔了，吃我一记断罪！！！呀哈！！\n楼主卒，享年[哔~]岁。\n--来自助手版贴吧客户端", 
+  "大波妹妹，你要吗?", 
+  "300英雄", 
+  "12年的传奇情节，只要是看家有关传奇的帖子，都会很激动，之前不断的换私服玩，但是却怎么也找不到当年的感觉了，还好后来淘到了一款游戏叫《古羌传奇:PK版》，比传奇还流弊的是它是3D画质的，而且做的还不赖唷，区别于其他的一些同类游戏来说，它的装备还是没有绑定的，换句话说就是可以随便爆装备，你是不是激动了呢？"
+]
+Max Floor38
+Target Floor9
+find target floor
+[
+  "寻找游戏", 
+  "游戏风云频道今日中午转播的一款具有欧美风格的特殊的战斗场景和多人参战的游戏叫什么？", 
+  "12年的传奇情节，只要是看家有关传奇的帖子，都会很激动，之前不断的换私服玩，但是却怎么也找不到当年的感觉了，还好后来淘到了一款游戏叫《古羌传奇:PK版》，比传奇还流弊的是它是3D画质的，而且做的还不赖唷，区别于其他的一些同类游戏来说，它的装备还是没有绑定的，换句话说就是可以随便爆装备，你是不是激动了呢？", 
+  "电脑开机开不了。鼠标键盘亮了一下就灭了。风扇转了一下也灭了。然后就在那自动亮一下鼠标和键盘，", 
+  "就是喜欢,不戴套的感觉", 
+  "每个人都有一个或喜或悲的童年，如今有些事或许已经随风逝去，有些记忆或许会永留心间。请留下对童年的怀念或对未来的憧憬，说说你想对自己或者某人的", 
+  "满十八,找个男人."
+]
+{
+  "content": "作文要一气呵成，结尾与前面正文一线相生，不可缺痕。作文的结尾与开头一样，是篇篇各异的，但也有其规律可循。上面的几种结尾方式仅仅只是一些常用的结尾方式，切忌生搬硬套，真正好的结尾存在于考生的平时扎实的训练之中，存在于考生的临场发挥，存在于考生的“诗外之功”。", 
+  "url": "http://tieba.baidu.com/p/4559475728?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "游戏风云", 
+  "imgPath": "/data/lumppic/4afbfbedab64034f06e48207adc379310a551d81.jpg"
+}
+[
+  ""
+]
+Max Floor30
+Target Floor22
+find target floor
+[
+  "我个人认为守望着很厉害啊可是为什么很多人都不喜欢选守望者", 
+  "打orc拼不过剑圣，内战拼不过DH。打UD控不住NCF的魔法，也就打HUM好一些，可以欺负下大法。", 
+  "太脆，吃等级，走位要求高。基本上即使是职业玩家也要花海量金钱来买装备保障女王的存活，在大部分玩家手里女王就更容易死了。还是一粒蛋好，耐草，抽魔让对面少草你几次。", 
+  "感觉对了就可以啪哦...", 
+  "终于明白我为啥不招人喜欢了，不", 
+  "求一約友。", 
+  "妹妹我要,有来的吗?", 
+  "我个人不喜欢是因为三个技能不知道选哪个", 
+  "守望者只有打人族才能尽情展现真正的威力，打其他三个族用守望者容易玩脱", 
+  "wd到底点闪烁镖还是刀阵。。。"
+]
+{
+  "content": "nbsp;nbsp;nbsp; 地址：Urbanusstr. 40", 
+  "url": "http://tieba.baidu.com/p/4611099310?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "魔兽争霸", 
+  "imgPath": "/data/lumppic/9f2f070828381f304aa6ccbbaa014c086e06f061.jpg"
+}
+[
+  "我个人认为守望着很厉害啊可是为什么很多人都不喜欢选守望者", 
+  "打orc拼不过剑圣，内战拼不过DH。打UD控不住NCF的魔法，也就打HUM好一些，可以欺负下大法。", 
+  "太脆，吃等级，走位要求高。基本上即使是职业玩家也要花海量金钱来买装备保障女王的存活，在大部分玩家手里女王就更容易死了。还是一粒蛋好，耐草，抽魔让对面少草你几次。", 
+  "感觉对了就可以啪哦...", 
+  "终于明白我为啥不招人喜欢了，不", 
+  "求一約友。", 
+  "妹妹我要,有来的吗?", 
+  "我个人不喜欢是因为三个技能不知道选哪个", 
+  "守望者只有打人族才能尽情展现真正的威力，打其他三个族用守望者容易玩脱", 
+  "wd到底点闪烁镖还是刀阵。。。", 
+  "nbsp;nbsp;nbsp; 地址：Urbanusstr. 40"
+]
+Max Floor32
+Target Floor21
+find target floor
+[
+  "今年还有吧务选拔吗", 
+  "如题", 
+  "@Zeus333 @96鑫宇 狗花就不艾特了，太长懒的打", 
+  "哎呀，本宝宝摔倒了 ，要漂亮的楼主...... 卧槽，不用了，楼主别靠近我，我自己爬起来了 ，还能跑", 
+  "RT如题，打个排位两边10个人卡的像条狗，谁生谁死都是看谁运气好。。。一会能动，一会不能动。ping正常", 
+  "三百万勇士帮忙推荐那款好价格四五千左右", 
+  "好想被人顶，活好的莱", 
+  "喜欢我，就做朋友,约偶", 
+  "布吉岛"
+]
+{
+  "content": "nbsp;　中国航空器材进出口集团总裁与波音资深销售副总裁拉里·迪肯森（右）签署协议后握手。CFP图", 
+  "url": "http://tieba.baidu.com/p/4612633190?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "魔兽争霸", 
+  "imgPath": "/data/lumppic/11385343fbf2b2111af669a5c88065380dd78e05.jpg"
+}
+[
+  "今年还有吧务选拔吗", 
+  "如题", 
+  "@Zeus333 @96鑫宇 狗花就不艾特了，太长懒的打", 
+  "哎呀，本宝宝摔倒了 ，要漂亮的楼主...... 卧槽，不用了，楼主别靠近我，我自己爬起来了 ，还能跑", 
+  "RT如题，打个排位两边10个人卡的像条狗，谁生谁死都是看谁运气好。。。一会能动，一会不能动。ping正常", 
+  "三百万勇士帮忙推荐那款好价格四五千左右", 
+  "好想被人顶，活好的莱", 
+  "喜欢我，就做朋友,约偶", 
+  "布吉岛", 
+  "nbsp;　中国航空器材进出口集团总裁与波音资深销售副总裁拉里·迪肯森（右）签署协议后握手。CFP图"
+]
+Max Floor7
+Target Floor1
+find target floor
+[
+  "男朋友最近都没有满足我，请问下野燕麦可以吗？", 
+  "其实性生活本应是两边在相互满意的前提下才干促进的，男性兄弟要恰当的了解女人生理等方面的不一样，例如能够在性生活时多做前戏的准备工作，性生活过程中要注意节奏等方面的掌握。", 
+  "如今每次爱爱能够接连四十分钟以上了，三十多岁的人了，从头找回了二十几岁新婚时的感受，每天晚上做，也不觉着疲倦，让老婆也十分满意。【菩优】帮助了我", 
+  "当她们发现自己的老公变成强者时，那种惊讶的眼神让她们无处躲藏，那种失去已久的暧昧声音又再次呼出，这种感觉让幸福了。【菩优】", 
+  "【7斗云】上面都拿得到，之前看到朋友们都在使用着，而且现在我们每天都在使用着，刚才也拿了许多回来使用的。", 
+  "我们都喜欢在【7斗云】哪里可以拿得到，看到许多朋友都是这样的，现在我们每天都拿许多许多回来使用，感觉棒极了。", 
+  "笐", 
+  "鋕"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 19:26:26http%3A%2f%2ftieba.baidu.com%2fp%2f3469087276%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

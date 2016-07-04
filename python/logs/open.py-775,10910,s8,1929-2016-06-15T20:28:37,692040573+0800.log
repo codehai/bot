@@ -1,0 +1,22 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:17:59 GMT", "value": "wapp_1465378866048_444", "expiry": 1724581079, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 09:41:37 GMT", "value": "1", "expiry": 1465465297, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 09:41:21 GMT", "value": "1", "expiry": 1465465281, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 09:41:21 GMT", "value": "568", "expiry": 1496482881, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 09:41:21 GMT", "value": "320", "expiry": 1496482881, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 09:41:06 GMT", "value": "E6CD8AA1F69727CBC6A5D723B7B45A56:FG=1", "expiry": 1496914866, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 01 6\\u6708 2046 09:41:06 GMT", "value": "wapp_1465378866048_444", "expiry": 2411458866, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "697672d81a77a9be8e49dcb1", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+未登录成功，没有查询到用户
+2016-06-15 20:29:10http%3A%2f%2ftieba.baidu.com%2f%3Fpage%3Duser.png
+Traceback (most recent call last):
+  File "open.py", line 200, in <module>
+    wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'user_info_name')))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+

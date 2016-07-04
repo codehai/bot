@@ -1,0 +1,17 @@
+import org.openqa.selenium.*;
+import org.openqa.selenium.firefox.*;
+import org.openqa.selenium.chrome.*;
+import org.sikuli.script.*;
+
+public class open{
+	public static void main(String[ ] args){
+		FirefoxProfile profile = new FirefoxProfile();
+		profile.setPreference("general.useragent.override", "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53");
+		WebDriver driver = new FirefoxDriver(profile);
+		Screen s  =  new Screen();
+		//import 1.cookie or 2.cookie.json
+		driver.get("http://tieba.baidu.com");
+		s.type("./search2.jpg","sikuli");
+		//s.click("sreach_input.jpg");
+	}
+}

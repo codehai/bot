@@ -1,0 +1,142 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465903251",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:20:50 GMT",
+			"value": "1465903223,1465903232,1465903235,1465903251",
+			"expiry": 1497439250,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "AAC01CC3FB189DAF",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:20:22 GMT",
+			"value": "wapp_1465903164674_307",
+			"expiry": 1725103222,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:20:04 GMT",
+			"value": "1",
+			"expiry": 1465989604,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:19:41 GMT",
+			"value": "1",
+			"expiry": 1465989581,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:19:40 GMT",
+			"value": "568",
+			"expiry": 1497007180,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:19:40 GMT",
+			"value": "320",
+			"expiry": 1497007180,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:19:25 GMT",
+			"value": "B01A786EF710EC269986AFA4DB1CE13B:FG=1",
+			"expiry": 1497439165,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:19:24 GMT",
+			"value": "wapp_1465903164674_307",
+			"expiry": 2411983164,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "097ce01c8c4ae5b4d57f32b1",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"未登录成功，没有查询到用户",
+	"2016-06-15 18:04:02http%3A%2f%2ftieba.baidu.com%2f%3Fpage%3Duser.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 200, in <module>",
+	"    wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'user_info_name')))",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py\", line 80, in until",
+	"    raise TimeoutException(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: ",
+	""
+]

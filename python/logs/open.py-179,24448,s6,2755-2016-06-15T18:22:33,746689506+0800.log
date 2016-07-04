@@ -1,0 +1,271 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465902290", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:04:50 GMT", "value": "1465902260,1465902278,1465902283,1465902290", "expiry": 1497438290, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "7D70EAEEF6E514A7", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:04:40 GMT", "value": "8cbc15ee62601a772b43411704a5dd2d6adfd610d10d2f341081ac137ca81211", "expiry": 1725102280, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:04:40 GMT", "value": "7d335bf5506af056db535bfaa43a7ef3", "expiry": 1725102280, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:04:40 GMT", "value": "899af983f12f9884346f8d29c73e275a6042", "expiry": 1725102280, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:04:40 GMT", "value": "dWYnlMN0N4VWdmbEFTbkE2OEFZOVRQQ2ROa0prbDhkVmVsQlZTai1PTEljWWRYQVFBQUFBJCQAAAAAAAAAAAEAAADrYN9IemhvbmdoaGFudDUxNzMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjkX1fI5F9Xal", "expiry": 1725102280, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:04:40 GMT", "value": "fi_PncwhpxZ%7ETaJc7gurM%7EqY3P4-Cs83%7EmOjZ9so46X5IjnJvxXWVyduByzUpY8cTHUS1DHS8ScFxpgejGBnkCQMa%7E6%7En6ZHeLzmuAbEBRcHvhWolkTpc3KHRntntd0Bd8UE48cYq8HMsDuHmRs6p5to7rDFQ__", "expiry": 1725102280, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:04:40 GMT", "value": "c07357973d6ab51f71a802caf3c3675ab7acdfec3a74", "expiry": 1725102280, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:04:40 GMT", "value": "wapp_1465902204743_927", "expiry": 1725102280, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:04:04 GMT", "value": "1", "expiry": 1465988644, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:03:40 GMT", "value": "1", "expiry": 1465988620, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:03:40 GMT", "value": "568", "expiry": 1497006220, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:03:40 GMT", "value": "320", "expiry": 1497006220, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:03:25 GMT", "value": "9B8A21FD70DD88DBC01ED810C7B15636:FG=1", "expiry": 1497438205, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:03:24 GMT", "value": "wapp_1465902204743_927", "expiry": 2411982204, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "11a9867df2e7fb75434672cd", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:zhonghhant5173
+Max Floor18
+Target Floor7
+find target floor
+[
+  "晚上有没有人一起去秋名山飙车", 
+  "来人一起打排位，段位差不多的就可以。", 
+  "ID：影子Edward", 
+  "没有人吗？", 
+  "暖", 
+  "InthesuperGod丶L 我上车", 
+  "ID", 
+  "d", 
+  "带一波节奏", 
+  "有 可惜我是中单", 
+  "排位8连胜"
+]
+{
+  "content": "Betfair", 
+  "url": "http://tieba.baidu.com/p/4612681472?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "艾欧尼亚", 
+  "imgPath": "/data/lumppic/023b5bb5c9ea15cebeeb1beeb4003af33b87b2d4.jpg"
+}
+[
+  "晚上有没有人一起去秋名山飙车", 
+  "来人一起打排位，段位差不多的就可以。", 
+  "ID：影子Edward", 
+  "没有人吗？", 
+  "暖", 
+  "InthesuperGod丶L 我上车", 
+  "ID", 
+  "d", 
+  "带一波节奏", 
+  "有 可惜我是中单", 
+  "排位8连胜"
+]
+Max Floor13
+Target Floor7
+find target floor
+[
+  "【知识普及】有什么问题，我帮你解决？", 
+  "学心理学几年了，想通过帮助别人来提高自己，算是一种互相帮助吧！", 
+  "因为现在还在读书阶段，所以时间比较充裕", 
+  "有什么问题，尽管说出来", 
+  "如果涉及到个人隐私的，也可以私聊", 
+  "😊😊", 
+  "我今年接本，心理学，刚刚接触这个专业，不知道该怎么学。但是我对心理学特别感兴趣。", 
+  "我今年接本，心理学，刚刚接触这个专业，不知道该怎么学。但是我对心理学特别感兴趣。", 
+  "我今年接本，心理学，刚刚接触这个专业，不知道该怎么学。但是我对心理学特别感兴趣", 
+  "睡不早怎么解决？", 
+  "上车了上车了，一天的激情从此开始，点开我的简介进入新世界 !", 
+  "明天你是否会想起\n昨天你写的日记\n明天你是否还惦记\n曾经最爱哭的你"
+]
+{
+  "content": "在1986年6月，周绮思出院的时候，吴肇光教授曾对她说：“你将能像正常人一样生活、可以上班，也可以再生一个娃娃。”经过两年的家庭T.P.N，前两条已得到了证实。至于第三条，她还不敢奢望。为了孩子，她差一点送命，不会不心存余悸。虽然他们两人都酷爱孩子，像所有的中国人一样，把三口之家看成是完美的家庭。但是，他们对生育缺乏信心。1988年末，她意外地怀孕了。当时，她的身体尚在恢复中，各方面条件也不完全具备，经过一番思想斗争，放弃了。以后的几年中，他们总是避开这个话题。", 
+  "url": "http://tieba.baidu.com/p/4610149918?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "心理学", 
+  "imgPath": "/data/lumppic/500fd9f9d72a60596ace2b172a34349b023bbae5.jpg"
+}
+[
+  ""
+]
+Max Floor35
+Target Floor5
+find target floor
+[
+  "粉色的是不是还是1399", 
+  "电池耐用吗，跟小米max哪个强", 
+  "电池比小米max大", 
+  "大家都说我不应该做鸡，其实我也觉得。", 
+  "同问 不过黑边。实在太大了", 
+  "我在AE我要自学网基础篇里已经学会了其中大部分知识，我想巩固一下自己，谁能告诉我下我应给去做些什"
+]
+{
+  "content": "3.800", 
+  "url": "http://tieba.baidu.com/p/4610366756?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "蓝魔", 
+  "imgPath": "/data/lumppic/9345d688d43f87945e10a92fd01b0ef41ad53ac0.jpg"
+}
+[
+  "粉色的是不是还是1399", 
+  "电池耐用吗，跟小米max哪个强", 
+  "电池比小米max大", 
+  "大家都说我不应该做鸡，其实我也觉得。", 
+  "同问 不过黑边。实在太大了", 
+  "我在AE我要自学网基础篇里已经学会了其中大部分知识，我想巩固一下自己，谁能告诉我下我应给去做些什", 
+  "3.800"
+]
+Max Floor26
+Target Floor15
+find target floor
+[
+  "我喜欢她不是因为她长得有多靓，", 
+  "我喜欢她不是因为她长得有多靓，歌唱得有多好，成就有多高……而是因为她与众不同的睿智", 
+  "李宇春的个人魅力，让玉米们越来越爱她。", 
+  "小宇就是魅力无限", 
+  "我喜欢她，是因为歌好听，舞好看，而且，还人靓、条顺、聪明。真是个招人爱的姑娘！", 
+  "我喜欢她的聪明，我喜欢她的善良，我喜欢她的真实，我喜欢她对待玉米的情感，我喜欢玉米之间的团结，我喜欢她靠自己的努力走上国际，我喜欢……", 
+  "她就是长得靓唱得好成就高，她的每一样都喜欢。楼主的话听着有点像黑", 
+  "顶贴", 
+  "dd", 
+  "楼上那个删了吧", 
+  "我喜欢她勇于做自己，现在大多数人都是跟着别人的眼光走，只有会长不管外界怎么说，怎么变，她都是原来那个最真实的，勇于追求梦想坚持做自己的女孩。", 
+  "夜深了，打开企鹅FM，找到喜欢的《解忧杂货铺》，看到了一期节目叫做《你无法恋爱的理由，》我愣了一", 
+  "因为得永生"
+]
+{
+  "content": "更年期多肝肾阴虚", 
+  "url": "http://tieba.baidu.com/p/4611351965?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "李宇春", 
+  "imgPath": "/data/lumppic/4ec2d5628535e5dd1e191d9474c6a7efce1b6240.jpg"
+}
+[
+  ""
+]
+Max Floor26
+Target Floor24
+find target floor
+[
+  "转贴:#音悦V榜,百度热度#李宇春的mv《存在感》音悦v榜打榜中,现...", 
+  "转自： <span class=\"apc_src_wrapper\">来自：<a href=\"http://hit.baidu.com/vchart?type=mltrends&mvid=2579032&rank=9&sid=104351\" target=\"_blank\">hit.baidu.com/vchart?type=mltrends&mvid=2579032&rank=9&sid=104351</a></span>", 
+  "顶", 
+  "[语音]", 
+  "不想看见她，不想和她联系，一个人跑来苏州工作～～～", 
+  "爱爱，让你开心。我想"
+]
+{
+  "content": "nbsp;宁夏苏峪口国家公园有..", 
+  "url": "http://tieba.baidu.com/p/4612124869?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "李宇春", 
+  "imgPath": "/data/lumppic/bf096b63f6246b6052db6f74e9f81a4c500fa2dd.jpg"
+}
+[
+  "转贴:#音悦V榜,百度热度#李宇春的mv《存在感》音悦v榜打榜中,现...", 
+  "转自： <span class=\"apc_src_wrapper\">来自：<a href=\"http://hit.baidu.com/vchart?type=mltrends&mvid=2579032&rank=9&sid=104351\" target=\"_blank\">hit.baidu.com/vchart?type=mltrends&mvid=2579032&rank=9&sid=104351</a></span>", 
+  "顶", 
+  "4''", 
+  "不想看见她，不想和她联系，一个人跑来苏州工作～～～", 
+  "爱爱，让你开心。我想", 
+  "nbsp;宁夏苏峪口国家公园有.."
+]
+Max Floor33
+Target Floor18
+find target floor
+[
+  "淄博哪有卖砗磲的地方", 
+  "一楼喂百度。"
+]
+{
+  "content": "麦克拉伦上周正式宣布世界杯结束后将接替埃里克森成为英格兰的新任主帅，而联盟杯决赛将是他执教米德尔斯堡的最后比赛也是最重大的比赛。", 
+  "url": "http://tieba.baidu.com/p/4612647147?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "淄博", 
+  "imgPath": "/data/lumppic/5882b2b7d0a20cf44ea23bd274094b36acaf9989.jpg"
+}
+[
+  "淄博哪有卖砗磲的地方", 
+  "一楼喂百度。", 
+  "麦克拉伦上周正式宣布世界杯结束后将接替埃里克森成为英格兰的新任主帅，而联盟杯决赛将是他执教米德尔斯堡的最后比赛也是最重大的比赛。"
+]
+Max Floor34
+Target Floor24
+find target floor
+[
+  "又是临近五一，又是同样的结果，被狠狠伤到却还学不乖的自己，循环", 
+  "我们都曾付出真心，以不同的方式，我们只是当时理解不了彼此，谁也不欠谁，爱情无须缅怀。你是那些", 
+  "有没有无聊的聊一会", 
+  "因为知道你喜欢李荣浩，我也试着去听他的歌", 
+  "一.妹妹等你", 
+  "我来帮助楼主顶贴，祝愿楼主天天开心，事事顺心，幸福到永远。。。", 
+  "真希望有个真心真意的朋友，真不懂为什么总会被自己最信任的人伤害。", 
+  "老公沉迷YY语音，我该怎么办？ 吵了几次，答应我不玩几次，可是又一直背着我玩，无意被我发现了还不"
+]
+{
+  "content": "平坝地区的白族多以大米、小麦为主食；山区的白族则多以玉米、洋芋、荞麦为主食。主食都以蒸制为主。　　因鲜菜常年不断，白族人每餐都喜食鲜菜和各种腌菜。白族妇女大都善作腌菜，腌菜的种类很多，除腌制鲜菜外，还做豆瓣酱、豆豉、面酱；剑川、鹤庆的白族常采撷洱海的海菜花，加工烹制成各种风味菜。　　肉食以猪肉为主，除用鲜猪肉做各种炒菜外，还喜腌制年猪，加工成火腿、腊肠、香肠、 猪肝、吹肝、饭肠等精美风味食品。冬天，白族都喜欢大锅牛肉汤，食用时要加蔓菁、萝卜、葱等佐料一起食用。临河而居的白族，擅长水鲜烹调。　　白族大都喜饮酒，由于所用的原料和方法不同，酒的种类很多，制酒时常用40多种草药制成酒曲，制成各种白酒，其中以窑酒和干酒为传统佳酿。另外还有一种糯米甜酒，是专为妇女和孕妇制作的，据说有滋补和催奶的作用。　　饮茶是白族人的另一嗜好，白族很注重每天清晨和中午两次茶。晨茶称“早茶”或 “清醒茶”，一起床就喝茶，成年人都喝；午茶又叫“休息茶”或“解渴茶”，内放米花和奶，包括小孩也要喝一杯。　　白族的风味菜肴很多。生皮是为白族逢年过节必备的菜肴之一，是用多种辛麻辣拌成的冷荤菜。毛驴汤锅，是用毛驴肉烧制而成。柳蒸猪头也是白族传统名菜之一，是用猪头放在柳条架上入锅蒸制而成的。大面糕是白族中秋节特制的糕饼，用发酵面团加佐料蒸制而成。", 
+  "url": "http://tieba.baidu.com/p/4611145545?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "淄博", 
+  "imgPath": "/data/lumppic/4e4a20a4462309f738540a5f700e0cf3d7cad640.jpg"
+}
+[
+  "又是临近五一，又是同样的结果，被狠狠伤到却还学不乖的自己，循环", 
+  "我们都曾付出真心，以不同的方式，我们只是当时理解不了彼此，谁也不欠谁，爱情无须缅怀。你是那些", 
+  "有没有无聊的聊一会", 
+  "因为知道你喜欢李荣浩，我也试着去听他的歌", 
+  "一.妹妹等你", 
+  "我来帮助楼主顶贴，祝愿楼主天天开心，事事顺心，幸福到永远。。。", 
+  "真希望有个真心真意的朋友，真不懂为什么总会被自己最信任的人伤害。", 
+  "老公沉迷YY语音，我该怎么办？ 吵了几次，答应我不玩几次，可是又一直背着我玩，无意被我发现了还不", 
+  "平坝地区的白族多以大米、小麦为主食；山区的白族则多以玉米、洋芋、荞麦为主食。主食都以蒸制为主。　　因鲜菜常年不断，白族人每餐都喜食鲜菜和各种腌菜。白族妇女大都善作腌菜，腌菜的种类很多，除腌制鲜菜外，还做豆瓣酱、豆豉、面酱；剑川、鹤庆的白族常采撷洱海的海菜花，加工烹制成各种风味菜。　　肉食以猪肉为主，除用鲜猪肉做各种炒菜外，还喜腌制年猪，加工成火腿、腊肠、香肠、 猪肝、吹肝、饭肠等精美风味食品。冬天，白族都喜欢大锅牛肉汤，食用时要加蔓菁、萝卜、葱等佐料一起食用。临河而居的白族，擅长水鲜烹调。　　白族大都喜饮酒，由于所用的原料和方法不同，酒的种类很多，制酒时常用40多种草药制成酒曲，制成各种白酒，其中以窑酒和干酒为传统佳酿。另外还有一种糯米甜酒，是专为妇女和孕妇制作的，据说有滋补和催奶的作用。　　饮茶是白族人的另一嗜好，白族很注重每天清晨和中午两次茶。晨茶称“早茶”或 “清醒茶”，一起床就喝茶，成年人都喝；午茶又叫“休息茶”或“解渴茶”，内放米花和奶，包括小孩也要喝一杯。　　白族的风味菜肴很多。生皮是为白族逢年过节必备的菜肴之一，是用多种辛麻辣拌成的冷荤菜。毛驴汤锅，是用毛驴肉烧制而成。柳蒸猪头也是白族传统名菜之一，是用猪头放在柳条架上入锅蒸制而成的。大面糕是白族中秋节特制的糕饼，用发酵面团加佐料蒸制而成。"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:zhonghhant5173
+Max Floor20
+Target Floor4
+find target floor
+[
+  "掉头发的有木有，秋风扫落叶啊，怎么办？？", 
+  "掉头发的有木有，秋风扫落叶啊，怎么办？?", 
+  "要说脱发，以前我也和你一样，非常郁闷，后来看见一个吧友分享自己治疗脱发过程，我也试着按他说的用了3个月，结果完全好了，现在我头发浓密，也不会油腻。你也可以试试！点击 http://tieba.baidu.com/p/4606699982?563 就能看到帖子了", 
+  "就算只是单方面的爱，我也坚持了差不多20年。从15岁开始，我们坐在同一个教室里，我总是喜欢盯着他看", 
+  "你能发一下你得照片么", 
+  "我和Lucy相识是从初一开始的那个时候对她的第一印象就是嗯这女生有点非感觉拽拽的样子（其实也挺可爱", 
+  "每天只签到不留言的，升级永远没有见贴就留言的快。说明：复制粘贴很重要！", 
+  "每天只签到不留言的，升级永远没有见贴就留言的快。说明复制粘贴很重要！"
+]
+{
+  "content": "nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;", 
+  "url": "http://tieba.baidu.com/p/4609128852?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "冷知识", 
+  "imgPath": "/data/lumppic/dbb44aed2e738bd4ba908127a38b87d6277ff976.jpg"
+}
+[
+  "掉头发的有木有，秋风扫落叶啊，怎么办？？", 
+  "掉头发的有木有，秋风扫落叶啊，怎么办？?", 
+  "要说脱发，以前我也和你一样，非常郁闷，后来看见一个吧友分享自己治疗脱发过程，我也试着按他说的用了3个月，结果完全好了，现在我头发浓密，也不会油腻。你也可以试试！点击 http://tieba.baidu.com/p/4606699982?563 就能看到帖子了", 
+  "就算只是单方面的爱，我也坚持了差不多20年。从15岁开始，我们坐在同一个教室里，我总是喜欢盯着他看", 
+  "你能发一下你得照片么", 
+  "我和Lucy相识是从初一开始的那个时候对她的第一印象就是嗯这女生有点非感觉拽拽的样子（其实也挺可爱", 
+  "每天只签到不留言的，升级永远没有见贴就留言的快。说明：复制粘贴很重要！", 
+  "每天只签到不留言的，升级永远没有见贴就留言的快。说明复制粘贴很重要！"
+]
+Max Floor17
+Target Floor4
+find target floor
+[
+  "我鲁用这阵型可以吗？阵型！", 
+  "顶", 
+  "自顶", 
+  "再顶", 
+  "顶到有人回复", 
+  "再顶", 
+  "雷.速.体育 大家用了都说好！"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:27:12http%3A%2f%2ftieba.baidu.com%2fp%2f4612691219%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

@@ -1,0 +1,81 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": "tieba.baidu.com", "name": "PMS_JT", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 10:22:56 GMT", "value": "%28%7B%22s%22%3A1465899761581%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29", "expiry": 1465899776, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "TIEBAUID", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "9d2ff1ebf589d92ae11c2fc4", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:22:36 GMT", "value": "e287f2af708eb8e1752e1728ceb29fa30054901a8d7f85857128820c401b33ab", "expiry": 1725099756, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:22:36 GMT", "value": "92449dac4cf676693a542622ee502ab6", "expiry": 1725099756, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:22:36 GMT", "value": "61a002c6af93310aa2c9eeed3af38a", "expiry": 1725099756, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:22:36 GMT", "value": "jlHREVqb3RiRkw3TVM0SUhCQTg5bmdha0p4aHFmYWhPZ0VZRDBKT2pFTHNaNGRYQVFBQUFBJCQAAAAAAAAAAAEAAABz3SVVeGlueGlhYWM3ODMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOzaX1fs2l9Xf", "expiry": 1725099756, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:22:36 GMT", "value": "fi_PncwhpxZ%7ETaJc5SPMtyqfYtmS5czyGIu7iG6mS9ZSE-181onk5IXwBITSHgGUZm5btILHmXZYAE-Yh25BZcXyYvddoeHv25G5BVwWQyMU1IFQ-m6cWeeIR2DzyEBSaim2Dkoke%7Ehzv%7EUC39s34cY2WmSJQ__", "expiry": 1725099756, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:22:36 GMT", "value": "0bcb250a87814cf65aa1b5bc0ffc512a812239", "expiry": 1725099756, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:22:36 GMT", "value": "wapp_1465899687290_131", "expiry": 1725099756, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:22:00 GMT", "value": "1", "expiry": 1465986120, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:21:43 GMT", "value": "1", "expiry": 1465986103, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:21:42 GMT", "value": "568", "expiry": 1497003702, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:21:42 GMT", "value": "320", "expiry": 1497003702, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:21:27 GMT", "value": "CBAD369379C1644AA5E8FFFE10886873:FG=1", "expiry": 1497435687, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:21:27 GMT", "value": "wapp_1465899687290_131", "expiry": 2411979687, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "e7b147861310f2bf952e59c7", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:xinxiaac783
+Max Floor14
+Target Floor4
+find target floor
+[
+  "问下怎样看帐号是不是首充号？再就是在哪里充值便宜啊", 
+  "问下怎样看帐号是不是首充号？再就是在哪里充值便宜啊", 
+  "刷新一下余额。\n✎﹏﹏", 
+  "dd", 
+  "生命的承受能力，其实远远超过我们自己的想象。人总是在遭遇一次重创之后，才会幡然醒悟，重新认识自己的坚强和坚忍。所以，无论你正在遭遇什么磨难，都不要一味抱怨上苍不公平，甚至从此一蹶不振。人生没有过不去的坎，只有过不去的人。\n✎﹏﹏ #(pic,32861208568,640,5", 
+  "谁知道啊", 
+  "再见到你 我已是波澜不惊", 
+  "一只羊，二只羊，三只羊，四只羊，五只羊，六只羊，七只羊.八只羊，九只羊，十只羊，十一只羊，十二只羊，十三只羊，十四只羊，十五只羊，十六只羊，十七只羊，十八只羊，十九只羊，二十只羊，二十一只羊，二十二只羊，二十三只羊，二十四只羊，二十五只羊，二十六只羊，二十七只羊，二十八只羊，二十九只羊，三十只羊，三十一只羊，三十二只羊，三十三只羊，三十四只羊，三十五只羊，三十六只羊，三十七只羊，三十八只羊，三十九只羊，四十只羊，四十一只羊，四十二只羊，四十三只羊，四十四只羊，四十五只羊，四十六只羊，四十七只羊，四十八只羊，四十九只羊，五十只羊，五十一只羊，五十二只羊，五十三只羊，五十四只羊，五十五只羊，五十六只羊，五十七只羊，五十八只羊，五十九只羊，六十只羊，六十一只羊，六十二只羊，六十三只羊，六十四只羊，六十七只羊，六十八只羊，六十九只羊，七十只羊，七十一只羊，七十二只羊，七十三只羊，七十四只羊，七十五只羊，七十六只羊，七十七只羊，七十八只羊，七十九只羊，八十只羊，八十一只羊，八十二只羊，八十三只羊，八十四只羊，八十五只羊，八十六只羊，八十七只羊，八十八只羊，八十九只羊，九十只羊，九十一只羊，九十二只羊，九十四只羊，九十五只羊，九十六只羊，九十七只羊，九十八只羊，九十九只羊，一百只羊，一百零一只羊，一百零二只羊，一百零三只羊，一百零四只羊，一百零五只羊，一百零六只羊，一百零七只羊，一百零八只羊，一百零九只羊，一百一十只羊，一百十一只羊，一百十二只羊，一百十三只羊，一百十四只羊，一百十五只羊，一百十六只羊，一百十七只羊，一百十八只羊，一百十九只羊，一百二十只羊，一百二十一只羊，一百二十二只羊，一百二十三只羊，一百二十四只羊，一百二十五只羊，一百二十六只羊，一百二十七只羊，一百二十八只羊，一百二十九只羊，一百三十只羊，一百三十一只羊，一百三十二只羊，一百三十三只羊，一百三十四只羊，一百三十五只羊，一百三十六只羊，一百三十七只羊，一百三十八只羊，一百三十九只羊，一百四十只羊，一百四十一只羊，一百四十二只羊，一百四十三只羊，一百四十四只羊，一百四十五只羊，一百四十六只羊，一百四十七只羊，一百四十八只羊，一百四十九只羊，一百五十只羊，一百五十二只羊，一百五十三只羊，一百五十四只羊，一百五十五只羊，一百五十六只羊，一百五十七只羊，一百五十八只羊，少了哪几只羊？", 
+  "不知道 →_→我也想知道", 
+  "[语音]", 
+  "交易猫买的首充号最便宜啊！而且靠谱~\n交易猫算靠谱的了，其他地方买，有的价格低的完全是假的，下单了不发货，扯半天取消了。再买还是一样。交易猫是下单了，基本都会发，以前买过标错价格的，168的1块买下了，还发货了，果断又买了两个，然后就断货了。\nhttps://www.jiaoyimao.com/games/precharge.html?from=T021", 
+  "嗯", 
+  "你外婆撕破", 
+  "666", 
+  "呃呃呃额额的得得得呃呃呃额额的呃呃呃额额得得得", 
+  "首充什么意思？一次性充还是什么？", 
+  "网上冲的", 
+  "1946年，美国加州监狱内一个著名的实验，将一名死刑犯关进一间密室，蒙上双眼，用刀背划过手腕，再放出水的滴答声。100天后，科学家打开密室，发现他已经死在了座椅上。实验证明：内心的恐惧才是自己最可怕的敌人。", 
+  "每当看到你时，我都会怀疑，我们到底有多远。"
+]
+{
+  "content": "19:30 （首播） FEI马术世界", 
+  "url": "http://tieba.baidu.com/p/4518061227?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "豌豆荚", 
+  "imgPath": "/data/lumppic/2e2eb9389b504fc2ffbddc6ee7dde71191ef6dfe.jpg"
+}
+[
+  "问下怎样看帐号是不是首充号？再就是在哪里充值便宜啊", 
+  "问下怎样看帐号是不是首充号？再就是在哪里充值便宜啊", 
+  "刷新一下余额。\n✎﹏﹏", 
+  "dd", 
+  "生命的承受能力，其实远远超过我们自己的想象。人总是在遭遇一次重创之后，才会幡然醒悟，重新认识自己的坚强和坚忍。所以，无论你正在遭遇什么磨难，都不要一味抱怨上苍不公平，甚至从此一蹶不振。人生没有过不去的坎，只有过不去的人。\n✎﹏﹏ #(pic,32861208568,640,5", 
+  "谁知道啊", 
+  "再见到你 我已是波澜不惊", 
+  "一只羊，二只羊，三只羊，四只羊，五只羊，六只羊，七只羊.八只羊，九只羊，十只羊，十一只羊，十二只羊，十三只羊，十四只羊，十五只羊，十六只羊，十七只羊，十八只羊，十九只羊，二十只羊，二十一只羊，二十二只羊，二十三只羊，二十四只羊，二十五只羊，二十六只羊，二十七只羊，二十八只羊，二十九只羊，三十只羊，三十一只羊，三十二只羊，三十三只羊，三十四只羊，三十五只羊，三十六只羊，三十七只羊，三十八只羊，三十九只羊，四十只羊，四十一只羊，四十二只羊，四十三只羊，四十四只羊，四十五只羊，四十六只羊，四十七只羊，四十八只羊，四十九只羊，五十只羊，五十一只羊，五十二只羊，五十三只羊，五十四只羊，五十五只羊，五十六只羊，五十七只羊，五十八只羊，五十九只羊，六十只羊，六十一只羊，六十二只羊，六十三只羊，六十四只羊，六十七只羊，六十八只羊，六十九只羊，七十只羊，七十一只羊，七十二只羊，七十三只羊，七十四只羊，七十五只羊，七十六只羊，七十七只羊，七十八只羊，七十九只羊，八十只羊，八十一只羊，八十二只羊，八十三只羊，八十四只羊，八十五只羊，八十六只羊，八十七只羊，八十八只羊，八十九只羊，九十只羊，九十一只羊，九十二只羊，九十四只羊，九十五只羊，九十六只羊，九十七只羊，九十八只羊，九十九只羊，一百只羊，一百零一只羊，一百零二只羊，一百零三只羊，一百零四只羊，一百零五只羊，一百零六只羊，一百零七只羊，一百零八只羊，一百零九只羊，一百一十只羊，一百十一只羊，一百十二只羊，一百十三只羊，一百十四只羊，一百十五只羊，一百十六只羊，一百十七只羊，一百十八只羊，一百十九只羊，一百二十只羊，一百二十一只羊，一百二十二只羊，一百二十三只羊，一百二十四只羊，一百二十五只羊，一百二十六只羊，一百二十七只羊，一百二十八只羊，一百二十九只羊，一百三十只羊，一百三十一只羊，一百三十二只羊，一百三十三只羊，一百三十四只羊，一百三十五只羊，一百三十六只羊，一百三十七只羊，一百三十八只羊，一百三十九只羊，一百四十只羊，一百四十一只羊，一百四十二只羊，一百四十三只羊，一百四十四只羊，一百四十五只羊，一百四十六只羊，一百四十七只羊，一百四十八只羊，一百四十九只羊，一百五十只羊，一百五十二只羊，一百五十三只羊，一百五十四只羊，一百五十五只羊，一百五十六只羊，一百五十七只羊，一百五十八只羊，少了哪几只羊？", 
+  "不知道 →_→我也想知道", 
+  "[语音]", 
+  "交易猫买的首充号最便宜啊！而且靠谱~\n交易猫算靠谱的了，其他地方买，有的价格低的完全是假的，下单了不发货，扯半天取消了。再买还是一样。交易猫是下单了，基本都会发，以前买过标错价格的，168的1块买下了，还发货了，果断又买了两个，然后就断货了。\nhttps://www.jiaoyimao.com/games/precharge.html?from=T021", 
+  "嗯", 
+  "你外婆撕破", 
+  "666", 
+  "呃呃呃额额的得得得呃呃呃额额的呃呃呃额额得得得", 
+  "首充什么意思？一次性充还是什么？", 
+  "网上冲的", 
+  "1946年，美国加州监狱内一个著名的实验，将一名死刑犯关进一间密室，蒙上双眼，用刀背划过手腕，再放出水的滴答声。100天后，科学家打开密室，发现他已经死在了座椅上。实验证明：内心的恐惧才是自己最可怕的敌人。", 
+  "每当看到你时，我都会怀疑，我们到底有多远。"
+]
+2016-06-15 19:08:34http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E8%25B1%258C%25E8%25B1%2586%25E8%258D%259A%26page_from_search%3Dindex%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 309, in <module>
+    ActionChains(driver).click(driver.find_element_by_css_selector(".blue_kit_left a.blue_kit_btn_back")).perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 434, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 744, in find_element
+    {'using': by, 'value': value})['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

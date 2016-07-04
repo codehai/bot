@@ -1,0 +1,160 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465901563", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:52:42 GMT", "value": "1465901326,1465901436,1465901540,1465901563", "expiry": 1497437562, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "D0DB575946C33757", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:52:32 GMT", "value": "1491f70e7e5e1c2c0c7c7aadfe6ddaa57ac03699e85464caa39b58ae9e22048c", "expiry": 1725101552, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:52:32 GMT", "value": "8854752fa4c4d441573e2d492486eecc", "expiry": 1725101552, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:52:32 GMT", "value": "e125930ebd35cdfd113fccc88d1d", "expiry": 1725101552, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:52:32 GMT", "value": "BKZEp2VkFjS1k3bH51QWFiaVk3TGFmZlhjOFh2aGJCS2NtRDBBR0tJVHdib2RYQVFBQUFBJCQAAAAAAAAAAAEAAAAGuRNVZ2NhbmhkYngxNwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPDhX1fw4V9XUl", "expiry": 1725101552, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:52:32 GMT", "value": "fi_PncwhpxZ%7ETaJc4-7J-8WaDNCk8J46CWHxNY0i2WlqI9QuePIgcswdum0p%7EnW7iRcFfeOMmzFWGgdVSqsDIwLMLtop%7EexPB3hbEfl%7E-H7zLFD5WwPHHYI3FPZiUDWsKL%7Ev6Fms2sBtjHW-uI44p42-UdhWQ__", "expiry": 1725101552, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:52:32 GMT", "value": "12c431ba4f935d034c62961110dd48d1b25e", "expiry": 1725101552, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:52:32 GMT", "value": "wapp_1465901481224_192", "expiry": 1725101552, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:51:55 GMT", "value": "1", "expiry": 1465987915, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:51:37 GMT", "value": "1", "expiry": 1465987897, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:51:37 GMT", "value": "568", "expiry": 1497005497, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:51:37 GMT", "value": "320", "expiry": 1497005497, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:51:21 GMT", "value": "9D5F5E8DE691628CB845CD131C94473E:FG=1", "expiry": 1497437481, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:51:21 GMT", "value": "wapp_1465901481224_192", "expiry": 2411981481, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "41c9ade83dcffda5b5eb5fce", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:gcanhdbx17
+Max Floor26
+Target Floor24
+find target floor
+[
+  "一句话证明你读过四大名著", 
+  "宝哥哥你的金箍棒弄得金莲乐不思蜀呀\n09:34 更新\n出来吧！魅族 出来吧！贵金属 出来吧！新大主宰 出来吧！皇室战争 出来吧！奇迹挂机 出来吧！剑与魔法 出来吧！最佳现场 出来吧！丧失之战 出来吧！魔龙之魂 出来吧！游戏网络 出来吧！少年三国志 出来吧！妖精的尾巴 出来吧！神仙道2016 出来吧！射雕英雄传3D 出来吧！红色警戒"
+]
+{
+  "content": "0", 
+  "url": "http://tieba.baidu.com/p/4611525931?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "糗事百科", 
+  "imgPath": "/data/lumppic/8694a4c27d1ed21beaa3f6acaf6eddc451da3f15.jpg"
+}
+[
+  ""
+]
+Max Floor26
+Target Floor4
+find target floor
+[
+  "这速度，不止70迈！！！", 
+  "“快速”到底有多少迈呢？", 
+  "卧槽，你这做过精子检验？？！", 
+  "明天你是否会想起\n昨天你写的日记\n明天你是否还惦记\n曾经最爱哭的你", 
+  "有没有谁来帮我,我想要."
+]
+{
+  "content": "11:59 世界体育中心快报", 
+  "url": "http://tieba.baidu.com/p/4604845611?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "糗事百科", 
+  "imgPath": "/data/lumppic/dbb44aed2e738bd42733fce8a38b87d6267ff9dd.jpg"
+}
+[
+  "这速度，不止70迈！！！", 
+  "“快速”到底有多少迈呢？", 
+  "卧槽，你这做过精子检验？？！", 
+  "明天你是否会想起\n昨天你写的日记\n明天你是否还惦记\n曾经最爱哭的你", 
+  "有没有谁来帮我,我想要.", 
+  "11:59 世界体育中心快报"
+]
+Max Floor26
+Target Floor19
+find target floor
+[
+  "求各路大腿，求解！！在线等！！", 
+  "这个图片是什么意思？？女友发给我的，求解答！！谢谢各路大神解答！！！", 
+  "她在诱惑你 想吃你", 
+  "金龙鱼调和油，好喝不上头", 
+  "我是来看6楼的", 
+  "感觉自己病了，每天昏昏沉沉的，忘东忘西的，什么也做不好", 
+  "@fg9f888 楼主的帖子 让我深深感受到了人性的伟大."
+]
+{
+  "content": "FVP(First Vice President)第一副总裁", 
+  "url": "http://tieba.baidu.com/p/4611298108?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "糗事百科", 
+  "imgPath": "/data/lumppic/960a304e251f95ca1ec54079cb177f3e660952c9.jpg"
+}
+[
+  "求各路大腿，求解！！在线等！！", 
+  "这个图片是什么意思？？女友发给我的，求解答！！谢谢各路大神解答！！！", 
+  "她在诱惑你 想吃你", 
+  "金龙鱼调和油，好喝不上头", 
+  "我是来看6楼的", 
+  "感觉自己病了，每天昏昏沉沉的，忘东忘西的，什么也做不好", 
+  "@fg9f888 楼主的帖子 让我深深感受到了人性的伟大.", 
+  "FVP(First Vice President)第一副总裁"
+]
+Max Floor26
+Target Floor5
+find target floor
+[
+  "小龙虾吃法。。。", 
+  "顶一下。。。", 
+  "1、牵起她的手\n2、亲亲吻一口\n3、捏住她的腰\n4、掀起红盖头\n5、解开红裤兜\n6、脱下红裤头\n7、品尝白嫩肉\n8、肉白嫩汁多～～………", 
+  "这是临海的么", 
+  "首先，你得有盘小龙虾！！", 
+  "别人吃了一盘你吃了一只", 
+  "人世间有百媚千红，唯有你是我情之所钟"
+]
+{
+  "content": "环球在线消息：一名伊朗高级官员告诉伊国家电视台说，在本周进行的海湾军事演习中，伊朗将在3日试射一枚强力鱼雷，并于4日试射更多导弹。", 
+  "url": "http://tieba.baidu.com/p/4610800526?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "糗事百科", 
+  "imgPath": "/data/lumppic/023b5bb5c9ea15ce4dec0effb4003af33b87b2c2.jpg"
+}
+[
+  "小龙虾吃法。。。", 
+  "顶一下。。。", 
+  "1、牵起她的手\n2、亲亲吻一口\n3、捏住她的腰\n4、掀起红盖头\n5、解开红裤兜\n6、脱下红裤头\n7、品尝白嫩肉\n8、肉白嫩汁多～～………", 
+  "这是临海的么", 
+  "首先，你得有盘小龙虾！！", 
+  "别人吃了一盘你吃了一只", 
+  "人世间有百媚千红，唯有你是我情之所钟", 
+  "环球在线消息：一名伊朗高级官员告诉伊国家电视台说，在本周进行的海湾军事演习中，伊朗将在3日试射一枚强力鱼雷，并于4日试射更多导弹。"
+]
+Max Floor26
+Target Floor24
+find target floor
+[
+  "一句话证明你读过四大名著", 
+  "宝哥哥你的金箍棒弄得金莲乐不思蜀呀\n09:34 更新\n出来吧！魅族 出来吧！贵金属 出来吧！新大主宰 出来吧！皇室战争 出来吧！奇迹挂机 出来吧！剑与魔法 出来吧！最佳现场 出来吧！丧失之战 出来吧！魔龙之魂 出来吧！游戏网络 出来吧！少年三国志 出来吧！妖精的尾巴 出来吧！神仙道2016 出来吧！射雕英雄传3D 出来吧！红色警戒"
+]
+{
+  "content": "2.方法不科学：最吸引人是高科技口号，而碳十四采纳的英国牛津的程序，不代表国际标准。", 
+  "url": "http://tieba.baidu.com/p/4611525931?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "糗事百科", 
+  "imgPath": "/data/lumppic/bf096b63f6246b60b300007de9f81a4c510fa2a9.jpg"
+}
+[
+  ""
+]
+Max Floor10
+Target Floor6
+find target floor
+[
+  "护肤小知识", 
+  "很多男士洗脸过后直接在面部涂抹保湿面霜，其实这样并不能起到很好的保湿效果，正确的做法应该是洗脸过后用干毛巾将脸部的残留水吸干，然后用一些爽肤水在脸上拍打，为下一步的润肤创造良好的表皮环境，最后才是选择合适的保湿霜均匀涂抹在面部上。"
+]
+{
+  "content": "汤家明的代理律师李术礼也告诉记者，对于这些判决，春天医药始终都以没钱为理由拒绝执行。对此当地法院非常重视，前段时间还对春天医药进行了查封，现在有关执行工作还在进行当中。他和记者说：“我呼吁相应的监管部门加强上市公司的监管，这个案子各级政府都很重视，估计不远会有一个好的结果。”", 
+  "url": "http://tieba.baidu.com/p/4612408410?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "美容护肤", 
+  "imgPath": "/data/lumppic/8326cffc1e178a82074c08a1f403738da977e8bb.jpg"
+}
+[
+  "护肤小知识", 
+  "很多男士洗脸过后直接在面部涂抹保湿面霜，其实这样并不能起到很好的保湿效果，正确的做法应该是洗脸过后用干毛巾将脸部的残留水吸干，然后用一些爽肤水在脸上拍打，为下一步的润肤创造良好的表皮环境，最后才是选择合适的保湿霜均匀涂抹在面部上。", 
+  "汤家明的代理律师李术礼也告诉记者，对于这些判决，春天医药始终都以没钱为理由拒绝执行。对此当地法院非常重视，前段时间还对春天医药进行了查封，现在有关执行工作还在进行当中。他和记者说：“我呼吁相应的监管部门加强上市公司的监管，这个案子各级政府都很重视，估计不远会有一个好的结果。”"
+]
+2016-06-15 18:41:57http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E7%25BE%258E%25E5%25AE%25B9%25E6%258A%25A4%25E8%2582%25A4%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7.png
+Traceback (most recent call last):
+  File "open.py", line 234, in <module>
+    ActionChains(driver).click(driver.find_element_by_id('btn')).perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 299.207
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

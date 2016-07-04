@@ -1,0 +1,261 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465900116", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:28:35 GMT", "value": "1465899885,1465899995,1465900111,1465900116", "expiry": 1497436115, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "A06ED3D7892ADBE0", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:25 GMT", "value": "f43b2bad86cbbddf9edc3b40c908db9bf11f85ecabc9dae39b9927a566486420", "expiry": 1725100105, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:25 GMT", "value": "7d34e8ec77c4e8e67b5c10111ab65384", "expiry": 1725100105, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:25 GMT", "value": "7a512d65d8932a18d4faf35e5a", "expiry": 1725100105, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:25 GMT", "value": "EtcWRHOHp2eC1sV0lYWmFRVmhEMVNCUHFxcW5kZGtzTU5IVnh-S2cySklhWWRYQVFBQUFBJCQAAAAAAAAAAAEAAAAf3VJVY2loZmF3NDQyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEjcX1dI3F9XUT", "expiry": 1725100105, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:25 GMT", "value": "fi_PncwhpxZ%7ETaJczc%7ECJ7EkS9pCb2TvPRRzF0G%7EIVL2Jbt6ynAmv4wBKIOZi3wnMwXdBIKInROtlxvRJ6L%7EdpjT4pi-xAG-3vg%7EJeYldiE47THkRbPsq1DFsGjXWa93GrMfm6n2Fc%7EI-QMGAGFfr0MExw2BQ__", "expiry": 1725100105, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:25 GMT", "value": "b00c1fc452bfe6bf01c3334bef0c670414", "expiry": 1725100105, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:28:25 GMT", "value": "wapp_1465900037948_663", "expiry": 1725100105, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:27:48 GMT", "value": "1", "expiry": 1465986468, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:27:34 GMT", "value": "1", "expiry": 1465986454, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:27:34 GMT", "value": "568", "expiry": 1497004054, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:27:34 GMT", "value": "320", "expiry": 1497004054, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:27:18 GMT", "value": "A3276C65C958846295A330F3DEDEA09D:FG=1", "expiry": 1497436038, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:27:17 GMT", "value": "wapp_1465900037948_663", "expiry": 2411980037, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "ab202a749cc1134965dafbc5", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:cihfaw442
+Max Floor22
+Target Floor18
+find target floor
+[
+  "【百度二手吧】06-15 『出售』看上跟我说，不要害羞", 
+  "加我微信聊吧，my390579969多买更优惠", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "叮叮叮", 
+  "来人", 
+  "口琴，和陶勋", 
+  "来人", 
+  "拉卡拉", 
+  "陶勋出了吗", 
+  "非诚勿扰", 
+  "哈哈哈"
+]
+{
+  "content": "两次“围剿”失败，蒋介石十分恼火。１９３１年６月，他带着德、日、英等军事顾问到达南昌，亲任“围剿”总司令，何应钦为前线总指挥。调集２３个师另３个旅约３０余万人，组成左、右两个集团军，采取“厚集兵力，分路围攻，长驱直入”的作战方针，企图先击破红军主力，进而捣毁革命根据地。７月１日，敌人开始对中央根据地进行大规模的进攻。敌人长驱直入，我主力则从闽西绕行千里，回师至赣南兴国跳出重围，使敌人寻找红军主力决战的企图频频落空。", 
+  "url": "http://tieba.baidu.com/p/4612308382?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "二手", 
+  "imgPath": "/data/lumppic/77c6a7efce1b9d1642736216f1deb48f8c546415.jpg"
+}
+[
+  "【百度二手吧】06-15 『出售』看上跟我说，不要害羞", 
+  "加我微信聊吧，my390579969多买更优惠", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "叮叮叮", 
+  "来人", 
+  "口琴，和陶勋", 
+  "来人", 
+  "拉卡拉", 
+  "陶勋出了吗", 
+  "非诚勿扰", 
+  "哈哈哈"
+]
+Max Floor26
+Target Floor15
+find target floor
+[
+  "慌张", 
+  "再也不是一个人了", 
+  "这个白子画一点都不温柔", 
+  "没看过= =", 
+  "[语音]\n抱走，我是一只软萌软萌的妹子", 
+  "👀", 
+  "配不好妖神pop"
+]
+{
+  "content": "几乎每年高考都有考生“倒”在了考场上。心慌、出汗、疲乏无力、脸色苍白，这有可能是晕场的现象，究其原因不外乎三种：一是紧张导致睡眠质量下降、时间缩短，二是紧张导致营养吸收不佳，出现低血糖等现象，三是紧张导致交感神经兴奋，心跳加速，从而出现晕厥。", 
+  "url": "http://tieba.baidu.com/p/4611118034?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "无聊", 
+  "imgPath": "/data/lumppic/d31b0ef41bd5ad6e2a408c1c83cb39dbb7fd3c8f.jpg"
+}
+[
+  "慌张", 
+  "再也不是一个人了", 
+  "这个白子画一点都不温柔", 
+  "没看过= =", 
+  "13''\n抱走，我是一只软萌软萌的妹子", 
+  "👀", 
+  "配不好妖神pop", 
+  "几乎每年高考都有考生“倒”在了考场上。心慌、出汗、疲乏无力、脸色苍白，这有可能是晕场的现象，究其原因不外乎三种：一是紧张导致睡眠质量下降、时间缩短，二是紧张导致营养吸收不佳，出现低血糖等现象，三是紧张导致交感神经兴奋，心跳加速，从而出现晕厥。"
+]
+Max Floor26
+Target Floor9
+find target floor
+[
+  "你们好呀", 
+  "么么哒", 
+  "好", 
+  "就会欺负猫", 
+  "哈哈哈好萌🐷", 
+  "你原来是猫妖", 
+  "喵都不放过", 
+  "么", 
+  "么"
+]
+{
+  "content": "第三场是双方第二单打的较量，鲍春来以21∶17获胜。第二局大部分时间索尼处于领先，但在9∶16落后时鲍春来突然开始发威，把比分追到19∶20。此后他又挽救了两个局点，最终以24∶22反败为胜，同时他也以5∶0继续保持着全胜索尼的纪录。在另一场半决赛中，丹麦3∶2险胜马来西亚。汤姆斯杯中国对丹麦决赛将在7日12∶00举行。今日12时，中国女队将与荷兰女队进入尤伯杯决赛。（梁金雄张华完）", 
+  "url": "http://tieba.baidu.com/p/4612629162?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "无聊", 
+  "imgPath": "/data/lumppic/d52a2834349b033b36b42f9317ce36d3d539bdbf.jpg"
+}
+[
+  "你们好呀", 
+  "么么哒", 
+  "好", 
+  "就会欺负猫", 
+  "哈哈哈好萌🐷", 
+  "你原来是猫妖", 
+  "喵都不放过", 
+  "么", 
+  "么", 
+  "第三场是双方第二单打的较量，鲍春来以21∶17获胜。第二局大部分时间索尼处于领先，但在9∶16落后时鲍春来突然开始发威，把比分追到19∶20。此后他又挽救了两个局点，最终以24∶22反败为胜，同时他也以5∶0继续保持着全胜索尼的纪录。在另一场半决赛中，丹麦3∶2险胜马来西亚。汤姆斯杯中国对丹麦决赛将在7日12∶00举行。今日12时，中国女队将与荷兰女队进入尤伯杯决赛。（梁金雄张华完）"
+]
+Max Floor26
+Target Floor10
+find target floor
+[
+  "我决定人格分裂", 
+  "你们都不跟我玩，我和她玩！（指着自己\n\n6-14 22:45 更新\n…\n16:36 更新\n回复 mingyangcckk :…", 
+  "我总喜欢重新开始的局面，好像这样就会有好结果", 
+  "而人生，却是一盘又一盘残局。", 
+  "拼尽全力冲向太阳，换来燃烧殆尽。人生，没有那么完美。", 
+  "我小心翼翼，步步为营，却换不来好结局。", 
+  "突破生活的壁垒，需要更暴烈的进击。它不是穿越，不是重生，是不顾一切的一踢", 
+  "我怕别人问起过去，讨厌别人否定我的现状。因为我还有未来可言。", 
+  "直到有一天，我眼前一片漆黑，什么也看不见，才苦恼于现在与过去的一切。", 
+  "“三十年河东，三十年河西，莫欺少年穷”这样念着的我，或许只是中二，只是屌丝？", 
+  "强者不记豪言，弱者每每嘴炮。到底是热血燃烧，还是狭隘急躁？", 
+  "如果无人借伞，我会淋雨回家。很爽，也很惨。喜欢风暴，但已经过了能承受的年纪。", 
+  "宁可英年早逝，不愿平庸一世。", 
+  "人都是自私的，只是有的人争夺，有的人被争夺。"
+]
+{
+  "content": "据《苏格兰人报》报道，英国政府正在密切关注阿根廷军事力量的发展及最近阿军方与英国皇家空军在福克兰群岛(阿根廷称巴尔维纳斯群岛)的多次近距离对峙，并对现在形势越来越表示担心。布莱尔政府的高级顾问们已经要求他向阿根廷政府发出警告。", 
+  "url": "http://tieba.baidu.com/p/4610744378?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "无聊", 
+  "imgPath": "/data/lumppic/0d338744ebf81a4c50a190b7d52a6059252da638.jpg"
+}
+[
+  ""
+]
+Max Floor43
+Target Floor7
+find target floor
+[
+  "在线等、不列方程式怎么解", 
+  "有大神在不", 
+  "三元一次方程组", 
+  "不列方程不是可以列表吗\n计算的话如下\n1.50元和100元一样多，可以看做一个整体，是150元\n题目就变成了若干张20元+若干张150元=7900，鸡兔同笼问题罢了。\n2.题目模式和1题一样，解法一样。\n请不要问我详细过程，鸡兔同笼的列式计算法百度可解。", 
+  "挨个试", 
+  "这是小学题吧\n教楼主一个很简单的方法，我写好再发剩下的\n话说用方程更直观，不能方程为什么有这种要求。。。", 
+  "假设3种钱都缩水20\n这样总共缩水20*120=2400元，7900还剩5500元，同时20元已经没了，只剩50和100的(缩水成30和70)\n剩下的5500就都是30和70的了\n于是5500/(30+70)=55张\n所以就是55张100和50的\n120-55*2=10张20的", 
+  "不知道", 
+  "四年级鸡兔同笼问题\n用 假设法", 
+  "7900-120×20=5500元\n5500÷（30+80）=50张\n50元的和100元的各有50张。\n20元的有 : 120-50×2=20张", 
+  "13元=130角\n130-60×1=70角\n70÷（1+4）=14枚\n2角的和5角的各有14枚\n那么一角的有60-14×2=32枚", 
+  "@小灰灰"
+]
+{
+  "content": "行程二　游牧部落金帐汗　一代天骄称雄宝地", 
+  "url": "http://tieba.baidu.com/p/4612108825?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "数学", 
+  "imgPath": "/data/lumppic/48540923dd54564e8ad95852b1de9c82d1584f18.jpg"
+}
+[
+  "在线等、不列方程式怎么解", 
+  "有大神在不", 
+  "三元一次方程组", 
+  "不列方程不是可以列表吗\n计算的话如下\n1.50元和100元一样多，可以看做一个整体，是150元\n题目就变成了若干张20元+若干张150元=7900，鸡兔同笼问题罢了。\n2.题目模式和1题一样，解法一样。\n请不要问我详细过程，鸡兔同笼的列式计算法百度可解。", 
+  "挨个试", 
+  "这是小学题吧\n教楼主一个很简单的方法，我写好再发剩下的\n话说用方程更直观，不能方程为什么有这种要求。。。", 
+  "假设3种钱都缩水20\n这样总共缩水20*120=2400元，7900还剩5500元，同时20元已经没了，只剩50和100的(缩水成30和70)\n剩下的5500就都是30和70的了\n于是5500/(30+70)=55张\n所以就是55张100和50的\n120-55*2=10张20的", 
+  "不知道", 
+  "四年级鸡兔同笼问题\n用 假设法", 
+  "7900-120×20=5500元\n5500÷（30+80）=50张\n50元的和100元的各有50张。\n20元的有 : 120-50×2=20张", 
+  "13元=130角\n130-60×1=70角\n70÷（1+4）=14枚\n2角的和5角的各有14枚\n那么一角的有60-14×2=32枚", 
+  "@小灰灰", 
+  "行程二　游牧部落金帐汗　一代天骄称雄宝地"
+]
+Max Floor18
+Target Floor15
+find target floor
+[
+  "想送女友一本书，书友可以推荐一些好书吗？", 
+  "书的内容不要过于悲伤，污人请绕行", 
+  "女性爱看的小说", 
+  "干爹真好，给我买了好多包", 
+  "我晓得送什么了。送一本《雪国》吧", 
+  "送书，如同送衣服，别人怎么知道她“穿着”是否合适呢？", 
+  "你的女友你都不了解？", 
+  "投其所好吧", 
+  "看她喜欢哪种类型的", 
+  "简爱", 
+  "飘", 
+  "有老多人都说 解忧杂货店 好看 但我没看过", 
+  "挪威的森林", 
+  "送书要不理解对方的喜好，要不就是送自己喜欢的推荐给对方，希望和对方一起分享讨论…问完全不认识的外人有些莫名", 
+  "摆渡人啊", 
+  "泰戈尔诗集", 
+  "源氏物语。"
+]
+{
+  "content": "新华社照片，路透，2006年5月7日 （体育）（3）足球――拜仁第二十次荣获德甲冠军 5月6日，拜仁慕尼黑队守门员卡恩庆祝胜利。当日，在德甲联赛中，拜仁慕尼黑队客场以1比1战平凯泽斯劳滕队，提前一轮夺得联赛冠军，这也是他们历史上第20次夺得联赛冠军。 新华社/路透", 
+  "url": "http://tieba.baidu.com/p/4611680372?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "读书", 
+  "imgPath": "/data/lumppic/d000baa1cd11728b180adc5ccafcc3cec3fd2cac.jpg"
+}
+[
+  "想送女友一本书，书友可以推荐一些好书吗？", 
+  "书的内容不要过于悲伤，污人请绕行", 
+  "女性爱看的小说", 
+  "干爹真好，给我买了好多包", 
+  "我晓得送什么了。送一本《雪国》吧", 
+  "送书，如同送衣服，别人怎么知道她“穿着”是否合适呢？", 
+  "你的女友你都不了解？", 
+  "投其所好吧", 
+  "看她喜欢哪种类型的", 
+  "简爱", 
+  "飘", 
+  "有老多人都说 解忧杂货店 好看 但我没看过", 
+  "挪威的森林", 
+  "送书要不理解对方的喜好，要不就是送自己喜欢的推荐给对方，希望和对方一起分享讨论…问完全不认识的外人有些莫名", 
+  "摆渡人啊", 
+  "泰戈尔诗集", 
+  "源氏物语。"
+]
+Max Floor18
+Target Floor2
+find target floor
+[
+  "求助—有没有这样一本书", 
+  "介绍手机电脑汽车等家庭常用品的常识性的知识，如工作原理，功能构造等科普，来大神推荐，谢谢了", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "说明书", 
+  "额", 
+  "又想要了，哪个猛男能满足我", 
+  "教科书", 
+  "先献上英国微小说的一句话纵身一跃，然后我改变了我的想法"
+]
+{
+  "content": "法国FELIN系统中安装在头盔上的摄像机 [资料]", 
+  "url": "http://tieba.baidu.com/p/4611248195?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "读书", 
+  "imgPath": "/data/lumppic/6d81800a19d8bc3eca4503c1808ba61ea8d3456f.jpg"
+}
+2016-06-15 19:03:23http%3A%2f%2ftieba.baidu.com%2fp%2f4611248195%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 304, in <module>
+    floorContent()
+  File "open.py", line 133, in floorContent
+    postContent = p.find_element_by_class_name('content').text
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 265, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 477, in find_element
+    {"using": by, "value": value})['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 457, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

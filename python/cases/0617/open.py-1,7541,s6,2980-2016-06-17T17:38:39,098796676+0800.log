@@ -1,0 +1,827 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": "tieba.baidu.com", "name": "PMS_JT", "expires": "\\u5468\\u4e94, 17 6\\u6708 2016 09:29:12 GMT", "value": "%28%7B%22s%22%3A1466155737890%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29", "expiry": 1466155752, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "TIEBAUID", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "612da2f2d87f940205375d2a", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:28:52 GMT", "value": "ea426db003a064f05f8ea877e93b8722a7f269d6087fd0100beb5c3eabd6715d", "expiry": 1725355732, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:28:52 GMT", "value": "3c72c192fc65ace2e128ac53d4370021", "expiry": 1725355732, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:28:52 GMT", "value": "7cbafc5828572a928bdd18ccf4c53e271836ca", "expiry": 1725355732, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:28:52 GMT", "value": "3pDQXVMRHpKcWNXTy1SQ3pDQ0FFTG5CYzlZalRMMGFyZ1YyfmtKdVRFM1RUNHRYQVFBQUFBJCQAAAAAAAAAAAEAAABslJ5A1sfVz9Ch0NzDqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPCY1fTwmNXQ", "expiry": 1725355732, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:28:52 GMT", "value": "fi_PncwhpxZ%7ETaJc6y-mclUTu2Os57j%7EIIE2xJHqjabPsvvaQ0Ghqi25YyfJS2TeYCXcO3ZmbL9KW3l0vE%7EjZ7Vhp55ezxn2IWeJkZADnWjnizNJbqsYPTwR-cD4iTUi7KnZmja0ClodyJnRzJpWq6%7EupnaxA__", "expiry": 1725355732, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:28:52 GMT", "value": "6a0f816685d63a8737544651cbaf45543b4b0049cf6e8c075b8793a113ca828b8539bfdd4813", "expiry": 1725355732, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e8c, 03 9\\u6708 2024 09:28:52 GMT", "value": "wapp_1466155664107_941", "expiry": 1725355732, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u516d, 18 6\\u6708 2016 09:28:17 GMT", "value": "1", "expiry": 1466242097, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u516d, 18 6\\u6708 2016 09:28:01 GMT", "value": "1", "expiry": 1466242081, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e00, 12 6\\u6708 2017 09:28:01 GMT", "value": "568", "expiry": 1497259681, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e00, 12 6\\u6708 2017 09:28:01 GMT", "value": "320", "expiry": 1497259681, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u516d, 17 6\\u6708 2017 09:27:45 GMT", "value": "F05417ACA99F564F3E9CD60127DBB2F4:FG=1", "expiry": 1497691665, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 10 6\\u6708 2046 09:27:44 GMT", "value": "wapp_1466155664107_941", "expiry": 2412235664, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "4f2f8148b903cfd71ea64aef", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:智障小熊猫
+Max Floor25
+Target Floor14
+find target floor
+[
+  "【讨论】请问大家买电脑是去实体还是网店买的……", 
+  "网店，实体比较坑，网店是趋势，从成本角度来说实体不可能做到网店的价格", 
+  "实体店拿的货", 
+  "找小强不错的！\n已加好友求通过！搜店铺神舟小强", 
+  "大副这儿呀，你预算多少呢？，我的X宝店铺名：海之蓝数码港", 
+  "个人看好京东", 
+  "京东这快递4天没到"
+]
+{
+  "content": "重庆大学", 
+  "url": "http://tieba.baidu.com/p/4616182769?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "神舟笔记本", 
+  "imgPath": "/data/lumppic/21a4462309f79052514900210ef3d7ca7bcbd55f.jpg"
+}
+[
+  ""
+]
+Max Floor25
+Target Floor11
+find target floor
+[
+  "【求助】怎么开启独显。。", 
+  "跑分啊跑分", 
+  "刚上船的小白"
+]
+{
+  "content": "◆招聘花样层出不穷", 
+  "url": "http://tieba.baidu.com/p/4616316417?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "神舟笔记本", 
+  "imgPath": "/data/lumppic/14ce36d3d539b600b226ebb6eb50352ac75cb7c3.jpg"
+}
+[
+  ""
+]
+Max Floor3
+Target Floor3
+find target floor
+[
+  "做了一个小巧的鼻子。效果自己是很喜欢的呢，大家觉得呢"
+]
+{
+  "content": "“猎人”(Hunter)无人机", 
+  "url": "http://tieba.baidu.com/p/4616215857?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "整容", 
+  "imgPath": "/data/lumppic/500fd9f9d72a605947c4381a2a34349b023bbade.jpg"
+}
+[
+  ""
+]
+Max Floor28
+Target Floor7
+find target floor
+[
+  "iPad Pro官网购买", 
+  "iPad Pro官网上面是不是现在送beats耳机？有什么购物要求没有？", 
+  "在线等", 
+  "买教育版", 
+  "教育优惠，有可能会需要你提交学生信息", 
+  "同想问", 
+  "处伙伴，只要10J以上的想约可加!么么哒!"
+]
+{
+  "content": "MicrosoftInternetExplorer4", 
+  "url": "http://tieba.baidu.com/p/4615453997?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "ipad", 
+  "imgPath": "/data/lumppic/b64543a98226cffc30cf5ab3bb014a90f703eace.jpg"
+}
+[
+  ""
+]
+Max Floor28
+Target Floor26
+find target floor
+[
+  "学生党出ipad mini3一台自用的", 
+  "正品专卖店买的 mini3，64G，wifi版的，银色，耳机充电器都能保证好好的，打算2100左右出，送一个品牌的保护套（ipearl的，算是很好的，买的时候三百九十多），保护套洗过两次了。想要的话原装盒子也能给你，mini3是去年高考完两个多月买的，用了十个月不到，自己用的，很爱惜的，有意者联系。看图（没有用任何滤镜）谢谢", 
+  "平均每1.1秒就有一人选择OPPO R9系列 ，OPPO R9 雪岩灰 6.18震撼上市。", 
+  "怎么联系你啊？", 
+  "有点小贵 同级的能便宜一点嘛"
+]
+{
+  "content": "相关新闻：", 
+  "url": "http://tieba.baidu.com/p/4616165403?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "ipad", 
+  "imgPath": "/data/lumppic/242dd42a2834349b40be548bcbea15ce36d3be07.jpg"
+}
+[
+  ""
+]
+Max Floor28
+Target Floor16
+find target floor
+[
+  "求助iPad磕了一个角可以保修吗？", 
+  "昨天被朋友不小心摔了，如图所示，钢化膜裂了，保护套坏了，重要的是角磕了，国行，还在保修期，可以保修吗？", 
+  "自己顶顶", 
+  "有人吗？？？", 
+  "想太多", 
+  "找你朋友陪", 
+  "保修，，给钱"
+]
+{
+  "content": "“以前出去买衣服，看到一些时尚的吊带衫常会心痒痒的，但当了老师后就有了‘职业本能’，很自然地就会‘跳’过这些衣服。”上师大法政学院青年女教师吴文艳表示。最近学校推出的“绿叶行动”其实并未引起轩然大波，因为传统教师的职业形象早已深入每位教师心中，“得体”和“端庄”作为教师的着装标准，一直以来都未随着时代的变迁而改变。", 
+  "url": "http://tieba.baidu.com/p/4616189840?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "ipad", 
+  "imgPath": "/data/lumppic/50da81cb39dbb6fd9997de280b24ab18962b37eb.jpg"
+}
+[
+  ""
+]
+Max Floor4
+Target Floor2
+find target floor
+[
+  "［老板：来包七块五的红塔山］", 
+  "我抽过很多烟\n雪莲 兰州 红河 万宝路 玉溪等等\n可我却只爱七块五的红塔山\n没有原因\n我也爱喝酒可却不会喝多\n喝到量就停\n我也爱民谣\n不爱马頔的南山南\n不爱宋冬野的董小姐\n只爱李志的和你在一起\n这首歌是我第一次也是唯一一次听到流泪的歌", 
+  "@GuoSen丶", 
+  "我很喜欢一句话\n你很迷人可我得回家\n我遇见过很多美丽的人\n却总是在她们身上发现你的身影\n原来你是家\n离开家的人怎样都不会幸福"
+]
+{
+  "content": "the whole ～ 四邻", 
+  "url": "http://tieba.baidu.com/p/4616337671?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "短句", 
+  "imgPath": "/data/lumppic/94cad1c8a786c9176490f979cb3d70cf3ac757da.jpg"
+}
+[
+  ""
+]
+Max Floor4
+Target Floor3
+find target floor
+[
+  "好用不贵的逆袭产品"
+]
+{
+  "content": "总经理听了，不急不慢地说：“她在你们几个人当中是不算最优秀的，而且她面试时也不如你们准备的充分，比如你们穿了时髦的服装，掌握了娴熟的面试技巧。这些她都没有。但她比你们做得更加务实，她能在没来公司前，便对公司的产品作全面的市场调查和分析，并提出了产品改进的良好建议。这样的人，我们不录用，还能录用谁呢？”", 
+  "url": "http://tieba.baidu.com/p/4616350662?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "短句", 
+  "imgPath": "/data/lumppic/e850352ac65c10380d24fa19b0119313b17e8996.jpg"
+}
+[
+  ""
+]
+Max Floor4
+Target Floor4
+find target floor
+[
+  "[杂: 丑人多作怪]", 
+  "一些自己喜欢的句子\n嗯大多都是拿的", 
+  "我在未来等你", 
+  "本来想好好更贴一楼一句话一张文艺小清新图，结果只有表情包", 
+  "遥遥长路只剩你和我", 
+  "是我死要面子又倔的可以", 
+  "纵使百般唾弃，你还是你", 
+  "别忘了长寿不朽的代价是百年孤独", 
+  "去拥抱你想要拥抱的人吧，就算明天地球毁灭宇宙爆炸", 
+  "哦不上张忘了表情包", 
+  "地动山摇，兵荒马乱，你突然出现", 
+  "我喜欢的是你不喜欢我", 
+  "猫啃起了骨头，狗喜欢上海鱼的香气，我开始对你感兴趣", 
+  "酸涩皱眉与你共苦也不会太差", 
+  "情话没有舌吻帅", 
+  "一起变老然后死掉", 
+  "孤独又自由", 
+  "我与世界只差一个你", 
+  "好听的话别记太久", 
+  "好听的话别记太久"
+]
+{
+  "content": "nbsp;nbsp;nbsp; 价格：20.3欧元、24.6欧元，28.4欧元", 
+  "url": "http://tieba.baidu.com/p/4616305521?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "短句", 
+  "imgPath": "/data/lumppic/4bed2e738bd4b31ca2df4abb85d6277f9f2ff8cb.jpg"
+}
+[
+  ""
+]
+Max Floor4
+Target Floor3
+find target floor
+[
+  "［老板：来包七块五的红塔山］", 
+  "我抽过很多烟\n雪莲 兰州 红河 万宝路 玉溪等等\n可我却只爱七块五的红塔山\n没有原因\n我也爱喝酒可却不会喝多\n喝到量就停\n我也爱民谣\n不爱马頔的南山南\n不爱宋冬野的董小姐\n只爱李志的和你在一起\n这首歌是我第一次也是唯一一次听到流泪的歌", 
+  "@GuoSen丶", 
+  "我很喜欢一句话\n你很迷人可我得回家\n我遇见过很多美丽的人\n却总是在她们身上发现你的身影\n原来你是家\n离开家的人怎样都不会幸福", 
+  "作出决定后，一种深深的负罪感强烈地击中了我正直的心灵，一瞬间我泪流满面心如刀绞，意识到在以后的漫漫人生旅途中，我将因为这次不光彩的顶帖而经历长期的灵魂挣扎、精神痛苦乃至于心理煎熬，我不禁对着显示屏怒吼：“楼主你个混球，以后少发这种烂帖！！！"
+]
+{
+  "content": "一、听力中的语音问题", 
+  "url": "http://tieba.baidu.com/p/4616337671?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "短句", 
+  "imgPath": "/data/lumppic/bf096b63f6246b605a2f7779e9f81a4c510fa29e.jpg"
+}
+[
+  ""
+]
+Max Floor4
+Target Floor2
+find target floor
+[
+  "[杂: 丑人多作怪]", 
+  "一些自己喜欢的句子\n嗯大多都是拿的", 
+  "我在未来等你", 
+  "本来想好好更贴一楼一句话一张文艺小清新图，结果只有表情包", 
+  "遥遥长路只剩你和我", 
+  "是我死要面子又倔的可以", 
+  "纵使百般唾弃，你还是你", 
+  "别忘了长寿不朽的代价是百年孤独", 
+  "去拥抱你想要拥抱的人吧，就算明天地球毁灭宇宙爆炸", 
+  "哦不上张忘了表情包", 
+  "地动山摇，兵荒马乱，你突然出现", 
+  "我喜欢的是你不喜欢我", 
+  "猫啃起了骨头，狗喜欢上海鱼的香气，我开始对你感兴趣", 
+  "酸涩皱眉与你共苦也不会太差", 
+  "情话没有舌吻帅", 
+  "一起变老然后死掉", 
+  "孤独又自由", 
+  "我与世界只差一个你", 
+  "好听的话别记太久", 
+  "好听的话别记太久", 
+  "想和你种草莓儿"
+]
+{
+  "content": "王新俊指出，“美方经常在美中军事交流中采取这种显示威慑的做法。前往美国参加中美军事交流的有关人士回国后都表示，美军在交流中往往要显示美国军事上的强大，让对方知道它的战斗力、知道两军的差距，试图以此达到威慑目的。而且美军在交流中比较热中于向中方的军官灌输所谓民主自由思想，开展‘心战’。”", 
+  "url": "http://tieba.baidu.com/p/4616305521?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "短句", 
+  "imgPath": "/data/lumppic/a8ec8a13632762d0cbda7fbfa2ec08fa503dc6ce.jpg"
+}
+[
+  ""
+]
+Max Floor6
+Target Floor3
+find target floor
+[
+  "[你：送给现在矮胖丑的你]", 
+  "去做自己想成为的那个人"
+]
+{
+  "content": "老实说，我的厌职情绪源自我周围的各种压力。首先是我的父母，他们希望我像吴仪一样的优秀，这对于一个普通的女孩子来说有点困难。当然每个父母的都希望自己的孩子有出息，所以父母这种心情我可以理解；还有，在我这个行业里，竞争非常激烈，眼看周围的同事都变成“金凤凰”了，我的心里很是焦急，我非常喜欢主持人的职业，可现在的境况远远不是我所要的，在巨大的压力下，我甚至产生了很幼稚的想法——逃跑，不做了或者干脆嫁人算了。不过正是这种厌职情绪，同时对我是一种动力，现在我在读研究生，争取自己可以做得更好。　　[延伸阅读]金融精算师作为一种新兴职业跃居身价最高的职业之一。但是，在我国，精算学尚处于启蒙阶段，据预测，我国未来十年急需5,000名精算人才。作为保险企业、金融服务机构等部门的财经设计师和管理人员，不仅要具备金融专业知识，而且还要有预测未来发展方向的能力，是集数学、统计学、经济学、法律、计算机、投资学及金融和保险于一身的高级人才　　》》年薪10-40万职业大搜索　　　　厌职者的八大厌职理由", 
+  "url": "http://tieba.baidu.com/p/4616355822?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "短句", 
+  "imgPath": "/data/lumppic/6d81800a19d8bc3ede9c0fc9808ba61ea8d34518.jpg"
+}
+[
+  ""
+]
+Max Floor25
+Target Floor11
+find target floor
+[
+  "【活动】致高三", 
+  "曾经的高三，曾经小写一首诗，曾经的你", 
+  "整个中学阶段，最令人难忘的恐怕就是高三那段时光啦。"
+]
+{
+  "content": "病症四：头痛，失眠", 
+  "url": "http://tieba.baidu.com/p/4616046823?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "文学", 
+  "imgPath": "/data/lumppic/500fd9f9d72a605961bdde762a34349b033bba28.jpg"
+}
+[
+  ""
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:智障小熊猫
+Max Floor24
+Target Floor21
+find target floor
+[
+  "自用YY 330333332", 
+  "诚心出售有意私聊"
+]
+{
+  "content": "同时，此次调查还对“记者更需要社会哪方面的支持？”进行了统计，结果投票选择法律支持保护的比例高达59.5%，其次是社会民众的关心，比例也达到35.7%。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　编辑：杨琳 共找到539", 
+  "url": "http://tieba.baidu.com/p/4616319248?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "yy", 
+  "imgPath": "/data/lumppic/0824ab18972bd407db3817f479899e510fb30938.jpg"
+}
+[
+  ""
+]
+Max Floor19
+Target Floor16
+find target floor
+[
+  "【图图】[16.06.17]我相信你，因为你是你……", 
+  "高一的时候认识你的，现在大学快毕业了，从来只签到，第一次发帖，我整个人都很难受，我不能看到你受委屈，别人都说第三起了有可能是真的，她们作为路人有发表意见的权利，我不和她们解释，我信你因为你是你~"
+]
+{
+  "content": "《绝对挑战——巅峰营销》大型系列节目将于5月21日起，在CCTV-2每周日18：30播出。最后一场电视人才招聘将在7月中旬面向全国观众现场直播。", 
+  "url": "http://tieba.baidu.com/p/4616270084?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "micky有天", 
+  "imgPath": "/data/lumppic/ac6eddc451da81cbc6e26eb35066d0160924314c.jpg"
+}
+[
+  ""
+]
+Max Floor36
+Target Floor32
+find target floor
+[
+  "来来来收人了"
+]
+{
+  "content": "3", 
+  "url": "http://tieba.baidu.com/p/4604683329?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "学生代理", 
+  "imgPath": "/data/lumppic/377adab44aed2e7324ecec2c8501a18b87d6faad.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor16
+find target floor
+[
+  "美美小虎牙", 
+  "二楼！！", 
+  "牛逼", 
+  "漂亮", 
+  "4 性价比大小金刚 靠谱实体 +v-chat：ｗｏｓｆｗｘ", 
+  "平均每1.1秒就有一人选择OPPO R9系列 ，OPPO R9 雪岩灰 6.18震撼上市。", 
+  "好丰盈啊", 
+  "漂亮", 
+  "美哭了", 
+  "还有个如意两眼，双线的哦", 
+  "漂亮，短个价\n作为吧里的新人小白，面对如此多的大珈，不敢大声说话，不敢随便评论，只能默默的顶帖，拿经验走人！", 
+  "胖到差點變達落了", 
+  "不孬", 
+  "漂亮的黑金", 
+  "美", 
+  "搜嘎！"
+]
+{
+  "content": "中美冲突不是必然结果", 
+  "url": "http://tieba.baidu.com/p/4613835377?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "天珠", 
+  "imgPath": "/data/lumppic/c2cec3fdfc0392454ce0e5048594a4c27d1e2567.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor1
+find target floor
+[
+  "作品", 
+  "半夜硬是睡不着贡献了 Vxin: ddpa521 感觉不错的顶一个！(猩蜕纫)", 
+  "真心好", 
+  "好贴，必须顶", 
+  "被约,第三次了", 
+  "楼主老司机，哈哈哈", 
+  "真溜，楼主", 
+  "跟定楼主了，妞X", 
+  "楼主好人", 
+  "抓紧时间看，真心好", 
+  "老司机，牛", 
+  "平均每1.1秒就有一人选择OPPO R9系列 ，OPPO R9 雪岩灰 6.18震撼上市。", 
+  "楼主继续，哈哈哈", 
+  "老司机，我操，牛逼", 
+  "感谢露珠", 
+  "不愧是老司机，哈哈哈", 
+  "牛逼，好", 
+  "我顶，丁丁iding", 
+  "楼主威武，我去看了", 
+  "全露啊，我擦，好贴"
+]
+{
+  "content": "nbspnbspnbspnbsp4、审议通过了《公司二○○五年度财务决算报告》；", 
+  "url": "http://tieba.baidu.com/p/4615814231?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "天珠", 
+  "imgPath": "/data/lumppic/29381f30e924b8990d1a392a6d061d950a7bf6fa.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor28
+find target floor
+[
+  "请大家看看这枚天珠怎么样", 
+  "新的，也没有这种图腾，没什么价值", 
+  "c纹的哈哈哈哈哈哈哈哈", 
+  "6 性价比大小金刚 靠谱实体 +v-chat：ｗｏｓｆｗｘ", 
+  "平均每1.1秒就有一人选择OPPO R9系列 ，OPPO R9 雪岩灰 6.18震撼上市。", 
+  "C紋 看天珠二十年還碰不到一顆還無法上手呢\n你貼的圖騰是亂畫的 造假的人不用心亂畫\n真的天珠如果這圖騰是單一品就是世間只一顆\n這種通常都是有來歷的 不是豪族就是貴族收藏\n我看過的一顆佛眼一眼眼中眼就傳說是尼泊爾公主讓出來的\n樓主運氣這麼高就隨便遇到了C紋還低價撿漏了\n這顆是極低仿的一眼假造假品", 
+  "低仿", 
+  "不怎么样\n作为吧里的新人小白，面对如此多的大珈，不敢大声说话，不敢随便评论，只能默默的顶帖，拿经验走人！", 
+  "一眼假", 
+  "多看精品贴学啊。大家都是这样过来的。赚钱不容易，别花了大价钱入了淘宝爆款。是吧！不然即便告诉你。皮革、包浆、光气、风化、咬色等不对，你也听不懂的。", 
+  "這珠子一眼假⋯⋯不過我確實有兩個天珠C字眼的", 
+  "这颗天珠是我的一个朋友的，北京的两个专业人士和拍卖公司一个人已经来和我的朋友谈过四次啦，价格已经出到两百万啦！不知道吧友们有何见解呢？难道北京的这两位老兄也是想买个假的玩吗？", 
+  "假的太不专业了 造假也要讲究手法好么…… 买仿珠也要买精仿 弟弟就有比你这强十倍价低"
+]
+{
+  "content": "拓跋诩已经三岁了，宣武帝册立他为皇储，不但没有遵照旧制将他的生母胡承华赐死，反而晋封胡承华为贵嫔，高皇后大为愤惠，多亏朝中大臣刘腾、于忠、崔光等从中相助，才保障了胡承华的生命安全。", 
+  "url": "http://tieba.baidu.com/p/4615507394?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "天珠", 
+  "imgPath": "/data/lumppic/6f061d950a7b02083a8dd59660d9f2d3572cc805.jpg"
+}
+[
+  ""
+]
+Max Floor37
+Target Floor2
+find target floor
+[
+  "对眼两眼", 
+  "入门级，回血！", 
+  "尺寸1.6*1.1", 
+  "开门"
+]
+{
+  "content": "北京军区副司令员陈希滔中将等参加了会谈。　　中新网2月22日电 据新华网报道，“中日执政党交流机制”第一次会议21日和22日在北京举行。双方代表约30人在严肃、坦诚的气氛中就中日关系现状、面临的重大问题及前景展望，中日经贸合作和两国外交、国防政策等进行了深入交流。中国全国人大外事委员会副主任委员王英凡在会上做了专题发言。", 
+  "url": "http://tieba.baidu.com/p/4616250106?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "天珠", 
+  "imgPath": "/data/lumppic/f3d3572c11dfa9ecd0f8ae6060d0f703908fc1f7.jpg"
+}
+[
+  ""
+]
+Max Floor15
+Target Floor5
+find target floor
+[
+  "我有点看不懂", 
+  "我刚领取的，永久空间是多少", 
+  "十个手指头都掰不清楚"
+]
+{
+  "content": "（摘自《一会儿就回来》，杨二车娜姆著，北京十月文艺出版社2004年8月出版）搜狗(www.sogou.com)搜索:“杨二车娜姆”,共找到", 
+  "url": "http://tieba.baidu.com/p/4616359471?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "80后", 
+  "imgPath": "/data/lumppic/1e30e924b899a90150eb913b1f950a7b0308f5e5.jpg"
+}
+[
+  ""
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:智障小熊猫
+Max Floor6
+Target Floor6
+find target floor
+[
+  "【进口保健品哪个效果最好？】", 
+  "看过一些进口保健品，现在市面上也挺多的，不知道哪个效果最好？知道的人指点我一下吧！V：andy95271", 
+  "下次给点优惠哦。", 
+  "我今天毫不犹豫的买了2周期，期待能达到朋友的那种效果！期待期待期待！ 。", 
+  "上次吃了挺有效果了。", 
+  "一次不错的网购。", 
+  "没有失望的。", 
+  "这次特地买了套餐试试。", 
+  "盼望着我效果！！。"
+]
+{
+  "content": "TNT 专业欠缺遭婉拒", 
+  "url": "http://tieba.baidu.com/p/4556874737?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "血钻野燕麦", 
+  "imgPath": "/data/lumppic/a8014c086e061d95885e9e3179f40ad162d9ca9b.jpg"
+}
+[
+  ""
+]
+Max Floor31
+Target Floor28
+find target floor
+[
+  "来来来", 
+  "有qun 直接来", 
+  "姑", 
+  "啦", 
+  "？？？？？", 
+  "免费资源账号只为没资源提供", 
+  "群呢", 
+  "拉", 
+  "拉", 
+  "啦啦啦", 
+  "啦", 
+  "！", 
+  "拉", 
+  "！", 
+  "啦", 
+  "拉", 
+  "l", 
+  "拉", 
+  "拉", 
+  "拉", 
+  "啦"
+]
+{
+  "content": "新快报讯　尚未从润明水凝护理液事件中脱身的博士伦，再次陷入了质量风波。博士伦公司近日表示，已经确认在欧洲的润明隐形眼镜护理液用户中发现少量镰刀霉角膜炎病例。这是博士伦首次承认在欧洲用户中发现了镰刀霉角膜炎病例。", 
+  "url": "http://tieba.baidu.com/p/4185811703?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "百度网盘", 
+  "imgPath": "/data/lumppic/aa18972bd40735fafe7eb3d49c510fb30e2408d4.jpg"
+}
+[
+  ""
+]
+Max Floor12
+Target Floor7
+find target floor
+[
+  "从厚街万达怎么搭地铁到东城妇幼保健院", 
+  "跪求解答T_T"
+]
+{
+  "content": "encapsulation ppp", 
+  "url": "http://tieba.baidu.com/p/4616362855?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "北京", 
+  "imgPath": "/data/lumppic/9c16fdfaaf51f3de8662d10796eef01f3b297984.jpg"
+}
+[
+  ""
+]
+Max Floor12
+Target Floor8
+find target floor
+[
+  "《三人行》北京首映VIP门票一张，谁想去？", 
+  "我有一张《三人行》首映的VIP门票，小哇确定会来，谁想去？报名", 
+  "顶", 
+  "我给,口要么..", 
+  "好想被人丫丫丫", 
+  "软妹子，约你。", 
+  "我要", 
+  "超级想见钟汉良求票#钟汉良#德艺双馨，令人钦佩！期待钟汉良的精彩演绎！", 
+  "想去的戳这个链接→http://weibo.com/5603093113/DAEWKkYfs?ref=home&amp;type=comment#_rnd1466146699781 参与活动就有机会哦"
+]
+{
+  "content": "0.15%", 
+  "url": "http://tieba.baidu.com/p/4616149202?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "钟汉良", 
+  "imgPath": "/data/lumppic/5bafa40f4bfbfbed55d7f0727af0f736afc31f35.jpg"
+}
+[
+  ""
+]
+Max Floor17
+Target Floor7
+find target floor
+[
+  "【皮带】强悍品质，支持验货（十年复刻）", 
+  "联系我们：3205883267（马丁）", 
+  "[语音]\n镁纸听到支持，很哈皮呢", 
+  "我要你,大JJ.", 
+  "下次再来过"
+]
+{
+  "content": "三看拿高薪的条件。高薪往往与高门槛挂钩，有的单位以不可能实现的目标作为高薪前提，一旦达不到目标，自然就拿不到这份高薪。因此要防对方“画饼充饥”。我的美元薪水贬值了　　　　四要仔细审视自己。对自己做出客观评价，看自己是否真值这个价钱。倘若信心不足，最好还是先及时充电，再重拳出击。", 
+  "url": "http://tieba.baidu.com/p/4611365202?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "鸡尾酒", 
+  "imgPath": "/data/lumppic/b8014a90f603738d2d7cb9bcb11bb051f819ec7e.jpg"
+}
+[
+  ""
+]
+Max Floor17
+Target Floor7
+find target floor
+[
+  "【皮带】强悍品质，支持验货（十年复刻）", 
+  "联系我们：3205883267（马丁）", 
+  "[语音]\n镁纸听到支持，很哈皮呢", 
+  "我要你,大JJ.", 
+  "下次再来过"
+]
+{
+  "content": "此次事件的“主角”———RMAXL181型无人直升机是日本雅马哈发动机公司的产品。该公司无人直升机业务始于上世纪80年代，共有4种机型，其中3种是手动操控型。目前，它所制造的无人机主要用于农业和科研。", 
+  "url": "http://tieba.baidu.com/p/4611365202?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "鸡尾酒", 
+  "imgPath": "/data/lumppic/8b13632762d0f703e4c416700afa513d2697c52c.jpg"
+}
+[
+  ""
+]
+Max Floor17
+Target Floor11
+find target floor
+[
+  "戒酒和戒赌那个难。。。"
+]
+{
+  "content": "二零零三年六月左右，当时的台湾“军事情报局局长”薛石民(现任“国安局长”)带着“军情局”通电处处长朱国伟、通电处高焕陆组长及聘员吴佑公，由韩国首尔转机飞到蒙古，在当地台、美、蒙的情治高层共同合作架设对中国大陆的监听站，台湾这批通讯电子专家在蒙古待了三周左右，才又从韩国转机返台，从二零零三年迄今，台“军情局”通电处都会定期轮派人员到蒙古截听站监听。", 
+  "url": "http://tieba.baidu.com/p/4590112591?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "鸡尾酒", 
+  "imgPath": "/data/lumppic/9c16fdfaaf51f3de215176e096eef01f3b297957.jpg"
+}
+[
+  ""
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:智障小熊猫
+Max Floor11
+Target Floor2
+find target floor
+[
+  "家里的护肤品和面模都用完了，这", 
+  "家里的护肤品和面模都用完了，这次想换几套，关键是要补水好的，这季节皮肤太干了，谁有好的推荐我下我v：lc12915"
+]
+{
+  "content": "小孩：各个器官发育处于成熟过程，如果我们不慎使用了一些药物可能造成非常严重的后果。非常明确的是氨基糖苷类的药物小儿使用可以引起耳神经的损害，导致耳聋和聋哑状态。在孕妇用药过程当中，除了考虑成人以外，还需要考虑她腹中的胎儿，避免使用对胎儿有影响的药物，这是非常值得注意的问题。", 
+  "url": "http://tieba.baidu.com/p/4616365194?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "美容护肤", 
+  "imgPath": "/data/lumppic/d01373f082025aaf861387bcf9edab64034f1aa7.jpg"
+}
+[
+  ""
+]
+Max Floor9
+Target Floor7
+find target floor
+[
+  "Tao'sTime<160614外交>容和吧邀您共庆622生日", 
+  "★━━━━━━ • 百度郑容和(龙华)吧全体mafan邀您共庆• ━━━━━━ ★\n★━━━━━━━ • 2016年6月22日郑容和28岁生日 • ━━━━━━━ ★", 
+  "★★★★★★★★★★★★★★★★★★★★★★★★★\n流光璀璨，岁月风华，多动人明媚\n不及你温柔笑颜令人沉醉\n沿途风景，绿树春风，踏千山万水\n只想停留你身边日夜徘徊\n又是一年盛夏 自从我们遇见他\n每一年的这一日 都赋予了我们非凡的意义\n★★★★★★★★★★★★★★★★★★★★★★★★★\n怀揣着对梦想最初的追求在舞台上挥洒汗水，\n怀抱着对音乐最纯的热爱在工作室笔耕不辍，\n他从来没有忘记过自己的初心，\n于是，爱上了他的音乐，邂逅了最初的郑容和。\n始终如新人一般放低姿态对所有人彬彬有礼，\n永远乐于挑战不同的角色对所有事认真执著，\n他从来没有停下过自己的脚步，\n于是，认识了他的角色，爱上了最好的郑容和。\n一首The Name他用才华惊艳了世人的耳朵为之折服，\n一首Marry U他以新的身份收获了更多的鲜花掌声，\n他从来没有懈怠过自己的梦想，\n于是，读懂了他的世界，爱上了最真的郑容和。\n★★★★★★★★★★★★★★★★★★★★★★★★★\n舞台上，你是散发魅力的歌者\n一只麦架，一把吉他，一束微光\n深情可动人心，摇滚充满力量\n工作中，你是认真努力的典范\n专注音乐，耐心沉淀，磨炼演技\n没有什么，比得起你给予的动力\n生活里，你是值得信赖的榜样\n孝顺谦和，温暖善良，热心公益\n这样的你，是所有mafan的正能量\n★★★★★★★★★★★★★★★★★★★★★★★★★\n时间又转过一年，\n他变得更加成熟稳重，不变的是对梦想一如既往的执着；\n二十八岁的郑容和，\n带着满身的荣耀向前，为梦想开拓出一片更广阔的天空；\n感谢时光，\n让我们在最美的时光里遇见了最好的郑容和。\n★★★★★★★★★★★★★★★★★★★★★★★★★", 
+  "★━━━━━━━━━━━━━━━━━━━━━━━━ •\n百度郑容和(龙华)吧全体mafan邀您共庆\n2016年6月22日郑容和28岁生日生日\n祝愿贵吧日后能够越发茁壮！\n祝愿贵吧明星星途璀璨！\n━━━━━━━━━━━━━━━━━━━━━━━━ •★\n*☆ 欢迎各位到百度郑容和吧做客 ☆*\n|▍百度郑容和(龙华)吧|▍直通车：http://tieba.baidu.com/f?kw=%D6%A3%C1%FA%BB%AA\n|▍百度郑容和吧官方微博|▍直通车：http://weibo.com/jeongyonghwabar", 
+  "生日快乐", 
+  "感谢贵吧的来访，祝愿贵吧一切顺利！", 
+  "外交亲故辛苦了,祝贵吧越办越好，两吧友谊长存！", 
+  "欢迎常来韬吧玩耍，也请多多关注黄子韬!!!", 
+  "感谢贵吧的来访，祝贵吧越办越好一切顺利", 
+  "外交亲辛苦了，祝两吧友谊长长久久", 
+  "欢迎常来韬吧玩耍，也请多多关注黄子韬", 
+  "生日快乐！哥哥", 
+  "祝生日快乐！", 
+  "感谢来访啊，恭祝生日快乐啊", 
+  "欢迎常来韬吧玩啊，请多关注7月8上映的夏天十九岁的肖像和安徽卫视每周六晚的我们的法则", 
+  "生日快乐", 
+  "感谢贵吧的来访以及诚邀祝福贵吧越办越好一切顺利", 
+  "祝福欧巴622生日快乐天天开心", 
+  "祝福两吧能够友谊长存欢迎常来韬吧玩", 
+  "😊"
+]
+{
+  "content": "陈啸宏表示，政府部门执法不严、监督不力，企业生产水平不高、技术设备落后等是职业卫生问题严重的原因。", 
+  "url": "http://tieba.baidu.com/p/4611061789?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "黄子韬", 
+  "imgPath": "/data/lumppic/3801213fb80e7becca1ee9962d2eb9389a506b85.jpg"
+}
+[
+  ""
+]
+Max Floor9
+Target Floor6
+find target floor
+[
+  "Tao'sTime<160609消息>十九岁官博更新韬相关", 
+  "[cp]其实面对心仪的女神，30%靠努力，10%靠信仰，剩下60%，就只能看个人天赋了，所以说什么样的天赋更能够获得女神的青睐呢？下面就由康乔宝宝为大家做示范。[嘻嘻]#0708夏天十九岁的肖像##夏天十九岁的肖像# http://t.cn/R5c9GAM[/cp]", 
+  "呦！！", 
+  "最后一点最重要", 
+  "高颜值的天赋厉害厉害\n——为了一张脸养了一身伤", 
+  "高颜值的天赋", 
+  "最后一点天赋亮了\nิۖิۣ ۣۣۖۖۖۖิۖิิۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۖ~\nۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิ ۖิิۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิ\nิۖิۣ ۣۣۖۖۖۖิۖิิۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۖ\nۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิ ۖิิۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิۖิิ ۣۣۖۖ ۖ ۣۣۖۖิ ۖิิۣۣۖۖิۣ ۣۣۖۖۖิ", 
+  "是的", 
+  "高颜值的天赋", 
+  "是的", 
+  "表白我韬总各种天赋", 
+  "我韬的优点", 
+  "我韬的所有优点", 
+  "最后一条是加分项啊，没有最后一点天赋，估计追女神很难。。。", 
+  "说的很有道理！最后一句最有道理！", 
+  "暖啊暖\n我们要做的是多转发， 多评论，多去搜索黄子韬的正能量！\n╔════════════☆百度黄子韬吧☆════════════╗\nTrust，流言蜚语抵不过一句我只相信你。\nAlways，约定好的事情，不忘初心。\nOverwhelming，从爱出发，无论尽头在哪儿，我们不曾犹豫。\n╚════════百度黄子韬吧守卫队与韬同行═════════╝\n【此小尾巴为百度黄子韬吧暖贴组专用小尾巴 请勿抱走】", 
+  "我喜欢你的幽默\n武力韬韬 功夫熊猫", 
+  "暖啊暖！\n我们要做的是多转发，多评论，多去搜索黄子韬的正能量！\n╔════════════☆百度黄子韬吧☆════════════╗\nTrust，流言蜚语抵不过一句我只相信你。\nAlways，约定好的事情，不忘初心。\nOverwhelming，从爱出发，无论尽头在哪儿，我们不曾犹豫。\n╚════════百度黄子韬吧守卫队与韬同行═════════╝\n【此小尾巴为百度黄子韬吧暖贴组专用小尾巴 请勿抱走】", 
+  "那是【傲娇脸"
+]
+{
+  "content": "2486", 
+  "url": "http://tieba.baidu.com/p/4600372009?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "黄子韬", 
+  "imgPath": "/data/lumppic/5ab5c9ea15ce36d36c68285138f33a87e950b167.jpg"
+}
+[
+  ""
+]
+Max Floor9
+Target Floor1
+find target floor
+[
+  "晚上因为室友呼噜声睡不着怎么办啊", 
+  "时辰已到 继续带你们去嗨(邀短胞) Vxin: ddpa521 刺激~！", 
+  "赶紧去看，这么牛么", 
+  "牛逼，楼主老司机", 
+  "好贴，加精", 
+  "爬山", 
+  "牛逼，好", 
+  "这个真牛比。。。。感谢", 
+  "楼主大大真心牛", 
+  "加精啊，吧主人呢", 
+  "我来了，顶", 
+  "楼主继续，哈哈哈", 
+  "我顶，丁丁iding", 
+  "楼主牛逼"
+]
+{
+  "content": "公司还涉足医用市场，生产医用人造器官。其中公司以石墨为材料制成的医用生物碳素制品有人造心脏瓣膜、人造骨关节、人造鼻骨、人工肌腱等人体植入物等。随着医学技术的发展，人造器官对延长人类寿命，提高人类健康水平起到重要的作用，具有良好的市场前景，目前公司生产的人造心脏瓣膜已植入人体超过3万例，产品质量达到国际同类产品水平，未来发展前景广阔。 二级市场上，该股目前股价仍在净资产附近，这对于一只具备资源垄断及核能题材的个股来说明显偏低。近日该股出现非理性下挫，股价超跌严重，近两个交易日该股连续放量上攻，上涨动能极为强劲，同时该股KDJ指标在底部钝化后，目前刚好在20附近形成金叉，显示出了良好的买入信号，建议投资者果断追入。作者声明：在本机构、本人所知情的范围内,本机构、本人以及财产上的利害关系人与所述文章内容没有利害关系。本版文章纯属个人观点,仅供参考,文责自负。读者据此入市,风险自担。 证券通：Ｇ 皖 通 车流量稳定增长 大股东可能注入优质资产（推荐）", 
+  "url": "http://tieba.baidu.com/p/4616163669?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "故事", 
+  "imgPath": "/data/lumppic/77094b36acaf2edddf1885e48f1001e9380193d6.jpg"
+}
+[
+  ""
+]
+Max Floor8
+Target Floor5
+find target floor
+[
+  "【故事人生】和我在一起吧", 
+  "钟陈从 我再给你一次机会", 
+  "等我回来更", 
+  "就这样", 
+  "等你", 
+  "dd", 
+  "我沈趋\n一个没能力把生活多姿多彩的人\n碌碌无为\n我忘了和所有人的相遇\n但我很感谢真的\n我一无是处\n讨厌完就留在我身边好吗\n我累了真的"
+]
+{
+  "content": "事实上，简单的奖励与惩罚是传统的管理手段，但如果领导者的管理手段仅限与此，那么其员工就只能是“不拨不动的算盘珠”，不能积极主动地发挥自己的创造力。而企业想要获得“主动员工”，领导者必须给予员工以信任与鼓励。先灵（中国）有限公司总裁白锐宁强调，在工作中，不能简单地指令员工应该怎么做，与员工一起探讨怎么做才是最好的选择。刘洪泉也表示，不要害怕员工的不同意见，要相信员工，与之充分交流，因为在碰撞中往往能产生“火花”。", 
+  "url": "http://tieba.baidu.com/p/4616327334?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "故事", 
+  "imgPath": "/data/lumppic/a6efce1b9d16fdfad0b9fde0b68f8c5495ee7be2.jpg"
+}
+[
+  ""
+]
+Max Floor22
+Target Floor2
+find target floor
+[
+  "【活动】想写青春文学类题材的小说，没经验，求指点～", 
+  "想写有些深度的青春文学类题材的小说，但是没有写过，心里却有很多想说的，跪求大神指点或带走调教", 
+  "玫瑰花在夜里格外浪漫\n背着包走在人来人往的车站\n如果心中还有一点留恋\n就不会潇洒的在情人节上车\n，\n车上的人都有自己的终点\n驶过莱特旅馆时灯光格外刺眼\n拥挤的人群都那么疲惫\n我知道再也不会遇见你\n途中还会不会再遇知己\n不过是早到终点的别离\n，\n新的远方新开始\n不知道驶往那个方向\n离家越远 心越荡 越不安\n旧的背包旧故事\n找个好地方将它埋葬\n时光越快 路越茫 越坚强\n，\n这是在外面第七个夜晚\n若不下这场雨我或许早已入眠\n离家的孩子都看起来勇敢\n就当是为无知青春多留丝纪念\n，\n房间里也总是很温暖\n听歌的你看起来也不太孤单\n就怕你突然想起了从前\n又发现你现在独自一个人\n，\n这并不是幻想\n也一点不浪漫\n无助时总是很容易被打动\n几句歌词或影片情节\n都能使你落泪\n幻想是你自己的感觉\n，\n青春想几只飞鸟\n飞的越高 却忘了自己的渺小\n当你觉得孤单 才发现同伴各自走散了\n到最后连你自己也找不到\n人生就像迷了路的飞鸟\n越飞越远找不到出生温巢\n若你觉得很累了再也不想跑\n还能在陌生的树枝上睡一觉\n，\n再见青春 我在慢慢变老\n我已知道美好的越来越枯燥\n再见理想 我还没有睡着\n还能感觉到斗志昂扬时心跳", 
+  "能听我谈到自己\n算我有运气\n这世界是有多大都不用再提\n能相遇就很不意\n若相知更费力气\n请你当做是奇妙游戏\n，\n一转世 一张白纸\n童年无知\n还捉摸着没够体会转眼即逝\n纯真都没太记住 书本被我抵触\n难做文士 我亦责怪我无知\n还会被你训斥\n，\n青春快的离奇请不必质疑\n或者你觉得它很美好\n也有点俗气\n曾为了通宵与你愿徒走几公里\n还觉得争执互殴才算有男子气\n，\n青春快的离奇请不必质疑\n或者你觉得它很枯燥\n都不够回忆\n自由被浪费\n在书桌食堂寝室里\n重复着无奈脾气\n盼望有长假期\n补习先生都休息\n，\n承蒙你一番美意 都怪我蠢\n自知错的对\n的从未试过违心\n消失我这一种人\n责任与谁较劲\n难做贵人我亦同情我不幸\n谁又被谁教训\n，\n我有我的真理 请不必嫌弃\n其实这花花世界转起来有多美丽\n曾为了一张笑面浪费几多力气\n只不过一杯烈酒渴了如同喝喝水\n蹦蹦蹦\n，\n我有我的真理 请不必怀疑\n别问谁来这世上总要有什么目的\n存在是运气\n好坏也都是个秘密\n肉体会化为飞灰\n灵魂藏文字里\n，\n寻找另一种默契\n外人亦感到质疑\n想了解有点费力", 
+  "这两首和青春有关的词 希望对你有用吧"
+]
+{
+  "content": "不可否认，那时打架、打群架的残酷程度，自然比不上现在动辄大砍刀、火药枪的黑势力火并械斗，但那时打架的特点是：架要打，但又不会把自己弄到去蹲大狱。", 
+  "url": "http://tieba.baidu.com/p/4615400262?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "文学", 
+  "imgPath": "/data/lumppic/80cb39dbb6fd52668a7d891da918972bd4073660.jpg"
+}
+[
+  ""
+]
+Max Floor22
+Target Floor21
+find target floor
+[
+  "【小说】白鹿原 看过的来", 
+  "白孝文第一任老婆是谁哦 比他大三岁那个"
+]
+{
+  "content": "后，马上将全部精力投入到国内联赛中，毕竟奋力追赶尤文已成为AC米兰避免“四大皆", 
+  "url": "http://tieba.baidu.com/p/4616225053?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "文学", 
+  "imgPath": "/data/lumppic/b3b7d0a20cf431ad89ea58a84936acaf2edd9862.jpg"
+}
+[
+  ""
+]
+Max Floor21
+Target Floor4
+find target floor
+[
+  "【活动】", 
+  "求大神，这几个字念什么", 
+  "第三个是茉吧？其他的不知道。。", 
+  "我是小姐，你介意么"
+]
+{
+  "content": "伯蒂奇(捷克)", 
+  "url": "http://tieba.baidu.com/p/4616315329?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "文学", 
+  "imgPath": "/data/lumppic/0df3d7ca7bcb0a461413e5526963f6246b60afac.jpg"
+}
+[
+  ""
+]
+2016-06-17 17:59:59http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E6%2596%2587%25E5%25AD%25A6%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7.png
+Traceback (most recent call last):
+  File "open.py", line 234, in <module>
+    ActionChains(driver).click(driver.find_element_by_id('btn')).perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 299.292
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

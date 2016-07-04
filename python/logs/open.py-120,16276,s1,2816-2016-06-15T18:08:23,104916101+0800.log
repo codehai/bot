@@ -1,0 +1,112 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465903116", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:18:36 GMT", "value": "1465903001,1465903110,1465903115,1465903116", "expiry": 1497439116, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "75679B2953450881", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:25 GMT", "value": "58e6c70b4c9e114ebf5d5e0230afc6da654d5c80e59fc1083247b82644aad7d1", "expiry": 1725103105, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:25 GMT", "value": "7d499621d20b9f65f480d8a13444a01d", "expiry": 1725103105, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:25 GMT", "value": "75e10e454d2a29ff29c8ad33329ebd1a", "expiry": 1725103105, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:25 GMT", "value": "ENobkJxRU40WE9wRGlTV05NTHJ4bnAwSDBqdmR1TTZFbFB4RG5HVDhGRUJkWWRYQVFBQUFBJCQAAAAAAAAAAAEAAABLKkBKenphcDc3ODkxcG12AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHoX1cB6F9XN", "expiry": 1725103105, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:25 GMT", "value": "fi_PncwhpxZ%7ETaJc38uFxWynkHaiaRe02GNceRCo5BYd14yT-aLtcT62rpNrjzvEGI6KYkljCA1pNK-HW9lL7C0nej9twV2L1rhd95RV5C1nvcfIsA5C8C445aHYHGcbG60hvyxpJuvCScNJg9GXfxC3nAMqg__", "expiry": 1725103105, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:25 GMT", "value": "117ee8f4a27262b47cc608a7612e2ecb4e097142", "expiry": 1725103105, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:18:25 GMT", "value": "wapp_1465903040222_950", "expiry": 1725103105, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:17:53 GMT", "value": "1", "expiry": 1465989473, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:17:35 GMT", "value": "1", "expiry": 1465989455, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:17:35 GMT", "value": "568", "expiry": 1497007055, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:17:35 GMT", "value": "320", "expiry": 1497007055, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:17:20 GMT", "value": "F3A5D013851AAB3C95701F170139B326:FG=1", "expiry": 1497439040, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:17:20 GMT", "value": "wapp_1465903040222_950", "expiry": 2411983040, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "48badcfe2c0cb64a54f4b6b1", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:zzap77891pmv
+Max Floor11
+Target Floor7
+find target floor
+[
+  "生活在一个小县城里的我，", 
+  "每次到大城市总会觉得很自卑，觉得自己很卑微，哎", 
+  "不知道怎么调整，觉得自己黯然失色，虽然一直是霉粉，", 
+  "每次听a place in this world来鼓励自己，", 
+  "什么是幸福，幸福就是我爱着你，你也爱着我。", 
+  "其实我仔细想了很久 可能我是有一点太念旧", 
+  "这种自卑感就是怕别人瞧不起自己去拿自己真的什么都没有", 
+  "不敢进那些高档的会所，", 
+  "哎，，，，，^_^，总觉得自己很卑微", 
+  "有喜欢约的,可以来找我"
+]
+{
+  "content": "17", 
+  "url": "http://tieba.baidu.com/p/4612565056?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "泰勒·斯威夫特", 
+  "imgPath": "/data/lumppic/b3fb43166d224f4a67e9b6130bf790529822d1ba.jpg"
+}
+[
+  "生活在一个小县城里的我，", 
+  "每次到大城市总会觉得很自卑，觉得自己很卑微，哎", 
+  "不知道怎么调整，觉得自己黯然失色，虽然一直是霉粉，", 
+  "每次听a place in this world来鼓励自己，", 
+  "什么是幸福，幸福就是我爱着你，你也爱着我。", 
+  "其实我仔细想了很久 可能我是有一点太念旧", 
+  "这种自卑感就是怕别人瞧不起自己去拿自己真的什么都没有", 
+  "不敢进那些高档的会所，", 
+  "哎，，，，，^_^，总觉得自己很卑微", 
+  "有喜欢约的,可以来找我", 
+  "17"
+]
+Max Floor24
+Target Floor20
+find target floor
+[
+  "哇，又是新款来袭", 
+  "哇，又是新款来袭"
+]
+{
+  "content": "#8226; 1994年, 奥地利男科学会在欧洲泌尿科年会上提出“中老年男子部分雄激素缺乏”, 即: PADAM概念", 
+  "url": "http://tieba.baidu.com/p/4612436795?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "微商", 
+  "imgPath": "/data/lumppic/9d82d158ccbf6c813a1ff75dbe3eb13533fa405f.jpg"
+}
+[
+  ""
+]
+Max Floor20
+Target Floor6
+find target floor
+[
+  "绝地反击~", 
+  "偷的你的宝典，开了法反，挂上了", 
+  "火妖法大战克苏恩牧师", 
+  "3火妖？？？怎么搞", 
+  "复制？", 
+  "一血翻盘", 
+  "冰法表示：哈，你说翻盘？", 
+  "愿意处朋友加我，想约可加", 
+  "5滴血反杀过20多血的", 
+  "2滴血冰法反杀25血牧师", 
+  "这很清真", 
+  "昨天竞技场一血战士反杀对面30血，猜猜对面什么职业", 
+  "请把你的心给我，与我为伍，这个世界太残酷了，我有些害怕。", 
+  "带管理者，大王，二王的术士", 
+  "这英雄啥时候出的？", 
+  "毒瘤卡组别来秀了", 
+  "火妖法没屁眼的玩意，楼下继续", 
+  "火妖法靠傻龙才翻个牧师算什么本事", 
+  "花式斩杀+上1回合铺6怪"
+]
+{
+  "content": "作为医疗腐败的一个重灾区，医药购销领域商业贿赂是导致老百姓“看病难、看病贵”的一个重要原因，堪称是流毒无穷、害人不浅。卫生部这次出重拳惩治医药购销领域的商业贿赂，真是大快人心，只可惜重拳只打在行贿者身上，没打在受贿者身上，未能除恶务尽。", 
+  "url": "http://tieba.baidu.com/p/4610634272?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "炉石传说", 
+  "imgPath": "/data/lumppic/2e2eb9389b504fc23d411e0ce7dde71190ef6d99.jpg"
+}
+2016-06-15 18:10:29http%3A%2f%2ftieba.baidu.com%2fp%2f4610634272%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 304, in <module>
+    floorContent()
+  File "open.py", line 133, in floorContent
+    postContent = p.find_element_by_class_name('content').text
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 70, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 457, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

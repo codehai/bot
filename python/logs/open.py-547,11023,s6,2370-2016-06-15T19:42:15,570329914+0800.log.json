@@ -1,0 +1,500 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": "tieba.baidu.com",
+			"name": "PMS_JT",
+			"expires": "\\u5468\\u4e00, 13 6\\u6708 2016 11:10:47 GMT",
+			"value": "%28%7B%22s%22%3A1465816232226%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29",
+			"expiry": 1465816247,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "TIEBAUID",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "a5de5c0a2709994bb23b4cfc",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:10:28 GMT",
+			"value": "cc941f336d4780b62f5ef04268465a0807a41b685bdf5006f76cc82872439e05",
+			"expiry": 1725016228,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:10:28 GMT",
+			"value": "aa964aa381501bb0858cf106f2c6ce72",
+			"expiry": 1725016228,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:10:28 GMT",
+			"value": "536a4d13a484cf53eef44428ba",
+			"expiry": 1725016228,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:10:28 GMT",
+			"value": "FKVHN5eGNod3ltd3g1a25razAycG9DdTNXWVhOSDJ5NkVGTDgwd1RoU2tJWVpYQVFBQUFBJCQAAAAAAAAAAAEAAADO~isMamluZ3ppYWExAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKSUXleklF5XUj",
+			"expiry": 1725016228,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:10:28 GMT",
+			"value": "fi_PncwhpxZ%7ETaJc9v9k9354Q3yaJV77E-Bmcd-78kv%7EBZVRXlGs4SgecUBL3jSeFcNy4U6jOjJBu041hHll-VjRDI5xri%7EisoxPMt77kDzSdIg-pnvp6xAADnbG%7EAFpiBZl5oFoaJdr6JQtpXgx64FFAxs",
+			"expiry": 1725016228,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:10:28 GMT",
+			"value": "c71cdbeb13be45a359a20901f4541fd234",
+			"expiry": 1725016228,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:10:28 GMT",
+			"value": "wapp_1465816156948_587",
+			"expiry": 1725016228,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 11:09:52 GMT",
+			"value": "1",
+			"expiry": 1465902592,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 11:09:33 GMT",
+			"value": "1",
+			"expiry": 1465902573,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u56db, 08 6\\u6708 2017 11:09:33 GMT",
+			"value": "568",
+			"expiry": 1496920173,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u56db, 08 6\\u6708 2017 11:09:33 GMT",
+			"value": "320",
+			"expiry": 1496920173,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e8c, 13 6\\u6708 2017 11:09:17 GMT",
+			"value": "41B0D91FF0A3AC5CE3EA124199B596B5:FG=1",
+			"expiry": 1497352157,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u4e09, 06 6\\u6708 2046 11:09:16 GMT",
+			"value": "wapp_1465816156948_587",
+			"expiry": 2411896156,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "7d174575ca805ee7af100d1d",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:jingziaa1",
+	"Max Floor12",
+	"Target Floor6",
+	"find target floor",
+	[
+		"【RAIN】16-06-05【外交】S.H.E吧邀您共同聆听S.H.E最新单曲",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」",
+		"由唐人影视出品、郑元畅、韩东君、娜扎、金晨、彩旗、耿乐、刘雅瑟等一众当红明星与实力大咖主演的《仙剑云之凡》曝光了S.H.E版本的主题曲《殊途》MV，震撼业界的绝美特效与直入人心的歌曲回忆使其收获更多期待。\n三人再度重聚、倾情献唱，也似乎是对“仙剑十年”情怀的最好诠释。古典浪漫的曲风搭配仙侠feel十足的画面，侠骨柔情，仙韵飘渺，只可意会不可言明的意蕴，来形容再合适不过。\n仔细品味这其中的歌词，如饮一盏清茶般，古典气息扑面而来，一句“殊途会不会同归”又唱尽了《仙剑云之凡》中的爱恨交错，而以五大主演为核心的情感羁绊，也牵动着无数仙剑迷的心，甜蜜与虐恋、友情与亲情、妥协与较量，无不挑逗着观众的情感神经！\nS.H.E吧邀您共同聆听S.H.E最新单曲「殊途」，愿两吧友谊长存\n阿里音乐正版首发，试听版：http://www.xiami.com/song/1776110048\n正式版单曲仅售2元：http://www.xiami.com/song/1776110052",
+		"视频 http://v.youku.com/v_show/id_XMTU4MDg1NjEyMA==.html?from=s1.8-1-1.2\n来自优酷\n一边用力看穿夜的黑\n一边再看不懂光的明媚\n一边不再计较是和非\n一边想分清错对\n\n当我以为打败多少恨\n却已为爱落得伤痕累累\n当我撕碎了所有虚伪\n真相却又难面对\n\n怎样选择开始才能妥善结尾\n怎样改写命运说来才不后悔\n我们的殊途 还会不会同归\n我们找到的自己究竟是谁\n\n有多少喜 有多少悲\n好像哭过笑过是一样回味\n有多少醒 有多少醉\n梦是真的假的有什么所谓\n\n怎样选择开始都要好好结尾\n怎样改写命运都没理由后悔\n我们的殊途 管会不会同归\n至少已放下自己究竟是谁",
+		"══════════════════════════════════════\nS.H.E吧：http://tieba.baidu.com/S.H.E\nS.H.E吧微博：http://weibo.com/bdshebar\nS.H.E吧微信：bdshebar\n百度S.H.E吧Forever外交组\n══════════════════════════════════════",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"我第一个爱的女团，也是我永远的女团！",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存",
+		"S.H.E吧全体三叶草邀您共同聆听S.H.E最新单曲「殊途」\n两吧友谊长存"
+	],
+	"",
+	{
+		"content": "An Interview with the Chief-Designer of L-15",
+		"url": "http://tieba.baidu.com/p/4592831617?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "rain",
+		"imgPath": "/data/lumppic/18d8bc3eb13533fae8c8e579aad3fd1f41345b6e.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor12",
+	"Target Floor5",
+	"find target floor",
+	[
+		"【RAIN】16-06-08【讨论】6.18演唱会，有没有结伴同行的小伙伴",
+		"我是河北保定的。有木有结伴同行的小伙伴，可以跟我联系哦另外，咱吧有没有微信群。强烈要求组织收编我吧",
+		"你可以加河北的地方群",
+		"求购票方式",
+		"我是保定哒，还没买票",
+		"广州的！",
+		"南京南京有一起去的吗",
+		"重庆的，有一起的吗",
+		"我也在保定",
+		"石家庄",
+		"内蒙古包头的"
+	],
+	"",
+	{
+		"content": "公司发言：虽然公司每年都从毕业生中选拔最优秀人才，但“应该达不到那么高（25万元／年）”。",
+		"url": "http://tieba.baidu.com/p/4598291831?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "rain",
+		"imgPath": "/data/lumppic/ac6eddc451da81cbc9c351845066d01609243156.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor15",
+	"Target Floor5",
+	"find target floor",
+	[
+		"五月天牌发胶，用了都说好",
+		"使用前\n\n\n使用后",
+		"使用前\n使用后",
+		"使用前（这张就算不使用也很可爱啊（*/w\\*））\n\n使用后",
+		"来一发团嫂",
+		"团长夫妇夫妻相啊😍",
+		"卖肉(不不不)的团长(////)",
+		"团长与他的幸运物粉红暴力熊小爆（粉红色......好的没问题我懂你的少女心）\n\n\n我想说打出租车还有说有笑...团长大丈夫:P"
+	],
+	"",
+	{
+		"content": "06",
+		"url": "http://tieba.baidu.com/p/4610867379?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "五月天",
+		"imgPath": "/data/lumppic/574e9258d109b3ded7588803cebf6c81810a4cf1.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor30",
+	"Target Floor18",
+	"find target floor",
+	[
+		"求帮忙解答一下猴拉飞去问题",
+		"为什么感觉有的时候飞的近有的时候飞的远，新萌求解答，有没有什么诀窍",
+		"因为服务器吃了屎啊",
+		"感觉上攻速快容易起飞，不信你开圣灵飞机试试？",
+		"地形落差︿(￣︶￣)︿平地上你是飞不动的，"
+	],
+	"",
+	{
+		"content": "33000113130303333111030130111301001330031013001113",
+		"url": "http://tieba.baidu.com/p/4612770464?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "洛奇英雄传",
+		"imgPath": "/data/lumppic/cf1b9d16fdfaaf51980c97ec8e5494eef11f7af1.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor22",
+	"Target Floor20",
+	"find target floor",
+	[
+		"蠢新露个面，，今年3月份开始玩",
+		"蠢新露个面，，今年3月份开始玩风暴，炒鸡喜欢这游戏，最喜欢用李敏各位有碰到过我么下次遇到记得打招呼，我跟你抓人去绕老师走开",
+		"我就是给吧友们治颈椎病的",
+		"手机照可以……但是别反着照呀",
+		"0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！",
+		"我本以为歪着发图已经是极限了 没想到还有倒着发的",
+		"无所谓 反正我不会看",
+		"哥哥，你要射进我的嘴里",
+		"治好了我多年的颈椎病和白内障",
+		"id是夏执大人#5860",
+		"广告贴，机器人楼主都删了",
+		"饶老师气的头发都长出来了",
+		"这是来show图的，大家不要被他欺骗了",
+		"故意的吧",
+		"遇到过楼主，就是那个坑比",
+		"那又怎样"
+	],
+	"",
+	{
+		"content": "0.351",
+		"url": "http://tieba.baidu.com/p/4612492608?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "风暴英雄",
+		"imgPath": "/data/lumppic/aa64034f78f0f7367c8658250955b319ebc4139d.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor16",
+	"Target Floor7",
+	"find target floor",
+	[
+		"转贴\nUC欧洲杯，竞猜王争霸",
+		"立即抽奖\n活动时间：2016.6.12-2016.6.20\n活动详情：虽然当不了高考学霸，但是这个6月还能来欧洲杯UC竞猜王大赛称王称霸啊！上UC欧洲杯频道抢占UC竞猜排名，就有机会获得「十核全网通魅族PRO 6」，戳【http://t.cn/R5J4kPM】\n活动奖品：\n:魅族PRO6\n\n:魅蓝metal\n\n:100元手机话费\n\n:50元手机话费\n\n:20元手机话费\n\n来自：uc浏览器吧"
+	],
+	"",
+	{
+		"content": "外国专家认为，美军出于种种考虑，向“盟友”出售的下一代先进隐形战机与美军自用的有很大不同。同样是F-35，美军“盟友”得到的仅仅是“缩水版”。因此，专家认为：“这些战机将在许多方面不及中国、印度尼西亚、印度和马来西亚的苏式战斗机，其中尤其不如中国正在研发的新型未来战机”。此外，有国外媒体报道，美军F-35“缩水版”最有可能的几个第一批用户是日本、中国台湾、澳大利亚和英国。资料图：美军F-35先进短距起降隐形战机",
+		"url": "http://tieba.baidu.com/p/4612807023?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "钟汉良",
+		"imgPath": "/data/lumppic/03087bf40ad162d90137671713dfa9ec8b13cde4.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor16",
+	"Target Floor10",
+	"find target floor",
+	[
+		"支持男神，支持小太阳",
+		"从来没有喜欢一个喜欢到这种程度，想到就会微笑，发自内心的，开心或难过，每次都是看着小哇的照片度过！对你的喜爱绝对是从一而终！每天睁眼的第一件事情就是打开微薄，看看你的动态，可是你都很少发动态，但是我还是会有所期待，怕错过。6月24号，电影院见",
+		"我男朋友比我大在一起好多年了，也还算舍得给我花钱。但是就是不愿意公开我们，说是父母不同意，那",
+		"是不是我真的消失了，你才会发现身边有个我？是不是我真的消失了，你才会知道怎么来珍惜我？是不是",
+		"看内个片下面流水水了。怎么办"
+	],
+	"",
+	{
+		"content": "毛泽东也是一个独立性极强的人。",
+		"url": "http://tieba.baidu.com/p/4612585067?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "钟汉良",
+		"imgPath": "/data/lumppic/d6ca7bcb0a46f21fe69881a5f4246b600d33ae9c.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:jingziaa1",
+	"Max Floor26",
+	"Target Floor8",
+	"find target floor",
+	[
+		"微向传媒什么鬼",
+		"同上"
+	],
+	"",
+	{
+		"content": "nbsp;下双nbsp;",
+		"url": "http://tieba.baidu.com/p/4612722703?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "武动乾坤",
+		"imgPath": "/data/lumppic/d50735fae6cd7b8902b3499d0d2442a7d8330ed4.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor24",
+	"Target Floor10",
+	"find target floor",
+	[
+		"守着那最后一朵花，我没有说什么",
+		"只道是，一见容止误终生🌺",
+		"前排",
+		"3l【楼主求眼熟】",
+		"你问我，我问你，你犹豫，让我等到了现在",
+		"qqq",
+		"aaa",
+		"摆渡芸微：fch9988698"
+	],
+	"",
+	{
+		"content": "Worship pop (11分)",
+		"url": "http://tieba.baidu.com/p/4611839266?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "微小说",
+		"imgPath": "/data/lumppic/d4628535e5dde711b4f3159ea5efce1b9d1661b0.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor24",
+	"Target Floor19",
+	"find target floor",
+	[
+		"找几个闺蜜",
+		"第一次发帖 【南方】女 脾气好 能聊天 你有事可以跟我唠嗑 没事我也可以陪聊 这么好和乐而不为",
+		"闺蜜神马的都弱爆了，现在流行基佬",
+		"一张床，二个人，一个缠绵的夜，两颗沸腾的心。的爱在眉眼之间，唇齿之间的轻扶。爱她就给她最好的",
+		"想要找个暖男",
+		"看头像 加厚有",
+		"为什么，负出那么多到最后只剩我一个人，回忆我们到点点滴滴"
+	],
+	"",
+	{
+		"content": "病历切莫常换",
+		"url": "http://tieba.baidu.com/p/4612218760?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "微小说",
+		"imgPath": "/data/lumppic/8b13632762d0f703b102abd60afa513d2697c503.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor25",
+	"Target Floor12",
+	"find target floor",
+	[
+		"职业是不分贵贱的，只要你有野心，敢于挑战，我们这里便是你的舞",
+		"职业是不分贵贱的，只要你有野心，敢于挑战，我们这里便是你的舞台。想赚快钱、大钱，不要再浪费青春，不要为自己单纯的一面继续停留现状，我们欢迎你们的加入。。。。。。 非诚勿扰！ 娱乐公关要求： 男： 身高168CM以上.年龄18-35岁.五官端正.思想开放.形象良好，性格开朗，积极向上,细心负责，有无经验均可培训上岗！ 日薪待遇： 500-3000不等.月薪均可达1.2-6万元以上.薪资根据个人能力而定。 其他待遇： 顾客送项链，钻戒，手机，宠物，名表等一切物品，归你自己所有。\n领队微信HB9236 QQ23681436",
+		"148可以不？",
+		"[语音]"
+	],
+	"",
+	{
+		"content": "当时的长虹，在技术与产能上都是国内领先的彩电生产企业，成为中国彩电业旗帜。1996年由长虹发起的价格战可谓石破天惊：一举将洋品牌挤出市场前十名，长虹因此坐上国内“彩电大王”宝座。长虹的“价格创新”不仅让亿万百姓尝到甜头，也成就自身雄霸中国彩电业的地位。更重要的是，长虹的变革改变了中国彩电历史进程，中国彩电业从无到有建立起完整产业链。",
+		"url": "http://tieba.baidu.com/p/4612811241?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "厦门",
+		"imgPath": "/data/lumppic/4034970a304e251f3383def6a586c9177f3e5343.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor15",
+	"Target Floor5",
+	"find target floor",
+	[
+		"求大神解答。",
+		"有一桶水，爸爸能喝25天，爸爸和儿子一同喝能喝20天，请问儿子这一桶水能喝几天？",
+		"求大神解答",
+		"原谅我数学渣",
+		"取种种相，作种种想；行就是行为或造作，由意念而行动去造作种种的善恶业；识就是了别的意思，由识去辨别所",
+		"约不约,在于你",
+		"100",
+		"她是江南一带有名的妓\n他是战功显赫的将军\n前几日他失去妻子\n在歌妓面前喝的烂醉\n把妓当成她\n第二天看到床上的落红\n将军嘲笑妓\n终究是婊子\n他穿衣离去\n妓九岁被卖到青楼\n几年来只卖艺不卖身\n直到那晚遇到他\n她羞涩 笨拙\n把自己给了他\n他凶狠 粗鲁\n嘴里叫着妻子的名字\n妓只喜欢了这一个人\n却喜欢了一辈子\n将军在外战沙场\n歌姬城内待他归\n将军入城\n从不多看一眼\n只是在深夜敲开她的房门\n他在外时日久\n她抱着他褪下他的衣服\n细数他身上的疤痕\n他抱她上床 没有情话\n只有缠绵\n她轻触他疤痕\n你娶我吧\n我想给你一个家\n将军穿好衣服起身离去\n留她一人愣愣的\n看他离去的方向\n做妓的最怕有了感情\n可她偏偏中了这世间最愁的毒\n妓说 我不想再做这行了\n那夜她主动寻他\n月光下她红色的唇格外迷人\n那夜她用尽万种风情\n将军你吻我\n将军毫不动意\n一夜缠绵 她离去\n妓知道将军不会寻她\n毕竟她只是个妓\n一日为妓 终身为娼\n不久将军带兵出征\n两军交战\n在敌方的主帅身旁发现一身红衣的她\n她一身红衣依靠在另一个男人怀里\n将军满眼尽是讽刺\n战争的号角吹响\n她藏在袖中的匕首直刺敌将心脏\n敌将并于惊讶\n像是早已预料\n将军愣住\n这是她第一次看到他除了冷漠意外的表情\n战火硝烟 她闭上双眼\n妓知道 他安全了\n从此以后他都安全了\n她可以放心了\n也总算帮了他一次\n将军完胜 天子嘉奖\n百姓欢呼 可他却没有表情\n没有人知道他心里想的是什么\n宫宴结束\n他去看妓的尸体\n她的尸体和战死的士兵放在一起\n一身红衣很惹眼 他一眼看到\n走过去 俯身抱起她的尸体\n死去的她也有着遮不住的美丽\n走回府中\n将军将她散落的头发掖在耳后\n那般温柔的动作\n可惜妓再也看不到了\n下辈子我褪下盔甲不做将军\n下辈子你不入风尘做我妻子\n将军（番外）\n我见到过一个世间最美丽的女子\n只不过她是个妓\n我想占有她\n可是只要想到她在别的男人身下呻吟就没办法接受\n只有一下一下狠狠的操她\n让她记住她只是我的\n每次我战归她都会在城门口迎我\n我不喜欢她\n我只是喜欢她等我 迎我进门\n倒也温暖\n她说 娶她吧 想给我一个家\n我想有个家 可是我是个将军\n怎能安稳下来\n她第一次主动寻我\n散落的长发 红色的唇\n我笑她 如此风骚又不知道是去勾引谁\n一袭红衣\n到底是个妓\n号角吹响 只看见她匕首刺进那人心脏\n万箭穿她身 万箭穿我心\n她笑着看我\n眼里是我不懂的柔情\n我军完胜\n天子嘉奖我\n百姓为我欢呼\n荣华富贵皆为我所有\n可是我知道这一切都不如她\n诗人说 看到过将军\n只不过他已辞官多年\n听说是为了某个女子\n只看到将军每日会带上一壶烧酒在坟头独饮\n没有人知道坟里是什么人\n有人说是将军的妻子\n有人说是将军最爱的人\n只听见将军说\n下辈子我褪下盔甲不做将军\n下辈子你不入风尘做我妻子\n诗人说 将军本想赢了那场战争便带妓离开\n将军对他说他不要荣华富贵\n他想有个家让她笑着迎他归家\n那场战役他的确赢了\n可是却没办法给她一个家了\n他们差一点就是一辈子\n南风过境十里春风不如你\n没有人再见到过将军\n只听诗人说\n将军陪着爱的女子四海为家\n敌将（番外）\n城门口有一位女子在抚琴\n满眼温柔看着归来的那位将军\n问过城中百姓\n得知她是这城中有名的妓女\n我从不入这风流场所\n却为见她一面\n踏进去\n来到她房中\n她问我听什么曲子\n听你的故事\n她说 我只是个妓 没有故事\n我说出那位主将的名字\n妓淡淡的笑了\n嘴角上扬倾国倾城\n跟我走吧\n我知道你不快乐\n回到我的国家 我给你所有\n我告诉她我的身份\n妓 无所动容 我要等他的\n我愤怒 要知道一个女人而已\n却如此大的架势\n我拿出匕首架在她脖子上\n你不要不知好歹\n妓身子往前 匕首轻割她皮肤\n妓说 让我死吧 死了也好\n回到城中 反复饮酒\n日日夜夜想起那个抚琴的妓\n从未动心过 却因为一个妓\n乱了心\n与他国交战日期在即\n战前忘不了她那日微笑\n再次来到他城\n半夜守在她门前\n久久不见她回来\n堂堂主帅竟然如此\n不忍嘲笑自己\n天亮时她回来\n散落的头发 苍白的脸\n无限的忧愁 令我怜惜\n看到她衣领处的红痕\n便以明了\n她凑过来吻我\n带我走吧我不爱了\n我回应她 像一个狩猎者捕捉到新鲜的食物\n嘶咬她带她回营\n出征的前一天 我去看她\n一身薄衣 走到我面前\n在耳边呼吸着\n将她抱上床\n压在她身上 一句句说着爱\n她不反抗\n我停下来 你爱我吗\n你爱我吗 你爱我吗\n妓不吭声\n我一下一下深入\n恨不得将她融入到骨子里\n事后 妓问我\n你能带我上战场吗\n这怎么可以\n自古以来又怎有女人上战场\n我看到她枕下的匕首\n仰天大笑\n到底还是为了他\n不顾士兵反对\n带她上战场\n战场上 她将匕首插入我心脏\n倒是也好\n负我国负我王终究没有负我爱的女人\n能给的爱都给了\n只希望 下辈子给你买个魅蓝3s",
+		"0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！",
+		"100",
+		"100"
+	],
+	"",
+	{
+		"content": "据台湾媒体报道，陈水扁宣布“终统”后，整天坐立不安。特别是近日出现了中央军委副主席徐才厚上将在南京战区调研的消息，台媒认为在这个敏感时期，新华社高调报道解放军高层视察与台湾隔海相望的南京战区，“所传递出的信息不同寻常”。台湾有专家认为，大陆正加紧进行反“台独”军事斗争准备，陈水扁一旦跨过“红线”，“一切都无法挽回”。不仅如此，不少台媒还宣称“解放军作战准备进入新阶段”，“下步解放军将有更大动作”。资料图：解放军公开的军事演习图资料图：解放军公开的军事演习图",
+		"url": "http://tieba.baidu.com/p/4612723461?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "未解之谜",
+		"imgPath": "/data/lumppic/fd039245d688d43f4bfda5957f1ed21b0ef43b04.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"2016-06-15 19:48:31http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E6%259C%25AA%25E8%25A7%25A3%25E4%25B9%258B%25E8%25B0%259C%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 239, in <module>",
+	"    wait.until(EC.presence_of_element_located((By.CLASS_NAME,'btn_icon')))",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py\", line 80, in until",
+	"    raise TimeoutException(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: ",
+	""
+]

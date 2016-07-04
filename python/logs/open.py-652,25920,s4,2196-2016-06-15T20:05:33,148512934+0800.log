@@ -1,0 +1,336 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": "tieba.baidu.com", "name": "PMS_JT", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 13:00:01 GMT", "value": "%28%7B%22s%22%3A1465477186864%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29", "expiry": 1465477201, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "TIEBAUID", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "5c40c0e663a425ed13d68ff0", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:43:26 GMT", "value": "1c77bbcf3394819a7bb16aff4a5ebe0e024dadfb5c4e5edbd2e6ea9e2962340d", "expiry": 1724676206, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:43:26 GMT", "value": "f45ee793a3efa573ff800cfd00cf350d", "expiry": 1724676206, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:43:26 GMT", "value": "ea00fcef3b7e3862f6fe126b68ce3bf18a11a9d35ffe", "expiry": 1724676206, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:43:26 GMT", "value": "ZTcUc5RFA3dEJXWWJnSzIzeXZmbUpiVktiTFhsWkExNExESkdLeTBPMXQ4WUJYQVFBQUFBJCQAAAAAAAAAAAEAAAAHqTFV0MLKsbT6tcS0882sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG1kWVdtZFlXaX", "expiry": 1724676206, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:43:26 GMT", "value": "fi_PncwhpxZ%7ETaJcxLN%7Ei11PoF57UiWw2W574FC7Wbx48z7exSbxpyg9NaQKSXM5xOJDYQEsLyIJ148WXTGooT4DihVWtg4JmarSX2aq0ljXTH62YUKyL2hyBR1dqI660u-EnmSKTn9EAerGbczATyAe6i1dw__", "expiry": 1724676206, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:43:26 GMT", "value": "c1011ac484fead12584fa873757fc9562c9841609e8216c668dd0116dcc017a067b7b7b00cbd2e7587f3fd72", "expiry": 1724676206, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:43:26 GMT", "value": "wapp_1465476140255_325", "expiry": 1724676206, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e94, 10 6\\u6708 2016 12:42:50 GMT", "value": "1", "expiry": 1465562570, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e94, 10 6\\u6708 2016 12:42:36 GMT", "value": "1", "expiry": 1465562556, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u65e5, 04 6\\u6708 2017 12:42:36 GMT", "value": "568", "expiry": 1496580156, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u65e5, 04 6\\u6708 2017 12:42:36 GMT", "value": "320", "expiry": 1496580156, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 12:42:20 GMT", "value": "DCB4B2B9D6DE35B726B55C2EFEE4EBA6:FG=1", "expiry": 1497012140, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 02 6\\u6708 2046 12:42:20 GMT", "value": "wapp_1465476140255_325", "expiry": 2411556140, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "d7b21eccf53983b89c75d84d", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:新时代的大同
+Max Floor7
+Target Floor3
+find target floor
+[
+  "歌词第一句：羊汤下的泡馍，一煮就破", 
+  "请问这首歌叫什么名字呀我忘记了。", 
+  "泡馍", 
+  "微博有关注，不想发怕你或者是说不想你看到，扣扣不想给朋友们看到，毕竟瞒住了所有人继续爱你", 
+  "你才傻瓜呢！672493", 
+  "这是神一样的十五个字么我的天啊"
+]
+{
+  "content": "三、对于后市，我依然看好，我想今年上半年股市最高可以达到1580点，有些人因为对今年的股市行情没有做出正确地判断，只赚点小钱就离开，错过了赚大钱的机会。基金也是如此。我相信有了足够的投资知识和平衡的心态，成功之路会越走越宽，投资的收益也会越来越高，正确的投资理财能让我们的明天会更好。", 
+  "url": "http://tieba.baidu.com/p/4612757520?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "我是歌手吧", 
+  "imgPath": "/data/lumppic/960a304e251f95ca54af96bdcb177f3e67095266.jpg"
+}
+[
+  "歌词第一句：羊汤下的泡馍，一煮就破", 
+  "请问这首歌叫什么名字呀我忘记了。", 
+  "泡馍", 
+  "微博有关注，不想发怕你或者是说不想你看到，扣扣不想给朋友们看到，毕竟瞒住了所有人继续爱你", 
+  "你才傻瓜呢！672493", 
+  "这是神一样的十五个字么我的天啊", 
+  "三、对于后市，我依然看好，我想今年上半年股市最高可以达到1580点，有些人因为对今年的股市行情没有做出正确地判断，只赚点小钱就离开，错过了赚大钱的机会。基金也是如此。我相信有了足够的投资知识和平衡的心态，成功之路会越走越宽，投资的收益也会越来越高，正确的投资理财能让我们的明天会更好。"
+]
+Max Floor7
+Target Floor1
+find target floor
+[
+  "歌词第一句：羊汤下的泡馍，一煮就破", 
+  "请问这首歌叫什么名字呀我忘记了。", 
+  "泡馍", 
+  "微博有关注，不想发怕你或者是说不想你看到，扣扣不想给朋友们看到，毕竟瞒住了所有人继续爱你", 
+  "你才傻瓜呢！672493", 
+  "这是神一样的十五个字么我的天啊"
+]
+{
+  "content": "昨天是“世界图书与版权日”。中国出版科学研究所第四次“全国国民阅读调查”结果显示，我国国民图书阅读率连续6年持续走低，国民阅读率首次低于50％；与此同时，网络阅读率大幅增长。", 
+  "url": "http://tieba.baidu.com/p/4612757520?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "我是歌手吧", 
+  "imgPath": "/data/lumppic/faedab64034f78f0684bfaf37b310a55b3191c69.jpg"
+}
+[
+  "歌词第一句：羊汤下的泡馍，一煮就破", 
+  "请问这首歌叫什么名字呀我忘记了。", 
+  "泡馍", 
+  "微博有关注，不想发怕你或者是说不想你看到，扣扣不想给朋友们看到，毕竟瞒住了所有人继续爱你", 
+  "你才傻瓜呢！672493", 
+  "这是神一样的十五个字么我的天啊", 
+  "昨天是“世界图书与版权日”。中国出版科学研究所第四次“全国国民阅读调查”结果显示，我国国民图书阅读率连续6年持续走低，国民阅读率首次低于50％；与此同时，网络阅读率大幅增长。"
+]
+Max Floor31
+Target Floor22
+find target floor
+[
+  "Nichkhun°「160609外交」百度GOT7吧邀您共庆端午佳节", 
+  "[☆．百度GOT7吧邀您共庆端午佳节\n[☆．愿贵吧越办越好\n[☆．两吧友谊长存\n[☆．欢迎光临", 
+  "☆☆———GOT7 ———☆☆\n纤云弄巧\n银汉迢迢暗度\n送你一枚飘香的粽\n粒粒糯米是相思的星\n片片荷叶是祝福的云\n柔情似水\n忍顾鹊桥归路\n送你一只摇曳的舟\n圈圈涟漪是眼底的悸动\n落落水花是眉梢的离愁\nFly——飞过千山万海\n云中谁寄锦书来\n诉说情怀\nFly——飞过花落花开\n闲看槐荫落庭台\n莫知我爱\ngot7吧全体鸟宝宝祝您端午节快乐！\n☆☆——— FOREVER YOUNG ———☆☆", 
+  "☆☆———GOT7———☆☆\n力量领导者——Jaebum林在范\n稳重慢热的团队主心骨\n反转魅力的韩国真男人\n童颜小飞人——Mark段宜恩\n沉默少语的美颜大暖男\n灿若星辰的运动系少年\n气氛调节剂——Jackson王嘉尔\n运动员出身的拼命三郎\n真诚善良的交际小能手\n清新风暖男——Junior朴珍荣\n唱跳俱佳的国民系初恋\n贴心温柔的实力高材生\n实力派主唱——YoungJae崔荣宰\n呆萌又质朴的足球少年\n爆发力极强的灵魂歌者\n人气伪忙内——BamBam\n帅气又可爱的泰国童星\n团宠称号的最佳拥有者\n纯情结晶体——YuGyeom金有谦\n舞姿帅气的中二病患者\n纯情直率的最佳捧场王\n☆☆———NOT BAD———☆☆", 
+  "☆☆———GOT7 ———☆☆\n祝贵吧越办越好 愿贵吧人气满满\n愿两吧友谊长存\n欢迎贵吧的小伙伴们常来百度GOT7吧做客\n百度GOT7吧官方贴吧直通车：\nhttp://tieba.baidu.com/f?ie=utf-8&amp;kw=GOT7&amp;fr=search\n百度GOT7吧官方微博直通车：\nhttp://weibo.com/baiduGOT7?from=myfollow_group\n＊＊＊———GO UP———＊＊＊", 
+  "每个人都有一个死角， 自己走不出来， 别人也闯不进去。 我把最深沉的秘密放在那里。 你不懂我，我不", 
+  "[语音]", 
+  "求大神指导,好心人帮助", 
+  "哪位大大知道呀，小弟在此感激不尽", 
+  "和婆婆在一起生活久了，分开一段时间了，还真是想念，盼望着五一去滨州看她。"
+]
+{
+  "content": "本土化之弱", 
+  "url": "http://tieba.baidu.com/p/4599603159?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "尼坤", 
+  "imgPath": "/data/lumppic/4610b912c8fcc3cee6175e179145d688d43f203a.jpg"
+}
+[
+  "Nichkhun°「160609外交」百度GOT7吧邀您共庆端午佳节", 
+  "[☆．百度GOT7吧邀您共庆端午佳节\n[☆．愿贵吧越办越好\n[☆．两吧友谊长存\n[☆．欢迎光临", 
+  "☆☆———GOT7 ———☆☆\n纤云弄巧\n银汉迢迢暗度\n送你一枚飘香的粽\n粒粒糯米是相思的星\n片片荷叶是祝福的云\n柔情似水\n忍顾鹊桥归路\n送你一只摇曳的舟\n圈圈涟漪是眼底的悸动\n落落水花是眉梢的离愁\nFly——飞过千山万海\n云中谁寄锦书来\n诉说情怀\nFly——飞过花落花开\n闲看槐荫落庭台\n莫知我爱\ngot7吧全体鸟宝宝祝您端午节快乐！\n☆☆——— FOREVER YOUNG ———☆☆", 
+  "☆☆———GOT7———☆☆\n力量领导者——Jaebum林在范\n稳重慢热的团队主心骨\n反转魅力的韩国真男人\n童颜小飞人——Mark段宜恩\n沉默少语的美颜大暖男\n灿若星辰的运动系少年\n气氛调节剂——Jackson王嘉尔\n运动员出身的拼命三郎\n真诚善良的交际小能手\n清新风暖男——Junior朴珍荣\n唱跳俱佳的国民系初恋\n贴心温柔的实力高材生\n实力派主唱——YoungJae崔荣宰\n呆萌又质朴的足球少年\n爆发力极强的灵魂歌者\n人气伪忙内——BamBam\n帅气又可爱的泰国童星\n团宠称号的最佳拥有者\n纯情结晶体——YuGyeom金有谦\n舞姿帅气的中二病患者\n纯情直率的最佳捧场王\n☆☆———NOT BAD———☆☆", 
+  "☆☆———GOT7 ———☆☆\n祝贵吧越办越好 愿贵吧人气满满\n愿两吧友谊长存\n欢迎贵吧的小伙伴们常来百度GOT7吧做客\n百度GOT7吧官方贴吧直通车：\nhttp://tieba.baidu.com/f?ie=utf-8&amp;kw=GOT7&amp;fr=search\n百度GOT7吧官方微博直通车：\nhttp://weibo.com/baiduGOT7?from=myfollow_group\n＊＊＊———GO UP———＊＊＊", 
+  "每个人都有一个死角， 自己走不出来， 别人也闯不进去。 我把最深沉的秘密放在那里。 你不懂我，我不", 
+  "4''", 
+  "求大神指导,好心人帮助", 
+  "哪位大大知道呀，小弟在此感激不尽", 
+  "和婆婆在一起生活久了，分开一段时间了，还真是想念，盼望着五一去滨州看她。", 
+  "本土化之弱"
+]
+Max Floor15
+Target Floor13
+find target floor
+[
+  "【yjs_160614】【外交】YG新女团成员kimjisoo智秀吧邀你共庆智秀", 
+  "．·°∴☆．．·°．·°∴☆．．·°．·°∴☆．．·°\n百度KimJisoo智秀吧全体吧友邀您共庆6.20金智秀生日\n祝贵吧越办越好两吧友谊长存\n．·°∴☆．．·°．·°∴☆．．·°．·°∴☆．．·°", 
+  "[语音]"
+]
+{
+  "content": "搜狐直播员: 吉诺比利得球跳投三分命中 [38:48 ]", 
+  "url": "http://tieba.baidu.com/p/4611053575?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "刘在石", 
+  "imgPath": "/data/lumppic/c8177f3e6709c93de5a21cf69d3df8dcd100545a.jpg"
+}
+[
+  "【yjs_160614】【外交】YG新女团成员kimjisoo智秀吧邀你共庆智秀", 
+  "．·°∴☆．．·°．·°∴☆．．·°．·°∴☆．．·°\n百度KimJisoo智秀吧全体吧友邀您共庆6.20金智秀生日\n祝贵吧越办越好两吧友谊长存\n．·°∴☆．．·°．·°∴☆．．·°．·°∴☆．．·°", 
+  "4''", 
+  "搜狐直播员: 吉诺比利得球跳投三分命中 [38:48 ]"
+]
+Max Floor15
+Target Floor13
+find target floor
+[
+  "【yjs_160612】【图片】记录在石小朋友的简笔画，期待他的翻盘", 
+  "一个以在石是末尾开始的特辑\n就算这样也看的好开心\n期待反转", 
+  "在石笔下的成员，在石最帅", 
+  "左是在石画的搭档，右为搭档画的在石", 
+  "你画我猜系列1.拉面2.猪蹄3.", 
+  "纵火犯，萌呆了", 
+  "不管不管，我宝宝最可爱，我宝宝最帅！反正智浩又没有遗传到这一点", 
+  "当年看RM时还以为是为了节目效果故意乱画的，\n现在看来是我太天真了", 
+  "可爱", 
+  "被萌晕了，欧巴你这么可爱，该怎么办呢", 
+  "要想有逆转，只能智浩出手帮忙了", 
+  "哈哈，画得很卖力啊", 
+  "这里真的好萌啊", 
+  "估计画背景会翻盘~~~", 
+  "冰淇淋也能看出来好服\n我以为是胡萝卜", 
+  "畫畫真的不太行", 
+  "大神的画画本领真的是让人给跪了，不过还是萌萌哒啊(⊙o⊙)"
+]
+{
+  "content": "从“五一”起新开的北京——青岛HU7747/7748航班，北京起飞时刻为21：00左右，由波音737机型执飞。同时，黄金周期间海航还在北京至桂林图库、广州、银川、南昌、合肥、宁波、海口、昆明等航线上实施加班，计划加班约五十班次。", 
+  "url": "http://tieba.baidu.com/p/4606305047?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "刘在石", 
+  "imgPath": "/data/lumppic/a5c27d1ed21b0ef457fc2b32dfc451da81cb3e41.jpg"
+}
+[
+  "", 
+  "纵火犯，萌呆了", 
+  "不管不管，我宝宝最可爱，我宝宝最帅！反正智浩又没有遗传到这一点", 
+  "当年看RM时还以为是为了节目效果故意乱画的，\n现在看来是我太天真了", 
+  "可爱", 
+  "被萌晕了，欧巴你这么可爱，该怎么办呢", 
+  "要想有逆转，只能智浩出手帮忙了", 
+  "哈哈，画得很卖力啊", 
+  "这里真的好萌啊", 
+  "估计画背景会翻盘~~~", 
+  "冰淇淋也能看出来好服\n我以为是胡萝卜", 
+  "畫畫真的不太行", 
+  "大神的画画本领真的是让人给跪了，不过还是萌萌哒啊(⊙o⊙)"
+]
+Max Floor31
+Target Floor18
+find target floor
+[
+  "#解密郭京飞#郭京飞 陈学冬 颖儿 印小天 等 主演电视剧《解", 
+  "郭京飞 陈学冬 颖儿 印小天 等 主演电视剧《解密》。剧中郭京飞饰演国家破译处处长郑当。"
+]
+{
+  "content": "来源：[文化先锋]上一页nbsp;[1]nbsp;[2]nbsp;[3]nbsp;[4]nbsp;　　赵孟頫(1254—1322)，字子昂，号松雪、水精宫道人等，南宋理宗宝祜二年(1254)生于风光如画的浙江吴兴(今属湖州)，系宋太祖赵匡胤的十一世孙。元时官至翰林学士承旨，封魏国公，谥文敏。故而人们每以其籍贯、官职、谥号等称之为赵吴兴、王孙、鸥波、荣禄、集贤、翰林、承旨、魏公、文敏等。", 
+  "url": "http://tieba.baidu.com/p/4612367591?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "陈学冬", 
+  "imgPath": "/data/lumppic/0dd7912397dda14400f0e416b0b7d0a20df4869d.jpg"
+}
+[
+  "#解密郭京飞#郭京飞 陈学冬 颖儿 印小天 等 主演电视剧《解", 
+  "郭京飞 陈学冬 颖儿 印小天 等 主演电视剧《解密》。剧中郭京飞饰演国家破译处处长郑当。", 
+  "来源：[文化先锋]上一页nbsp;[1]nbsp;[2]nbsp;[3]nbsp;[4]nbsp;　　赵孟頫(1254—1322)，字子昂，号松雪、水精宫道人等，南宋理宗宝祜二年(1254)生于风光如画的浙江吴兴(今属湖州)，系宋太祖赵匡胤的十一世孙。元时官至翰林学士承旨，封魏国公，谥文敏。故而人们每以其籍贯、官职、谥号等称之为赵吴兴、王孙、鸥波、荣禄、集贤、翰林、承旨、魏公、文敏等。"
+]
+Max Floor28
+Target Floor28
+find target floor
+[
+  "河南多维丝工资怎么样，", 
+  "如题！谢谢大家", 
+  "表示在找工作"
+]
+{
+  "content": "明基移动公司在丹麦的这一研发中心位于丹麦的奥尔堡市，从事无线电技术研发以及相关设备的测试工作。随着研发中心被摩托罗拉公司收购，这里大约拥有250名工程师团队将整体被摩托罗拉公司接管。", 
+  "url": "http://tieba.baidu.com/p/4612652024?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "洛阳", 
+  "imgPath": "/data/lumppic/1ad5ad6eddc451da4d9a3387b4fd5266d0163269.jpg"
+}
+[
+  "河南多维丝工资怎么样，", 
+  "如题！谢谢大家", 
+  "表示在找工作", 
+  "明基移动公司在丹麦的这一研发中心位于丹麦的奥尔堡市，从事无线电技术研发以及相关设备的测试工作。随着研发中心被摩托罗拉公司收购，这里大约拥有250名工程师团队将整体被摩托罗拉公司接管。"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:新时代的大同
+Max Floor16
+Target Floor9
+find target floor
+[
+  "和一个妹子表白了 没有拒绝 说想追她没那么容易 单独约她 说尴", 
+  "我想找个男朋友给他世上最好的温柔", 
+  "不要问我为什么记得今天是分手的第多少天。 并不是因为我很矫情的每天记日子，而是每隔24小时我的app", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "你相信一见钟情么，它是一种奇妙的东西，反正我这么觉得。", 
+  "本大师饱经沧桑，阅历丰富，已经开导指点过上千个有情感，家庭，婚姻问题的男女。自己建立了一个情", 
+  "那年我在路灯下站了很久", 
+  "我睡不着，曾经我把所有最美好的给了他，他对我挺好的，家里条件也挺好的！问题来了！他跟我说他家", 
+  "请大神明示！！！", 
+  "我是一个即将毕业的大学生，我期待迎接我的社会生涯，", 
+  "啊啊啊 谢谢恩", 
+  "“我给你点了十下，干嘛只给我点一下??” 这个月已经2次收到这个信息了而且还是两个不同的人求各位", 
+  "难道没人想和我成为朋友嘛？", 
+  "明天开始找个工作安心上班吧，以后还是过平淡日子，疯狂不属于我们", 
+  "高质量视频号供应", 
+  "急急急 谢谢了", 
+  "广安，世纪伟人邓小平的故乡。位于四川省东北部。管辖两区三县一市，总面积约6344平方千米。总人口约", 
+  "我是一个离了婚的女人，今年32岁，有个儿子，但是跟他爸爸了，现在不敢在去谈婚姻，因为害怕会在找一", 
+  "顶帖专用，卖黄瓜嘞来了！又长有粗又嫩嘞大黄瓜了！专业跑楼逛吧避孕专用大黄瓜！隔壁家老王牌大黄瓜！副业，卖各式各样的情趣避孕套！", 
+  "小伙伴们，你们有没有相过亲呀？？", 
+  "那天我和闺蜜在绍兴，我们在仓桥直街上找到了一家很好的卖当地特色糕点的小店，然后我们都买了一兜"
+]
+{
+  "content": "海布里给阿森纳将帅留下了深深的烙印。在最后一战与维甘竞技之前，阿森纳现任主帅温格表示：“这将是个令人激动的时刻，因为当我们再走出这个球场，我们知道将不会再回来。我们无法再次回访，因为这里将被摧毁。海布里给我们留下很深的情感，所以在这里的最后一战，我们一定要取得胜利。”", 
+  "url": "http://tieba.baidu.com/p/4611374640?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "汽车", 
+  "imgPath": "/data/lumppic/d8f9d72a6059252d8b27d809369b033b5bb5b98f.jpg"
+}
+[
+  "和一个妹子表白了 没有拒绝 说想追她没那么容易 单独约她 说尴", 
+  "我想找个男朋友给他世上最好的温柔", 
+  "不要问我为什么记得今天是分手的第多少天。 并不是因为我很矫情的每天记日子，而是每隔24小时我的app", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "你相信一见钟情么，它是一种奇妙的东西，反正我这么觉得。", 
+  "本大师饱经沧桑，阅历丰富，已经开导指点过上千个有情感，家庭，婚姻问题的男女。自己建立了一个情", 
+  "那年我在路灯下站了很久", 
+  "我睡不着，曾经我把所有最美好的给了他，他对我挺好的，家里条件也挺好的！问题来了！他跟我说他家", 
+  "请大神明示！！！", 
+  "我是一个即将毕业的大学生，我期待迎接我的社会生涯，", 
+  "啊啊啊 谢谢恩", 
+  "“我给你点了十下，干嘛只给我点一下??” 这个月已经2次收到这个信息了而且还是两个不同的人求各位", 
+  "难道没人想和我成为朋友嘛？", 
+  "明天开始找个工作安心上班吧，以后还是过平淡日子，疯狂不属于我们", 
+  "高质量视频号供应", 
+  "急急急 谢谢了", 
+  "广安，世纪伟人邓小平的故乡。位于四川省东北部。管辖两区三县一市，总面积约6344平方千米。总人口约", 
+  "我是一个离了婚的女人，今年32岁，有个儿子，但是跟他爸爸了，现在不敢在去谈婚姻，因为害怕会在找一", 
+  "顶帖专用，卖黄瓜嘞来了！又长有粗又嫩嘞大黄瓜了！专业跑楼逛吧避孕专用大黄瓜！隔壁家老王牌大黄瓜！副业，卖各式各样的情趣避孕套！", 
+  "小伙伴们，你们有没有相过亲呀？？", 
+  "那天我和闺蜜在绍兴，我们在仓桥直街上找到了一家很好的卖当地特色糕点的小店，然后我们都买了一兜"
+]
+Max Floor21
+Target Floor8
+find target floor
+[
+  "【小米5】万水千山总是情，借我米粒行不行。", 
+  "万水千山总是情，借我米粒行不行。\n苍天啊，大地啊，哪位神仙姐姐能够送给米粒购买资格啊！\n尊享黑，等你等到好辛苦啊。\n有木有人有啊，求送啊，27321790，", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "触点广告那么腻害啊", 
+  "烦死个人啊 有没有大神啊", 
+  "人工置顶啊", 
+  "发现小美女一枚", 
+  "还没有人来吗", 
+  "再不来帖子就沉了", 
+  "╮(╯▽╰)╭"
+]
+{
+  "content": "第十二条 学校招生办公室将生源来源计划按要求及时寄(送)到各有关省(自治区、直辖市)普通高校招生办公室，并通过各种渠道向社会公布。", 
+  "url": "http://tieba.baidu.com/p/4612793455?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "小米", 
+  "imgPath": "/data/lumppic/0df3d7ca7bcb0a46bce24d306963f6246a60aff3.jpg"
+}
+[
+  "【小米5】万水千山总是情，借我米粒行不行。", 
+  "万水千山总是情，借我米粒行不行。\n苍天啊，大地啊，哪位神仙姐姐能够送给米粒购买资格啊！\n尊享黑，等你等到好辛苦啊。\n有木有人有啊，求送啊，27321790，", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "触点广告那么腻害啊", 
+  "烦死个人啊 有没有大神啊", 
+  "人工置顶啊", 
+  "发现小美女一枚", 
+  "还没有人来吗", 
+  "再不来帖子就沉了", 
+  "╮(╯▽╰)╭", 
+  "第十二条 学校招生办公室将生源来源计划按要求及时寄(送)到各有关省(自治区、直辖市)普通高校招生办公室，并通过各种渠道向社会公布。"
+]
+Max Floor39
+Target Floor7
+find target floor
+[
+  "05-31【卫士—分享】座机号码显示错误", 
+  "我找不到开户证明。只有营业执照怎么办？能申诉吗？", 
+  "耐心等到哦", 
+  "@百度手机卫士", 
+  "顶", 
+  "[语音]\n看到你心情就特别好！011197", 
+  "顶", 
+  "帮顶", 
+  "不要这样嘛！184124", 
+  "人永远看不破的镜花水月，不过我指间烟云世间千年如我一瞬。177202"
+]
+{
+  "content": "本报讯（记者 易云霆）2006年全国女排大奖赛总决赛昨天在浙江义乌结束了第四轮的比赛，在连输三场后，福建厦门喜梦宝女排终于胜了一场，她们以3比0力克东道主浙江队。", 
+  "url": "http://tieba.baidu.com/p/4581640767?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "百度手机卫士", 
+  "imgPath": "/data/lumppic/71cf3bc79f3df8dc579e80d7cf11728b461028d0.jpg"
+}
+2016-06-15 20:08:56http%3A%2f%2ftieba.baidu.com%2fp%2f4581640767%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 304, in <module>
+    floorContent()
+  File "open.py", line 133, in floorContent
+    postContent = p.find_element_by_class_name('content').text
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 70, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 457, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

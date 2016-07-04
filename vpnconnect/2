@@ -1,0 +1,8 @@
+1: lo: <LOOPBACK> mtu 65536 qdisc noop state DOWN group default 
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+51: veth1a: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
+    link/ether da:b8:cf:55:20:04 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.141/24 brd 192.168.1.255 scope global veth1a
+       valid_lft forever preferred_lft forever
+    inet6 fe80::d8b8:cfff:fe55:2004/64 scope link 
+       valid_lft forever preferred_lft forever

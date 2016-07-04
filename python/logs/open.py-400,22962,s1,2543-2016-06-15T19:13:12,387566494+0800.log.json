@@ -1,0 +1,325 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465899394",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:16:34 GMT",
+			"value": "1465899140,1465899263,1465899278,1465899394",
+			"expiry": 1497435394,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "C83507824CFE07E1",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:16:22 GMT",
+			"value": "790e8420d5da46bd1c996e014dccbba16502e68f7180676ea4fffcc216e0108a",
+			"expiry": 1725099382,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:16:22 GMT",
+			"value": "7757c80bec0789c456836af89f1f6c25",
+			"expiry": 1725099382,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:16:22 GMT",
+			"value": "a2b01901918303746bf0965ff8",
+			"expiry": 1725099382,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:16:22 GMT",
+			"value": "khid0lNbkV6Vnp4dzFCd0RWRXJYdFBNU3pxb0ZpN345czkwckNnNzdXMTJab2RYQVFBQUFBJCQAAAAAAAAAAAEAAAD5V1RPv7e~ybHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHbZX1d22V9XU",
+			"expiry": 1725099382,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:16:22 GMT",
+			"value": "fi_PncwhpxZ%7ETaJcwkWLB0K7kCzNW%7EnP0eB1QbVCWOLKdxEqGh0F5sLZthq6CdujzQTMQV%7ElKV-L3nLRD4YD2SajpcPydN3G3Qu5UrXRVfrBtg7YraLVXIT7cjDuTMN2wHPzLfZLCITS-FEKmnTLe5n3euM5g__",
+			"expiry": 1725099382,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:16:22 GMT",
+			"value": "c9ac9f7762e021cf65a2396b69f0107c99fbb8e177448befe7b5",
+			"expiry": 1725099382,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:16:22 GMT",
+			"value": "wapp_1465899313428_700",
+			"expiry": 1725099382,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:15:48 GMT",
+			"value": "1",
+			"expiry": 1465985748,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:15:30 GMT",
+			"value": "1",
+			"expiry": 1465985730,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:15:30 GMT",
+			"value": "568",
+			"expiry": 1497003330,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:15:30 GMT",
+			"value": "320",
+			"expiry": 1497003330,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:15:14 GMT",
+			"value": "ED873C5671A30AECE85EC12AADC0749B:FG=1",
+			"expiry": 1497435314,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:15:13 GMT",
+			"value": "wapp_1465899313428_700",
+			"expiry": 2411979313,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "42145ea6112cc3e135f827c6",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:糠可变",
+	"Max Floor25",
+	"Target Floor2",
+	"find target floor",
+	[
+		"美丽要及时，请大家勇敢的迈进吧！！",
+		"术后快两个月咯！面部效果极佳，鼻子和下巴的立体感、精致度大有提升，个人感觉已经定型了！只能用最直白的词儿：“非常棒”来形容!哈哈哈哈 这段时间的护理还是没有松懈，睡眠、饮食上都极其注意，为了变美必须付出一定代价的。",
+		"我单diǎo难敌群曱魔. 于是我想到一个绝妙主意!",
+		"我也没办法因为我要打十五个字啊",
+		"我就指了瓶酱油",
+		"明察秋毫，",
+		"28 火车由北京到上海需要6小时，行使3小时后，火车该在什么地方？2冷p9【国铲小电影，值播+她vxin：mmj890 】6鹿f4",
+		"HUAWEI P9大光圈拍照，虚实分明，层次尽显！",
+		"放在一个你不知道的地方，让我们慢慢发酵",
+		"【 整么网 】这个网站确实不错，有专业的人去推荐医院和项目，避免了被当小白，我做了后，现在恢复好了而且效果还挺满意的。"
+	],
+	"",
+	{
+		"content": "nbsp;华蓥山天池",
+		"url": "http://tieba.baidu.com/p/4598577792?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "隆鼻",
+		"imgPath": "/data/lumppic/7acb0a46f21fbe098fffa91a69600c338744ad1f.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor35",
+	"Target Floor33",
+	"find target floor",
+	[
+		"老天也会眷顾你！必胜颜值从这里开始",
+		"我那时候也是害怕，不过最后还是去做了，恢复好了还挺满意的，不过没有直接找医苑，因为不了解去了怕被坑，所以我都是先在【整么网】上问了一下。",
+		"”毛泽东组织了“秋收起义”和广州起义，国共合作走上了尽头，共产党领导的以工人阶级为代表革命行动，遭到了国民党的沉重打击。在全国开始了血腥清洗，中国革命遭到所有未的毁灭性打击。国民党屠杀共产党及爱国进步人士。"
+	],
+	"",
+	{
+		"content": "第十六，招标制度",
+		"url": "http://tieba.baidu.com/p/4609919052?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "隆鼻",
+		"imgPath": "/data/lumppic/d788d43f8794a4c2583578770cf41bd5ad6e3953.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor23",
+	"Target Floor5",
+	"find target floor",
+	[
+		"【陈翔吧六周年快乐】默默喜欢陈翔快四年了😊",
+		"默默的发几张自拍吧 虽然也有奢望被记住呢😌☺"
+	],
+	"",
+	{
+		"content": "英语语言及文化（0838）毛泽东思想概论（0004）",
+		"url": "http://tieba.baidu.com/p/4612612301?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "快男陈翔",
+		"imgPath": "/data/lumppic/54fbb2fb43166d22e8b6ae9f452309f79152d2fc.jpg"
+	},
+	"",
+	[
+		"【陈翔吧六周年快乐】默默喜欢陈翔快四年了😊",
+		"默默的发几张自拍吧 虽然也有奢望被记住呢😌☺",
+		"英语语言及文化（0838）毛泽东思想概论（0004）"
+	],
+	"",
+	"Max Floor11",
+	"Target Floor2",
+	"find target floor",
+	[
+		"【情头】打印机图可做头像",
+		"喜欢的楼楼分享软件也可帮做",
+		"1",
+		"1"
+	],
+	"",
+	{
+		"content": "nbspnbspnbspnbsp董事会决定于2006年5月15日14:00召开股权分置改革相关股东会议，会议",
+		"url": "http://tieba.baidu.com/p/4612775579?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "情侣头像",
+		"imgPath": "/data/lumppic/bd315c6034a85edf668f7b2a4b540923dd5475bc.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor12",
+	"Target Floor8",
+	"find target floor",
+	[
+		"【情头】男朋友跟两个女生住一起，要不要分手",
+		"男盆友跟两个女生出去玩出去玩，晚上住一起，我要不要分手😞",
+		"那就要看他们是什么关系了",
+		"带一波小伙伴@情深致命565 @南有乔木oc",
+		"我觉得你男票做的有些过分了",
+		"必 须 分",
+		"分。这不还有我呢么。",
+		"分",
+		"分。如果他爱你，他就不会这样。还跟两个女生住在一起，这不是犯贱是什么。还有，我觉的楼主你有点奇怪，你问我们你要不要和你男朋友分手，有的人说分，你竟然还问为啥，我就笑一下，趁早分了吧。又或者你找你男朋友聊一下。这是我的个人看法。不喜勿喷",
+		"不分留着过年吗",
+		"分",
+		"他这个样子早晚给你整个小帽子带带.你俩早晚会分.不必给别人教育老公。",
+		"分 不分你就是傻",
+		"有点过分啊！",
+		"相信他",
+		"我忍不了"
+	],
+	"",
+	{
+		"content": "华为更改标识和快速增长的业绩有着密切的联系。作为目前我国电信企业中发展最快的企业之一，华为的国际化步伐一直备受关注。据华为公布的2005年销售数额显示，去年该公司实现销售收入453亿元人民币，且海外市场收入首次超过国内市场，达到总销售收入的58％。",
+		"url": "http://tieba.baidu.com/p/4600309451?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "情侣头像",
+		"imgPath": "/data/lumppic/cefc1e178a82b9017eb63b44718da9773912efaa.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"创建贴吧",
+	"2016-06-15 19:18:21http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E6%2583%2585%25E4%25BE%25A3%25E5%25A4%25B4%25E5%2583%258F%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7%26pn%3D0%26.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 231, in <module>",
+	"    wait.until(EC.presence_of_element_located((By.TAG_NAME,'input')))",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py\", line 80, in until",
+	"    raise TimeoutException(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: ",
+	""
+]

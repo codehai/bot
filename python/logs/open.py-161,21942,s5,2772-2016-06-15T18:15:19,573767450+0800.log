@@ -1,0 +1,262 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465902523", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:08:43 GMT", "value": "1465902409,1465902512,1465902519,1465902523", "expiry": 1497438523, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "D7D21739F04B605D", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:33 GMT", "value": "c218c5b985124a654a797de4edb8113ba04d4d703b8f2c167d76978622e14eee", "expiry": 1725102513, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:33 GMT", "value": "ae1a438eb3519fc982c6bb1f47856f94", "expiry": 1725102513, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:33 GMT", "value": "5239b4af27913f69f44a47b18962", "expiry": 1725102513, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:33 GMT", "value": "N6LWVrZmtkT2FranoydTBHSWJnVGFqVVlZUXVUb1hZVmhyMWRpTzFvR3djb2RYQVFBQUFBJCQAAAAAAAAAAAEAAAAQexlOcjF5ZzVkOTRuaQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALDlX1ew5V9XcV", "expiry": 1725102513, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:33 GMT", "value": "fi_PncwhpxZ%7ETaJc88UGIlSxFkOT6%7Em%7EtNytghFnKCaX-cvsTcmp%7EW6pQQlNwIZMHFegK7P%7EsOZVf1Qhb23al-Zsb05WPbryreEoNM6uRCSTUoVllRaWY5NUhU948wBSFYoX-h9bTIhtCmnKFAWm3avv70-Fg__", "expiry": 1725102513, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:33 GMT", "value": "7538d5174be77fb5539c85475ef038d9b621", "expiry": 1725102513, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 11:08:33 GMT", "value": "wapp_1465902439124_813", "expiry": 1725102513, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:07:58 GMT", "value": "1", "expiry": 1465988878, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 11:07:34 GMT", "value": "1", "expiry": 1465988854, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:07:34 GMT", "value": "568", "expiry": 1497006454, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 11:07:34 GMT", "value": "320", "expiry": 1497006454, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 11:07:19 GMT", "value": "65A34C569AEEABB12D81D00854A2F8CF:FG=1", "expiry": 1497438439, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 11:07:19 GMT", "value": "wapp_1465902439124_813", "expiry": 2411982439, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "4e35ce1808322f3e31f619b2", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:r1yg5d94ni
+Max Floor21
+Target Floor20
+find target floor
+[
+  "急求助，4s解锁界面有道白线", 
+  "连截图竟然能截出来", 
+  "换张壁纸看看", 
+  "你删过通知？解锁试试"
+]
+{
+  "content": "0的个数：1—5；", 
+  "url": "http://tieba.baidu.com/p/4612437862?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "iphone4s", 
+  "imgPath": "/data/lumppic/d058ccbf6c81800a9f0b9f8cb33533fa838b4741.jpg"
+}
+[
+  "急求助，4s解锁界面有道白线", 
+  "连截图竟然能截出来", 
+  "换张壁纸看看", 
+  "你删过通知？解锁试试", 
+  "0的个数：1—5；"
+]
+Max Floor22
+Target Floor2
+find target floor
+[
+  "急求助，4s解锁界面有道白线", 
+  "连截图竟然能截出来", 
+  "换张壁纸看看", 
+  "你删过通知？解锁试试"
+]
+{
+  "content": "nbsp;nbsp;nbsp; 离体育馆大概6公里", 
+  "url": "http://tieba.baidu.com/p/4612437862?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "iphone4s", 
+  "imgPath": "/data/lumppic/8694a4c27d1ed21bdd93e5ecaf6eddc451da3f65.jpg"
+}
+[
+  "急求助，4s解锁界面有道白线", 
+  "连截图竟然能截出来", 
+  "换张壁纸看看", 
+  "你删过通知？解锁试试", 
+  "nbsp;nbsp;nbsp; 离体育馆大概6公里"
+]
+Max Floor22
+Target Floor4
+find target floor
+[
+  "iphone4s在下载软件的过程中可以干别的吗", 
+  "一楼喂百度。"
+]
+{
+  "content": "外军瞭望", 
+  "url": "http://tieba.baidu.com/p/4612676765?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "iphone4s", 
+  "imgPath": "/data/lumppic/71cf3bc79f3df8dc41cc8a2bcf11728b46102892.jpg"
+}
+[
+  "iphone4s在下载软件的过程中可以干别的吗", 
+  "一楼喂百度。", 
+  "外军瞭望"
+]
+Max Floor22
+Target Floor4
+find target floor
+[
+  "我来为不明真相的吃瓜群众解析一下此次出租车与网约车大战的内幕", 
+  "想到哪写到哪\n现写现发的\n所以可能会比较慢\n随便插楼\n开八", 
+  "开始啊！", 
+  "还在想？", 
+  "更！", 
+  "太监了", 
+  "还没想好呢吧"
+]
+{
+  "content": "Resort上。伯瓷酒店内部更是极尽奢华之能事，触目皆金，连门把、厕所的水管，甚至是一张便条纸，都“爬”满黄金。2nbsp; 　　吴小莉：全球迪斯尼主题公园", 
+  "url": "http://tieba.baidu.com/p/4612577486?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "大连", 
+  "imgPath": "/data/lumppic/94cad1c8a786c91746e0e730cb3d70cf3ac757d3.jpg"
+}
+[
+  "我来为不明真相的吃瓜群众解析一下此次出租车与网约车大战的内幕", 
+  "想到哪写到哪\n现写现发的\n所以可能会比较慢\n随便插楼\n开八", 
+  "开始啊！", 
+  "还在想？", 
+  "更！", 
+  "太监了", 
+  "还没想好呢吧", 
+  "Resort上。伯瓷酒店内部更是极尽奢华之能事，触目皆金，连门把、厕所的水管，甚至是一张便条纸，都“爬”满黄金。2nbsp; 　　吴小莉：全球迪斯尼主题公园"
+]
+Max Floor35
+Target Floor23
+find target floor
+[
+  "大货车没有两个前轮这车是怎么转弯的？！交警帅哥看了都纳闷半天。", 
+  "我先来，第一次见。 看本视频完整版微信搜索：dsj015 后面部分更精彩。更有你有所不知的大事件！\n回顾往期全球热门大事件 精彩内容\n6月12日：大货车没有两个前轮这车是怎么转弯的？！交警帅哥看了都纳闷半天。\n6月10日：监控实拍车祸现场惊魂一幕，最后你肯定意想不到！\n6月7日：恐怖垂直过山车，挑战10项世界记录！\n6月6日：老婆拿到驾照以后，老公竟直接带她去买劳斯莱斯！\n6月1日：存款5万块60余年却变成50元，80岁老奶奶怒砸坏银行大门！\n5月27日：原来高铁是这么修的，第一次见！（附现场视频）\n5月25日：MC天佑，挨揍视频,13个酒瓶直接脑瓜开瓢！\n微信搜索：dsj015\n马上看往期精彩：盘点大事件", 
+  "前四后八吧？", 
+  "求一萌弟弟,么么哒", 
+  "艰苦奋斗，", 
+  "葛优？不不，是歌友！！！", 
+  "?“刚开始的时候，他什么都不介意， 不介意你的过去，不介意你的坏脾气， 然后有一天，他开始介意，", 
+  "你的那个大大的，好想要", 
+  "你好哥哥，么么", 
+  "666", 
+  "前边的四个都是转向轮", 
+  "现在高三，一个女生喜欢我，我也喜欢她，可是她说我们永远不可能。这是怎么回事？请求各路大仙帮帮小弟！！！快高考了，我想高考完和她表白，可是前段", 
+  "666", 
+  "12楼正解，那交警也是sb", 
+  "牛叉", 
+  "车上有个开关可以两驱或者四驱…四驱就是他前面4个轮子同时转向…应对坑洼路段用的"
+]
+{
+  "content": "子也不留给自己的同行布鲁斯。值得一提的还有，在双方最近5次交手中，伯明翰3胜1", 
+  "url": "http://tieba.baidu.com/p/4610797985?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "青岛", 
+  "imgPath": "/data/lumppic/7aec54e736d12f2e27cf79694dc2d562843568f5.jpg"
+}
+[
+  "大货车没有两个前轮这车是怎么转弯的？！交警帅哥看了都纳闷半天。", 
+  "我先来，第一次见。 看本视频完整版微信搜索：dsj015 后面部分更精彩。更有你有所不知的大事件！\n回顾往期全球热门大事件 精彩内容\n6月12日：大货车没有两个前轮这车是怎么转弯的？！交警帅哥看了都纳闷半天。\n6月10日：监控实拍车祸现场惊魂一幕，最后你肯定意想不到！\n6月7日：恐怖垂直过山车，挑战10项世界记录！\n6月6日：老婆拿到驾照以后，老公竟直接带她去买劳斯莱斯！\n6月1日：存款5万块60余年却变成50元，80岁老奶奶怒砸坏银行大门！\n5月27日：原来高铁是这么修的，第一次见！（附现场视频）\n5月25日：MC天佑，挨揍视频,13个酒瓶直接脑瓜开瓢！\n微信搜索：dsj015\n马上看往期精彩：盘点大事件", 
+  "前四后八吧？", 
+  "求一萌弟弟,么么哒", 
+  "艰苦奋斗，", 
+  "葛优？不不，是歌友！！！", 
+  "?“刚开始的时候，他什么都不介意， 不介意你的过去，不介意你的坏脾气， 然后有一天，他开始介意，", 
+  "你的那个大大的，好想要", 
+  "你好哥哥，么么", 
+  "666", 
+  "前边的四个都是转向轮", 
+  "现在高三，一个女生喜欢我，我也喜欢她，可是她说我们永远不可能。这是怎么回事？请求各路大仙帮帮小弟！！！快高考了，我想高考完和她表白，可是前段", 
+  "666", 
+  "12楼正解，那交警也是sb", 
+  "牛叉", 
+  "车上有个开关可以两驱或者四驱…四驱就是他前面4个轮子同时转向…应对坑洼路段用的", 
+  "子也不留给自己的同行布鲁斯。值得一提的还有，在双方最近5次交手中，伯明翰3胜1"
+]
+Max Floor34
+Target Floor5
+find target floor
+[
+  "谁知道李村那边怎么了呀！", 
+  "谁知道李村那边怎么了呀？", 
+  "现在吗"
+]
+{
+  "content": "白领的工作 打工妹的生活！", 
+  "url": "http://tieba.baidu.com/p/4612676252?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "青岛", 
+  "imgPath": "/data/lumppic/8435e5dde71190ef9ae13bd6cc1b9d16fdfa60a5.jpg"
+}
+[
+  "谁知道李村那边怎么了呀！", 
+  "谁知道李村那边怎么了呀？", 
+  "现在吗", 
+  "白领的工作 打工妹的生活！"
+]
+Max Floor32
+Target Floor19
+find target floor
+[
+  "王绪香你还好吗"
+]
+{
+  "content": "nbspnbspnbspnbsp此前所进行的三届农交会,签订贸易合同项目5000多项,贸易合同金额590亿元,意向合同金额近800亿元。", 
+  "url": "http://tieba.baidu.com/p/4612625215?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "青岛", 
+  "imgPath": "/data/lumppic/9f2f070828381f30789e3fa0ab014c086e06f030.jpg"
+}
+[
+  "王绪香你还好吗", 
+  "nbspnbspnbspnbsp此前所进行的三届农交会,签订贸易合同项目5000多项,贸易合同金额590亿元,意向合同金额近800亿元。"
+]
+Max Floor33
+Target Floor21
+find target floor
+[
+  "旁边工厂起火了！会不会烧到我这！", 
+  "好大烟", 
+  "无法靠近了熏死爹啦！", 
+  "天黑了"
+]
+{
+  "content": "近日，搜狐与福建东南卫视联手打造搜狗女声赛事，将为那些想在E时代一举成名的女生搭建的快车道。一直声称要发展娱乐业的搜狐，迈出了实质的一步。", 
+  "url": "http://tieba.baidu.com/p/4563186544?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "青岛", 
+  "imgPath": "/data/lumppic/d833c895d143ad4bfe89c8be80025aafa40f062c.jpg"
+}
+[
+  ""
+]
+Max Floor26
+Target Floor15
+find target floor
+[
+  "HongSt☆r＿『爱鸡┊160612』洪基和众友人近日多出没在老崔的店里~", 
+  "160611 @李洪基 相关IG三则\n1.【全镇武：崔社长 大发吧。@ftgtjhc 会给你偷bearbrick的。还有李洪基和他的内缘男 （内缘男是法律上没有婚姻申告但是实际过着夫妻生活的男人）大植 #推拉小店 1006-sunny @power-support】\n2.【rr_rr_sss 女造型师：为了祝愿勋尼桑的大发。。鸡胗店杀死#推拉小店】\n３.「原图未配文字」这个女生是去年法国演唱的翻译妹子\n翻译：糯米 转载请注明李洪基国际后援会", 
+  "全镇武你好坯喔！干嘛把李洪基和金大植的关系说出来你让我们老崔和在真如何是好哈哈哈哈哈哈", 
+  "大家似乎都聚集来老崔的店里，以后去韩国玩列为必去景点，包准会遇到很多明星艺人的", 
+  "老崔的店开在哪里(o゜▽゜)o☆", 
+  "话说大植不是有女朋友了吗？怎么还可以跟着鸡每天廝混，女朋友不翻脸吗？", 
+  "介绍一下老崔和朋友五人合伙的店：【前线】今天训吧实地去了解钟训合伙开的咖啡馆？了～[嘻嘻][嘻嘻]店子名字叫〈\"밀땅포차\"〉밀땅是推拉的暧昧关系的意思，포차是小店铺，看店标说明一切[doge][doge]所以皮下也不是很懂这是咖啡馆..还是酒吧[喵喵]大家一定要去捧场哦～【 地址：청담동 87-10번지 미니스톱 2층 】感谢训吧前线花鱼😘😘【转载请注明出处】\n中文地址：清潭洞87-10号 ministop2楼", 
+  "=====封=====", 
+  "又多了一个地方玩啦.老崔.弘基的店珉焕在开家炸鸡店就更好了", 
+  "大植赶紧回家陪你正式的女朋友去，别再陪抽基瞎晃悠了", 
+  "老崔开了个什么店呀？", 
+  "最近很闲哦", 
+  "韩国之旅必去的地方", 
+  "好特别的名字", 
+  "这么看，你和大植在一起算了", 
+  "天哪！大植是鸡的内缘男。。。。。。我不想说我嫉妒的不要不要的了！！！！"
+]
+{
+  "content": "Plane, high speed train and high speed shuttle bus are diffused for us.", 
+  "url": "http://tieba.baidu.com/p/4606437727?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "李弘基", 
+  "imgPath": "/data/lumppic/08f790529822720e5e9a3cfa79cb0a46f21fab5e.jpg"
+}
+[
+  ""
+]
+Max Floor9
+Target Floor8
+find target floor
+[
+  "揭秘宫廷美人的美白之道", 
+  "吹弹可破，玉骨冰肌这些都是美人的修饰词，你可曾疑惑过在美容事业没那么发达的古代，贵妃公主们是怎样保持晶莹剔透的肌肤？今天我们一起探索一下这些古代的美人儿是如何做到面若桃花的。"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:19:05http%3A%2f%2ftieba.baidu.com%2fp%2f4612664181%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

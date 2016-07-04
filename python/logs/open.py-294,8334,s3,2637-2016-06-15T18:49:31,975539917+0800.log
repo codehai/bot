@@ -1,0 +1,211 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465900730", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:38:49 GMT", "value": "1465900597,1465900601,1465900718,1465900730", "expiry": 1497436729, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "CC0BF2DA88166C0B", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:38:39 GMT", "value": "05bf88a8e88d8dadad1e14a8835c4ccb0a9c7f7af1e3e69a84b3521e43d9a146", "expiry": 1725100719, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:38:39 GMT", "value": "750e7b5a838e750cb87e718fbadd1598", "expiry": 1725100719, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:38:39 GMT", "value": "715f3e53b47a9859d6de9701acceb0", "expiry": 1725100719, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:38:39 GMT", "value": "XZQSXRTWDAwampjazJvMTk4Yi1vfkt0bmpkb0FKUnVHM05zOFBraWctLXZhNGRYQVFBQUFBJCQAAAAAAAAAAAEAAADEaDJVc2hpenJqaWQ3MzkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK~eX1ev3l9XO", "expiry": 1725100719, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:38:39 GMT", "value": "fi_PncwhpxZ%7ETaJc9E1Bk8-N38AGj1gj4L5aZRa2s07PAb00z1OZRGdyYHE26zskkSmpaH2teQ0wBoJIjBxXnhq5L%7EN5LLhLDchx4XjJtxS6LyWDT2ftJ53U9SldwIVIv0YDkicg9AFfbjWXGHeQ7OrVZ3FzA__", "expiry": 1725100719, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:38:39 GMT", "value": "7856ad85c748ad9f2ddc406636b932377a2f33", "expiry": 1725100719, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:38:39 GMT", "value": "wapp_1465900649426_679", "expiry": 1725100719, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:38:04 GMT", "value": "1", "expiry": 1465987084, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:37:46 GMT", "value": "1", "expiry": 1465987066, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:37:46 GMT", "value": "568", "expiry": 1497004666, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:37:46 GMT", "value": "320", "expiry": 1497004666, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:37:29 GMT", "value": "7476FD3BA29BC9794E2D3B6C2543BEA6:FG=1", "expiry": 1497436649, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:37:29 GMT", "value": "wapp_1465900649426_679", "expiry": 2411980649, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "9ad47069592815c06d1b1fcb", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:shizrjid739
+Max Floor41
+Target Floor8
+find target floor
+[
+  "【璀璨十年 倪暖嘉园】【外交】★百度郑爽吧送来端午祝福★", 
+  "╭———————— 百 度 郑 爽 吧 欢 迎 您 ————————╮\n百度郑爽吧直通车：http://tieba.baidu.com/f?kw=%D6%A3%CB%AC\n╰———————————— ♡ ♡ ♡ ———————————╯\n欢迎常来做客 愿两吧友谊长存"
+]
+{
+  "content": "探亲型假期的致命伤：当你与某人恋爱时，你看到的他只是表面的他，恋爱的最初应该是轻松愉快的，何必急着接触到他的整个家庭背景和人际网络呢。假期，本来就应该尽情享受最浅层的快乐，逛街逛到腿软才是真，何必用它来上一堂关于终身大事的功课，坏了自己的心情呢。", 
+  "url": "http://tieba.baidu.com/p/4587831902?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "张嘉倪", 
+  "imgPath": "/data/lumppic/35a85edf8db1cb1354d0891adf54564e92584b79.jpg"
+}
+[
+  "【璀璨十年 倪暖嘉园】【外交】★百度郑爽吧送来端午祝福★", 
+  "╭———————— 百 度 郑 爽 吧 欢 迎 您 ————————╮\n百度郑爽吧直通车：http://tieba.baidu.com/f?kw=%D6%A3%CB%AC\n╰———————————— ♡ ♡ ♡ ———————————╯\n欢迎常来做客 愿两吧友谊长存", 
+  "探亲型假期的致命伤：当你与某人恋爱时，你看到的他只是表面的他，恋爱的最初应该是轻松愉快的，何必急着接触到他的整个家庭背景和人际网络呢。假期，本来就应该尽情享受最浅层的快乐，逛街逛到腿软才是真，何必用它来上一堂关于终身大事的功课，坏了自己的心情呢。"
+]
+Max Floor41
+Target Floor12
+find target floor
+[
+  "【璀璨十年 倪暖嘉园】【外交】★杨幂吧★祝贵吧吧友劳动节快乐", 
+  "※＊ ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂＊ ※\n百度杨幂吧\n祝贵吧吧友劳动节快乐！\n※＊ ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂＊ ※", 
+  "☆◇☆━═┈━━═┈━═☆◇☆\n沐浴四月未尽的清风，感受五月扑来的芳香\n五月劳动之歌带来春播的佳音捎去夏耘的希冀\n劳动，是“田家少闲月，五月人倍忙”生活的写照。\n劳动，是“草铺横野六七里，笛弄晚风三四声”绿色的希望。\n劳动，是“千锤万凿出深山，烈火焚烧若等闲”付出的无悔\n劳动，是上神白浅在青丘仙乡传扬下的一片和平福祉\n劳动，是翻译官乔菲在高翻院中刻苦专研的严谨态度\n劳动。是画师北斋在绣春刀.修罗场中的惩恶扬善\n☆◇☆━═┈━━═┈━═☆◇☆\n\n☆◇☆━═┈━━═┈━═☆◇☆\n是劳动 让现今的都市高楼林立\n是劳动 让我们畅享现代化通讯\n是劳动 让贫瘠的土地变成现在郁郁葱葱\n劳动人民用勤劳的双手和无上的智慧\n编织了我们现在五彩斑斓的世界\n让我们在这个特别的日子里\n向全世界的劳动者致敬\n百度杨幂吧 与您共庆五一劳动节\n☆◇☆━═┈━━═┈━═☆◇☆", 
+  "百度杨幂吧祝贵吧吧友\n◆◆◆五月一日◆◆◆\n▂▂▂▂▂▂劳动节快乐▂▂▂▂▂▂▂ ┏╮/╱\n╰★╮相约百度杨幂吧 ╰┛\n▂▂▂▂杨幂吧欢迎您的到来!\n→☆→☆→☆→愿两吧友谊长存 ←★←★←★←", 
+  "小女子一枚，求友", 
+  "[语音]", 
+  "[语音]"
+]
+{
+  "content": "3.合理饮食并多食黑芝麻。民间多认为黑芝麻可以补气血、润发、乌发，是很有道理的，注意进食之前要使黑芝麻充分破碎，以便汲取到更多的芝麻素。将黑芝麻炒熟后捣碎，冲茶喝，或者拌入凉拌菜中，效果颇佳，怕麻烦也可以经常食用无糖黑芝麻糊。", 
+  "url": "http://tieba.baidu.com/p/4515164600?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "张嘉倪", 
+  "imgPath": "/data/lumppic/faedab64034f78f0b34b1f847b310a55b3191c00.jpg"
+}
+[
+  "【璀璨十年 倪暖嘉园】【外交】★杨幂吧★祝贵吧吧友劳动节快乐", 
+  "※＊ ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂＊ ※\n百度杨幂吧\n祝贵吧吧友劳动节快乐！\n※＊ ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂＊ ※", 
+  "☆◇☆━═┈━━═┈━═☆◇☆\n沐浴四月未尽的清风，感受五月扑来的芳香\n五月劳动之歌带来春播的佳音捎去夏耘的希冀\n劳动，是“田家少闲月，五月人倍忙”生活的写照。\n劳动，是“草铺横野六七里，笛弄晚风三四声”绿色的希望。\n劳动，是“千锤万凿出深山，烈火焚烧若等闲”付出的无悔\n劳动，是上神白浅在青丘仙乡传扬下的一片和平福祉\n劳动，是翻译官乔菲在高翻院中刻苦专研的严谨态度\n劳动。是画师北斋在绣春刀.修罗场中的惩恶扬善\n☆◇☆━═┈━━═┈━═☆◇☆\n\n☆◇☆━═┈━━═┈━═☆◇☆\n是劳动 让现今的都市高楼林立\n是劳动 让我们畅享现代化通讯\n是劳动 让贫瘠的土地变成现在郁郁葱葱\n劳动人民用勤劳的双手和无上的智慧\n编织了我们现在五彩斑斓的世界\n让我们在这个特别的日子里\n向全世界的劳动者致敬\n百度杨幂吧 与您共庆五一劳动节\n☆◇☆━═┈━━═┈━═☆◇☆", 
+  "百度杨幂吧祝贵吧吧友\n◆◆◆五月一日◆◆◆\n▂▂▂▂▂▂劳动节快乐▂▂▂▂▂▂▂ ┏╮/╱\n╰★╮相约百度杨幂吧 ╰┛\n▂▂▂▂杨幂吧欢迎您的到来!\n→☆→☆→☆→愿两吧友谊长存 ←★←★←★←", 
+  "小女子一枚，求友", 
+  "6''", 
+  "4''", 
+  "3.合理饮食并多食黑芝麻。民间多认为黑芝麻可以补气血、润发、乌发，是很有道理的，注意进食之前要使黑芝麻充分破碎，以便汲取到更多的芝麻素。将黑芝麻炒熟后捣碎，冲茶喝，或者拌入凉拌菜中，效果颇佳，怕麻烦也可以经常食用无糖黑芝麻糊。"
+]
+Max Floor41
+Target Floor12
+find target floor
+[
+  "【璀璨十年 倪暖嘉园】【外交】于和伟吧全体禾苗邀您5.4共庆于", 
+  "╊═┉∞ ∞┉═∞ ∞┉═╪╊═┉∞ ∞┉═∞ ∞┉═╪ ╊═┉∞ ∞┉═∞ ∞┉═╪\n时光如水，任由你在于和伟的世界里拥抱暖阳，又是一个五四青年节，我们衷心的祝福他，生日快乐！\n于和伟吧全体禾苗\n诚邀您一起见证这个属于他的日子！\n和╭╮和╭╮和╭╮\n╭┛‖╭┛‖╭┛‖\n╰═┛╰═┛╰═┛-------------------------------------", 
+  "喜欢我，我们就做朋友～～求约偶", 
+  "[语音]"
+]
+{
+  "content": "案例：在农村长大的张先生获得了计算机专业硕士学位，消息一经传开立即成为了当地农民茶余饭后的热门话题，张家每个人更是乐开了花，张先生也很为自己取得的成绩感到无比的骄傲。他顺利地在大城市找到了自己的位置，在一家IT企业做工程师，薪水颇为丰厚。但是，工作了以后他渐渐自满起来，工作的干劲少了，学习新知识、新技术的热情没了，每天只是很被动地完成工作。而这个时候，公司新招了一个同等学历的新人，论专业技术，他丝毫不比张先生差，而且他还考出了高级程序员的证书；论工作干劲和学习热情，他绝对是更胜一筹。张先生也感到了竞争的压力在逐步加大，但是很难再迎头赶上了，上司越来越器重他的对手，最后他被迫辞职。", 
+  "url": "http://tieba.baidu.com/p/4518028617?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "张嘉倪", 
+  "imgPath": "/data/lumppic/fc1f4134970a304e117515f3d3c8a786c9175c67.jpg"
+}
+[
+  "【璀璨十年 倪暖嘉园】【外交】于和伟吧全体禾苗邀您5.4共庆于", 
+  "╊═┉∞ ∞┉═∞ ∞┉═╪╊═┉∞ ∞┉═∞ ∞┉═╪ ╊═┉∞ ∞┉═∞ ∞┉═╪\n时光如水，任由你在于和伟的世界里拥抱暖阳，又是一个五四青年节，我们衷心的祝福他，生日快乐！\n于和伟吧全体禾苗\n诚邀您一起见证这个属于他的日子！\n和╭╮和╭╮和╭╮\n╭┛‖╭┛‖╭┛‖\n╰═┛╰═┛╰═┛-------------------------------------", 
+  "喜欢我，我们就做朋友～～求约偶", 
+  "4''", 
+  "案例：在农村长大的张先生获得了计算机专业硕士学位，消息一经传开立即成为了当地农民茶余饭后的热门话题，张家每个人更是乐开了花，张先生也很为自己取得的成绩感到无比的骄傲。他顺利地在大城市找到了自己的位置，在一家IT企业做工程师，薪水颇为丰厚。但是，工作了以后他渐渐自满起来，工作的干劲少了，学习新知识、新技术的热情没了，每天只是很被动地完成工作。而这个时候，公司新招了一个同等学历的新人，论专业技术，他丝毫不比张先生差，而且他还考出了高级程序员的证书；论工作干劲和学习热情，他绝对是更胜一筹。张先生也感到了竞争的压力在逐步加大，但是很难再迎头赶上了，上司越来越器重他的对手，最后他被迫辞职。"
+]
+Max Floor25
+Target Floor13
+find target floor
+[
+  "大家来来来，看人装B拉", 
+  "@宠妃隐居 @半岛曲折", 
+  "自古2楼归楼主", 
+  "@乱心小月牙 @凉月倾寒 @NotInTheMood @一路上Love徘徊 @草薙护堂黄金剑", 
+  "@星月珊珊公主 @鏉庡皬甯吢 @豆沙包u @dangerous紫蝶 @双子紫色的夢", 
+  "@战队df @12138叮当猫 @网络差无法显示 @巨云战神 @女神下面i", 
+  "@晓露真曦 @丿洋芋丨 @林哥ax @萍楠晴蔡", 
+  "@疯狂的雪渣", 
+  "嗯？什么鬼", 
+  "。", 
+  "嗯哼？", 
+  "你就不能主动撩我么！！！o(￣ヘ￣o)", 
+  "关注一下，再发帖我还DD", 
+  "然后", 
+  "@半岛曲折", 
+  "啧啧", 
+  "恩"
+]
+{
+  "content": "nbsp;", 
+  "url": "http://tieba.baidu.com/p/4610996759?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "斗破苍穹", 
+  "imgPath": "/data/lumppic/5882b2b7d0a20cf4b8a82d9674094b36acaf99bb.jpg"
+}
+[
+  "大家来来来，看人装B拉", 
+  "@宠妃隐居 @半岛曲折", 
+  "自古2楼归楼主", 
+  "@乱心小月牙 @凉月倾寒 @NotInTheMood @一路上Love徘徊 @草薙护堂黄金剑", 
+  "@星月珊珊公主 @鏉庡皬甯吢 @豆沙包u @dangerous紫蝶 @双子紫色的夢", 
+  "@战队df @12138叮当猫 @网络差无法显示 @巨云战神 @女神下面i", 
+  "@晓露真曦 @丿洋芋丨 @林哥ax @萍楠晴蔡", 
+  "@疯狂的雪渣", 
+  "嗯？什么鬼", 
+  "。", 
+  "嗯哼？", 
+  "你就不能主动撩我么！！！o(￣ヘ￣o)", 
+  "关注一下，再发帖我还DD", 
+  "然后", 
+  "@半岛曲折", 
+  "啧啧", 
+  "恩", 
+  "nbsp;"
+]
+Max Floor8
+Target Floor6
+find target floor
+[
+  "给印象", 
+  "留下15字吧", 
+  "就这么简单", 
+  "给印象", 
+  "在你最爱的时候你不想结婚，在你最想安定的时候遇到那个可能不是你最爱的，或许这就是婚姻。你把青", 
+  "…", 
+  "…", 
+  "静静快升静静快升级静静快升级", 
+  "@fg9f888 我们不生产水，我们只是大自然的搬运工", 
+  "滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴", 
+  "给我", 
+  "八百", 
+  "近日，一男子与女友同居三个月之后，第一次见到女友素颜被吓傻的消息，引发广大微博用户的关注与热", 
+  "ddddddddddddddddddddd", 
+  "下午好啊", 
+  "晚"
+]
+{
+  "content": "是不是因为临江的缘故？上海的风好象更有力一些。", 
+  "url": "http://tieba.baidu.com/p/4612713771?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "帅哥", 
+  "imgPath": "/data/lumppic/10dfa9ec8a136327ad35ad4b938fa0ec09fac7ea.jpg"
+}
+[
+  "给印象", 
+  "留下15字吧", 
+  "就这么简单", 
+  "给印象", 
+  "在你最爱的时候你不想结婚，在你最想安定的时候遇到那个可能不是你最爱的，或许这就是婚姻。你把青", 
+  "…", 
+  "…", 
+  "静静快升静静快升级静静快升级", 
+  "@fg9f888 我们不生产水，我们只是大自然的搬运工", 
+  "滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴滴", 
+  "给我", 
+  "八百", 
+  "近日，一男子与女友同居三个月之后，第一次见到女友素颜被吓傻的消息，引发广大微博用户的关注与热", 
+  "ddddddddddddddddddddd", 
+  "下午好啊", 
+  "晚", 
+  "是不是因为临江的缘故？上海的风好象更有力一些。"
+]
+Max Floor40
+Target Floor26
+find target floor
+[
+  "【06-15 乐迷求助】新买的乐视 不到1个月", 
+  "我就想问一下 怎么下软件啊 爱奇艺的电影跟电视剧都看不了 太坑了 要我下爱奇艺客户端 但点击下载 又下不了… 好烦啊 而且很多功能都没发觉…", 
+  "顶", 
+  "顶", 
+  "一样", 
+  "楼主要会员吗", 
+  "下个当贝市场 在里面下个爱奇艺 搞定", 
+  "手机上下载一个悟空遥控，手机和电视在同一个无线网直接下载到电视上", 
+  "直接网页搜索当贝市场，然后再去这个软件里下载你想要的软件，"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 18:52:04http%3A%2f%2ftieba.baidu.com%2fp%2f4612284901%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

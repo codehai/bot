@@ -1,0 +1,154 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465901201", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:46:40 GMT", "value": "1465901077,1465901082,1465901182,1465901201", "expiry": 1497437200, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "95B0F5B9045A74C5", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:46:29 GMT", "value": "21af08c140e820fd123ed3893f826713e92e294e90fa0ce563c82115ef45103e", "expiry": 1725101189, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:46:29 GMT", "value": "644931630d5c0b9f00437a7df6da43c1", "expiry": 1725101189, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:46:29 GMT", "value": "606c3c9e8e96e5606c81e9f1f5b7011e", "expiry": 1725101189, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:46:29 GMT", "value": "VdpTnN1UX54Wmh0WllnUHR-b3EwMTdxZkR-eUZjcVZLTVF1Nm1ZWG5taUZiWWRYQVFBQUFBJCQAAAAAAAAAAAEAAADnE2NPzNm05bj00ecAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIXgX1eF4F9XQ", "expiry": 1725101189, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:46:29 GMT", "value": "fi_PncwhpxZ%7ETaJc%7EsZWK5n4%7EINLDswq3DGPqvPrzcSkGyxN5QVPUHFDQVcTBU0mBVxMx9ozV2UJvKyVABSamTUawc%7E-dGXV0hViB9lDP%7EZRLjP2LIyeTAUQHE1rf3DPGt5UxQQjYHUgYrGUcrBLtgdtj33RA__", "expiry": 1725101189, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:46:29 GMT", "value": "3301ad5b17df1ad30b088b3ce9c5c72414c96b308e022cab0e8ae4af5469d1cd", "expiry": 1725101189, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:46:29 GMT", "value": "wapp_1465901120472_134", "expiry": 1725101189, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:45:51 GMT", "value": "1", "expiry": 1465987551, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:45:37 GMT", "value": "1", "expiry": 1465987537, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:45:36 GMT", "value": "568", "expiry": 1497005136, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:45:36 GMT", "value": "320", "expiry": 1497005136, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:45:21 GMT", "value": "411FB954B50BE809829460F1FEF47507:FG=1", "expiry": 1497437121, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:45:20 GMT", "value": "wapp_1465901120472_134", "expiry": 2411981120, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "217c8d3e01024b62d2a936c9", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:藤村隔宴
+Max Floor14
+Target Floor11
+find target floor
+[
+  "太可怕了，刚才差点发动战争了，只能猜图了", 
+  "太可怕了，刚才差点发动战争了\n刚才想做一个大数据柯南人物人气贴，数据都准备好了，结果看一下吧规，不能发。\n哎呀，差点发动战争了\n只能发个图给大家猜\n\n这是一张2016年5月上旬的图，请猜这是哪个动画人物的搜索指数。"
+]
+{
+  "content": "据美英两国医学专家研究发现，牛奶中含有两种过去人们未知的催眠物质，其中一种是能够促进睡眠的以血清素合成的色氨酸，由于它的作用，往往只需要一杯牛奶就可以使人入睡；另外一种则是具有类似麻醉镇静作用的天然吗啡类的物质。所以，如果在早晨饮奶，就必然会使人的大脑皮层受到抑制，影响白天的工作和学习。此外，早晨饮奶也不利于消化和吸收，这是因为牛奶的蛋白质要经过胃和小肠的分解形成氨基酸后才能被人体吸收，而早晨空腹状态下，胃、肠的排空是很快的，因此牛奶还来不及消化就被排到了大肠。再有，食物当中被吸收的蛋白质只有在热量充足的基础上才能构成人体组织的一部分，倘若热量不足，吸收的蛋白质就很快变成热量而被消耗掉了，这无疑是一种大材小用的浪费。", 
+  "url": "http://tieba.baidu.com/p/4612706107?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "柯南", 
+  "imgPath": "/data/lumppic/4bed2e738bd4b31c3475fc4885d6277f9f2ff8fc.jpg"
+}
+[
+  "", 
+  "太可怕了，刚才差点发动战争了\n刚才想做一个大数据柯南人物人气贴，数据都准备好了，结果看一下吧规，不能发。\n哎呀，差点发动战争了\n只能发个图给大家猜\n\n这是一张2016年5月上旬的图，请猜这是哪个动画人物的搜索指数。"
+]
+Max Floor33
+Target Floor26
+find target floor
+[
+  "【委鬼晨晨】求助！", 
+  "三月十六号我在五大唱片买了一张魏晨的专辑， 都快四个月了还没到， 而且现在连物流都查不到，会员专区也进不去， 我是不是被骗了？", 
+  "亲 你好\n请查看一下您在支付宝转账的时候是否提交订单编号\n如未备注订单编号，请及时拨打五大唱片客服电话进行咨询\n楠楠", 
+  "6.30号广州的你要一起去吗", 
+  "于是楼主去看了信任的皮肤科医生开了点药（不是激素那种）就是主要舒缓的然后略缓解还是不好\n本姑娘最近 18天 居然减掉了 15 斤，会不会伤身？我v：mote529", 
+  "求翻译这句话 困扰我两天了 这是三国演义邺中歌的头两句 知道的老师翻译下感激不尽"
+]
+{
+  "content": "对此，某人力资源公司一位资深业务主任表示，女硕士女博士们似乎进入“求职怪圈”：因难找工作而读硕读博，但越往上读，越难找工作。", 
+  "url": "http://tieba.baidu.com/p/4609570470?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "魏晨", 
+  "imgPath": "/data/lumppic/b3b7d0a20cf431ad2ddefc304936acaf2edd98af.jpg"
+}
+[
+  "【委鬼晨晨】求助！", 
+  "三月十六号我在五大唱片买了一张魏晨的专辑， 都快四个月了还没到， 而且现在连物流都查不到，会员专区也进不去， 我是不是被骗了？", 
+  "亲 你好\n请查看一下您在支付宝转账的时候是否提交订单编号\n如未备注订单编号，请及时拨打五大唱片客服电话进行咨询\n楠楠", 
+  "6.30号广州的你要一起去吗", 
+  "于是楼主去看了信任的皮肤科医生开了点药（不是激素那种）就是主要舒缓的然后略缓解还是不好\n本姑娘最近 18天 居然减掉了 15 斤，会不会伤身？我v：mote529", 
+  "求翻译这句话 困扰我两天了 这是三国演义邺中歌的头两句 知道的老师翻译下感激不尽", 
+  "对此，某人力资源公司一位资深业务主任表示，女硕士女博士们似乎进入“求职怪圈”：因难找工作而读硕读博，但越往上读，越难找工作。"
+]
+Max Floor33
+Target Floor16
+find target floor
+[
+  "【委鬼晨晨】魏晨今年暑假要来演唱会么", 
+  "我初三毕业 家人说带暑假我去看魏晨x演唱会丫～ 好开心", 
+  "高三毕业～", 
+  "后来才明白，要赚到足够令自己安心的钱，才能过上简单、安逸、自由的生活，才能让自己活得更有底气", 
+  "早啊 我上次看演唱会就是初三毕业呢", 
+  "高三毕业", 
+  "高三毕业", 
+  "今年应该是没有的 晨晨今年主要在录综艺节目 估计没什么时间准备演唱会 但是分享会还是有的", 
+  "演唱会赶不及在暑假的，不过听说是在年底。暑假有分享会啊", 
+  "暑假应该没有的7月初有分享会啊，你刚初三就可以去好幸运"
+]
+{
+  "content": "美军常规的钻地弹药也很好使", 
+  "url": "http://tieba.baidu.com/p/4611612394?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "魏晨", 
+  "imgPath": "/data/lumppic/dcc451da81cb39dbe5a0d73ad2160924ab18307d.jpg"
+}
+[
+  "【委鬼晨晨】魏晨今年暑假要来演唱会么", 
+  "我初三毕业 家人说带暑假我去看魏晨x演唱会丫～ 好开心", 
+  "高三毕业～", 
+  "后来才明白，要赚到足够令自己安心的钱，才能过上简单、安逸、自由的生活，才能让自己活得更有底气", 
+  "早啊 我上次看演唱会就是初三毕业呢", 
+  "高三毕业", 
+  "高三毕业", 
+  "今年应该是没有的 晨晨今年主要在录综艺节目 估计没什么时间准备演唱会 但是分享会还是有的", 
+  "演唱会赶不及在暑假的，不过听说是在年底。暑假有分享会啊", 
+  "暑假应该没有的7月初有分享会啊，你刚初三就可以去好幸运", 
+  "美军常规的钻地弹药也很好使"
+]
+Max Floor47
+Target Floor44
+find target floor
+[
+  "【09-27 宝粉大晒】无聊 买了修改手机号码的软件", 
+  "无聊的来试试 报你的号码 想要我用什么号码打 报给我", 
+  "110", 
+  "18888888888", 
+  "不水", 
+  "号码任意变得"
+]
+{
+  "content": "nbsp;nbsp;nbsp; 67655 Kaiserslautern", 
+  "url": "http://tieba.baidu.com/p/4068500686?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "加多宝", 
+  "imgPath": "/data/lumppic/7e3e6709c93d70cfd69b4f0cfadcd100baa12b4a.jpg"
+}
+[
+  "【09-27 宝粉大晒】无聊 买了修改手机号码的软件", 
+  "无聊的来试试 报你的号码 想要我用什么号码打 报给我", 
+  "110", 
+  "18888888888", 
+  "不水", 
+  "号码任意变得", 
+  "nbsp;nbsp;nbsp; 67655 Kaiserslautern"
+]
+Max Floor47
+Target Floor29
+find target floor
+[
+  "凉茶里面那种药材是甜的", 
+  "啊啊啊 谢谢恩", 
+  "甘草是甜的，不过是调和其他中医的。加多宝的甜味并不是甘草的甜味", 
+  "饮料自然是甜的，要喝药你喝什么饮料哦，注意商品本质，加多宝，王老吉，和其正什么的本质都是饮料，并没有任何实际功效，当然，你要是喝一大卡车估计有点功效"
+]
+{
+  "content": "今年1月，苹果还申请了一项显示屏能够显示它看到的内容的专利。这项专利是把显示屏与摄像机结合在一起用于视频会议或者医疗行业。这是一种集成了CCD传感器的显示屏，不需要外部视频捕捉设备就可以同时显示和记录视频信息。简单的说，这种显示屏能够在显示视频会议的同时记录在显示屏前面参加会议的人。", 
+  "url": "http://tieba.baidu.com/p/4519740289?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "加多宝", 
+  "imgPath": "/data/lumppic/a044ad345982b2b736f68bcd33adcbef76099b4a.jpg"
+}
+[
+  "凉茶里面那种药材是甜的", 
+  "啊啊啊 谢谢恩", 
+  "甘草是甜的，不过是调和其他中医的。加多宝的甜味并不是甘草的甜味", 
+  "饮料自然是甜的，要喝药你喝什么饮料哦，注意商品本质，加多宝，王老吉，和其正什么的本质都是饮料，并没有任何实际功效，当然，你要是喝一大卡车估计有点功效"
+]
+2016-06-15 18:48:01http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E5%258A%25A0%25E5%25A4%259A%25E5%25AE%259D%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 305, in <module>
+    ActionChains(driver).click(driver.find_element_by_css_selector(".blue_kit_left a.blue_kit_btn_back")).perform()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 74, in perform
+    action()
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py", line 86, in <lambda>
+    self._driver.execute(Command.CLICK, {'button': 0}))
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 299.816
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+

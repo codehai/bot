@@ -1,0 +1,303 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": "tieba.baidu.com", "name": "PMS_JT", "expires": "\\u5468\\u4e09, 08 6\\u6708 2016 10:50:17 GMT", "value": "%28%7B%22s%22%3A1465383002580%2C%22r%22%3A%22http%3A//tieba.baidu.com/%3Fpage%3Ddiscovery%22%7D%29", "expiry": 1465383017, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "TIEBAUID", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "f986682cc202e21bfd7f2ece", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:49:58 GMT", "value": "251f6cef69758c633b279daf0d006a171e8935c0ff35b592e27aab4b23db21b6", "expiry": 1724582998, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:49:58 GMT", "value": "a84815f43a384b777518784fe5f8361b", "expiry": 1724582998, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:49:58 GMT", "value": "5792681ada6c08c1b427bdfa98b9b7", "expiry": 1724582998, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:49:58 GMT", "value": "lBeXhZaW9lcEpmbDlhdWlGc253RVlvSlMydDY3dHNrVjZERktmYVFRaFdoWDlYQVFBQUFBJCQAAAAAAAAAAAEAAAAz6WRPYmVpc2hhb295ODUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFb4V1dW-FdXWU", "expiry": 1724582998, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:49:58 GMT", "value": "fi_PncwhpxZ%7ETaJcyrNN0hYvErorldNNy6jisfXgxijXQJPVFT2uPM5TVTP1HuPelpYu9szonXK7-OoiBVFOKeM4%7EUy93mf29-vjAlw67pt9V7S5iShrKsTjtsRvQobU2WdM11sJvD5ELHdlzJ5vI5AgXuCeQ__", "expiry": 1724582998, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:49:58 GMT", "value": "407076025bab00429e4156d24ac50a7fbdf83d", "expiry": 1724582998, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 25 8\\u6708 2024 10:49:58 GMT", "value": "wapp_1465382931115_398", "expiry": 1724582998, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:49:21 GMT", "value": "1", "expiry": 1465469361, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u56db, 09 6\\u6708 2016 10:49:08 GMT", "value": "1", "expiry": 1465469348, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:49:08 GMT", "value": "568", "expiry": 1496486948, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u516d, 03 6\\u6708 2017 10:49:08 GMT", "value": "320", "expiry": 1496486948, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 10:48:51 GMT", "value": "C52151A3D6D64491A0E206E4AAB9F359:FG=1", "expiry": 1496918931, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 01 6\\u6708 2046 10:48:51 GMT", "value": "wapp_1465382931115_398", "expiry": 2411462931, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "8b7f763fa5dff0db9e1ffda1", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:beishaooy85
+Max Floor27
+Target Floor13
+find target floor
+[
+  "『网购』不要再走弯路了，【只有掌握正确的隐流的芳法才是关键】", 
+  "成功不是将来才有的，而是从决定去做的那一刻起，持续累积而成。", 
+  "博学强记", 
+  "大家知道app是有排行榜和热度的.平 时 大家 下 载 app 就 相 当 于 在 刷 app 热度，一个2～4 块，v信号搜索LQRautumn，一个2—4 块 ?一天有100 左 右的不收任何费 用！骗不了你 什 么觉 得 不合适大不了删除这是我的微信号LQRautumn（只限iphone）", 
+  "HUAWEI P9徕卡双摄像头，捕捉瞬息精彩！", 
+  "…没我说话的余地…飘走,", 
+  "效颦学步", 
+  "已收藏，希望楼主更新，虚心求教, 是不是真的，真的有用吗", 
+  "平凡的脚步也可以走完伟大的行程。", 
+  "弘 然荻读", 
+  "当机会来临时，你已经准备好了。", 
+  "映雪读书", 
+  "不愧下学、"
+]
+{
+  "content": "[1]nbsp;[2]nbsp;[3]nbsp;[4]nbsp;[5]nbsp;[6]nbsp;[7]nbsp;[8]nbsp;[9]nbsp;[10]nbsp;下一页nbsp;", 
+  "url": "http://tieba.baidu.com/p/4571835495?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "网上购物", 
+  "imgPath": "/data/lumppic/622762d0f703918f3c1198c0533d269758eec4fc.jpg"
+}
+[
+  "『网购』不要再走弯路了，【只有掌握正确的隐流的芳法才是关键】", 
+  "成功不是将来才有的，而是从决定去做的那一刻起，持续累积而成。", 
+  "博学强记", 
+  "大家知道app是有排行榜和热度的.平 时 大家 下 载 app 就 相 当 于 在 刷 app 热度，一个2～4 块，v信号搜索LQRautumn，一个2—4 块 ?一天有100 左 右的不收任何费 用！骗不了你 什 么觉 得 不合适大不了删除这是我的微信号LQRautumn（只限iphone）", 
+  "HUAWEI P9徕卡双摄像头，捕捉瞬息精彩！", 
+  "…没我说话的余地…飘走,", 
+  "效颦学步", 
+  "已收藏，希望楼主更新，虚心求教, 是不是真的，真的有用吗", 
+  "平凡的脚步也可以走完伟大的行程。", 
+  "弘 然荻读", 
+  "当机会来临时，你已经准备好了。", 
+  "映雪读书", 
+  "不愧下学、", 
+  "[1]nbsp;[2]nbsp;[3]nbsp;[4]nbsp;[5]nbsp;[6]nbsp;[7]nbsp;[8]nbsp;[9]nbsp;[10]nbsp;下一页nbsp;"
+]
+Max Floor27
+Target Floor10
+find target floor
+[
+  "网购卡怎么查多少钱", 
+  "求大神指导,好心人帮助"
+]
+{
+  "content": "据台湾媒体报道，屏东县“万安29号”演习，除了动员屏东县政府所属各单位外，台军方、台电和电信部门也都全力投入，总计动员550人力。这次演习计有联合应变机制运作、防汛和新型流感C级疫情大型收治场所演练。", 
+  "url": "http://tieba.baidu.com/p/4612816217?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "网上购物", 
+  "imgPath": "/data/lumppic/08f790529822720e4472228d79cb0a46f21fab0d.jpg"
+}
+[
+  "网购卡怎么查多少钱", 
+  "求大神指导,好心人帮助", 
+  "据台湾媒体报道，屏东县“万安29号”演习，除了动员屏东县政府所属各单位外，台军方、台电和电信部门也都全力投入，总计动员550人力。这次演习计有联合应变机制运作、防汛和新型流感C级疫情大型收治场所演练。"
+]
+Max Floor19
+Target Floor12
+find target floor
+[
+  "JiroMyHero【0613外交】东吧♢每日外交♢~", 
+  "大家来签到吧。", 
+  "签到。", 
+  "一组兜兜。", 
+  "四组沐", 
+  "签到签到签到", 
+  "二组小咩", 
+  "签到", 
+  "七组小四", 
+  "到", 
+  "七组小爽", 
+  "到\n--每一句对白必须要精彩 我要我未来对自己崇拜", 
+  "五组娜儿\n\n--每一句对白必须要精彩 我要我未来对自己崇拜", 
+  "到", 
+  "到", 
+  "四组欣怡", 
+  "六组艾薇", 
+  "如果你爱上一个爱笑的女人，请你看完下面的文字，然后好好爱她 如果你爱上一个爱笑的女人，那么请一", 
+  "三组染染", 
+  "喵呜。"
+]
+{
+  "content": "在夜色里，楼群凭借灯光展现华丽轮廓。", 
+  "url": "http://tieba.baidu.com/p/4608756340?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "汪东城", 
+  "imgPath": "/data/lumppic/0b7b02087bf40ad19fa3d7e2552c11dfa9ecce68.jpg"
+}
+[
+  "JiroMyHero【0613外交】东吧♢每日外交♢~", 
+  "大家来签到吧。", 
+  "签到。", 
+  "一组兜兜。", 
+  "四组沐", 
+  "签到签到签到", 
+  "二组小咩", 
+  "签到", 
+  "七组小四", 
+  "到", 
+  "七组小爽", 
+  "到\n--每一句对白必须要精彩 我要我未来对自己崇拜", 
+  "五组娜儿\n\n--每一句对白必须要精彩 我要我未来对自己崇拜", 
+  "到", 
+  "到", 
+  "四组欣怡", 
+  "六组艾薇", 
+  "如果你爱上一个爱笑的女人，请你看完下面的文字，然后好好爱她 如果你爱上一个爱笑的女人，那么请一", 
+  "三组染染", 
+  "喵呜。"
+]
+Max Floor30
+Target Floor21
+find target floor
+[
+  "寻找无良狗贩，青岛地区", 
+  "图片上这个人就是卖我狗的主人，我的狗他寄放在别人家卖的，青岛地区的朋友人有认识这个人的吗，跪求，现在买的狗狗还在医院里打着点滴好几天了，我需要找到这个人不为别的，让他知道利用爱狗人的心谋取不正当的利益，需要付出什么样的代价！跪求！", 
+  "自己顶", 
+  "这么可爱的狗狗出生在这样人的手里，哎，这种狗贩子怎么不去死", 
+  "他还威胁我，要来揍我，然后我说等他来地址也给他，结果等了半个小时人没来，手机关机了", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "大家有认识这个人的吗", 
+  "面对这样的狗贩子没人顶贴吗", 
+  "我波大点有错吗?每个人都盯我看.", 
+  "说是在青岛爱诺宠物，有认识他的吗"
+]
+{
+  "content": "group, about 122 million.", 
+  "url": "http://tieba.baidu.com/p/4612788099?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "金毛", 
+  "imgPath": "/data/lumppic/6c224f4a20a44623b388ef6b9a22720e0cf3d77d.jpg"
+}
+[
+  "寻找无良狗贩，青岛地区", 
+  "图片上这个人就是卖我狗的主人，我的狗他寄放在别人家卖的，青岛地区的朋友人有认识这个人的吗，跪求，现在买的狗狗还在医院里打着点滴好几天了，我需要找到这个人不为别的，让他知道利用爱狗人的心谋取不正当的利益，需要付出什么样的代价！跪求！", 
+  "自己顶", 
+  "这么可爱的狗狗出生在这样人的手里，哎，这种狗贩子怎么不去死", 
+  "他还威胁我，要来揍我，然后我说等他来地址也给他，结果等了半个小时人没来，手机关机了", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "大家有认识这个人的吗", 
+  "面对这样的狗贩子没人顶贴吗", 
+  "我波大点有错吗?每个人都盯我看.", 
+  "说是在青岛爱诺宠物，有认识他的吗", 
+  "group, about 122 million."
+]
+Max Floor30
+Target Floor17
+find target floor
+[
+  "请各位大神帮我看一下这是不是金毛，我今天捡了一只，求大神鉴定", 
+  "你这个不是金毛，要不就是金毛串"
+]
+{
+  "content": "3", 
+  "url": "http://tieba.baidu.com/p/4612843351?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "金毛", 
+  "imgPath": "/data/lumppic/48540923dd54564eb853a638b1de9c82d1584ff8.jpg"
+}
+[
+  "请各位大神帮我看一下这是不是金毛，我今天捡了一只，求大神鉴定", 
+  "你这个不是金毛，要不就是金毛串", 
+  "3"
+]
+Max Floor29
+Target Floor9
+find target floor
+[
+  "为啥四十天的金毛老感觉后腿无力", 
+  "为啥四十天的金毛老感觉后腿无力是咋回事 求解", 
+  "养狗狗又不懂得，淘宝上有宠物医生，迈克尔宠物诊所，可以问问医生", 
+  "楼主，我建议你关注一下\"猫狗党\"这个公共号，里面有相关的宠物知识，医疗，饲养训练，也有一键咨询很方便，有助于猫狗宝儿的健康成长。。R81Z7乓0", 
+  "一树梨花压海棠，青椒干煸溜肥肠。", 
+  "爱狗的人都关注了,VX新的好友搜索（hipidog）帮您解决所有狗狗问题！我和小公主的故事", 
+  "狗狗小，都是这样的，就像小孩，前几个月也站不起来"
+]
+{
+  "content": "克拉玛依市副市长雷红霞表示，他们希望向外界传达一个信息——克拉玛依将做旅游大文章。", 
+  "url": "http://tieba.baidu.com/p/4612795747?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "金毛", 
+  "imgPath": "/data/lumppic/279759ee3d6d55fbbe1764276f224f4a21a4ddd9.jpg"
+}
+[
+  ""
+]
+Max Floor7
+Target Floor6
+find target floor
+[
+  "这个蘑菇头的原型是谁，求大神解", 
+  "这个蘑菇头的原型是谁，求大神解答", 
+  "我班主任", 
+  "同问", 
+  "dd，同求答案", 
+  "如果我强制改造,你们会同意吗", 
+  "我觉得是他", 
+  "有可能", 
+  "暖贴", 
+  "叶良辰"
+]
+{
+  "content": "7.第一军医大学更名为南方医科大学", 
+  "url": "http://tieba.baidu.com/p/4341811590?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "暴走漫画", 
+  "imgPath": "/data/lumppic/a71ea8d3fd1f41340db22712261f95cad0c85ed0.jpg"
+}
+[
+  "这个蘑菇头的原型是谁，求大神解", 
+  "这个蘑菇头的原型是谁，求大神解答", 
+  "我班主任", 
+  "同问", 
+  "dd，同求答案", 
+  "如果我强制改造,你们会同意吗", 
+  "我觉得是他", 
+  "有可能", 
+  "暖贴", 
+  "叶良辰", 
+  "7.第一军医大学更名为南方医科大学"
+]
+Max Floor9
+Target Floor4
+find target floor
+[
+  "【Karry·加冕成王】0615·原创◇宁桓宇吧邀您观看6.1", 
+  "❥⌒⌒⌒⌒┈━═☆┈☆═━⌒⌒⌒⌒♞\n宁桓宇吧全体雨点邀您6月15日21点\n上“一直播”app 共同收看\n“爱心一碗饭”直播\n祝贵吧越办越好，愿两吧友谊长存\n╰☆════欢迎来访百度宁桓宇吧════☆╯", 
+  "当阳光铺满大地，\n当和风吹向角落，\n我们扬起微笑的脸庞，\n似乎宣告着幸福的足迹。\n转眼雨滴的飘落，\n滋润着你我的心房。\n我们携手将爱心播散，\n将幸福分享。\n用#爱心一碗饭#的方式，\n一直播在这里等你，\n与爱为伍，感恩同行。", 
+  "我跟男友异地，前几天打电话因为一点小事彼此吼了几句他就把电话挂了就开始跟我冷战，到现在都没联", 
+  "惨遭绑架 啪啪啪", 
+  "欢迎来访", 
+  "欢迎来防"
+]
+{
+  "content": "太懒", 
+  "url": "http://tieba.baidu.com/p/4612844575?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "王俊凯", 
+  "imgPath": "/data/lumppic/7dd98d1001e9390172cd9f3f79ec54e737d196e7.jpg"
+}
+[
+  "【Karry·加冕成王】0615·原创◇宁桓宇吧邀您观看6.1", 
+  "❥⌒⌒⌒⌒┈━═☆┈☆═━⌒⌒⌒⌒♞\n宁桓宇吧全体雨点邀您6月15日21点\n上“一直播”app 共同收看\n“爱心一碗饭”直播\n祝贵吧越办越好，愿两吧友谊长存\n╰☆════欢迎来访百度宁桓宇吧════☆╯", 
+  "当阳光铺满大地，\n当和风吹向角落，\n我们扬起微笑的脸庞，\n似乎宣告着幸福的足迹。\n转眼雨滴的飘落，\n滋润着你我的心房。\n我们携手将爱心播散，\n将幸福分享。\n用#爱心一碗饭#的方式，\n一直播在这里等你，\n与爱为伍，感恩同行。", 
+  "我跟男友异地，前几天打电话因为一点小事彼此吼了几句他就把电话挂了就开始跟我冷战，到现在都没联", 
+  "惨遭绑架 啪啪啪", 
+  "欢迎来访", 
+  "欢迎来防", 
+  "太懒"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:beishaooy85
+Max Floor38
+Target Floor21
+find target floor
+[
+  "乐视的霸王条款！！！！", 
+  "乐视电视兑换码兑换了一台电视，没有发货状态下，不能修改收货地址，不能取消订单，如果取消订单，乐码作废，什么也不返还！我得乐码也不是白来的，买之前跟我说能拍就能送，买之后跟我说自己到县城自取，都说售后不好，可是这也太任性了吧，自取屏幕碎了算我的，乐视屏幕易碎那是出了名的，我要开车150公里去取一个电视也是醉了！还得自己安装，提醒大家一下，前车之鉴，请勿重蹈覆辙！真实经历，水军勿扰！乐视这样是没有前途的", 
+  "1、优惠券乐码为乐视官方免费赠送给乐迷的非卖品，禁止任何人售卖谋取非法利益，出现任何纠纷乐视官方不负任何责任。\n2、能送到哪里是物流问题，偏远地区或一些乡镇就是不能送但一般都能预约上门安装，具体置顶帖看", 
+  "自己顶起来", 
+  "每天一顶", 
+  "您好，抱歉给您造成的不便，目前因为各个地方物流的不同，县级以下无法保证可以送货上门，可能需要自提，您私信提供一下我们联系得到您的手机号，姓名，地址，订单号，这边为您记录反馈。", 
+  "哈哈😄", 
+  "霸王条款到处都有的", 
+  "哈哈哈哈。……\n\n心存善意，定能途遇天使！\n日行一善，定能逢凶化吉！", 
+  "顶你楼主，乐视这是再自己毁了自己，我也是入坑了，也就这一次，可能以后对乐视都不再爱了"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 20:23:55http%3A%2f%2ftieba.baidu.com%2fp%2f4612537320%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

@@ -1,0 +1,22 @@
+set -x;
+ifconfig -a;
+#ip monitor all &
+ip link;
+ip addr;
+#ip addrlabel;
+ip route;
+route;
+ip rule;
+ip neigh;
+#ip ntable;
+ip tunnel;
+ip tuntap;
+#ip maddr;
+ip mroute;
+ip mrule;
+#ip monitor;
+#ip xfrm;
+ip netns;
+#ip l2tp;
+#ip tcp_metrics;
+ip token;

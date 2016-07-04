@@ -1,0 +1,159 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465817684", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e8c, 13 6\\u6708 2017 11:34:43 GMT", "value": "1465817194,1465817319,1465817432,1465817684", "expiry": 1497353683, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "FE8B1DCF05103B03", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:34:31 GMT", "value": "ab9e1ddd567b21f78003374742fd4dc827d6de05bdc93df13e7b10e0c1125538", "expiry": 1725017671, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:34:31 GMT", "value": "dafa95aaac445c6a05b9763d70199bbc", "expiry": 1725017671, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:34:31 GMT", "value": "c40cdfb30e7f8a39760b733381e61ec4d9", "expiry": 1725017671, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:34:31 GMT", "value": "GRvb1Azd2lLbnZjWHd1SXNOaWNFRk4tQXBhYno1cUZObDBJeHVwVy1ZQkhKNFpYQVFBQUFBJCQAAAAAAAAAAAEAAAArKsJIY2hlbnhxbWFvMzYwOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEeaXldHml5Xb", "expiry": 1725017671, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:34:31 GMT", "value": "fi_PncwhpxZ%7ETaJczk5anN0iAuHAMM485PGavBTYHm9fhMq57B0hx0aDmBm40%7EzmtwSz9Onpb5KOp-ux20sdOnom3lOX3wpaN7Gfko2EqJvNNOrjdB3CksEXPl6KkWn9S3jT2RYpwI-QLF-YeOJcAuJfN%7EGvA__", "expiry": 1725017671, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:34:31 GMT", "value": "fc0451e82fbf12d9864f139e0ce9bfea68f5017f2b", "expiry": 1725017671, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e94, 30 8\\u6708 2024 11:34:31 GMT", "value": "wapp_1465817597902_846", "expiry": 1725017671, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 11:33:54 GMT", "value": "1", "expiry": 1465904034, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e8c, 14 6\\u6708 2016 11:33:36 GMT", "value": "1", "expiry": 1465904016, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 11:33:36 GMT", "value": "568", "expiry": 1496921616, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u56db, 08 6\\u6708 2017 11:33:36 GMT", "value": "320", "expiry": 1496921616, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e8c, 13 6\\u6708 2017 11:33:18 GMT", "value": "234D2274EEACC92B78537323A9B6CBA5:FG=1", "expiry": 1497353598, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e09, 06 6\\u6708 2046 11:33:17 GMT", "value": "wapp_1465817597902_846", "expiry": 2411897597, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "a42b78ec89a0e8738e02f207", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:chenxqmao3608
+Max Floor8
+Target Floor3
+find target floor
+[
+  "你会因为粉丝的行为，而去讨厌明星么？！", 
+  "人都是情感动物，能爱屋及乌，也能厌屋及污 都来讲讲吧\n^\n^\n^", 
+  "沙发"
+]
+{
+  "content": "不会（请跳至第6题）", 
+  "url": "http://tieba.baidu.com/p/4612813176?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "娱乐圈", 
+  "imgPath": "/data/lumppic/279759ee3d6d55fb713133266f224f4a20a4dd3f.jpg"
+}
+[
+  "你会因为粉丝的行为，而去讨厌明星么？！", 
+  "人都是情感动物，能爱屋及乌，也能厌屋及污 都来讲讲吧\n^\n^\n^", 
+  "沙发"
+]
+Max Floor8
+Target Floor1
+find target floor
+[
+  "你会因为粉丝的行为，而去讨厌明星么？！", 
+  "人都是情感动物，能爱屋及乌，也能厌屋及污 都来讲讲吧\n^\n^\n^", 
+  "沙发", 
+  "前排"
+]
+{
+  "content": "罗格日因还说：“我们将继续执行内务部队的所有任务，在2005年至2006年初，俄罗斯内务部队进行了‘炎夏行动’，对好战分子进行了打击。内务部队还同俄罗斯其他部队联合行动，成功阻止了车臣恐怖分子的大规模袭击行动。内务部队同时还参加了纳尔奇克和斯塔福罗波尔地区耐夫特库姆斯克维和行动。”", 
+  "url": "http://tieba.baidu.com/p/4612813176?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "娱乐圈", 
+  "imgPath": "/data/lumppic/dcc451da81cb39db73634156d2160924ab18300a.jpg"
+}
+[
+  "你会因为粉丝的行为，而去讨厌明星么？！", 
+  "人都是情感动物，能爱屋及乌，也能厌屋及污 都来讲讲吧\n^\n^\n^", 
+  "沙发", 
+  "前排", 
+  "我的狗死了，它叫小虎子，今天中午我还给他拍快手呢，晚上就死了，只听到外面有人走，狗还在叫，等", 
+  "罗格日因还说：“我们将继续执行内务部队的所有任务，在2005年至2006年初，俄罗斯内务部队进行了‘炎夏行动’，对好战分子进行了打击。内务部队还同俄罗斯其他部队联合行动，成功阻止了车臣恐怖分子的大规模袭击行动。内务部队同时还参加了纳尔奇克和斯塔福罗波尔地区耐夫特库姆斯克维和行动。”"
+]
+Max Floor34
+Target Floor25
+find target floor
+[
+  "「Rea11ty。SHOW」11.13罗志祥演唱会郑州站，我们不见不散", 
+  "2016年罗志祥演唱会郑州站定于11月13日在郑州市国际会展中心举行，本次演唱会由河南华娱百纳国际文化传媒有限公司倾情打造，我们在郑州欢迎各地粉丝的到来，11月13日，我们，不见不散！", 
+  "真的确定来郑州了么", 
+  "事情是这样的，我喜欢一个女孩，我们今年高三，去年暑假我开始追求她，她也知道我真心喜欢她，去年", 
+  "有大家想加群交流的先私聊我哦", 
+  "现在门票开卖了没😃😃", 
+  "【痤疮与激素】有些妹纸因为痤疮，多毛，或者担心PCOS，查激素雄激素并不高，为何？因为激素六项查的是总睾酮（雄激素），而有活性的是游离睾酮，而且睾酮/雌二醇的比值也很重要，雄相对高而雌相对低也有可能造成“雄高”的表现，建议复查更多指标计算游离睾酮，例如SHBG和白蛋白。\n我用9天时间，甩掉 12 斤 肥肉，交几个朋友一起。我v：mote529"
+]
+{
+  "content": "她不是个正常的女人。她对你忽冷忽热；她显得若即若离；她疯疯癫癫，缠得你心烦意乱；她矜持过度，视你如透明空气……她在折磨你，在讨好你，在伤害你，在抚慰你。她让你堕落，她让你迷醉，让你尝尽罪疚，让你欲罢不能。你需要更聪明些的进攻防守，这是段非理性的爱情。gt;gt;gt;追求美女的九大要素", 
+  "url": "http://tieba.baidu.com/p/4610515724?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "罗志祥", 
+  "imgPath": "/data/lumppic/4e4a20a4462309f7c3be7f5b700e0cf3d6cad6a2.jpg"
+}
+[
+  "「Rea11ty。SHOW」11.13罗志祥演唱会郑州站，我们不见不散", 
+  "2016年罗志祥演唱会郑州站定于11月13日在郑州市国际会展中心举行，本次演唱会由河南华娱百纳国际文化传媒有限公司倾情打造，我们在郑州欢迎各地粉丝的到来，11月13日，我们，不见不散！", 
+  "真的确定来郑州了么", 
+  "事情是这样的，我喜欢一个女孩，我们今年高三，去年暑假我开始追求她，她也知道我真心喜欢她，去年", 
+  "有大家想加群交流的先私聊我哦", 
+  "现在门票开卖了没😃😃", 
+  "【痤疮与激素】有些妹纸因为痤疮，多毛，或者担心PCOS，查激素雄激素并不高，为何？因为激素六项查的是总睾酮（雄激素），而有活性的是游离睾酮，而且睾酮/雌二醇的比值也很重要，雄相对高而雌相对低也有可能造成“雄高”的表现，建议复查更多指标计算游离睾酮，例如SHBG和白蛋白。\n我用9天时间，甩掉 12 斤 肥肉，交几个朋友一起。我v：mote529"
+]
+Max Floor34
+Target Floor18
+find target floor
+[
+  "「Rea11ty。SHOW」罗大大排练的视频把我逗乐了", 
+  "不知道家人们有没有看老大在明星空间更新的最新视频，逗死我了。\n排练的歌曲是《够了》，本来帅气的一首歌，硬是被老大说完整首。期间还附带笑场3次。真的太逗了，不过说实话，被老大这种另类演绎之后的《够了》莫名的有一点好听，哈哈哈。", 
+  "各位吧主小伙伴，求勿删贴哈", 
+  "有木有视频的地址啊", 
+  "这几天都在重复看这段视频，可以说是被洗脑了，我还挺期待在演唱会现场听他这样唱", 
+  "[语音]", 
+  "发个视频撒", 
+  "有人说 古力娜扎 是宅男女神 本屌 不乐意了 我渣 不是 和欧弟有啥子关系么？", 
+  "这个调调很容易被洗脑，有毒", 
+  "没有会员看不了", 
+  "先说洗脸吧，我坚持了一年用温水洗脸，就是有一点温温的就够了，因为这个温度不会对皮肤的酸碱度造成破坏，有人说凉水洗脸可以提高皮肤的耐受力，前提是凉水不会对你的皮肤有压力。\n23 天 时间，掉了 15 斤 肉肉，这样算不算健康。求问？我v：mote529"
+]
+{
+  "content": "此前江纸集团占用了ST江纸1.6亿的资金，为此ST江纸已经计提了1亿的坏帐准备。根据收购报告书，江中集团承诺继续替江纸集团偿还剩下的占用资金，ST江纸可以预期股改中将正式归还大股东占款。新出台的会计准则规定不许减值冲回，在江中集团股改对价全部偿还1.6亿的占款后，ST江纸将冲回1亿的坏帐准备。从而将在06年直接带来0.7元的每股收益，即在07年的ST江纸非经常性收益也将达到相当高的水平。ST江纸06年每股收益至少在0.7元以上，动态市盈率4倍。而05年的年报却只是0.03元，巨大的差别为投资提供了天赐的良机。新会计准则还给ST江纸带来新机遇，具有极大的重估价值。另外，具公告ST江纸欠信达公司的7000多万债务已经转给了江中集团，即江中集团成为ST江纸的债权人后，出于调节利润目的，江中集团已承接的债务则有可能将一部分留到07年再处理（豁免），这样，根据新会计准则，一亿多银行债务一旦由江中承诺07年豁免ST江纸，其收益将直接反映在当期利润表中，这将极大地提高每股收益。", 
+  "url": "http://tieba.baidu.com/p/4610773409?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "罗志祥", 
+  "imgPath": "/data/lumppic/6d81800a19d8bc3eb0479996808ba61ea8d3451a.jpg"
+}
+[
+  "「Rea11ty。SHOW」罗大大排练的视频把我逗乐了", 
+  "不知道家人们有没有看老大在明星空间更新的最新视频，逗死我了。\n排练的歌曲是《够了》，本来帅气的一首歌，硬是被老大说完整首。期间还附带笑场3次。真的太逗了，不过说实话，被老大这种另类演绎之后的《够了》莫名的有一点好听，哈哈哈。", 
+  "各位吧主小伙伴，求勿删贴哈", 
+  "有木有视频的地址啊", 
+  "这几天都在重复看这段视频，可以说是被洗脑了，我还挺期待在演唱会现场听他这样唱", 
+  "4''", 
+  "发个视频撒", 
+  "有人说 古力娜扎 是宅男女神 本屌 不乐意了 我渣 不是 和欧弟有啥子关系么？", 
+  "这个调调很容易被洗脑，有毒", 
+  "没有会员看不了", 
+  "先说洗脸吧，我坚持了一年用温水洗脸，就是有一点温温的就够了，因为这个温度不会对皮肤的酸碱度造成破坏，有人说凉水洗脸可以提高皮肤的耐受力，前提是凉水不会对你的皮肤有压力。\n23 天 时间，掉了 15 斤 肉肉，这样算不算健康。求问？我v：mote529", 
+  "此前江纸集团占用了ST江纸1.6亿的资金，为此ST江纸已经计提了1亿的坏帐准备。根据收购报告书，江中集团承诺继续替江纸集团偿还剩下的占用资金，ST江纸可以预期股改中将正式归还大股东占款。新出台的会计准则规定不许减值冲回，在江中集团股改对价全部偿还1.6亿的占款后，ST江纸将冲回1亿的坏帐准备。从而将在06年直接带来0.7元的每股收益，即在07年的ST江纸非经常性收益也将达到相当高的水平。ST江纸06年每股收益至少在0.7元以上，动态市盈率4倍。而05年的年报却只是0.03元，巨大的差别为投资提供了天赐的良机。新会计准则还给ST江纸带来新机遇，具有极大的重估价值。另外，具公告ST江纸欠信达公司的7000多万债务已经转给了江中集团，即江中集团成为ST江纸的债权人后，出于调节利润目的，江中集团已承接的债务则有可能将一部分留到07年再处理（豁免），这样，根据新会计准则，一亿多银行债务一旦由江中承诺07年豁免ST江纸，其收益将直接反映在当期利润表中，这将极大地提高每股收益。"
+]
+Max Floor34
+Target Floor7
+find target floor
+[
+  "寻人启事，蔡现德谁认识这个人，提供线索必有重谢！", 
+  "欠帐不还，还玩失踪，原来用的手机号给别人了，联系不上他了，据说是在山东聊城房地产管理局产权产籍科上班，望广大吧友提供线索，必有重谢！", 
+  "去他上班的地找他啊 ！", 
+  "卧槽……真的假的……没去单位看看？", 
+  "这个点还有夜猫子嘛", 
+  "他也欠我钱我也找他里欠你多少呀", 
+  "工作不孬，跑不了", 
+  "借钱容易，要钱难呀!", 
+  "工作也是假的吧", 
+  "他原来手机号多少", 
+  "舍友哭着问我，“为什么”的时候，我一脸懵逼。 她说“一定是我不够好，所以他才想要逃”。第一反应", 
+  "家里三个闺女，父母一生为了孩子操碎了心。陆瑶心想：父母有为自己活过一天吗？看着他们勤勤恳", 
+  "路过，顺便踩踩，加点人气，回贴满20个字是有15积分的，不然等签到可能要猴年马月...", 
+  "删帖狗 @溯源成长 老是删 屎吃多了吧！"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 19:42:00http%3A%2f%2ftieba.baidu.com%2fp%2f4514085753%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

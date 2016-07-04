@@ -1,0 +1,239 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465550185",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u516d, 10 6\\u6708 2017 09:16:25 GMT",
+			"value": "1465549954,1465549956,1465550062,1465550185",
+			"expiry": 1497086185,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "232AC14278C704B4",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 09:16:14 GMT",
+			"value": "dab4384fa8f2b5d96a7cca8ccf609ee93b5b7094fc80373896a8c42ec7eb4fe3",
+			"expiry": 1724750174,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 09:16:14 GMT",
+			"value": "dd46fde3b67e5e651e58f07feee57fd7",
+			"expiry": 1724750174,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 09:16:14 GMT",
+			"value": "6e11ff72c351ec6196eb113fccc895ef",
+			"expiry": 1724750174,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 09:16:14 GMT",
+			"value": "mxJdEVvajZFRU1uV2RGT2NtTzRDfmdPN1JYY3Rsb2Y2THljR3d2TW04cGRFb0pYQVFBQUFBJCQAAAAAAAAAAAEAAABVKQ9Kc3l5NDExOTA5bjE3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2FWlddhVpXd",
+			"expiry": 1724750174,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 09:16:14 GMT",
+			"value": "fi_PncwhpxZ%7ETaJcyKUTDQ7pxvvDfd7j7HqyWVo16H48iVL9bO5ddjZqYiYJV9zDsbg3fqvRDCLyo1xWm7i8Gdzgj6vNZ95x9XEWehXOzACBKvcqj4r2og6jQcK%7EMPsxdns6SN3rBPwL-kb20djcvJh7v7htA__",
+			"expiry": 1724750174,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 09:16:14 GMT",
+			"value": "b20c3a9f2fed1fcc0c571774961110dd48d129b7",
+			"expiry": 1724750174,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 09:16:14 GMT",
+			"value": "wapp_1465550101198_698",
+			"expiry": 1724750174,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u516d, 11 6\\u6708 2016 09:15:37 GMT",
+			"value": "1",
+			"expiry": 1465636537,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u516d, 11 6\\u6708 2016 09:15:18 GMT",
+			"value": "1",
+			"expiry": 1465636518,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u4e00, 05 6\\u6708 2017 09:15:18 GMT",
+			"value": "568",
+			"expiry": 1496654118,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u4e00, 05 6\\u6708 2017 09:15:18 GMT",
+			"value": "320",
+			"expiry": 1496654118,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u516d, 10 6\\u6708 2017 09:15:01 GMT",
+			"value": "5032AAD22DCF0565C23182AD291BDADF:FG=1",
+			"expiry": 1497086101,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u65e5, 03 6\\u6708 2046 09:15:01 GMT",
+			"value": "wapp_1465550101198_698",
+			"expiry": 2411630101,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "8ffe8aebcdb9e576c8fcc612",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:syy411909n17",
+	"Max Floor14",
+	"Target Floor1",
+	"find target floor",
+	[
+		"Tang。[160614发贴]糖果甜蜜，填满我有生水果之年",
+		"那些美好且暖心的小时光，我写给糖的小情话。\n1、长街长，烟花繁，你挑灯回看。短亭短，红尘辗，我把萧再叹。 ——献给dear糖默笙\n2、花样的年华，如梦般的青春，洗净的尘埃，犹如残落的花瓣，散却了无尽的柔情；假若说，生命里注定要背负遗憾的愈痕，那么我愿意，让过往的寒风拂尽轻年的碎忆，还我一段完整的华年。你不知道，我残碎的岁阴能如此完美复合，靠的是糖你。我是泥，你是花。我们始于初见，止于终老，才是我的有生之缘。\n3、红尘摇渡相思，如花美眷的你在彼岸盛开。于是，我将思念牵挂在风筝的的顶端，放飞在你的天空；我将思念刻在绯红的花瓣上，轻轻地散落在你必经的路口；我将思念画在三生石上，陪伴月色与你千年；我将思念盛装在一叶兰舟上，荡漾过你旖旎的心海。糖，我好想你，好想你却不露痕迹。\n4、总有一处遇见，是月白风清的念想，如栀子花般，开在纯真的年代里，带着青葱的懵懂，和错过的心疼，漫过红尘，随风飘荡，被写在岁月的诗行里，凝结成永恒，或许，暗香本该朦胧着，如记忆中我碎花裙上的那一枝一叶，如街头拐角外，你粲然的微笑，我知道，那便是春天的味道。嫣，春天已去，夏天已临。一年度一月，我心还有你。\n5、尽管，更多的时候是一个人的秋水长天，其实生命的渡口，谁不是在用孤独写意时光，那份触手可及的温暖，总是那么远，又那么近，是淡淡的心动，是深深的懂得，如细水长流般温润，又如烟花绚丽般璀璨，生动了过往所有的岁月，也明丽了这个春天，让我在沉溺中葱茏，让我百转千回后，仍然无悔，与你的这份倾心的遇见；感谢。 ——忆爱糖de零斑岁月\n6、曾经，为谁放肆的哭泣？是你啊，糖。你的泪是吹进我眼里的沙子，模糊了双眼，看不清天空的样子。回望繁花似锦的岁月，有糖相伴的时间；这一场末路繁华，不倾城，不倾国，却倾我所有。爱到绝路，覆水难收。在爱与更爱之间选择，我选择更爱她。 ——我的最爱被黑的时候于6.4含泪写下",
+		"支持糖糖",
+		"楼主你咋才一级",
+		"男神不理我了怎么办",
+		"好棒哎",
+		"订哦",
+		"顶",
+		"顶",
+		"老想看别人和老婆爱爱",
+		"顶",
+		"顶顶",
+		"欢迎新人",
+		"-----------------------------------------------♡♡\n♥7月1号约电影赏金猎人——唐嫣饰演凌芯，猎人之一的冷艳猫女~\n♥电影科幻巨制三体——唐嫣饰演拯救派科学家申玉菲~\n♥电影大话西游终结版——唐嫣分饰紫霞，青霞两角~\n♥电视剧锦绣未央——唐嫣饰演复仇归来的腹黑女主李未央\n♡♡----------\n-------------------------------------",
+		"新人就这么给力啊 我so happy 欢迎加入糖蜜大家庭 我们的口号是：糖蜜爱糖 地久天长",
+		"糖蜜们积极起来多多转发点赞评论唐嫣微博，记得去东方卫视吧给唐嫣盖楼点赞，好搜搜狗投票，签到，送花，百度点赞。动起来，威武！！！ #赏金猎人唐嫣# #唐嫣大话西游3# #唐嫣锦绣未央# #唐嫣紫霞# #唐嫣李未央#",
+		"欢迎新糖蜜！新人油菜🌹一来就写这么棒的暖文，给力！#唐嫣＃#赏金猎人唐嫣# #唐嫣大话西游3# #唐嫣锦绣未央# #唐嫣紫霞# #唐嫣李未央#",
+		"暖文！好棒！唐嫣 唐嫣 唐嫣 唐嫣 唐嫣",
+		"顶，爱唐嫣，支持唐嫣支持唐嫣支持唐嫣"
+	],
+	"",
+	{
+		"content": "相关信息可登录《新快报》教育周刊与搜狐教育频道高考站联合专区：http://learning.sohu.com/7/0504/43/column220284370.shtml或搜狐网广东高考信息站http://learning.sohu.com/7/0503/70/column209507075.shtml进行查询。",
+		"url": "http://tieba.baidu.com/p/4611077395?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "唐嫣",
+		"imgPath": "/data/lumppic/b812c8fcc3cec3fdb0bcef12d488d43f869427d2.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"创建贴吧",
+	"2016-06-15 20:03:08http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E5%2594%2590%25E5%25AB%25A3%26page_from_search%3Dindex%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7%26pn%3D0%26.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 231, in <module>",
+	"    wait.until(EC.presence_of_element_located((By.TAG_NAME,'input')))",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py\", line 80, in until",
+	"    raise TimeoutException(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: ",
+	""
+]

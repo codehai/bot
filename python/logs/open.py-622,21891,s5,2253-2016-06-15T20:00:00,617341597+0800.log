@@ -1,0 +1,386 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465562807", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u516d, 10 6\\u6708 2017 12:46:46 GMT", "value": "1465550539,1465550600,1465550602,1465562807", "expiry": 1497098806, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "1D45C45D2A1EB3E9", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 12:46:36 GMT", "value": "a0c574cb1572dca95909f6d91bafa9de09cbf605e1232b24f244feb8a4158532", "expiry": 1724762796, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 12:46:36 GMT", "value": "131dea3bc83b3e4af14edc4cc8ac9807", "expiry": 1724762796, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 12:46:36 GMT", "value": "9d6c51b2001e4c9850b6fd144cf8ad47", "expiry": 1724762796, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 12:46:36 GMT", "value": "5BQ09-cGZjOTloVVNxZ1JNWERRfktxZjJERXZzcHVwTjE0UmFTSk9qeXNRNEpYQVFBQUFBJCQAAAAAAAAAAAEAAACyjJhXYWlkcm9tYW4yMDE1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKy2WlestlpXbH", "expiry": 1724762796, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 12:46:36 GMT", "value": "fi_PncwhpxZ%7ETaJc9THcuAXA%7ECxnMRQ1dJJCrbHN3qHpiBI9ur9YZ0tzjtnE0pqi-8HwolA1XUi--BXTBI7Lw4seD8Mdpsd0IbaI1SFFspDpTxzxtdqGFeEzkJ8HgwSkbLY3uicynqtPcjSUKOIY-k8i9HNjA__", "expiry": 1724762796, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 12:46:36 GMT", "value": "f4f1856c555fb27ed28e3fd65a145d3af0cc611f", "expiry": 1724762796, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u4e8c, 27 8\\u6708 2024 12:46:36 GMT", "value": "wapp_1465562732147_430", "expiry": 1724762796, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u516d, 11 6\\u6708 2016 12:46:02 GMT", "value": "1", "expiry": 1465649162, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u516d, 11 6\\u6708 2016 12:45:47 GMT", "value": "1", "expiry": 1465649147, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e00, 05 6\\u6708 2017 12:45:47 GMT", "value": "568", "expiry": 1496666747, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e00, 05 6\\u6708 2017 12:45:47 GMT", "value": "320", "expiry": 1496666747, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u516d, 10 6\\u6708 2017 12:45:32 GMT", "value": "D0E80F7F19583775BF7794C5A87C8AE6:FG=1", "expiry": 1497098732, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u65e5, 03 6\\u6708 2046 12:45:32 GMT", "value": "wapp_1465562732147_430", "expiry": 2411642732, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "4e35ce1803612a3e31f619e3", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:aidroman2015
+Max Floor6
+Target Floor5
+find target floor
+[
+  "【Sing】唱首歌给我听吧", 
+  "哒哒哒"
+]
+{
+  "content": "去年十月，欧洲面向行政机构和公民的电子政务兼容性推广机构(IDABC)的官员称:如果开放文档标准被ISO批准，该机构将开始推荐。但是在欧盟声明一个月后，微软宣布，公司已向欧洲标准化组织ECMA递交了Office Open XML文档标准，以此作为向国际标准化组织提出申请的前导。", 
+  "url": "http://tieba.baidu.com/p/4612839440?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "唱歌", 
+  "imgPath": "/data/lumppic/d833c895d143ad4b15ee55c180025aafa50f06ea.jpg"
+}
+[
+  "【Sing】唱首歌给我听吧", 
+  "哒哒哒", 
+  "去年十月，欧洲面向行政机构和公民的电子政务兼容性推广机构(IDABC)的官员称:如果开放文档标准被ISO批准，该机构将开始推荐。但是在欧盟声明一个月后，微软宣布，公司已向欧洲标准化组织ECMA递交了Office Open XML文档标准，以此作为向国际标准化组织提出申请的前导。"
+]
+Max Floor27
+Target Floor6
+find target floor
+[
+  "°160615◆图图◆静静IG 更新 02:38", 
+  "发过提醒～", 
+  "笑容满分", 
+  "傻孩子", 
+  "美", 
+  "這時間到達泰国也是辛苦", 
+  "好晚啊！", 
+  "爆過提醒………………", 
+  "美", 
+  "好晚啊。。。", 
+  "水", 
+  "水", 
+  "水"
+]
+{
+  "content": "记者注意到，与以往欧洲游“巴黎进、罗马出”的线路不同，新的欧洲游线路将以阿姆斯特丹作为首站，回程除从阿姆斯特丹直飞成都外，还可从巴黎、罗马等地乘坐荷航的航班返回北京、上海、广州图库、香港等地，而机票价格可以与该地现有价格混合使用。", 
+  "url": "http://tieba.baidu.com/p/4611593286?lp=5028&mo_device=1&is_jingpost=1&pn=0&", 
+  "ba": "含恩静", 
+  "imgPath": "/data/lumppic/902397dda144ad343f76b7e8d2a20cf430ad8597.jpg"
+}
+[
+  "°160615◆图图◆静静IG 更新 02:38", 
+  "发过提醒～", 
+  "笑容满分", 
+  "傻孩子", 
+  "美", 
+  "這時間到達泰国也是辛苦", 
+  "好晚啊！", 
+  "爆過提醒………………", 
+  "美", 
+  "好晚啊。。。", 
+  "水", 
+  "水", 
+  "水"
+]
+Max Floor17
+Target Floor6
+find target floor
+[
+  "【心理咨询】对男人来讲性真的那么重要吗？", 
+  "我和我男朋友在一起3年多了，他竟然因为我不给他啪啪就跟我分手，性对男孩子来说真的这么重要吗？自爆镇楼", 
+  "我也不是不喜欢他，每次到最后一步的时候就怕的要死，所以一直没给他，和他吵架吵的很厉害，他竟然要跟我分手", 
+  "那就分手喽", 
+  "没有最重要，只有更重要，看跟什么比较了。\n分了吧，三年都不结婚等什么呢？", 
+  "大家也看到了，我长的也不算太丑，追我的也很多，我就是和他在一起，可是他怎么可以这么对我", 
+  "反反复复在一个问题上纠结，总会厌烦的。三年了彼此都不能理解，分就分咯。", 
+  "佛像前的尘埃扫了又覆，诵经声歇了又来。他低吟佛理，心如止水。\n“大师，看我的破军终于齐了！”\n“……”\n“大师，等我拿到大扇子跳舞给你看！”\n“……”\n“少林的路我比秀坊还熟悉呢！”\n“……”\n“大师……”\n“嗯？”\n她红衣似火，艳若桃花　。\n“我要嫁人了。”\n……不知何故，佛珠散了一地。　　　　　　　　　　　“阿弥陀佛。”", 
+  "你说我胸大难道有错,看", 
+  "看別人自拍都是各種造型姿勢，看妳自拍怎麼感覺如此詭異", 
+  "我说句真理，男人很少有人受得了这点，被荷尔蒙蒙蔽的男人，如果不能醒悟就分了吧", 
+  "长的不错。。发你男友的照。。。", 
+  "你确定是因为没和你啪啪啪他才和你分。", 
+  "那100个男的，符合你的不超过10个，这10个你懂的", 
+  "对女人来说，无爱就没有性，楼主可能有点性冷感，或者觉得他不爱你，不能给你安全感，没必要走到最后一步。如果真是因为性，那男的和你分手，你应该庆幸分手才是", 
+  "你不信任他"
+]
+{
+  "content": "个相关网页.", 
+  "url": "http://tieba.baidu.com/p/4611930016?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "心理学", 
+  "imgPath": "/data/lumppic/cefc1e178a82b901a206ef7b718da9773812efcb.jpg"
+}
+[
+  "【心理咨询】对男人来讲性真的那么重要吗？", 
+  "我和我男朋友在一起3年多了，他竟然因为我不给他啪啪就跟我分手，性对男孩子来说真的这么重要吗？自爆镇楼", 
+  "我也不是不喜欢他，每次到最后一步的时候就怕的要死，所以一直没给他，和他吵架吵的很厉害，他竟然要跟我分手", 
+  "那就分手喽", 
+  "没有最重要，只有更重要，看跟什么比较了。\n分了吧，三年都不结婚等什么呢？", 
+  "大家也看到了，我长的也不算太丑，追我的也很多，我就是和他在一起，可是他怎么可以这么对我", 
+  "反反复复在一个问题上纠结，总会厌烦的。三年了彼此都不能理解，分就分咯。", 
+  "佛像前的尘埃扫了又覆，诵经声歇了又来。他低吟佛理，心如止水。\n“大师，看我的破军终于齐了！”\n“……”\n“大师，等我拿到大扇子跳舞给你看！”\n“……”\n“少林的路我比秀坊还熟悉呢！”\n“……”\n“大师……”\n“嗯？”\n她红衣似火，艳若桃花　。\n“我要嫁人了。”\n……不知何故，佛珠散了一地。　　　　　　　　　　　“阿弥陀佛。”", 
+  "你说我胸大难道有错,看", 
+  "看別人自拍都是各種造型姿勢，看妳自拍怎麼感覺如此詭異", 
+  "我说句真理，男人很少有人受得了这点，被荷尔蒙蒙蔽的男人，如果不能醒悟就分了吧", 
+  "长的不错。。发你男友的照。。。", 
+  "你确定是因为没和你啪啪啪他才和你分。", 
+  "那100个男的，符合你的不超过10个，这10个你懂的", 
+  "对女人来说，无爱就没有性，楼主可能有点性冷感，或者觉得他不爱你，不能给你安全感，没必要走到最后一步。如果真是因为性，那男的和你分手，你应该庆幸分手才是", 
+  "你不信任他"
+]
+Max Floor23
+Target Floor13
+find target floor
+[
+  "？？？", 
+  "开朗的性格一步一步变成忧郁。以后闭嘴", 
+  "0元预约魅蓝3s，20万周边壕礼真送，100%中奖，点击就送！", 
+  "楼主，我建议你关注一下\"猫狗党\"这个威信公众号，里面有相关的宠物知识，医疗，饲养训练和趣闻，也有一键咨询很方便，有助于狗狗猫猫的健康成长。儿年。V。", 
+  "我波大点有错吗?每个人都盯我看.", 
+  "度娘你不知道神马都是浮云的话吗", 
+  "我说我搭我一个女同事，开始的时候是他找话和我说，我回答他的。我很少问她什么，到后来他坐我车的", 
+  "音乐能治愈人的感情，最近特别感谢贴吧和一杯音乐的时光，伴我走过这段难过的岁月。 重点推荐 故梦【", 
+  "都19了还是单身,"
+]
+{
+  "content": "nbspnbspnbspnbspG龙元(行情,论坛)成功的秘诀在于公司\"提质开源\"的策略,借助公司的资质、品牌、规模等优势,在确保项目利润的基础上承接业务,从规模扩张型逐步向效益增强型转变。今年一季度,G龙元(行情,论坛)承接的业务达到20亿元,较去年同期增长50%以上,一季度每股收益已经达到0.15元,发展势头依然十分强劲。　　“这次资费下调无疑也是相关方面共同努力的结果，但是看着这种时机巧妙、受惠对象有限的‘有限’合理化降价，北京1500多万手机用户可能还需要为赢得自身的权益而继续努力。”", 
+  "url": "http://tieba.baidu.com/p/4612198405?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer", 
+  "ba": "哈士奇", 
+  "imgPath": "/data/lumppic/f31fbe096b63f624dd47830b8544ebf81a4ca3a4.jpg"
+}
+[
+  ""
+]
+Max Floor23
+Target Floor5
+find target floor
+[
+  "买狗狗", 
+  "灰桃哈士奇崽崽需要多少钱？", 
+  "撸主微信多少，我有", 
+  "楼主，我建议你关注一下\"猫狗党\"这个公共号，里面有相关的宠物知识，医疗，饲养训练，也有一键咨询很方便，有助于猫狗宝儿的健康成长。。T49L3疽9"
+]
+{
+  "content": "九、 以适当讯息，说服适当对象", 
+  "url": "http://tieba.baidu.com/p/4612795117?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "哈士奇", 
+  "imgPath": "/data/lumppic/7dd98d1001e93901dab7c73779ec54e736d19606.jpg"
+}
+[
+  "买狗狗", 
+  "灰桃哈士奇崽崽需要多少钱？", 
+  "撸主微信多少，我有", 
+  "楼主，我建议你关注一下\"猫狗党\"这个公共号，里面有相关的宠物知识，医疗，饲养训练，也有一键咨询很方便，有助于猫狗宝儿的健康成长。。T49L3疽9", 
+  "九、 以适当讯息，说服适当对象"
+]
+Max Floor7
+Target Floor5
+find target floor
+[
+  "【pretty legs】", 
+  "怎么就过不了呢", 
+  "嗯哼", 
+  "高跟真赞啊", 
+  "嗯哼"
+]
+{
+  "content": "７． 感觉自己或者环境一无是处，或是感觉过多的、不恰当的内疚，几乎每天如此，不仅仅是因为生病而自责或者内疚。", 
+  "url": "http://tieba.baidu.com/p/4612806423?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "美腿", 
+  "imgPath": "/data/lumppic/c8ea15ce36d3d539b36a69c23887e950352ab05f.jpg"
+}
+[
+  "【pretty legs】", 
+  "怎么就过不了呢", 
+  "嗯哼", 
+  "高跟真赞啊", 
+  "嗯哼", 
+  "７． 感觉自己或者环境一无是处，或是感觉过多的、不恰当的内疚，几乎每天如此，不仅仅是因为生病而自责或者内疚。"
+]
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:aidroman2015
+Max Floor35
+Target Floor10
+find target floor
+[
+  "【魅杂谈·06.15】我这电池算不算尿崩", 
+  "这才是"
+]
+{
+  "content": "Doherty指出：“如果索尼的PS3定价499美元，人们可能等到11月来购买PS3。如果它不给出定价，将有助HD DVD播放器的销售。”", 
+  "url": "http://tieba.baidu.com/p/4612292108?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "魅族mx4", 
+  "imgPath": "/data/lumppic/9345d688d43f87940ec1597dd01b0ef41bd53aa2.jpg"
+}
+[
+  "【魅杂谈·06.15】我这电池算不算尿崩", 
+  "这才是", 
+  "Doherty指出：“如果索尼的PS3定价499美元，人们可能等到11月来购买PS3。如果它不给出定价，将有助HD DVD播放器的销售。”"
+]
+Max Floor35
+Target Floor5
+find target floor
+[
+  "【魅杂谈·06.15】发现一个漂亮的主题", 
+  "话不多说，我直接上图。\n看到图标后面的轮廓了嘛，刚开始我看这图标还没什么。后来才发现每个图标后面的阴影都不一样，顿时才发现这个作者是多么用心的在做这款主题。而且很有感觉的说\n还有短信以及设置，都是弄的非常漂亮咯，\n\n再来看锁屏，背景的模糊正好衬托出了文字。不得不说，这个壁纸选的非常好，正好我又是文字控。\n而且同样也衬托了图标，这也是我不舍得换壁纸的原因。", 
+  "我已经很久没有见过这么让我心动的主题了。真的，在我看来这离完美只差一点了，要是适配了QQ就好。。。希望作者能看到", 
+  "@evil财神惰 我就看看", 
+  "在宿舍里，没上课.么么", 
+  "处男闺蜜，让你顶", 
+  "主题叫什么啊？", 
+  "@fg9f888 加油，成长总会遇到许多离别，你需要的是从中不断获得成长", 
+  "什么主题", 
+  "图标喜欢。状态栏不喜欢", 
+  "记忆是相会的一种形式，忘记是自由的一种形式", 
+  "真心感觉不错", 
+  "楼主，什么字体啊"
+]
+{
+  "content": "需要的材料：", 
+  "url": "http://tieba.baidu.com/p/4612053127?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "魅族mx4", 
+  "imgPath": "/data/lumppic/9d82d158ccbf6c81a1359ee1be3eb13533fa40bc.jpg"
+}
+[
+  "【魅杂谈·06.15】发现一个漂亮的主题", 
+  "话不多说，我直接上图。\n看到图标后面的轮廓了嘛，刚开始我看这图标还没什么。后来才发现每个图标后面的阴影都不一样，顿时才发现这个作者是多么用心的在做这款主题。而且很有感觉的说\n还有短信以及设置，都是弄的非常漂亮咯，\n\n再来看锁屏，背景的模糊正好衬托出了文字。不得不说，这个壁纸选的非常好，正好我又是文字控。\n而且同样也衬托了图标，这也是我不舍得换壁纸的原因。", 
+  "我已经很久没有见过这么让我心动的主题了。真的，在我看来这离完美只差一点了，要是适配了QQ就好。。。希望作者能看到", 
+  "@evil财神惰 我就看看", 
+  "在宿舍里，没上课.么么", 
+  "处男闺蜜，让你顶", 
+  "主题叫什么啊？", 
+  "@fg9f888 加油，成长总会遇到许多离别，你需要的是从中不断获得成长", 
+  "什么主题", 
+  "图标喜欢。状态栏不喜欢", 
+  "记忆是相会的一种形式，忘记是自由的一种形式", 
+  "真心感觉不错", 
+  "楼主，什么字体啊", 
+  "需要的材料："
+]
+Max Floor11
+Target Floor2
+find target floor
+[
+  "又一个寂寞难耐的晚上，人都给你什么去了", 
+  "我是上天派来拯救你们的(岁稻决)天使 Vxin: sedi950 单身汪 你们有救了", 
+  "直到最后我才明白，原来我们千差万别的如此离谱。", 
+  "[语音]", 
+  "楼主大大真心牛", 
+  "跟定楼主了，妞X", 
+  "赶紧去看，这么牛么", 
+  "这个真牛比。。。。感谢", 
+  "真溜，楼主", 
+  "哈哈，终于找到了", 
+  "今日一天都想要 男人"
+]
+{
+  "content": "翁昕歆:我很喜欢北京,这里让人感觉很放松,不像香港,每个人都是行色匆匆。现在,越来越多的香港人愿意来内地工作。如果有机会的话,我也希望留在《精品》。端茶送水 这样的实习是煎熬还是成长", 
+  "url": "http://tieba.baidu.com/p/4611452487?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "qq头像", 
+  "imgPath": "/data/lumppic/d31b0ef41bd5ad6e0da9545380cb39dbb6fd3c32.jpg"
+}
+[
+  "又一个寂寞难耐的晚上，人都给你什么去了", 
+  "我是上天派来拯救你们的(岁稻决)天使 Vxin: sedi950 单身汪 你们有救了", 
+  "直到最后我才明白，原来我们千差万别的如此离谱。", 
+  "4''", 
+  "楼主大大真心牛", 
+  "跟定楼主了，妞X", 
+  "赶紧去看，这么牛么", 
+  "这个真牛比。。。。感谢", 
+  "真溜，楼主", 
+  "哈哈，终于找到了", 
+  "今日一天都想要 男人", 
+  "翁昕歆:我很喜欢北京,这里让人感觉很放松,不像香港,每个人都是行色匆匆。现在,越来越多的香港人愿意来内地工作。如果有机会的话,我也希望留在《精品》。端茶送水 这样的实习是煎熬还是成长"
+]
+Max Floor16
+Target Floor13
+find target floor
+[
+  "其实你的五官是可以通过自己的努力而改变的", 
+  "楼主的QQ：：2896981415", 
+  "2639766033"
+]
+{
+  "content": "总结：有的女人会在自己所爱的男人面前说别的女人的坏话,包括闺中密友.这点与男人不同,男人觉得如果女人对自己的朋友友好是给自己长面子,而女人则容易吃醋。", 
+  "url": "http://tieba.baidu.com/p/4448151981?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "女生头像", 
+  "imgPath": "/data/lumppic/9c16fdfaaf51f3de3e41896a96eef01f3b2979c8.jpg"
+}
+[
+  "其实你的五官是可以通过自己的努力而改变的", 
+  "楼主的QQ：：2896981415", 
+  "2639766033", 
+  "总结：有的女人会在自己所爱的男人面前说别的女人的坏话,包括闺中密友.这点与男人不同,男人觉得如果女人对自己的朋友友好是给自己长面子,而女人则容易吃醋。"
+]
+Max Floor16
+Target Floor1
+find target floor
+[
+  "其实你的五官是可以通过自己的努力而改变的", 
+  "楼主的QQ：：2896981415", 
+  "2639766033"
+]
+{
+  "content": "get a rewarding job?", 
+  "url": "http://tieba.baidu.com/p/4448151981?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "女生头像", 
+  "imgPath": "/data/lumppic/b2de9c82d158ccbfcbcd80301bd8bc3eb1354142.jpg"
+}
+[
+  "其实你的五官是可以通过自己的努力而改变的", 
+  "楼主的QQ：：2896981415", 
+  "2639766033", 
+  "get a rewarding job?"
+]
+Max Floor39
+Target Floor18
+find target floor
+[
+  "◆CNB◇160613【日常】CNBLUE姜敏赫相关INS一则", 
+  "来源：nash.ang\n资源：小王子\n转载请注明百度CNBLUE吧", 
+  "真想也在现场", 
+  "戏子乐队啥时开CON", 
+  "可以哦", 
+  "不错哦", 
+  "不错"
+]
+{
+  "content": "6", 
+  "url": "http://tieba.baidu.com/p/4608737451?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "cnblue", 
+  "imgPath": "/data/lumppic/00e93901213fb80e8059d5de34d12f2eb938942b.jpg"
+}
+[
+  "◆CNB◇160613【日常】CNBLUE姜敏赫相关INS一则", 
+  "来源：nash.ang\n资源：小王子\n转载请注明百度CNBLUE吧", 
+  "真想也在现场", 
+  "戏子乐队啥时开CON", 
+  "可以哦", 
+  "不错哦", 
+  "不错", 
+  "6"
+]
+Max Floor39
+Target Floor9
+find target floor
+[
+  "◆CNB◇160615【日常】CNBLUE李正信同步更新INS&微博一则", 
+  "来源:INS\n资源:mochi\n翻译：辛巴第二个生日 HBD 140615 😍😍😍😍以后也像现在这样好好的健康成长哦🤗🤗🤗🤗\n翻译：小裙子\n翻译仅供参考\n转载请注明百度CNBLUE吧", 
+  "우리심바 생일^^ HBD 140615[嘻嘻][嘻嘻]😘😘😍😍\n翻译：我们辛巴的生日", 
+  "辛巴生日快乐", 
+  "生日粗卡，辛巴", 
+  "辛巴好好陪信信哟"
+]
+有验证码type2!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 20:05:40http%3A%2f%2ftieba.baidu.com%2fp%2f4612384759%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 300, in <module>
+    testStatus(2)
+  File "open.py", line 93, in testStatus
+    fillType2Code()
+  File "open.py", line 83, in fillType2Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

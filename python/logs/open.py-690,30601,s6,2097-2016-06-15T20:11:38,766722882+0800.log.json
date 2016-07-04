@@ -1,0 +1,390 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465403579",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u56db, 08 6\\u6708 2017 16:32:59 GMT",
+			"value": "1465403212,1465403279,1465403397,1465403579",
+			"expiry": 1496939579,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "34AA5FFC7FE5A5B9",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 16:32:49 GMT",
+			"value": "9a4b9aedc88653282b656ce4fc7618db0b3dc3956762dbaa839e4fefe4a6196d",
+			"expiry": 1724603569,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 16:32:49 GMT",
+			"value": "da9c39d9ec2f6261a592ee7ce426aa8c",
+			"expiry": 1724603569,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 16:32:49 GMT",
+			"value": "9c68433d171caa0883837d5156",
+			"expiry": 1724603569,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 16:32:49 GMT",
+			"value": "YtT0J6THpTcTQwZlVJbE0tQW9oRGM2Nm5BMnBJLXNJY3B6Mk1BbFhjV3gxWDlYQVFBQUFBJCQAAAAAAAAAAAEAAABi3j1VbGVmZ2N0NjYyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALFIWFexSFhXQm",
+			"expiry": 1724603569,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 16:32:49 GMT",
+			"value": "fi_PncwhpxZ%7ETaJc8-5yajnJi5cTCTNu70f80dqXLJNcp0UlbTCuw0LFRj3XC9mLOUD5UWxA51v-%7E1JTT4M%7E5Us0lBd8wI0Ttko%7EftS8J1flafP8-0Vvl9tYSCGBVezflEU0YzyuH0%7ExCjzSB7Nq9kEsBQnIA__",
+			"expiry": 1724603569,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 16:32:49 GMT",
+			"value": "4825609f9e032431c7814f1a7817d41b68",
+			"expiry": 1724603569,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u65e5, 25 8\\u6708 2024 16:32:49 GMT",
+			"value": "wapp_1465403503027_13",
+			"expiry": 1724603569,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u56db, 09 6\\u6708 2016 16:32:14 GMT",
+			"value": "1",
+			"expiry": 1465489934,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u56db, 09 6\\u6708 2016 16:31:58 GMT",
+			"value": "1",
+			"expiry": 1465489918,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u516d, 03 6\\u6708 2017 16:31:58 GMT",
+			"value": "568",
+			"expiry": 1496507518,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u516d, 03 6\\u6708 2017 16:31:58 GMT",
+			"value": "320",
+			"expiry": 1496507518,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u56db, 08 6\\u6708 2017 16:31:43 GMT",
+			"value": "40F6D2D444312A650C921588270B1D24:FG=1",
+			"expiry": 1496939503,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u4e94, 01 6\\u6708 2046 16:31:43 GMT",
+			"value": "wapp_1465403503027_13",
+			"expiry": 2411483503,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "3b1b6fd71f2168a14a971e51",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:lefgct662",
+	"Max Floor23",
+	"Target Floor10",
+	"find target floor",
+	[
+		"【等待王菲】才发现的",
+		"原来还可以这样",
+		"这是广告贴蛮",
+		"柯震东",
+		"这个聊天我当时在场",
+		"内个来么,哥.哥.",
+		"啥？",
+		"菲菲中国移动？"
+	],
+	"",
+	{
+		"content": "搜狐直播员: 武汉队获得前场任意球，李昊开球到右路，吉奥克斯得球后的射门被厦门队后卫舍身挡出。 [0:0 上半场 14分:6秒]",
+		"url": "http://tieba.baidu.com/p/4610027982?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "王菲",
+		"imgPath": "/data/lumppic/c75c10385343fbf211212e3fb37eca8065388f99.jpg"
+	},
+	"",
+	[
+		"【等待王菲】才发现的",
+		"原来还可以这样",
+		"这是广告贴蛮",
+		"柯震东",
+		"这个聊天我当时在场",
+		"内个来么,哥.哥.",
+		"啥？",
+		"菲菲中国移动？",
+		"搜狐直播员: 武汉队获得前场任意球，李昊开球到右路，吉奥克斯得球后的射门被厦门队后卫舍身挡出。 [0:0 上半场 14分:6秒]"
+	],
+	"",
+	"Max Floor40",
+	"Target Floor2",
+	"find target floor",
+	[
+		"【06-15 交流】一个是传承着游牧民族豪情的匈牙利",
+		"一个是血液中流淌着音符的奥地利，在#欧洲杯#激战中不知道该支持谁？不如先看看，谁家的风景你更中意~"
+	],
+	"",
+	{
+		"content": "索洛莫诺夫强调，升级后的导弹携带的弹头数量将不少于3个。早先，他也曾不止一次地说过，从技术角度讲，“白杨-M”导弹系统不只携带一枚弹头，至少能携带3枚，“布拉瓦”导弹也是如此。不久前媒体曾透露，“布拉瓦-30”可以携带6枚分导式核弹头，这个数量目前还可以提高到10枚。俄罗斯国防预算为这一目标的实现提供了可能，而在军备计划框架内，战略核导弹力量目前处于特殊地位。",
+		"url": "http://tieba.baidu.com/p/4612859767?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "携程",
+		"imgPath": "/data/lumppic/bba1cd11728b47106e3326cdc1cec3fdfc032397.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor33",
+	"Target Floor21",
+	"find target floor",
+	[
+		"我感觉任何人都不能跟你比",
+		"我感觉任何人都不能跟你比",
+		"哟西",
+		"哟",
+		"倾听专业户，有什么心事可以和我说。",
+		"倾听专业户，有什么心事可以和我说。"
+	],
+	"",
+	{
+		"content": "还有什么地域因素，你想上哪工作，但我觉得不是很重要。我当年就是先想的学校再想地方。",
+		"url": "http://tieba.baidu.com/p/4612414978?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "无聊",
+		"imgPath": "/data/lumppic/b812c8fcc3cec3fdfe845578d488d43f87942700.jpg"
+	},
+	"",
+	[
+		"我感觉任何人都不能跟你比",
+		"我感觉任何人都不能跟你比",
+		"哟西",
+		"哟",
+		"倾听专业户，有什么心事可以和我说。",
+		"倾听专业户，有什么心事可以和我说。",
+		"还有什么地域因素，你想上哪工作，但我觉得不是很重要。我当年就是先想的学校再想地方。"
+	],
+	"",
+	"Max Floor46",
+	"Target Floor27",
+	"find target floor",
+	[
+		"【涛涛不绝★大展宏兔】鞍山长高激素？如何在25岁前再增高4厘米",
+		"身高包括头、颈、躯干、下肢长度的总和。》沈阳》军大》小儿这三个部分的增长速度不同。头部生长在先。躯干增长先四肢，但终止生长后于四肢。新生儿上半身较下半身长。以后由于下肢增长较躯干快，故下半身逐渐上半身长得快，身高中心也由脐部下移至耻骨上缘;而后下肢终止增长，但因躯干继续增长，故身高中心又稍上移。整个小儿发育阶段，头颈长度约增长1倍;躯干增长2倍;上肢增长3倍;下肢增长4倍，致使小儿体态逐渐转变为成人状态。在新生儿期，头长占全身高的1/4，到成人期头长只占身高的1/8。如果由于过早活动或受疾病影响，会致使小儿的下肢变曲畸形，这就必然影响小儿全身高度。一旦身高受到影响就不容易矫正。所以小儿时期不但要定期测量身高，而且还要注意身体各部分间的比例关系。如发现身材矮小，而各部分比例相称，则应考虑是否垂体性侏儒症;如发现下肢比例较同龄正常小儿为短时，则应考虑呆小病。"
+	],
+	"",
+	{
+		"content": "利nbsp; 恩:特罗姆",
+		"url": "http://tieba.baidu.com/p/4612251385?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "杜海涛",
+		"imgPath": "/data/lumppic/7e3e6709c93d70cfad55b895fadcd100bba12bfe.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor5",
+	"Target Floor1",
+	"find target floor",
+	[
+		"粉系运动鞋 太好看了！！！！！",
+		"[语音]\n戮苍冠平胺白沦翁徊",
+		"dsqq",
+		"多少钱",
+		"一个女人遇到一个好男人，一辈子都不需要成熟，当一个女人越来越成熟、越来越坚强，就证明她并没遇",
+		"halloKitty..."
+	],
+	"",
+	{
+		"content": "9.强调领导，就必然减少自由。有领导的自由，不可能是充分的自由。",
+		"url": "http://tieba.baidu.com/p/4612720173?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "小萝莉",
+		"imgPath": "/data/lumppic/9c16fdfaaf51f3de2d947a9296eef01f3a297926.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor5",
+	"Target Floor4",
+	"find target floor",
+	[
+		"这位小美女去哪里好久不见呀！!",
+		"这位小美女去哪里好久不见呀！!不要走你快回来我们想你了",
+		"唯美，998我要了",
+		"秋名山只有一个老司机 看我小尾巴",
+		"可爱",
+		"我见过 好久不见她了",
+		"确实挺萌的",
+		"http://mp.weixin.qq.com/s?__biz=MzA3NTc1NzQwMA==&amp;mid=2650751225&amp;idx=1&amp;sn=1ced9caa2be0bb3858a22d275aaac7c4&amp;scene=0#wechat_redirect",
+		"污污的大叔撩不撩？",
+		"一个会疼的男孩",
+		"机器人好多",
+		"qaq",
+		"别闹，快回哥哥怀里来",
+		"就像是章鱼一样",
+		"有一天和几个朋友喝的有点高，睡不着就一起去做足疗，到了后遇见了她，她话很少，突然觉得这妹子挺",
+		"怎么玩",
+		"肢解你哦",
+		"可爱的男孩纸(๑• . •๑)",
+		"'",
+		"头上哪儿捡的塑料带"
+	],
+	"",
+	{
+		"content": "nbsp;nbsp;nbsp;nbsp;旅游产业的操作效率低下",
+		"url": "http://tieba.baidu.com/p/4610909430?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "小萝莉",
+		"imgPath": "/data/lumppic/78310a55b319ebc4022f063b8026cffc1e171638.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:lefgct662",
+	"Max Floor31",
+	"Target Floor2",
+	"find target floor",
+	[
+		"跪求电影名",
+		"一个超级帅的短发女孩\n\n还有一张配图是这个女孩和一个大叔走到大街上 女孩子穿抹胸和超短裤披风超级帅 但是图片找不到了"
+	],
+	"",
+	"有验证码type1!!!!!!!!!!!!!!!!!!!",
+	"utf-8",
+	"2016-06-15 20:15:11http%3A%2f%2ftieba.baidu.com%2fp%2f4612873651%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 297, in <module>",
+	"    testStatus(1)\t",
+	"  File \"open.py\", line 91, in testStatus",
+	"    fillType1Code()",
+	"  File \"open.py\", line 56, in fillType1Code",
+	"    resultCode = sendCodeImg(region)",
+	"  File \"open.py\", line 49, in sendCodeImg",
+	"    print type(r.json())",
+	"  File \"/usr/lib/python2.7/site-packages/requests/models.py\", line 808, in json",
+	"    return complexjson.loads(self.text, **kwargs)",
+	"  File \"/usr/lib64/python2.7/json/__init__.py\", line 338, in loads",
+	"    return _default_decoder.decode(s)",
+	"  File \"/usr/lib64/python2.7/json/decoder.py\", line 365, in decode",
+	"    obj, end = self.raw_decode(s, idx=_w(s, 0).end())",
+	"  File \"/usr/lib64/python2.7/json/decoder.py\", line 383, in raw_decode",
+	"    raise ValueError(\"No JSON object could be decoded\")",
+	"ValueError: No JSON object could be decoded"
+]

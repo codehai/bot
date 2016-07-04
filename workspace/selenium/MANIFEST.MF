@@ -1,0 +1,1 @@
+Class-Path: . commons-logging-1.2.jar gson-2.3.1.jar guava-19.0.jar httpclient-4.5.1.jar httpcore-4.4.3.jar selenium-java-2.53.0.jar sikulixapi.jar commons-beanutils-1.7.0.jar commons-collections-3.1.jar commons-lang-2.5.jar commons-logging.jar commons-logging-1.2.jar json-lib-2.4-jdk15.jar json.jar postgresql-9.4.1208.jre6.jar

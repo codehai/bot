@@ -1,0 +1,334 @@
+[
+	" /usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser",
+	"ascii",
+	"CP 54321",
+	"CP 11111",
+	"http://172.17.42.1:15678/",
+	[
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e",
+			"value": "1465476034",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 12:40:33 GMT",
+			"value": "1465475973,1465475975,1465475977,1465476034",
+			"expiry": 1497012033,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".hm.baidu.com",
+			"name": "HMACCOUNT",
+			"expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT",
+			"value": "16AB09FC15CB7627",
+			"expiry": 2147385600,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "STOKEN",
+			"expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:40:24 GMT",
+			"value": "69178fddedb65dd577b20c339c74132fea556ce9dec65d66f6e66d37cbcb5a19",
+			"expiry": 1724676024,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "PTOKEN",
+			"expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:40:24 GMT",
+			"value": "02d2f2409727c21691a8d44865c9dc05",
+			"expiry": 1724676024,
+			"path": "/",
+			"httponly": true,
+			"secure": true
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "SAVEUSERID",
+			"expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:40:24 GMT",
+			"value": "5f970ce7bb5321cfde60545bb359",
+			"expiry": 1724676024,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BDUSS",
+			"expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:40:24 GMT",
+			"value": "GZDRllNeTJKU1Qwdm96czVLTGNGd2lwbjN5M09GUkxMUlNHckJRMFZWRzM4SUJYQVFBQUFBJCQAAAAAAAAAAAEAAACRPvtUcmFuYXdybzc3NQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALdjWVe3Y1lXU",
+			"expiry": 1724676024,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "UBI",
+			"expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:40:24 GMT",
+			"value": "fi_PncwhpxZ%7ETaJc8g%7E8XP5jLQaCUEELsm2oNEOMiuHCtbTuiAMSom8j62MmkEJKhRT1zGGh3CGXl1O1w4wT6%7EjUdiucf3nRIdlZwKeNzptH1YUtLJZrjJoxy5O5uHeUAHHVxp4XYpIEsblM6NgRMON0WZpJA__",
+			"expiry": 1724676024,
+			"path": "/",
+			"httponly": true,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "HISTORY",
+			"expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:40:24 GMT",
+			"value": "8631c18163871c531050c5f93b7c0c28881a",
+			"expiry": 1724676024,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".wappass.baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u4e00, 26 8\\u6708 2024 12:40:24 GMT",
+			"value": "wapp_1465475954984_319",
+			"expiry": 1724676024,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "loginCk",
+			"expires": "\\u5468\\u4e94, 10 6\\u6708 2016 12:39:43 GMT",
+			"value": "1",
+			"expiry": 1465562383,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "index_cutoff_cover",
+			"expires": "\\u5468\\u4e94, 10 6\\u6708 2016 12:39:31 GMT",
+			"value": "1",
+			"expiry": 1465562371,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTHEIGHT",
+			"expires": "\\u5468\\u65e5, 04 6\\u6708 2017 12:39:30 GMT",
+			"value": "568",
+			"expiry": 1496579970,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "CLIENTWIDTH",
+			"expires": "\\u5468\\u65e5, 04 6\\u6708 2017 12:39:30 GMT",
+			"value": "320",
+			"expiry": 1496579970,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDUID",
+			"expires": "\\u5468\\u4e94, 09 6\\u6708 2017 12:39:15 GMT",
+			"value": "CFF5DD9D94E62B1C5BE8F0D6B67E1F7C:FG=1",
+			"expiry": 1497011955,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".baidu.com",
+			"name": "BAIDU_WISE_UID",
+			"expires": "\\u5468\\u516d, 02 6\\u6708 2046 12:39:14 GMT",
+			"value": "wapp_1465475954984_319",
+			"expiry": 2411555954,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": ".tieba.baidu.com",
+			"name": "IS_NEW_USER",
+			"expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT",
+			"value": "bf946c1b3d6570412df6624c",
+			"expiry": 1609430399,
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		},
+		{
+			"domain": "tieba.baidu.com",
+			"name": "mo_originid",
+			"value": "2",
+			"path": "/",
+			"httponly": false,
+			"secure": false
+		}
+	],
+	"",
+	"CP 22222",
+	"CP 37145",
+	"CP 37146",
+	"CP 34863",
+	"http://172.17.42.1:15678/",
+	"CP 34864",
+	"http://172.17.42.1:15678/",
+	"user:ranawro775",
+	"Max Floor6",
+	"Target Floor2",
+	"find target floor",
+	[
+		"那些年我们没有追过的动漫",
+		"那些年我们没有追过的动漫",
+		"沙发",
+		"花吻在上",
+		"前排",
+		"666",
+		"然而一年过去了。\n突然看到觉得好可怕\n( ˘•㉨•˘ )\n对了，别给本座发不尊敬的表情，尤其是 。",
+		"666"
+	],
+	"",
+	{
+		"content": "对此，吴老师提醒即将求职的大学生，警惕性应该从投简历时就开始树立，千万不能为了广撒网而随处投递简历。\"最好通过学校就业中心、合法的人才市场等正规渠道获取用人单位信息\"，而在选择应聘公司前，也应该多了解对方的情况，\"如果对方带有中介性质或者注册资本很少，就要多留一个心眼，别让简历反倒成了求职的绊脚石\"。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　编辑：杨琳 共找到79",
+		"url": "http://tieba.baidu.com/p/4612347160?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "腐女动漫",
+		"imgPath": "/data/lumppic/00e93901213fb80efc3ea1a034d12f2eb83894de.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor5",
+	"Target Floor2",
+	"find target floor",
+	[
+		"急！！！朋友想入腐圈，我该推荐她看什么？？",
+		"如题，一个朋友想入腐圈，让我推荐，然而本人是自然腐的那种，莫名其妙地就入了腐圈，所以真的不造正常人的承受能力在哪里，该推荐什么啊啊啊啊 求大神帮忙\n懒得找ID，官图镇",
+		"没人理我嘛",
+		"顶",
+		"顶",
+		"可以先推荐一下那种小清新小清新的漫画啊小说啊什么的",
+		"让她多撸动漫，撸着撸着自然就腐了",
+		"看看中村阿姨的作品，入腐都看那个，什么世界第一初恋啊，纯情罗曼史啊什么的，如果不行的话可以看微耽的，像k,free,黑子的篮球，黑执事啊什么的，看看看看就变资深了"
+	],
+	"",
+	{
+		"content": "领导这一研究的明尼苏达大学副教授维尔尼克认为，这一发现可能对全球防治疟疾具有重要意义。他说，实际上传播疟原虫的蚊子在按蚊中属于极少数，未来人们可以用一些办法专门杀死感染疟原虫的蚊子，让抗疟原虫的按蚊繁殖下去，这样防治疟疾可能更有效。（完）　　最近，美国的一项研究指出：一个人刚睡醒时，睡眼惺忪、反应较慢、解决问题的能力也下降，就跟四杯啤酒下肚后的微醺感一样，相当于血液中含有0．08％的酒精浓度。澳洲的一项研究也发现，人们刚刚醒来的前3分钟，判断力只有平常的一半，且会影响学习或工作表现长达2个小时。很多人都有过这样的经历，美梦正酣，却被无情的闹钟吵醒，心不甘情不愿地起床，头昏脑胀得像灌了铅一样，很久才能清醒。还有人因此有起床气。科学家称这种睡眼惺忪的状态叫“睡后迟钝”或“睡一半”。",
+		"url": "http://tieba.baidu.com/p/4612748801?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "腐女动漫",
+		"imgPath": "/data/lumppic/faf2b2119313b07e3dc808090ed7912397dd8cbe.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor5",
+	"Target Floor2",
+	"find target floor",
+	[
+		"急！！！朋友想入腐圈，我该推荐她看什么？？",
+		"如题，一个朋友想入腐圈，让我推荐，然而本人是自然腐的那种，莫名其妙地就入了腐圈，所以真的不造正常人的承受能力在哪里，该推荐什么啊啊啊啊 求大神帮忙\n懒得找ID，官图镇",
+		"没人理我嘛",
+		"顶",
+		"顶",
+		"可以先推荐一下那种小清新小清新的漫画啊小说啊什么的",
+		"让她多撸动漫，撸着撸着自然就腐了",
+		"看看中村阿姨的作品，入腐都看那个，什么世界第一初恋啊，纯情罗曼史啊什么的，如果不行的话可以看微耽的，像k,free,黑子的篮球，黑执事啊什么的，看看看看就变资深了"
+	],
+	"",
+	{
+		"content": "1",
+		"url": "http://tieba.baidu.com/p/4612748801?lp=5028&mo_device=1&is_jingpost=0&pn=0&#posterLayer",
+		"ba": "腐女动漫",
+		"imgPath": "/data/lumppic/377adab44aed2e73ef06195b8501a18b86d6fade.jpg"
+	},
+	"",
+	[
+		""
+	],
+	"",
+	"Max Floor8",
+	"Target Floor6",
+	"find target floor",
+	[
+		"【Anita Mui】",
+		"请问我们这个吧谁有关于Anita视频资料的百度云文件夹，我想看看哪些我没有看过。"
+	],
+	"",
+	{
+		"content": "控制工作餐饮",
+		"url": "http://tieba.baidu.com/p/4612150782?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "梅艳芳",
+		"imgPath": "/data/lumppic/5d6034a85edf8db11fa181090b23dd54574e74d4.jpg"
+	},
+	"",
+	[
+		"【Anita Mui】",
+		"请问我们这个吧谁有关于Anita视频资料的百度云文件夹，我想看看哪些我没有看过。",
+		"控制工作餐饮"
+	],
+	"",
+	"Max Floor8",
+	"Target Floor3",
+	"find target floor",
+	[
+		"【Anita Mui】梅家四姐妹",
+		"看到许多人都在吧里写段子！小编也写几段！",
+		"第一章：地点，香记炖奶店。人物，梅家四姐妹，大姐，梅大香，性格古板，比较传统，责任心很强，对妹妹疼爱有加。二姐，梅塞花，人很漂亮，爱打扮，品味高，有点儿小脾气。三姐，梅澜花，性情温柔，有些内向，总是把事情憋在心里。小妹，阿梅，大家都叫她丫头，爱时尚，很活泼，亲戚们最喜欢她！其他人物，曾造材，梅大香老公，故事开始是男友。陈康泰，梅塞花男友，老公。陈星辰，梅澜花男友，阿B，丫头男友，三叔，亲戚，在炖奶店附近开了个麻将馆！芳姨，炖奶店伙计，四姐妹的邻居！",
+		"[语音]",
+		"躺沙发上围观哈",
+		"时间，早上八点，炖奶店刚刚开门，整条街被奶香覆盖，香记炖奶店，是整条街最受欢迎的！一大早，大香就开始收拾店面，这时，梅塞花带着一个戴眼镜的男人，走进来。",
+		"占楼围观",
+		"“这位是？”大香问？“给你介绍一下，我男朋友，陈康泰！”塞花说。“哎呦，不是我说你，你刚多大呀，不好好工作，乱搞什么！”大香不耐烦。“我都二十三岁了，怎么不能找男朋友！”“二十三岁又怎么样，我二十八岁都没找男朋友，你二十三岁更别想！”",
+		"搬个板凳，瓜子嗑着"
+	],
+	"",
+	{
+		"content": "nbspnbspnbspnbsp10.通过续聘广东羊城会计师事务所有限公司为本公司2006年度国内审计师,并授权董事会厘定其酬金；",
+		"url": "http://tieba.baidu.com/p/4612448771?lp=5028&mo_device=1&is_jingpost=0&pn=0&",
+		"ba": "梅艳芳",
+		"imgPath": "/data/lumppic/64380cd7912397dd80f5e5055b82b2b7d0a28726.jpg"
+	},
+	"",
+	[
+		"【Anita Mui】梅家四姐妹",
+		"看到许多人都在吧里写段子！小编也写几段！",
+		"第一章：地点，香记炖奶店。人物，梅家四姐妹，大姐，梅大香，性格古板，比较传统，责任心很强，对妹妹疼爱有加。二姐，梅塞花，人很漂亮，爱打扮，品味高，有点儿小脾气。三姐，梅澜花，性情温柔，有些内向，总是把事情憋在心里。小妹，阿梅，大家都叫她丫头，爱时尚，很活泼，亲戚们最喜欢她！其他人物，曾造材，梅大香老公，故事开始是男友。陈康泰，梅塞花男友，老公。陈星辰，梅澜花男友，阿B，丫头男友，三叔，亲戚，在炖奶店附近开了个麻将馆！芳姨，炖奶店伙计，四姐妹的邻居！",
+		"4''",
+		"躺沙发上围观哈",
+		"时间，早上八点，炖奶店刚刚开门，整条街被奶香覆盖，香记炖奶店，是整条街最受欢迎的！一大早，大香就开始收拾店面，这时，梅塞花带着一个戴眼镜的男人，走进来。",
+		"占楼围观",
+		"“这位是？”大香问？“给你介绍一下，我男朋友，陈康泰！”塞花说。“哎呦，不是我说你，你刚多大呀，不好好工作，乱搞什么！”大香不耐烦。“我都二十三岁了，怎么不能找男朋友！”“二十三岁又怎么样，我二十八岁都没找男朋友，你二十三岁更别想！”",
+		"搬个板凳，瓜子嗑着",
+		"nbspnbspnbspnbsp10.通过续聘广东羊城会计师事务所有限公司为本公司2006年度国内审计师,并授权董事会厘定其酬金；"
+	],
+	"",
+	"创建贴吧",
+	"2016-06-15 20:07:15http%3A%2f%2ftieba.baidu.com%2fmo%2fq%2fm%3Fword%3D%25E6%25A2%2585%25E8%2589%25B3%25E8%258A%25B3%26page_from_search%3Dfrs%26tn6%3DbdISP%26tn4%3DbdKSW%26tn7%3DbdPSB%26lm%3D16842752%26lp%3D6093%26sub4%3D%25E8%25BF%259B%25E5%2590%25A7%26pn%3D0%26.png",
+	"Traceback (most recent call last):",
+	"  File \"open.py\", line 231, in <module>",
+	"    wait.until(EC.presence_of_element_located((By.TAG_NAME,'input')))",
+	"  File \"/usr/lib/python2.7/site-packages/selenium/webdriver/support/wait.py\", line 80, in until",
+	"    raise TimeoutException(message, screen, stacktrace)",
+	"selenium.common.exceptions.TimeoutException: Message: ",
+	""
+]

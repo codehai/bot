@@ -1,0 +1,46 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465899885", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:24:44 GMT", "value": "1465899749,1465899759,1465899883,1465899885", "expiry": 1497435884, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "4A2F2B30A34266E1", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:24:33 GMT", "value": "35da3cf6252fba0624970686976da40dfae0723889a4cd2d7e9ff460879090c1", "expiry": 1725099873, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:24:33 GMT", "value": "3a5afdbbc9ca58ee02cda041f8020f9b", "expiry": 1725099873, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:24:33 GMT", "value": "358aa4e596c339772ada6b68ac0cea500f2d2a", "expiry": 1725099873, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:24:33 GMT", "value": "05mVWQ4Rnp-MmZwcWVrMlEzNzZ4VWRRTWhHRzktQkU3TjNtQjRKdlY0cGhhSWRYQVFBQUFBJCQAAAAAAAAAAAEAAAB0njdJvvi6o7XEsbSxtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGHbX1dh219XQ", "expiry": 1725099873, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:24:33 GMT", "value": "fi_PncwhpxZ%7ETaJcx9rKXddDCOOLTovGz5-CSIy8jbKtXeEF6UaHzmxfsC2WUbG7O2TOivTRf-Os1T6icVc%7ESScvx1BubaxzddDgv4LcWKAeI8fbLNvgdfWeg6CUEtsVpmElI-jl6EeEiHgdyvPlEIcX27ypQ__", "expiry": 1725099873, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:24:33 GMT", "value": "5fb3425d5b4eae6f27dada46224eae4c4de2bdcd55d84eba9f3ea0a79ccfbe77f0520430bfd5", "expiry": 1725099873, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:24:33 GMT", "value": "wapp_1465899799482_677", "expiry": 1725099873, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:23:59 GMT", "value": "1", "expiry": 1465986239, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:23:37 GMT", "value": "1", "expiry": 1465986217, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:23:37 GMT", "value": "568", "expiry": 1497003817, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:23:37 GMT", "value": "320", "expiry": 1497003817, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:23:19 GMT", "value": "E039008C596053179055B3E65022CA32:FG=1", "expiry": 1497435799, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:23:19 GMT", "value": "wapp_1465899799482_677", "expiry": 2411979799, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "dd08873e1429b364a0e0c9c4", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:绝海的贝贝
+Max Floor27
+Target Floor17
+find target floor
+[
+  "十一级贴吧卖家，高品质，零差评！", 
+  "我多么想和你见一面", 
+  "只是没了你的画面", 
+  "熟悉的那一条街", 
+  "不再去说从前只是寒暄", 
+  "拿着你给的照片"
+]
+有验证码type1!!!!!!!!!!!!!!!!!!!
+utf-8
+2016-06-15 19:05:19http%3A%2f%2ftieba.baidu.com%2fp%2f4607820894%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26%23posterLayer.png
+Traceback (most recent call last):
+  File "open.py", line 297, in <module>
+    testStatus(1)	
+  File "open.py", line 91, in testStatus
+    fillType1Code()
+  File "open.py", line 56, in fillType1Code
+    resultCode = sendCodeImg(region)
+  File "open.py", line 49, in sendCodeImg
+    print type(r.json())
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 808, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 365, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 383, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

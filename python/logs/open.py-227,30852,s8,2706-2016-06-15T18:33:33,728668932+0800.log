@@ -1,0 +1,107 @@
+/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/pgsql-9.5/bin:/data/root/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/data/root/.cabal/bin:/data/root/bin:/data/root/bin:/opt/chromium-browser
+ascii
+CP 54321
+CP 11111
+http://172.17.42.1:15678/
+[{"domain": ".wappass.baidu.com", "name": "Hm_lpvt_294dbbdeb1fabbed8433533a3564560e", "value": "1465901683", "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "Hm_lvt_294dbbdeb1fabbed8433533a3564560e", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:54:43 GMT", "value": "1465901540,1465901563,1465901582,1465901683", "expiry": 1497437683, "path": "/", "httponly": false, "secure": false}, {"domain": ".hm.baidu.com", "name": "HMACCOUNT", "expires": "\\u5468\\u4e00, 18 1\\u6708 2038 00:00:00 GMT", "value": "211682C43984D571", "expiry": 2147385600, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "STOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:54:32 GMT", "value": "1cd6f5ab219ab466a1153540e1c2b975d26eb81144f15bd0ba49131882916eec", "expiry": 1725101672, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "PTOKEN", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:54:32 GMT", "value": "eee5f0b6a73e7aa5a096e529f80f2606", "expiry": 1725101672, "path": "/", "httponly": true, "secure": true}, {"domain": ".wappass.baidu.com", "name": "SAVEUSERID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:54:32 GMT", "value": "3db51ac9881a4f985dbfe2b037f71c55", "expiry": 1725101672, "path": "/", "httponly": true, "secure": false}, {"domain": ".baidu.com", "name": "BDUSS", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:54:32 GMT", "value": "JIWllyRlhSbENZeVZjQ2JPdWpLdzFPZGt1RzREMnRST05sZHViMnV1dG9iNGRYQVFBQUFBJCQAAAAAAAAAAAEAAACdpjdKd2RwYWM0MzVnZmV4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGjiX1do4l9XQm", "expiry": 1725101672, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "UBI", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:54:32 GMT", "value": "fi_PncwhpxZ%7ETaJcxhhvB540kfDeeDXAHBzH66103waOUZzhnOfunS9KYnP8k3sqSSb7FaviYfO2SFGClqiLCdGnGgpJSqEeuaSJA4l646p8TyLmUYBtjoL2iZ7XFuKUQ4vWEUbirMQxcmxynQUt8q56p%7EtOA__", "expiry": 1725101672, "path": "/", "httponly": true, "secure": false}, {"domain": ".wappass.baidu.com", "name": "HISTORY", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:54:32 GMT", "value": "1d93c5afbf43670ead73742ff05b3aa02653d20e", "expiry": 1725101672, "path": "/", "httponly": false, "secure": false}, {"domain": ".wappass.baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u516d, 31 8\\u6708 2024 10:54:32 GMT", "value": "wapp_1465901600012_263", "expiry": 1725101672, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "loginCk", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:53:59 GMT", "value": "1", "expiry": 1465988039, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "index_cutoff_cover", "expires": "\\u5468\\u4e09, 15 6\\u6708 2016 10:53:38 GMT", "value": "1", "expiry": 1465988018, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTHEIGHT", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:53:38 GMT", "value": "568", "expiry": 1497005618, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "CLIENTWIDTH", "expires": "\\u5468\\u4e94, 09 6\\u6708 2017 10:53:38 GMT", "value": "320", "expiry": 1497005618, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDUID", "expires": "\\u5468\\u4e09, 14 6\\u6708 2017 10:53:20 GMT", "value": "72A61633DC035AE433827B5E055381C5:FG=1", "expiry": 1497437600, "path": "/", "httponly": false, "secure": false}, {"domain": ".baidu.com", "name": "BAIDU_WISE_UID", "expires": "\\u5468\\u56db, 07 6\\u6708 2046 10:53:20 GMT", "value": "wapp_1465901600012_263", "expiry": 2411981600, "path": "/", "httponly": false, "secure": false}, {"domain": ".tieba.baidu.com", "name": "IS_NEW_USER", "expires": "\\u5468\\u56db, 31 12\\u6708 2020 15:59:59 GMT", "value": "91d2c8f778877f8fcfecd6cf", "expiry": 1609430399, "path": "/", "httponly": false, "secure": false}, {"domain": "tieba.baidu.com", "name": "mo_originid", "value": "2", "path": "/", "httponly": false, "secure": false}]
+CP 22222
+CP 37145
+CP 37146
+CP 34863
+http://172.17.42.1:15678/
+CP 34864
+http://172.17.42.1:15678/
+user:wdpac435gfex
+Max Floor37
+Target Floor21
+find target floor
+[
+  "京东ipad满1000-200券", 
+  "有3张 不要钱", 
+  "我的为什么不能用？\n--悟空，快去给为师抓个妖精玩玩。", 
+  "悟空。咋卖啊。不要钱还能送人啊／这也是醉了"
+]
+{
+  "content": "边旅游边批发", 
+  "url": "http://tieba.baidu.com/p/4611640667?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "ipad", 
+  "imgPath": "/data/lumppic/4afbfbedab64034f0583810badc379310a551d74.jpg"
+}
+[
+  "京东ipad满1000-200券", 
+  "有3张 不要钱", 
+  "我的为什么不能用？\n--悟空，快去给为师抓个妖精玩玩。", 
+  "悟空。咋卖啊。不要钱还能送人啊／这也是醉了", 
+  "边旅游边批发"
+]
+Max Floor32
+Target Floor18
+find target floor
+[
+  "这游戏兼容性，我真是醉了", 
+  "到底有没有可以兼容的游戏啊，推荐一个几个的", 
+  "从自带的游戏中心下啊\n来自Lumia1520的贴吧UWP", 
+  "说实话我玩碰到兼容性问题就一次。。。\n来自Lumia1520的贴吧UWP", 
+  "买了英特尔心就要有这个觉悟啊", 
+  "倩女幽魂手游能玩么", 
+  "手机一秒变游戏掌机？有了北通X1便携手机手柄，玩手游超带感！XD4引擎+竞技按键，操控MAX！北通X1上新特惠！"
+]
+{
+  "content": "他觉得做女孩子会很开心，希望早做手术", 
+  "url": "http://tieba.baidu.com/p/4612104898?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "小米平板", 
+  "imgPath": "/data/lumppic/e4dde71190ef76c6cfdaef209f16fdfaaf5167b4.jpg"
+}
+[
+  "这游戏兼容性，我真是醉了", 
+  "到底有没有可以兼容的游戏啊，推荐一个几个的", 
+  "从自带的游戏中心下啊\n来自Lumia1520的贴吧UWP", 
+  "说实话我玩碰到兼容性问题就一次。。。\n来自Lumia1520的贴吧UWP", 
+  "买了英特尔心就要有这个觉悟啊", 
+  "倩女幽魂手游能玩么", 
+  "手机一秒变游戏掌机？有了北通X1便携手机手柄，玩手游超带感！XD4引擎+竞技按键，操控MAX！北通X1上新特惠！", 
+  "他觉得做女孩子会很开心，希望早做手术"
+]
+Max Floor11
+Target Floor3
+find target floor
+[
+  "做个狼一样的薇尚！！因为我们有狼群一样的团队！", 
+  "薛嵩命令说：住下来", 
+  "段落清晰", 
+  "因此", 
+  "妇女用草灰当粉来用", 
+  "除此之外", 
+  "当然心里不是很开心", 
+  "这一切都漫无头绪", 
+  "进到那女人的两腿之间", 
+  "我就已经心灰意冷", 
+  "愣着干啥", 
+  "穿进了林荫", 
+  "然后他就在缤纷的燕粪里", 
+  "也就什么都不抱怨"
+]
+{
+  "content": "而一些人正在以实际行动来唱衰上海房产。“我们最先给房子的定价是7000／平方米，但没想到人都疯了，卖到1.9万／平方米，买房的人还是抢破了头。”一位在上海开发房产的北京开发商说，他们收钱都收到心里有些害怕。赚了一大把的这位开发商决定撤离上海，不再来吹大这个泡沫。“谁知道谁是最后的冤大头？”", 
+  "url": "http://tieba.baidu.com/p/4534472629?lp=5028&mo_device=1&is_jingpost=0&pn=0&", 
+  "ba": "微商群", 
+  "imgPath": "/data/lumppic/d1a20cf431adcbef16c65aa2aeaf2edda2cc9fa7.jpg"
+}
+2016-06-15 18:35:14http%3A%2f%2ftieba.baidu.com%2fp%2f4534472629%3Flp%3D5028%26mo_device%3D1%26is_jingpost%3D0%26pn%3D0%26.png
+Traceback (most recent call last):
+  File "open.py", line 304, in <module>
+    floorContent()
+  File "open.py", line 133, in floorContent
+    postContent = p.find_element_by_class_name('content').text
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 70, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.py", line 457, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "/usr/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.10,platform=Linux 3.10.0-123.4.4.el7.x86_64 x86_64)
+
