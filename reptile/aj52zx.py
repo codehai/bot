@@ -35,8 +35,9 @@ def score(score_soup,score_name,pagenum,race):
                                 del score_obj[u'鸽舍坐标']
                                 score_obj[u'比赛名称'] = race[u'比赛项目']
                                 score_obj[u'所属单位'] = race[u'举办赛事组织']
-                                score_obj[u'司放时间'] = race[u'司放时间']
+                                score_obj[u'司放时间'] = datetime.strptime(race[u'司放时间'] ,'%Y-%m-%d %H:%M:%S').isoformat()
                                 score_obj[u'归巢时间'] = re.findall('\d+\-\d+',score_obj[u'司放时间'])[0] +'-'+ re.findall('\d+\s\d+:\d+:\d+',score_obj[u'归巢时间'])[0]
+                                score_obj[u'归巢时间'] = datetime.strptime(score_obj[u'归巢时间'] ,'%Y-%m-%d %H:%M:%S').isoformat()
                                 scores.append(score_obj)
                                 score = []
                                 t = 0
