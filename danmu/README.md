@@ -1,4 +1,8 @@
-第一步,移动滑块,截取大概100多张图片.
-第二步,把图片填充到Canvas中,使用Canvas的getImageData功能把像素中的RGB值全加起来,效果就如下图所示.
-![alt tag](http://ideadot.cn/wp-content/uploads/2016/03/douyu-869x1024.png)
+# 斗鱼验证码破解，自动登陆，自动发弹幕工具
 
+------
+
+这个脚本使用的是casperjs，rDanmu.js是接收弹幕信息，方便检查弹幕有没有发送成功，tDanmu.js是发送弹幕信息的，其中包含了自动登陆，autologin.js是验证码破解工具，利用滑块移动的像素差别，识别出接近成功的那一个．下图中演示的是识别过程，可以看到，最接近成功的那个图片，后见面的数字越大（去掉前面几个后）：
+
+
+![alt tag](http://ideadot.cn/wp-content/uploads/2016/03/douyu-869x1024.png)
