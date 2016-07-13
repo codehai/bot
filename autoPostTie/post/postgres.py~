@@ -7,9 +7,9 @@ from datetime import datetime
 
 
 database = "dev"
-user = ""
-password = ""
-host = ""
+user = "chatengine0"
+password = "sry345edfh22"
+host = "123.59.77.204"
 port = "27213"
 
 
@@ -40,7 +40,28 @@ def queryOperation(sql, param = None) :
 	except psycopg2.Error as e :
 		print psycopg2.errorcodes.lookup(e.pgcode)
 
+def addPostedTie(postUser, floor, tie, state, result, obj):
+	sql = "insert into posted_tie (postUser, floor, tie, state , 结果分析"
+	param = [postUser, floor, tie, state, result];
+	for k, v in obj.items() :
+		sql = sql + ", " + k
+		param.append(v)
+	sql = sql + ") values (%s, %s, %s, %s, %s"
+	for i in range(len(obj)) :
+		sql = sql + ", %s"
+	sql = sql + ");"
+	updateOperation(sql, tuple(param));
+def addPostedErr(errorCodes, errorMessage, obj):
+	# print errorCodes,errorMessage
+	sql = u"insert into posted_err (错误代码, 错误信息 "
+	param = [errorCodes, errorMessage];
+	for k, v in obj.items() :
+		sql = sql + ", " + k
+		param.append(v)
+	sql = sql + ") values (%s, %s"
+	for i in range(len(obj)) :
+		sql = sql + ", %s"
+	sql = sql + ");"
+	updateOperation(sql, tuple(param));
 
-def addRtba(s ,t , ip, real, sj, xw, yy, ww, baidu, ws):
-	updateOperation("insert into rtba (s, 时间1, ip, 真人概率, 时间2, 行为位置, 运营商,  网络位置, baidu, 网络属性) values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);", ( s , t , ip, real, sj , xw, yy, ww, baidu, ws))
 

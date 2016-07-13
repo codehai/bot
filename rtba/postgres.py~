@@ -7,9 +7,9 @@ from datetime import datetime
 
 
 database = "dev"
-user = ""
-password = ""
-host = ""
+user = "tiebabot0"
+password = "y53bnd573w4r"
+host = "123.59.77.204"
 port = "27213"
 
 

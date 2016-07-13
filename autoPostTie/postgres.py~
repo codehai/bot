@@ -7,9 +7,9 @@ from datetime import datetime
 
 
 database = "dev"
-user = ""
-password = ""
-host = ""
+user = "chatengine0"
+password = "sry345edfh22"
+host = "123.59.77.204"
 port = "27213"
 
 

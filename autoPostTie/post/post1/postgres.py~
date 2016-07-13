@@ -6,10 +6,10 @@ import psycopg2.errorcodes
 from datetime import datetime
 
 
-database = "dev"
-user = ""
+database = "hub"
+user = "tieba_login_bot_0"
 password = ""
-host = ""
+host = "127.0.0.1"
 port = "27213"
 
 
@@ -40,7 +40,18 @@ def queryOperation(sql, param = None) :
 	except psycopg2.Error as e :
 		print psycopg2.errorcodes.lookup(e.pgcode)
 
-
-def addRtba(s ,t , ip, real, sj, xw, yy, ww, baidu, ws):
-	updateOperation("insert into rtba (s, 时间1, ip, 真人概率, 时间2, 行为位置, 运营商,  网络位置, baidu, 网络属性) values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);", ( s , t , ip, real, sj , xw, yy, ww, baidu, ws))
-
+def addLogCookies(un_ua, cookies, state, obj):
+	sql = "insert into hub.tieba_login_sessions(username, useragent, cookies, state"
+	#print un_ua["un"]
+	#print un_ua["ua"]
+	param = [un_ua["un"],un_ua["ua"], cookies, state]
+	for k, v in obj.items() :
+		sql = sql + ", " + k
+		param.append(v)
+	sql = sql + ") values (%s, %s, %s, %s"
+	for i in range(len(obj)) :
+		sql = sql + ", %s"
+	sql = sql + ");"
+	# print sql
+	# print obj
+	updateOperation(sql, tuple(param))

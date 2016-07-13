@@ -7,9 +7,9 @@ from datetime import datetime
 
 
 database = "hub"
-user = "tieba_login_bot_0"
+user = ""
 password = ""
-host = "127.0.0.1"
+host = ""
 port = "27213"
 
 
