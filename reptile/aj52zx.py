@@ -91,7 +91,8 @@ for race in race_items:
                 if not isinstance(scores,NoneType):
                         print len(scores)    
                         if len(scores):
-                                print json.dumps(scores,ensure_ascii=False,indent=2) #比赛成绩    
+                                print json.dumps(scores,ensure_ascii=False,indent=2) #比赛成绩 updata to sql   
+                                # addRace(rank, releaseTime, owner, returnTime, distance, company, pigeonID, shedNum, raceName)
                                 break
 
 
