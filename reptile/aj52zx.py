@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, date, time
 import urllib2
 from types import NoneType
+import mySql
 
 def score(score_soup,score_name,pagenum,race):
         try:
@@ -54,8 +55,8 @@ r = requests.get(url, headers=headers)
 soup = BeautifulSoup(r.text, 'html.parser')
 content = soup.find_all('table',id='ctl00_ContentPlaceHolder1_GridView1')
 items = content[0].find_all('tr')
-item_name = ['url',u'举办赛事组织',u'比赛项目',u'司放时间',u'司放地点',u'空距/KM',u'上笼羽数',u'司放地坐标',u'当前归巢',u'司放天气']
-score_name = [u'名次',u'鸽主姓名',u'棚号',u'足环号码',u'暗码',u'归巢时间',u'空距/KM',u'分速',u'鸽舍坐标',u'当前坐标',u'团体',u'插组']
+item_name = ['url',u'举办赛事组织',u'比赛项目',u'司放时间',u'司放地点',u'空距',u'上笼羽数',u'司放地坐标',u'当前归巢',u'司放天气']
+score_name = [u'名次',u'鸽主姓名',u'棚号',u'足环号码',u'暗码',u'归巢时间',u'空距',u'分速',u'鸽舍坐标',u'当前坐标',u'团体',u'插组']
 race_items = []
 for item in items:
         race_item = []
@@ -91,8 +92,10 @@ for race in race_items:
                 if not isinstance(scores,NoneType):
                         print len(scores)    
                         if len(scores):
-                                print json.dumps(scores,ensure_ascii=False,indent=2) #比赛成绩 updata to sql   
-                                # addRace(rank, releaseTime, owner, returnTime, distance, company, pigeonID, shedNum, raceName)
+                                print json.dumps(scores,ensure_ascii=False,indent=2) #比赛成绩 updata to sql
+                                for score in scores:
+                                        print score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称']
+                                        mySql.addRace(score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称'])
                                 break
 
 

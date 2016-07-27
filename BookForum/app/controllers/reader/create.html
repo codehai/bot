@@ -1,0 +1,33 @@
+<form ng-submit="vm.submit(vm.form)">
+  <div>
+        <label for="_email">email</label>
+        <input id="_email" type="email" ng-model="vm.form.email"/>
+  </div>
+    <div>
+        <label for="_nickname">nickname</label>
+        <input id="_nickname" type="text" ng-model="vm.form.nickname"/>
+  </div>
+    <div>
+        <label for="_password">password</label>
+        <input id="_password" type="password" ng-model="vm.form.password"/>
+  </div>
+    <div>
+        <label for="_retypedPassword">retypePassword</label>
+        <input id="_retypedPassword" type="password" ng-model="vm.retypePassword"/>
+  </div>
+    <div>
+        <label for="_captcha">captcha</label>
+        <input id="_captcha" type="text" ng-model="vm.form.cpatcha"/>
+        <img src="" alt="captcha">
+  </div>
+  <div>
+        <input id="_accepted" type="checkbox">
+        <label>
+                I already read and confirm.
+                <a href="">user</a>
+        </label>
+  </div>
+  <div>
+        <button type="submit">submit</button>
+  </div>
+</form>
