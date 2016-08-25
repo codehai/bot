@@ -1,0 +1,277 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'fj' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose install initial load of /usr/local/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/local/lib/package.json
+6 silly cache add args [ 'fj', null ]
+7 verbose cache add spec fj
+8 silly cache add parsed spec Result {
+8 silly cache add   raw: 'fj',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'fj',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: 'latest',
+8 silly cache add   type: 'tag' }
+9 silly addNamed fj@latest
+10 verbose addNamed "latest" is being treated as a dist-tag for fj
+11 info addNameTag [ 'fj', 'latest' ]
+12 silly mapToRegistry name fj
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry data Result {
+15 silly mapToRegistry   raw: 'fj',
+15 silly mapToRegistry   scope: null,
+15 silly mapToRegistry   name: 'fj',
+15 silly mapToRegistry   rawSpec: '',
+15 silly mapToRegistry   spec: 'latest',
+15 silly mapToRegistry   type: 'tag' }
+16 silly mapToRegistry uri https://registry.npmjs.org/fj
+17 verbose addNameTag registry:https://registry.npmjs.org/fj not in flight; fetching
+18 verbose request uri https://registry.npmjs.org/fj
+19 verbose request no auth needed
+20 info attempt registry request try #1 at 00:52:55
+21 verbose request id 1866092ccb86715b
+22 http request GET https://registry.npmjs.org/fj
+23 http 200 https://registry.npmjs.org/fj
+24 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+24 verbose headers   etag: '"1RV27VDEAHS9A0IK98JTF10D4"',
+24 verbose headers   'content-type': 'application/json',
+24 verbose headers   'content-encoding': 'gzip',
+24 verbose headers   'cache-control': 'max-age=300',
+24 verbose headers   'content-length': '6333',
+24 verbose headers   'accept-ranges': 'bytes',
+24 verbose headers   date: 'Wed, 27 Jul 2016 16:53:01 GMT',
+24 verbose headers   via: '1.1 varnish',
+24 verbose headers   age: '0',
+24 verbose headers   connection: 'keep-alive',
+24 verbose headers   'x-served-by': 'cache-lcy1133-LCY',
+24 verbose headers   'x-cache': 'MISS',
+24 verbose headers   'x-cache-hits': '0',
+24 verbose headers   'x-timer': 'S1469638381.073496,VS0,VE190',
+24 verbose headers   vary: 'Accept-Encoding' }
+25 silly get cb [ 200,
+25 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+25 silly get     etag: '"1RV27VDEAHS9A0IK98JTF10D4"',
+25 silly get     'content-type': 'application/json',
+25 silly get     'content-encoding': 'gzip',
+25 silly get     'cache-control': 'max-age=300',
+25 silly get     'content-length': '6333',
+25 silly get     'accept-ranges': 'bytes',
+25 silly get     date: 'Wed, 27 Jul 2016 16:53:01 GMT',
+25 silly get     via: '1.1 varnish',
+25 silly get     age: '0',
+25 silly get     connection: 'keep-alive',
+25 silly get     'x-served-by': 'cache-lcy1133-LCY',
+25 silly get     'x-cache': 'MISS',
+25 silly get     'x-cache-hits': '0',
+25 silly get     'x-timer': 'S1469638381.073496,VS0,VE190',
+25 silly get     vary: 'Accept-Encoding' } ]
+26 verbose get saving fj to /Users/sunhao/.npm/registry.npmjs.org/fj/.cache.json
+27 verbose correctMkdir /Users/sunhao/.npm correctMkdir not in flight; initializing
+28 verbose makeDirectory /Users/sunhao/.npm creation not in flight; initializing
+29 silly makeDirectory /Users/sunhao/.npm uid: 501 gid: 20
+30 silly addNameTag next cb for fj with tag latest
+31 silly addNamed fj@0.5.0
+32 verbose addNamed "0.5.0" is a plain semver version for fj
+33 silly mapToRegistry name fj
+34 silly mapToRegistry using default registry
+35 silly mapToRegistry registry https://registry.npmjs.org/
+36 silly mapToRegistry data Result {
+36 silly mapToRegistry   raw: 'fj',
+36 silly mapToRegistry   scope: null,
+36 silly mapToRegistry   name: 'fj',
+36 silly mapToRegistry   rawSpec: '',
+36 silly mapToRegistry   spec: 'latest',
+36 silly mapToRegistry   type: 'tag' }
+37 silly mapToRegistry uri https://registry.npmjs.org/fj
+38 verbose addRemoteTarball https://registry.npmjs.org/fj/-/fj-0.5.0.tgz not in flight; adding
+39 verbose addRemoteTarball [ 'https://registry.npmjs.org/fj/-/fj-0.5.0.tgz',
+39 verbose addRemoteTarball   '828ae4f480641e4d7777a66489796c1bbe453f4b' ]
+40 info retry fetch attempt 1 at 00:53:02
+41 info attempt registry request try #1 at 00:53:02
+42 http fetch GET https://registry.npmjs.org/fj/-/fj-0.5.0.tgz
+43 http fetch 200 https://registry.npmjs.org/fj/-/fj-0.5.0.tgz
+44 silly fetchAndShaCheck shasum 828ae4f480641e4d7777a66489796c1bbe453f4b
+45 verbose addTmpTarball /var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/npm-89897-56872e65/registry.npmjs.org/fj/-/fj-0.5.0.tgz not in flight; adding
+46 verbose addTmpTarball already have metadata; skipping unpack for fj@0.5.0
+47 verbose correctMkdir /Users/sunhao/.npm correctMkdir not in flight; initializing
+48 silly cache afterAdd fj@0.5.0
+49 verbose afterAdd /Users/sunhao/.npm/fj/0.5.0/package/package.json not in flight; writing
+50 verbose correctMkdir /Users/sunhao/.npm correctMkdir not in flight; initializing
+51 verbose afterAdd /Users/sunhao/.npm/fj/0.5.0/package/package.json written
+52 silly install resolved [ { name: 'fj',
+52 silly install resolved     version: '0.5.0',
+52 silly install resolved     preferGlobal: 'true',
+52 silly install resolved     description: 'Frontend developer\'s Jet engine',
+52 silly install resolved     main: 'fj',
+52 silly install resolved     engines: { node: '>= 4.0' },
+52 silly install resolved     'engine-strict': true,
+52 silly install resolved     bin: { fj: './bin/fj' },
+52 silly install resolved     repository: {},
+52 silly install resolved     keywords: [ 'front end', 'client', 'cli', 'tool chain' ],
+52 silly install resolved     devDependencies: {},
+52 silly install resolved     author: { name: 'Zhicheng Wang', email: 'zcwang@thoughtworks.com' },
+52 silly install resolved     license: 'MIT',
+52 silly install resolved     _id: 'fj@0.5.0',
+52 silly install resolved     _from: 'fj@latest',
+52 silly install resolved     dependencies:
+52 silly install resolved      { archy: '1.0.0',
+52 silly install resolved        bower: '1.7.7',
+52 silly install resolved        'browser-sync': '2.11.1',
+52 silly install resolved        chalk: '1.1.1',
+52 silly install resolved        'cross-spawn': '2.1.5',
+52 silly install resolved        'event-stream': '3.3.2',
+52 silly install resolved        gulp: '3.9.1',
+52 silly install resolved        'gulp-angular-filesort': '1.1.1',
+52 silly install resolved        'gulp-babel': '6.1.2',
+52 silly install resolved        'gulp-coffee': '2.3.1',
+52 silly install resolved        'gulp-concat': '2.6.0',
+52 silly install resolved        'gulp-connect': '3.1.0',
+52 silly install resolved        'gulp-csso': '1.1.0',
+52 silly install resolved        'gulp-debug': '2.1.2',
+52 silly install resolved        'gulp-develop-server': '0.5.1',
+52 silly install resolved        'gulp-filter': '4.0.0',
+52 silly install resolved        'gulp-git': '1.7.0',
+52 silly install resolved        'gulp-if': '2.0.0',
+52 silly install resolved        'gulp-ignore': '2.0.1',
+52 silly install resolved        'gulp-inject': '3.0.0',
+52 silly install resolved        'gulp-jshint': '2.0.0',
+52 silly install resolved        'gulp-manifest': '0.1.1',
+52 silly install resolved        'gulp-minify-css': '1.2.4',
+52 silly install resolved        'gulp-minify-html': '1.0.6',
+52 silly install resolved        'gulp-ng-annotate': '2.0.0',
+52 silly install resolved        'gulp-ng-html2js': '0.2.2',
+52 silly install resolved        'gulp-nodemon': '2.0.6',
+52 silly install resolved        'gulp-notify': '2.2.0',
+52 silly install resolved        'gulp-open': '1.0.0',
+52 silly install resolved        'gulp-plumber': '1.1.0',
+52 silly install resolved        'gulp-protractor': '2.2.0',
+52 silly install resolved        'gulp-rename': '1.2.2',
+52 silly install resolved        'gulp-replace': '0.5.4',
+52 silly install resolved        'gulp-rev': '7.0.0',
+52 silly install resolved        'gulp-rev-replace': '0.4.3',
+52 silly install resolved        'gulp-sass': '2.2.0',
+52 silly install resolved        'gulp-scss-lint': '0.3.9',
+52 silly install resolved        'gulp-size': '2.1.0',
+52 silly install resolved        'gulp-sourcemaps': '1.6.0',
+52 silly install resolved        'gulp-svg2ttf': '1.1.5',
+52 silly install resolved        'gulp-svgicons2svgfont': '3.0.1',
+52 silly install resolved        'gulp-ttf2eot': '1.1.1',
+52 silly install resolved        'gulp-ttf2woff': '1.1.0',
+52 silly install resolved        'gulp-typescript': '2.12.1',
+52 silly install resolved        'gulp-uglify': '1.5.3',
+52 silly install resolved        'gulp-useref': '3.0.8',
+52 silly install resolved        'gulp-util': '3.0.7',
+52 silly install resolved        'gulp-wait': '0.0.2',
+52 silly install resolved        'gulp-watch': '4.3.5',
+52 silly install resolved        'http-proxy': '1.13.2',
+52 silly install resolved        inquirer: '0.12.0',
+52 silly install resolved        jshint: '^2.9.1',
+52 silly install resolved        'jshint-stylish': '2.1.0',
+52 silly install resolved        karma: '0.13.22',
+52 silly install resolved        'karma-babel-preprocessor': '6.0.1',
+52 silly install resolved        'karma-chrome-launcher': '0.2.2',
+52 silly install resolved        'karma-coffee-preprocessor': '0.3.0',
+52 silly install resolved        'karma-jasmine': '0.3.8',
+52 silly install resolved        'karma-ng-html2js-preprocessor': '0.2.1',
+52 silly install resolved        'karma-phantomjs-launcher': '1.0.0',
+52 silly install resolved        lodash: '4.6.1',
+52 silly install resolved        'main-bower-files': '2.11.1',
+52 silly install resolved        merge2: '1.0.1',
+52 silly install resolved        'mobile-agent': '0.0.8',
+52 silly install resolved        open: '0.0.5',
+52 silly install resolved        'phantomjs-prebuilt': '^2.1.5',
+52 silly install resolved        plexer: '1.0.1',
+52 silly install resolved        'pretty-hrtime': '1.0.2',
+52 silly install resolved        q: '1.4.1',
+52 silly install resolved        request: '2.69.0',
+52 silly install resolved        'require-dir': '0.3.0',
+52 silly install resolved        restify: '4.0.4',
+52 silly install resolved        rimraf: '2.5.2',
+52 silly install resolved        'run-sequence': '1.1.5',
+52 silly install resolved        semver: '5.1.0',
+52 silly install resolved        shelljs: '0.6.0',
+52 silly install resolved        'sort-stream': '1.0.1',
+52 silly install resolved        through2: '2.0.1',
+52 silly install resolved        'through2-spy': '2.0.0',
+52 silly install resolved        tildify: '1.1.2',
+52 silly install resolved        'uglify-save-license': '0.4.1',
+52 silly install resolved        vinyl: '1.1.1',
+52 silly install resolved        wiredep: '3.0.0',
+52 silly install resolved        xml2js: '0.4.16',
+52 silly install resolved        xtend: '4.0.1',
+52 silly install resolved        yargs: '4.3.1' },
+52 silly install resolved     gitHead: '30e8f4bc8a056c7c2bbed3456f86f0c77be414ed',
+52 silly install resolved     scripts: {},
+52 silly install resolved     _shasum: '828ae4f480641e4d7777a66489796c1bbe453f4b',
+52 silly install resolved     _npmVersion: '3.8.9',
+52 silly install resolved     _nodeVersion: '6.2.0',
+52 silly install resolved     _npmUser: { name: 'asnowwolf', email: 'asnowwolf@gmail.com' },
+52 silly install resolved     maintainers: [ [Object] ],
+52 silly install resolved     dist:
+52 silly install resolved      { shasum: '828ae4f480641e4d7777a66489796c1bbe453f4b',
+52 silly install resolved        tarball: 'https://registry.npmjs.org/fj/-/fj-0.5.0.tgz' },
+52 silly install resolved     _npmOperationalInternal:
+52 silly install resolved      { host: 'packages-16-east.internal.npmjs.com',
+52 silly install resolved        tmp: 'tmp/fj-0.5.0.tgz_1467096616104_0.6410933397710323' },
+52 silly install resolved     directories: {},
+52 silly install resolved     _resolved: 'https://registry.npmjs.org/fj/-/fj-0.5.0.tgz' } ]
+53 info install fj@0.5.0 into /usr/local/lib
+54 info installOne fj@0.5.0
+55 verbose installOne of fj to /usr/local/lib not in flight; installing
+56 verbose correctMkdir /Users/sunhao/.npm/_locks correctMkdir not in flight; initializing
+57 verbose makeDirectory /Users/sunhao/.npm/_locks creation not in flight; initializing
+58 silly makeDirectory /Users/sunhao/.npm/_locks uid: 501 gid: 20
+59 verbose lock using /Users/sunhao/.npm/_locks/fj-ec69a321d9a50845.lock for /usr/local/lib/node_modules/fj
+60 silly install write writing fj 0.5.0 to /usr/local/lib/node_modules/fj
+61 verbose unbuild lib/node_modules/fj
+62 silly gentlyRm /usr/local/lib/node_modules/fj is being purged from base /usr/local
+63 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/fj
+64 verbose tar unpack /Users/sunhao/.npm/fj/0.5.0/package.tgz
+65 verbose tar unpacking to /usr/local/lib/node_modules/fj
+66 silly gentlyRm /usr/local/lib/node_modules/fj is being purged
+67 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/fj
+68 silly gunzTarPerm modes [ '755', '644' ]
+69 error tar.unpack untar error /Users/sunhao/.npm/fj/0.5.0/package.tgz
+70 verbose unlock done using /Users/sunhao/.npm/_locks/fj-ec69a321d9a50845.lock for /usr/local/lib/node_modules/fj
+71 verbose fstream_path /usr/local/lib/node_modules/fj
+72 verbose fstream_type Directory
+73 verbose fstream_class DirWriter
+74 verbose stack Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/fj'
+74 verbose stack     at Error (native)
+75 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25
+75 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53
+75 verbose fstream_stack FSReqWrap.oncomplete (fs.js:82:15)
+76 verbose cwd /Users/sunhao/Work/bot
+77 error Darwin 15.5.0
+78 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "fj"
+79 error node v4.4.7
+80 error npm  v2.15.8
+81 error path /usr/local/lib/node_modules/fj
+82 error code EACCES
+83 error errno -13
+84 error syscall mkdir
+85 error Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/fj'
+85 error     at Error (native)
+85 error  { [Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/fj']
+85 error   errno: -13,
+85 error   code: 'EACCES',
+85 error   syscall: 'mkdir',
+85 error   path: '/usr/local/lib/node_modules/fj',
+85 error   fstream_type: 'Directory',
+85 error   fstream_path: '/usr/local/lib/node_modules/fj',
+85 error   fstream_class: 'DirWriter',
+85 error   fstream_stack:
+85 error    [ '/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25',
+85 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53',
+85 error      'FSReqWrap.oncomplete (fs.js:82:15)' ] }
+86 error Please try running this command again as root/Administrator.
+87 verbose exit [ -13, true ]
+88 verbose unbuild lib/node_modules/fj
+89 silly gentlyRm /usr/local/lib/node_modules/fj is being purged from base /usr/local
+90 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/fj
