@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+<div class="posts">
+        <section class="post">
+            <header class="post-header">
+                <h2 class="post-title text-center">{{ post.title }}</h2>
+                    <p class="post-meta text-center">
+                        Time:  <a class="post-author" href="#">{{ post.date_time|date:"Y /m /d"}}</a> <a class="post-category post-category-js" href="#">{{ post.category }}</a>
+                    </p>
+            </header>
+
+                <div class="post-description">
+                    <p>
+                        {{ post.content }}
+                    </p>
+                </div>
+        </section>
+</div><!-- /.blog-post -->
+</div>
+{% endblock %}
