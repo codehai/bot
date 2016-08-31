@@ -39,14 +39,14 @@
       </ul>
       
         {% if user.is_logged_in %}
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="/accounts/profile">{{ user.username }}</a></li>
-        </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/accounts/profile">{{ user.username }}</a></li>
+          </ul>
         {% else %}
-        <form class="navbar-form navbar-right" role="search">    
-          <a href="/accounts/login/" class="btn btn-default">登录</a>
-          <a href="/accounts/"  class="btn btn-default">注册</button>
-        </form>
+          <form class="navbar-form navbar-right" role="search">    
+            <a href="/accounts/login/" class="btn btn-default">登录</a>
+            <a href="/accounts/reg"  class="btn btn-default">注册</a>
+          </form>
         {% endif %}
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
