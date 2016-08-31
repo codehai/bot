@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 # Create your models here.
 class Zixun(models.Model) :
@@ -13,3 +14,9 @@ class Zixun(models.Model) :
 
     class Meta:  #按时间下降排序
         ordering = ['-date_time']
+
+class Vipuser(models.Model):
+    user = models.OneToOneField(User)
+    vip_start = models.DateTimeField(auto_now_add = False)
+    vip_end = models.DateTimeField(auto_now_add = False)
+
