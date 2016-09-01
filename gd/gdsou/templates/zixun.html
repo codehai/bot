@@ -16,26 +16,40 @@
                                 {{ post.content }}
                             </p>
                         </div>
+                         <a class="btn btn-primary" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>
                 </section>
         </div><!-- /.blog-post -->
     {% endfor %}
     <!-- 另一种分页显示方式 -->
-<p>
-　{% if post_list.has_previous %}
-     <a href="?page={{ post_list.previous_page_number }}">上一页</a>
-  {% endif %}
+    <nav>
+        <ul class="pagination">
+            {% if post_list.has_previous %}
+                <li>
+                    <a href="?page={{ post_list.previous_page_number }}" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+            {% endif %}
 
-　{% for page_number in post_list.paginator.page_range %}
-    {% ifequal page_number  post_list.number %}
-      {{ page_number }}
-    {% else %}
-      <a href="?page={{ page_number }}">{{ page_number }}</a>
-    {% endifequal %}
-  {% endfor %}
-　
-　{% if post_list.has_next %}
-    <a href="?page={{ post_list.next_page_number }}">下一页</a>
-　{% endif %}
-</p>
+            {% for page_number in post_list.paginator.page_range %}
+                {% ifequal page_number  post_list.number %}
+                    <li class="active">
+                        <span>{{ page_number }}<span class="sr-only">(current)</span></span>
+                    </li>
+                {% else %}
+                    <li><a href="?page={{ page_number }}">{{ page_number }}</a></li>
+                {% endifequal %}
+            {% endfor %}
+            　
+            　{% if post_list.has_next %}
+                <li>
+                    <a href="?page={{ post_list.next_page_number }}" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+
+            　{% endif %}
+        </ul>
+    </nav>
 </div>
 {% endblock %}

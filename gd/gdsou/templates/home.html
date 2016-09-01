@@ -24,7 +24,8 @@
             <header class="post-header">
                 <h2 class="post-title">{{ post.title }}</h2>
                     <p class="post-meta">
-                        Time:  <a class="post-author" href="#">{{ post.date_time }}</a> <a class="post-category post-category-js" href="#">{{ post.category }}</a>
+                        <span class="glyphicon glyphicon-time" aria-hidden="false"></span>  
+                        <a class="post-author" href="#">{{ post.date_time }}</a> <a class="label label-info" href="#">{{ post.category }}</a>
                     </p>
             </header>
 
@@ -33,7 +34,7 @@
                         {{ post.content }}
                     </p>
                 </div>
-                <a class="pure-button" href="{% url "detail" id=post.id %}">Read More >>> </a>
+                <a class="btn btn-primary" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>
         </div>
     {% endfor %}
 </div><!-- /.blog-post -->
