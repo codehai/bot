@@ -2,7 +2,7 @@ from django import template
 import datetime
 from django.template.defaultfilters import stringfilter
 register = template.Library()
-# 以下定义自己的方法，自定义方法需要用装饰器register.filter装饰起来
+
 @register.filter
 @stringfilter
 def timeformat(value):
