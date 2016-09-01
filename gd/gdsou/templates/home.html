@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% load poll_extras%}
 {% block content %}
 
 <div class="jumbotron" style="background-color:transparent">
@@ -25,7 +26,7 @@
                 <h2 class="post-title">{{ post.title }}</h2>
                     <p class="post-meta">
                         <span class="glyphicon glyphicon-time" aria-hidden="false"></span>  
-                        <a class="post-author" href="#">{{ post.date_time }}</a> <a class="label label-info" href="#">{{ post.category }}</a>
+                        <a class="post-author" href="#">{{ post.date_time | timeformat }}</a> <a class="label label-info" href="#">{{ post.category }}</a>
                     </p>
             </header>
 

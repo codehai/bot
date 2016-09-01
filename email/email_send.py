@@ -23,6 +23,7 @@ parser.add_argument("-c", "--content", action="store",help="正文")
 parser.add_argument("-f", "--file", action="append",help="附件")
 parser.add_argument("-i", "--images", action="append",help="图片")
 
+
 args = parser.parse_args()
 
 def _format_addr(s):
