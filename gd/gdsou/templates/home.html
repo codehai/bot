@@ -3,18 +3,20 @@
 {% block content %}
 
 <div class="jumbotron" style="background-color:transparent">
-      <div class="container">       
+      <div class="container">
+        <form action="/race/" method="GET">       
          <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3">
             <div class="text-center">
                 <img hidefocus="true" src="/static/img/bd_logo1.png" width="270" height="129">
             </div>
             <div class="input-group">
-                <input type="text" class="form-control" placeholder="Search for...">
+                <input type="text" name="q" class="form-control" placeholder="Search for...">
                     <span class="input-group-btn">
-                        <button class="btn btn-default" type="button">Go!</button>
+                        <button class="btn btn-default" type="submit">Go!</button>
                     </span>
                 </div><!-- /input-group -->
             </div><!-- /.col-lg-6 -->
+        </form>
         </div><!-- /.row -->
       </div>
 </div>

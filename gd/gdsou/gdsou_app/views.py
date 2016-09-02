@@ -52,3 +52,10 @@ def zixun(request):
 
     return render(request, 'zixun.html', {'post_list' : post_list,'user':user})
 
+def race(request):
+    user = getUser(request)
+    q = request.GET.get('q')
+    return render(request, 'race.html', {'user':user,'q':q})
+
+
+

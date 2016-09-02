@@ -26,5 +26,6 @@ urlpatterns = [
     # url(r'^accounts/profile/$', views.profile)
     url(r'^$', views.home,name='home'),
     url(r'^(?P<id>\d+)/$', views.detail, name='detail'),
-    url(r'zixun/$', views.zixun, name='zixun'),
+    url(r'^zixun/$', views.zixun, name='zixun'),
+    url(r'^race/$', views.race, name='race'),
 ]
