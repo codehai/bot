@@ -20,3 +20,16 @@ class Vipuser(models.Model):
     vip_start = models.DateTimeField(auto_now_add = False)
     vip_end = models.DateTimeField(auto_now_add = False)
 
+class Race(models.Model):
+    score = models.IntegerField()
+    release_date = models.DateField()
+    belong = models.CharField(max_length = 50)
+    return_date = models.DateField()
+    velocity = models.FloatField()
+    distance = models.FloatField()
+    company = models.CharField(max_length = 50)
+    foot_num = models.CharField(max_length = 50)
+    shed_num = models.IntegerField()
+    race_name = models.CharField(max_length = 50)
+
+

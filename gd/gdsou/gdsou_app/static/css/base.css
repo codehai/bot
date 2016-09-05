@@ -8,3 +8,15 @@
 .container .text-muted {
     margin: 20px 0;
 }
+#home .post-desc{
+    width: 100%;
+    min-height: 3.6em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;  
+}
+#home .post-desc p{
+  font-size: 12px;
+}

@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% load poll_extras%}
 {% block content %}
 <div class="container">
     {% for post in post_list.object_list %}
@@ -7,7 +8,8 @@
                     <header class="post-header">
                         <h2 class="post-title">{{ post.title }}</h2>
                             <p class="post-meta">
-                                Time:  <a class="post-author" href="#">{{ post.date_time|date:"Y /m /d"}}</a> <a class="post-category post-category-js" href="#">{{ post.category }}</a>
+                                <span class="glyphicon glyphicon-time" aria-hidden="false"></span>
+                                <a class="post-author" href="#">{{ post.date_time|timeformat}}</a> <a class="post-category post-category-js label label-info" href="#">{{ post.category }}</a>
                             </p>
                     </header>
 

@@ -23,6 +23,7 @@ def getUser(request):
     return user
   
 # Create your views here.
+
 def home(request):
     user = getUser(request)
     post_list = Zixun.objects.all()[:3]  #获取全部的Article对象
@@ -51,4 +52,11 @@ def zixun(request):
         post_list = paginator.page(paginator.num_pages)  # 取最后一页的记录
 
     return render(request, 'zixun.html', {'post_list' : post_list,'user':user})
+
+def race(request):
+    user = getUser(request)
+    q = request.GET.get('q')
+    return render(request, 'race.html', {'user':user,'q':q})
+
+
 
