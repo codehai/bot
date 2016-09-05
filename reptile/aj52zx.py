@@ -8,8 +8,15 @@ from bs4 import BeautifulSoup
 from datetime import datetime, date, time
 import urllib2
 from types import NoneType
-import mySql
+# import mySql
+import sqlite3
 
+def addRace(score, release_date, belong, return_date, velocity, distance, company, foot_num, shed_num, race_name):
+        conn = sqlite3.connect('../gd/gdsou/db.sqlite3')
+        cursor = conn.cursor()
+        cursor.execute('insert into gdsou_app_races (score, release_date, belong, return_date, velocity, distance, company, foot_num, shed_num, race_name) values (?,?,?,?,?,?,?,?,?,?)',(score, release_date, belong, return_date, velocity, distance, company, foot_num, shed_num, race_name))
+        conn.commit()
+        conn.close()
 def score(score_soup,score_name,pagenum,race):
         try:
                 score_content = score_soup.find_all('td')
@@ -94,8 +101,8 @@ for race in race_items:
                         if len(scores):
                                 print json.dumps(scores,ensure_ascii=False,indent=2) #比赛成绩 updata to sql
                                 for score in scores:
-                                        print score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称']
-                                        mySql.addRace(score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称'])
+                                        # print score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称']
+                                        addRace(score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称'])
                                 break
 
 

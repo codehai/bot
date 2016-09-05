@@ -10,6 +10,7 @@ from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
   
 from django.contrib.auth.decorators import login_required
 from gdsou_app.models import Zixun 
+from gdsou_app.models import Races
 
 from django.core.paginator import Paginator
 from django.core.paginator import EmptyPage
@@ -56,7 +57,8 @@ def zixun(request):
 def race(request):
     user = getUser(request)
     q = request.GET.get('q')
-    return render(request, 'race.html', {'user':user,'q':q})
+    race_list = Races.objects.all()
+    return render(request, 'race.html', {'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
 
 
 

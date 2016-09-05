@@ -18,6 +18,55 @@
       </div>
 </div>
 <div class="container">
+<div id="result">
+  <div class="container hidden-xs">
+  <table class="table table-bordered">
+    <caption>共搜索到<span>{{race_len}}</span>个结果</caption>
+    <thead>
+        <tr>
+          <th>名次</th>         
+          <th>释放时间</th>         
+          <th>鸽主姓名</th>         
+          <th>归巢时间</th>         
+          <th>分速</th>         
+          <th>空距</th>         
+          <th>所属单位</th>         
+          <th>足环号码</th>         
+          <th>棚号</th>         
+          <th>比赛名称</th>         
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in race_list %}
+            <tr>
+            <td>{{ item.score }}</td>
+            <td>{{ item.release_date | date:"Y-m-d" }}</td>
+            <td>{{ item.belong }}</td>
+            <td>{{ item.return_date | date:"Y-m-d" }}</td>
+            <td>{{ item.velocity }}</td>
+            <td>{{ item.distance }}</td>
+            <td>{{ item.company }}</td>
+            <td>{{ item.foot_num }}</td>
+            <td>{{ item.shed_num }}</td>
+            <td>{{ item.race_name }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+  </table>  
+  </div>
+
+  <div class="container visible-xs hidden">
+  <table class="table">
+    <caption>共搜索到<span>{{race_len}}</span>个结果</caption>
+    <tbody>
+      <tr>
+        <th class="col-xs-6"></th>
+        <td class="col-xs-6"><span class="glyphicon right more" aria-hidden="true"></span></td>
+      </tr>
+    </tbody>   
+  </table>  
+  </div>
+</div>
 
 </div>
 {% endblock %}
