@@ -23,6 +23,7 @@ def getUser(request):
     return user
   
 # Create your views here.
+
 def home(request):
     user = getUser(request)
     post_list = Zixun.objects.all()[:3]  #获取全部的Article对象
