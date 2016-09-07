@@ -63,7 +63,7 @@ def race(request):
 class RegisterView(FormView):
     template_name = 'register.html'
     form_class = RegisterForm
-    success_url = reverse_lazy('blog_index')
+    success_url = reverse_lazy('home')
 
     def form_valid(self, form):
         form.save()
