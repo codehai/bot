@@ -62,9 +62,3 @@ def race(request):
     race_list = Races.objects.all()
     return render(request, 'race.html', {'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
 
-def logout_view(request):
-    logout(request)
-    return redirect('home')
-
-
-
