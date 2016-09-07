@@ -59,14 +59,54 @@
   <table class="table">
     <caption>共搜索到<span>{{race_len}}</span>个结果</caption>
     <tbody>
+      {% for item in race_list %}
       <tr>
-        <th class="col-xs-6"></th>
-        <td class="col-xs-6"><span class="glyphicon right more" aria-hidden="true"></span></td>
+        <th class="col-xs-6">名次</th>
+        <td class="col-xs-6">{{ item.score }}<span class="glyphicon glyphicon-chevron-right pull-right" aria-hidden="true"></span></td>
       </tr>
-    </tbody>   
+      <tr class="hidden">
+        <th class="col-xs-6">释放时间</th>
+        <td class="col-xs-6">{{ item.release_date | date:"Y-m-d" }}</td>
+      </tr>
+      <tr class="hidden">
+        <th class="col-xs-6">鸽主姓名</th>
+        <td class="col-xs-6">{{ item.belong }}</td>
+      </tr>
+      <tr class="hidden">
+        <th class="col-xs-6">归巢时间</th> 
+        <td class="col-xs-6">{{ item.return_date | date:"Y-m-d" }}</td>
+      </tr>
+      <tr class="hidden">
+        <th class="col-xs-6">分速</th>  
+        <td class="col-xs-6">{{ item.velocity }}</td>
+      </tr>
+      <tr class="hidden">
+        <th class="col-xs-6">空距</th> 
+        <td class="col-xs-6">{{ item.distance }}</td>
+      </tr>
+      <tr class="hidden"> 
+        <th class="col-xs-6">所属单位</th> 
+        <td class="col-xs-6">{{ item.company }}</td>
+      </tr>
+      <tr class="hidden">  
+        <th class="col-xs-6">足环号码</th> 
+        <td class="col-xs-6">{{ item.foot_num }}</td>
+      </tr>
+      <tr class="hidden"> 
+        <th class="col-xs-6">棚号</th> 
+        <td class="col-xs-6">{{ item.shed_num }}</td>
+      </tr>
+      <tr class="hidden">  
+        <th class="col-xs-6">比赛名称</th>
+        <td class="col-xs-6">{{ item.race_name }}</td>
+      </tr>
+      {% endfor %}
+    </tbody> 
+      
   </table>  
   </div>
 </div>
 
 </div>
+<script src="/static/js/race.js"></script>
 {% endblock %}

@@ -1,4 +1,4 @@
-from django.shortcuts import render_to_response,render,get_object_or_404    
+from django.shortcuts import render_to_response,render,get_object_or_404,redirect    
 from django.http import HttpResponse, HttpResponseRedirect    
 from django.contrib.auth.models import User    
 from django.contrib import auth  
@@ -15,6 +15,8 @@ from gdsou_app.models import Races
 from django.core.paginator import Paginator
 from django.core.paginator import EmptyPage
 from django.core.paginator import PageNotAnInteger
+from django.contrib.auth import logout
+
 
 
 def getUser(request):
@@ -59,6 +61,10 @@ def race(request):
     q = request.GET.get('q')
     race_list = Races.objects.all()
     return render(request, 'race.html', {'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
+
+def logout_view(request):
+    logout(request)
+    return redirect('home')
 
 
 
