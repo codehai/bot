@@ -22,6 +22,7 @@ from django.contrib.auth import urls as auth_urls
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     # url(r'^login/$', views.login,name='login'),
+    url(r'^accounts/register/',views.RegisterView.as_view(),name='register'),
     url(r'^accounts/', include(auth_urls,namespace='accounts')),
     # url(r'^accounts/profile/$', views.profile)
     url(r'^$', views.home,name='home'),

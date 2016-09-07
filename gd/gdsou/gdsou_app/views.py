@@ -11,13 +11,11 @@ from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
 from django.contrib.auth.decorators import login_required
 from gdsou_app.models import Zixun 
 from gdsou_app.models import Races
-
-from django.core.paginator import Paginator
-from django.core.paginator import EmptyPage
-from django.core.paginator import PageNotAnInteger
 from django.contrib.auth import logout
-
-
+from django.contrib.auth.forms import UserCreationForm
+from .forms import RegisterForm
+from django.core.urlresolvers import reverse_lazy
+from django.views.generic.edit import FormView
 
 def getUser(request):
     is_logged_in = request.user.is_authenticated()
@@ -61,4 +59,33 @@ def race(request):
     q = request.GET.get('q')
     race_list = Races.objects.all()
     return render(request, 'race.html', {'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
+
+class RegisterView(FormView):
+    template_name = 'register.html'
+    form_class = RegisterForm
+    success_url = reverse_lazy('blog_index')
+
+    def form_valid(self, form):
+        form.save()
+        username = form.cleaned_data.get('username')
+        password = form.cleaned_data.get('password')
+        user = authenticate(username=username, password=password)
+        login(self.request, user)
+        return super(RegisterView, self).form_valid(form)
+
+# def register(request):
+#     form = UserCreationForm()
+
+#     if request.method == 'POST':
+#         data = request.POST.copy()
+#         errors = form.get_validation_errors(data)
+#         if not errors:
+#             new_user = form.save(data)
+#             return HttpResponseRedirect("/")
+#     else:
+#         data, errors = {}, {}
+
+#     return render_to_response("registration/register.html", {
+#         'form' : forms.FormWrapper(form, data, errors)
+#     })
 
