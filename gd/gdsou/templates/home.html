@@ -23,20 +23,17 @@
     <div class="row">
         {% for post in post_list %}
             <div class="col-md-4">
-                <header class="post-header">
                     <h2 class="post-title">{{ post.title }}</h2>
-                        <p class="post-meta">
-                            <span class="glyphicon glyphicon-time" aria-hidden="false"></span>  
-                            <a class="post-author" href="#">{{ post.date_time | timeformat }}</a> <a class="label label-info" href="#">{{ post.category }}</a>
-                        </p>
-                </header>
-
-                    <div class="post-desc">
-                        <p>
-                            {{ post.content }}
-                        </p>
-                    </div>
-                    <a class="btn btn-primary" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>
+                    <p class="post-meta">
+                        <span class="glyphicon glyphicon-time" aria-hidden="false"></span>  
+                        <a class="post-author　" href="#">{{ post.date_time | timeformat }}</a> <a class="label label-info" href="#">{{ post.category }}</a>
+                    </p>
+                    <p>
+                        {{ post.content }}
+                    </p>
+                    <p class="text-right">
+                        <a class="btn btn-default" role="button" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>
+                    </p>
             </div>
         {% endfor %}
     </div><!-- /.blog-post -->
