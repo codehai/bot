@@ -12,7 +12,7 @@ class RegisterForm(forms.Form):
 
     email = forms.EmailField(
         label='邮箱',
-        help_text='邮箱可用于登录，最重要的是需要邮箱来找回密码，所以请输入您的可用邮箱。',
+        help_text='邮箱可用于登录，找回密码。',
         max_length=50,
         initial='',
         widget=forms.TextInput(attrs={'class': 'form-control'}),

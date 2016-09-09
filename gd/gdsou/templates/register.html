@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
 
 {% block content %}
+<div>
 <div class="container">
   {% if form.non_field_errors %}
   <div class="messages">
@@ -10,7 +11,7 @@
     </div>
   </div>
   {% endif %}
-  <div class="register center-block">
+  <div class="register col-md-6 col-md-offset-3">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title"><strong>注册</strong></h3>
@@ -53,5 +54,6 @@
       </div>
     </div>
   </div>
+</div>
 </div>
 {% endblock %}

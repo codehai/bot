@@ -30,6 +30,12 @@
         text-align: center;
         background-color: #f5f5f5;
 }
+@media (max-width: 767px){
+        .footer{
+                position: static;
+                margin-top: 10px;
+        }
+}
 
 .footer p{
         color:#5e5e5e;
