@@ -18,6 +18,7 @@ from django.contrib import admin
 from gdsou_app import views
 # from django.contrib.auth.views import login, logout
 from django.contrib.auth import urls as auth_urls
+from django.contrib.auth import views as auth_views 
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
@@ -29,4 +30,11 @@ urlpatterns = [
     url(r'^(?P<id>\d+)/$', views.detail, name='detail'),
     url(r'^zixun/$', views.zixun, name='zixun'),
     url(r'^race/$', views.race, name='race'),
+    # url ( r'^forgot-password/$' , views.forgot_password , name = "forgot-password" ), 
+    url ( r'^password/change/$' , auth_views.password_change , name = 'password_change' ), 
+    url ( r'^password/change/done/$' , auth_views.password_change_done , name = 'password_change_done' ), 
+    url ( r'^resetpassword/$' , auth_views.password_reset , name = 'password_reset' ), 
+    url ( r'^resetpassword/passwordsent/$' , auth_views.password_reset_done , name = 'password_reset_done' ), 
+    url ( r'^reset/done/$' , auth_views.password_reset_complete , name = 'password_reset_complete' ), 
+    url ( r'^reset/(?P<uidb64>[0-9A-Za-z_\-]+)/(?P<token>.+)/$' , auth_views.password_reset_confirm , name = 'password_reset_confirm' ), 
 ]
