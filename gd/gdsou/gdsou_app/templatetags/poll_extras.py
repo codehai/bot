@@ -1,3 +1,4 @@
+#coding=utf-8
 from django import template
 import datetime
 from django.template.defaultfilters import stringfilter

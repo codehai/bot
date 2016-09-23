@@ -26,9 +26,10 @@ def getUser(request):
 # Create your views here.
 
 def home(request):
+    title = '鸽度搜－查信鸽成绩、足环、天落成绩、脚环！' 
     user = getUser(request)
     post_list = Zixun.objects.all()[:3]  #获取全部的Article对象
-    return render(request, 'home.html', {'post_list' : post_list,'user':user})
+    return render(request, 'home.html', {'post_list' : post_list,'user':user, 'title':title})
 
 def detail(request, id):
     user = getUser(request)
@@ -36,7 +37,8 @@ def detail(request, id):
         post = Zixun.objects.get(id=str(id))
     except Zixun.DoesNotExist:
         raise Http404
-    return render(request, 'post.html', {'post' : post,'user':user})
+    title = u'鸽度搜－' + post.title
+    return render(request, 'post.html', {'post' : post,'user':user, 'title':title})
 
 def zixun(request):
     user = getUser(request)
@@ -44,6 +46,7 @@ def zixun(request):
     post_list = Zixun.objects.all()  #获取全部的Article对象
     paginator = Paginator(post_list, limit)  # 实例化一个分页对象
     page = request.GET.get('page')  # 获取页码
+    title = '鸽度搜－最新资讯'
 
     try:
         post_list = paginator.page(page)  # 获取某页对应的记录
@@ -52,16 +55,17 @@ def zixun(request):
     except EmptyPage:  # 如果页码太大，没有相应的记录
         post_list = paginator.page(paginator.num_pages)  # 取最后一页的记录
 
-    return render(request, 'zixun.html', {'post_list' : post_list,'user':user})
+    return render(request, 'zixun.html', {'post_list' : post_list,'user':user, 'title':title})
 
 def race(request):
+    title = '比赛成绩'
     user = getUser(request)
     q = request.GET.get('q')
     try:
         race_list = Races.objects.filter(foot_num=q)
     except Races.DoesNotExist:
         race_list = []
-    return render(request, 'race.html', {'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
+    return render(request, 'race.html', {'title':title,'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
 
 class RegisterView(FormView):
     template_name = 'register.html'

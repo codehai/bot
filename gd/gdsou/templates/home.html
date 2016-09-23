@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 {% load poll_extras%}
+
+{% block title %}{{ title }}{% endblock %}
 {% block content %}
 <div id="home">
     <div class="jumbotron" style="background-color:transparent">
@@ -10,9 +12,9 @@
                     <img hidefocus="true" src="/static/img/bd_logo1.png" width="270" height="129">
                 </div>
                 <div class="input-group">
-                    <input type="text" name="q" class="form-control" placeholder="Search for...">
+                    <input type="text" name="q" class="form-control" placeholder="输入统一环查询">
                         <span class="input-group-btn">
-                            <button class="btn btn-default" type="submit">Go!</button>
+                            <button class="btn btn-default" type="submit">查成绩!</button>
                         </span>
                     </div><!-- /input-group -->
                 </div><!-- /.col-lg-6 -->

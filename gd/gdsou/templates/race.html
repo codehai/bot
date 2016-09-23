@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% load poll_extras%}
+
+{% block title %}{{ title }}{% endblock %}
+
 {% block content %}
 <div class="jumbotron" style="background-color:transparent">
       <div class="container">
@@ -11,7 +14,7 @@
             <div class="input-group">
                 <input type="text" class="form-control" name="q" placeholder={{ q }}>
                     <span class="input-group-btn">
-                        <button class="btn btn-default" type="submit">Go!</button>
+                        <button class="btn btn-default" type="submit">查成绩!</button>
                     </span>
                 </div><!-- /input-group -->
             </div><!-- /.col-lg-6 -->
@@ -42,9 +45,9 @@
         {% for item in race_list %}
             <tr>
             <td>{{ item.score }}</td>
-            <td>{{ item.release_date | date:"Y-m-d" }}</td>
+            <td>{{ item.release_date | date:"Y-m-d H:i:s" }}</td>
             <td>{{ item.belong }}</td>
-            <td>{{ item.return_date | date:"Y-m-d" }}</td>
+            <td>{{ item.return_date | date:"Y-m-d H:i:s" }}</td>
             <td>{{ item.velocity }}</td>
             <td>{{ item.distance }}</td>
             <td>{{ item.company }}</td>

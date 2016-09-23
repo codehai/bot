@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% load poll_extras%}
+{% block title %}{{ title }}{% endblock %}
 {% block content %}
 <div class="container">
     {% for post in post_list.object_list %}
