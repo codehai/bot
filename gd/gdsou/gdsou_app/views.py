@@ -1,3 +1,4 @@
+#coding=utf-8
 from django.shortcuts import render_to_response,render,get_object_or_404,redirect    
 from django.http import HttpResponse, HttpResponseRedirect    
 from django.contrib.auth.models import User    
@@ -56,7 +57,10 @@ def zixun(request):
 def race(request):
     user = getUser(request)
     q = request.GET.get('q')
-    race_list = Races.objects.all()
+    try:
+        race_list = Races.objects.filter(foot_num=q)
+    except Races.DoesNotExist:
+        race_list = []
     return render(request, 'race.html', {'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
 
 class RegisterView(FormView):
