@@ -10,17 +10,33 @@ from django.forms.formsets import formset_factory
 from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage  
   
 from django.contrib.auth.decorators import login_required
-from gdsou_app.models import Zixun 
-from gdsou_app.models import Races
+from gdsou_app.models import Zixun, Races, Vipuser 
+
 from django.contrib.auth import logout,authenticate
 from .forms import RegisterForm
 from django.core.urlresolvers import reverse_lazy
 from django.views.generic.edit import FormView
+from django.utils import timezone
 
 def getUser(request):
     is_logged_in = request.user.is_authenticated()
     username = request.user.get_username()
-    user={'username':username,'is_logged_in':is_logged_in} 
+    vip = {}
+    if username:
+        id = User.objects.get(username=username).id
+        try:
+            vip_obj = Vipuser.objects.get(user_id=id)
+            now = timezone.now()
+            vip_end = vip_obj.vip_end
+            if (vip_end - now).total_seconds()>0:
+                vip['status'] = True
+            else:
+                vip['status'] = False
+        except Vipuser.DoesNotExist:
+            vip['status'] = False
+    else:
+        vip['status'] = False        
+    user={'username':username,'is_logged_in':is_logged_in,'vip':vip} 
     return user
   
 # Create your views here.
@@ -63,9 +79,12 @@ def race(request):
     q = request.GET.get('q')
     try:
         race_list = Races.objects.filter(foot_num=q)
+        race_len = len(race_list)
+        if not user['vip']['status']:
+            race_list = race_list[0:1]
     except Races.DoesNotExist:
         race_list = []
-    return render(request, 'race.html', {'title':title,'user':user,'q':q,'race_list':race_list, 'race_len':len(race_list)})
+    return render(request, 'race.html', {'title':title,'user':user,'q':q,'race_list':race_list, 'race_len':race_len})
 
 class RegisterView(FormView):
     template_name = 'register.html'

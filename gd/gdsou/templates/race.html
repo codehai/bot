@@ -16,7 +16,8 @@
                     <span class="input-group-btn">
                         <button class="btn btn-default" type="submit">查成绩!</button>
                     </span>
-                </div><!-- /input-group -->
+            </div><!-- /input-group -->
+            <span class="text-primary">统一环格式：2016-11-0343563</span>            
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
         </form>
@@ -26,7 +27,14 @@
 <div id="result">
   <div class="container hidden-xs">
   <table class="table table-bordered">
-    <caption>共搜索到<span>{{race_len}}</span>个结果</caption>
+    <caption>
+     <span>共搜索到{{race_len}}个结果</span>      
+      {% if user.is_logged_in and not user.vip.status %}
+        <a>成为会员查看全部比赛</a>
+      {% elif not user.is_logged_in %}
+        <a href="/accounts/register/">请注册成为会员查看全部比赛</a>
+      {% endif%}
+    </caption>
     <thead>
         <tr>
           <th>名次</th>         
@@ -62,7 +70,14 @@
 
   <div class="container visible-xs hidden">
   <table class="table">
-    <caption>共搜索到<span>{{race_len}}</span>个结果</caption>
+    <caption>
+      <span>共搜索到{{race_len}}个结果</span>     
+      {% if user.is_logged_in and not user.vip.status %}
+        <a>成为会员查看全部比赛</a>
+      {% elif not user.is_logged_in %}
+        <a>请注册成为会员查看全部比赛</a>
+      {% endif%}
+    </caption>
     <tbody>
       {% for item in race_list %}
       <tr>
