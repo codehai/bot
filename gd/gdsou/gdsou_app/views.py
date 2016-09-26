@@ -47,6 +47,11 @@ def home(request):
     post_list = Zixun.objects.all()[:3]  #获取全部的Article对象
     return render(request, 'home.html', {'post_list' : post_list,'user':user, 'title':title})
 
+def profile(request):
+    title = '鸽度搜－个人设置'
+    user = getUser(request)
+    return render(request, 'profile.html', {'user':user, 'title':title})
+
 def detail(request, id):
     user = getUser(request)
     try:

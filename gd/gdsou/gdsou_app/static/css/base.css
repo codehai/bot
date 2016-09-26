@@ -89,3 +89,9 @@ body {
         display: table-cell;
         vertical-align: middle;
 }
+
+#profile .sidebar-module{
+        padding: 15px;
+        margin: 0 -15px 15px;
+        color: black;
+}

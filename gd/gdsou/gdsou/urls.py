@@ -25,12 +25,11 @@ urlpatterns = [
     # url(r'^login/$', views.login,name='login'),
     url(r'^accounts/register/',views.RegisterView.as_view(),name='register'),
     url(r'^accounts/', include(auth_urls,namespace='accounts')),
-    # url(r'^accounts/profile/$', views.profile)
     url(r'^$', views.home,name='home'),
     url(r'^(?P<id>\d+)/$', views.detail, name='detail'),
     url(r'^zixun/$', views.zixun, name='zixun'),
     url(r'^race/$', views.race, name='race'),
-    # url ( r'^forgot-password/$' , views.forgot_password , name = "forgot-password" ), 
+    url(r'^profile/$', views.profile, name='profile'),
     url ( r'^password/change/$' , auth_views.password_change , name = 'password_change' ), 
     url ( r'^password/change/done/$' , auth_views.password_change_done , name = 'password_change_done' ), 
     url ( r'^resetpassword/$' , auth_views.password_reset , name = 'password_reset' ), 
