@@ -30,6 +30,8 @@ def getUser(request):
             vip_end = vip_obj.vip_end
             if (vip_end - now).total_seconds()>0:
                 vip['status'] = True
+                vip['vip_end'] = vip_end
+                vip['days'] = (vip_end - now).days
             else:
                 vip['status'] = False
         except Vipuser.DoesNotExist:

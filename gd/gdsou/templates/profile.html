@@ -23,14 +23,18 @@
               <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">用户名：</label>
                 <div class="col-sm-10">
-                  <p class="form-control-static">szzxsh</p>
+                  <p class="form-control-static">{{ user.username }}</p>
                 </div>
               </div>
 
               <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">年会员：</label>
                 <div class="col-sm-10">
-                  <p class="form-control-static">您还不是年会员</p>
+                  {% if user.vip.status%}
+                    <p class="form-control-static">您的会员还有{{ user.vip.days }}天到期<a>点击续费</a></p>
+                  {% else %}
+                    <p class="form-control-static">您还不是年费会员<a>点击充值</a></p>
+                  {% endif %}
                 </div>
               </div>
 
