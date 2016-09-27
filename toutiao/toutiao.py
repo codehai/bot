@@ -5,8 +5,12 @@ import json
 import datetime
 import re
 import sys
+# from requests.packages.urllib3.exceptions import InsecureRequestWarning
+
+# requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 def tt_info(email,password):
+	print >>sys.stderr, email, password
 	info = {}
 	payload = {'name_or_email': email, 'password': password}
 	s = requests.Session()
@@ -18,26 +22,35 @@ def tt_info(email,password):
 		soup = BeautifulSoup(m.text,'lxml')
 		index_sum = soup.find('div',class_="indexsum_btns")
 		index_a_list = index_sum.find_all('a')
+		info['login'] = email
 		info[u'主页'] = {}
 		for a in index_a_list:
 			info[u'主页'][a.span.text] = int(a.b.text.strip().replace(',',''))
 
 		info[u'手动更新'] = []
 		r = s.get('https://mp.toutiao.com/api/media_article_list/?count=10&source_type=0&status=all&from_time=0&item_id=0&flag=2')
-		for article in json.loads(r.text)['data']['articles']:
-			item = {}
-			item[u'标题'] = article['title']
-			item[u'发表时间'] = datetime.datetime.fromtimestamp(article['create_time']).isoformat()
-			item[u'标签'] = article['tag_name']
-			item[u'状态'] = article['status_desc']
-			if article['status_desc'] == u'已发表':
-				item[u'转发'] = article['share_count']
-				item[u'评论'] = article['comment_count']
-				item[u'收藏'] = article['favorite_count']
-				item[u'阅读'] = article['go_detail_count']
-				item[u'推荐'] = article['impression_count']
-				item[u'已推荐'] = article['was_recommended']
-			info[u'手动更新'].append(item)
+		while True:
+			res = json.loads(r.text)
+			for article in res['data']['articles']:
+				item = {}
+				item[u'标题'] = article['title']
+				item[u'发表时间'] = datetime.datetime.fromtimestamp(article['create_time']).isoformat()
+				item[u'标签'] = article['tag_name']
+				item[u'状态'] = article['status_desc']
+				if article['status_desc'] == u'已发表':
+					item[u'转发'] = article['share_count']
+					item[u'评论'] = article['comment_count']
+					item[u'收藏'] = article['favorite_count']
+					item[u'阅读'] = article['go_detail_count']
+					item[u'推荐'] = article['impression_count']
+					item[u'已推荐'] = article['was_recommended']
+				info[u'手动更新'].append(item)
+			if not res['data']['time_pagination']['has_next']:
+				break
+			else:
+				last_time = res['data']['last_time']
+				url = 'https://mp.toutiao.com/api/media_article_list/?count=10&source_type=0&status=all&from_time=%d&item_id=0&flag=1' %(last_time)
+				r = s.get(url)
 
 		info[u'评论管理'] = []
 		r = s.get('https://mp.toutiao.com/comment/')
@@ -68,28 +81,35 @@ def tt_info(email,password):
 		info[u'文章分析'][u'详情'] = {}
 		info[u'文章分析'][u'详情'][u'按文章'] = []
 		weekbefore = (datetime.date.today() - datetime.timedelta(days=7)).isoformat()
-		info[u'文章分析'][u'详情'][u'开始时间'] = weekbefore
+		monthbefore = (datetime.date.today() - datetime.timedelta(days=30)).isoformat()
+		info[u'文章分析'][u'详情'][u'开始时间'] = monthbefore
 		info[u'文章分析'][u'详情'][u'结束时间'] = today
-		url = 'https://mp.toutiao.com/statistic/content_article_stat/?start_date=%s&end_date=%s&pagenum=1' %(weekbefore,today)
-		r = s.get(url)
-		data = json.loads(r.text)['data']['data_list']
-		for detail in data:
-			item = {}
-			item[u'标题'] = detail['title']
-			item[u'推荐量'] = detail['impression_count']
-			item[u'阅读量'] = detail['go_detail_count']
-			item[u'评论量'] = detail['comment_count']
-			item[u'收藏量'] = detail['repin_count']
-			item[u'转发量'] = detail['share_count']
-			item[u'article_id'] = detail['article_id']
-			item[u'文章分析'] = {}
-			url = 'https://mp.toutiao.com/statistic/item_related_stat/'+detail['article_id']+'/?'
+		pagenum = 1
+		while True:
+			url = 'https://mp.toutiao.com/statistic/content_article_stat/?start_date=%s&end_date=%s&pagenum=%d' %(monthbefore,today,pagenum)
 			r = s.get(url)
-			result = json.loads(r.text)['data']
-			item[u'文章分析'][u'平均阅读进度'] = result['item_read_or_play_avg_progress_pct']
-			item[u'文章分析'][u'跳出率'] = result['item_read_or_play_avg_bounce_pct']
-			item[u'文章分析'][u'平均阅读速度'] = result['item_read_avg_speed']
-			info[u'文章分析'][u'详情'][u'按文章'].append(item)
+			total_pagenum = json.loads(r.text)['data']['total_pagenum']
+			data = json.loads(r.text)['data']['data_list']
+			for detail in data:
+				item = {}
+				item[u'标题'] = detail['title']
+				item[u'推荐量'] = detail['impression_count']
+				item[u'阅读量'] = detail['go_detail_count']
+				item[u'评论量'] = detail['comment_count']
+				item[u'收藏量'] = detail['repin_count']
+				item[u'转发量'] = detail['share_count']
+				item[u'article_id'] = detail['article_id']
+				item[u'文章分析'] = {}
+				url = 'https://mp.toutiao.com/statistic/item_related_stat/'+detail['article_id']+'/?'
+				r = s.get(url)
+				result = json.loads(r.text)['data']
+				item[u'文章分析'][u'平均阅读进度'] = result['item_read_or_play_avg_progress_pct']
+				item[u'文章分析'][u'跳出率'] = result['item_read_or_play_avg_bounce_pct']
+				item[u'文章分析'][u'平均阅读速度'] = result['item_read_avg_speed']
+				info[u'文章分析'][u'详情'][u'按文章'].append(item)
+			pagenum += 1
+			if pagenum > total_pagenum:
+				break
 
 		info[u'文章分析'][u'详情'][u'按时间'] = []
 		url = 'https://mp.toutiao.com/statistic/content_daily_stat/?start_date=%s&end_date=%s&pagenum=1' %(weekbefore,today)
@@ -171,8 +191,57 @@ def tt_info(email,password):
 		print(json.dumps(info,ensure_ascii=False).encode('utf-8'))
 	else:
 		print(json.dumps(login,ensure_ascii=False).encode('utf-8'))
+	return s
+
+def command(s,c):
+	r = s.get('http://mp.toutiao.com/api/media_article_list/?count=10&source_type=0&status=draft&from_time=0&item_id=0&flag=2')
+	articles_data = json.loads(r.text)
+	pgc_id = articles_data['data']['articles'][0]['pgc_id']
+	title = articles_data['data']['articles'][0]['title']
+	tag = articles_data['data']['articles'][0]['tag']
+	url = 'http://mp.toutiao.com/edit_article/?pgc_id=%s' %(pgc_id)
+	r = s.get(url)
+
+	lines = re.findall('.*\n',r.text)
+	for line in lines:
+	    if re.findall('content:',line):
+	        content = json.loads("\"" + re.findall('<p>.*<\\\\/p>',line)[0]+ "\"")
+	payload = {
+			'title': title,
+			'abstract': '',
+			'content':content, 
+			'authors':'', 'tag':tag, 
+			'self_appoint' :0,
+			'save':1,
+			'pgc_id':pgc_id,
+			'show_ads':1,
+			'video_vid':0,
+			'video_vu':'',
+			'video_vname':'',
+			'video_vposter':'',
+			'vids_to_del':[],
+			'force_ads':2,
+			'after_pass_modify':0,
+			'urgent_push':0,
+			'subsidy':0,
+			'pgc_feed_covers':[],
+			'slave_title':'',
+			'is_abtest':0,
+			'slave_item_id':0
+		     }  
+
+	r = s.post("http://mp.toutiao.com/edit_article_post/", data=payload)
+	post_res = json.loads(r.text)
+	print json.dumps(post_res,ensure_ascii=False)
 
 if __name__ == "__main__":
 	email = sys.argv[1]
 	password = sys.argv[2]
-	tt_info(email,password)
+	s = tt_info(email,password)
+	while True:
+		c = (sys.stdin.readline()).replace('\n','')
+		if c == 'Q':
+			break
+		else:
+			command(s,c)
+
