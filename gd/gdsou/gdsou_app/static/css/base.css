@@ -136,3 +136,23 @@ body {
     width: 50%; /* 6 columns */
   }
 }
+
+#zixun h3{
+        margin: 0;
+        padding-bottom: 15px;
+}
+#post .post-description{
+    color: #2f2f2f;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.7;
+}
+#post{
+        width: 700px;
+}
+
+@media screen and (max-width: 767px){
+        #post{
+                width: 100%;
+        }
+}

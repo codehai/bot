@@ -2,57 +2,70 @@
 {% load poll_extras%}
 {% block title %}{{ title }}{% endblock %}
 {% block content %}
-<div class="container">
-    {% for post in post_list.object_list %}
-        <div class="posts">
-                <section class="post">
-                    <header class="post-header">
-                        <h2 class="post-title">{{ post.title }}</h2>
-                            <p class="post-meta">
-                                <span class="glyphicon glyphicon-time" aria-hidden="false"></span>
-                                <a class="post-author" href="#">{{ post.date_time|timeformat}}</a> <a class="post-category post-category-js label label-info" href="#">{{ post.category }}</a>
-                            </p>
-                    </header>
+<div class="container" id="zixun">
+    <div class="row">
+        <div class="col-sm-8">
+            {% for post in post_list.object_list %}
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                         <section class="post">
+                            <header class="post-header">
+                                <a class="" href="{% url "detail" id=post.id %}">
+                                    <h3 class="post-title">{{ post.title | cut_str }}</h3>
+                                </a>
+                                    <p class="post-meta">
+                                        <span class="glyphicon glyphicon-time" aria-hidden="false"></span>
+                                        <a class="post-author" href="#">{{ post.date_time|timeformat}}</a> <a class="post-category post-category-js label label-info" href="#">{{ post.category }}</a>
+                                    </p>
+                            </header>
 
-                        <div class="post-description">
-                            <p>
-                                {{ post.content | custom_markdown }}
-                            </p>
-                        </div>
-                         <a class="btn btn-primary" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>
-                </section>
-        </div><!-- /.blog-post -->
-    {% endfor %}
-    <!-- 另一种分页显示方式 -->
-    <nav>
-        <ul class="pagination">
-            {% if post_list.has_previous %}
-                <li>
-                    <a href="?page={{ post_list.previous_page_number }}" aria-label="Previous">
-                        <span aria-hidden="true">&laquo;</span>
-                    </a>
-                </li>
-            {% endif %}
 
-            {% for page_number in post_list.paginator.page_range %}
-                {% ifequal page_number  post_list.number %}
-                    <li class="active">
-                        <span>{{ page_number }}<span class="sr-only">(current)</span></span>
-                    </li>
-                {% else %}
-                    <li><a href="?page={{ page_number }}">{{ page_number }}</a></li>
-                {% endifequal %}
+                            <div class="post-description">
+                                <p>
+                                    {{ post.content | custom_markdown }}
+                                </p>
+                            </div>
+                            <!--<hr>-->
+                            <!--<a class="btn btn-primary" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>-->
+                        </section>
+
+                    </div>
+                </div>
             {% endfor %}
-            　
-            　{% if post_list.has_next %}
-                <li>
-                    <a href="?page={{ post_list.next_page_number }}" aria-label="Next">
-                        <span aria-hidden="true">&raquo;</span>
-                    </a>
-                </li>
+            <!-- 另一种分页显示方式 -->
+            <nav class="text-center">
+                <ul class="pagination">
+                    {% if post_list.has_previous %}
+                        <li>
+                            <a href="?page={{ post_list.previous_page_number }}" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+                    {% endif %}
 
-            　{% endif %}
-        </ul>
-    </nav>
+                    {% for page_number in post_list.paginator.page_range %}
+                        {% ifequal page_number  post_list.number %}
+                            <li class="active">
+                                <span>{{ page_number }}<span class="sr-only">(current)</span></span>
+                            </li>
+                        {% else %}
+                            <li><a href="?page={{ page_number }}">{{ page_number }}</a></li>
+                        {% endifequal %}
+                    {% endfor %}
+                    　
+                    　{% if post_list.has_next %}
+                        <li>
+                            <a href="?page={{ post_list.next_page_number }}" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+
+                    　{% endif %}
+                </ul>
+            </nav>
+
+        </div>
+    </div>
+    
 </div>
 {% endblock %}

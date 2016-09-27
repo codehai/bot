@@ -21,7 +21,7 @@ def timeformat(value):
     elif seconds>=86400 and seconds< 2073600:
         time_str = str(int(seconds/60/60/24))+'天前'
     elif seconds>=2073600 and seconds<62208000:
-        time_str = str(int(seconds/60/60/24/30))+'月前'
+        time_str = str(int(seconds/60/60/24/30)+1)+'月前'
     elif seconds>=62208000:
         time_str = str(int(seconds/60/60/24/30/12))+'月前'
     return time_str
@@ -30,4 +30,34 @@ def timeformat(value):
 @stringfilter  #希望字符串作为参数
 def custom_markdown(value):
     return mark_safe(markdown.markdown(value,extensions = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite'],safe_mode=True,enable_attributes=False))
-        
+
+
+@register.filter
+def cut_str(str, length=21):
+    """
+    截取字符串，使得字符串长度等于length，并在字符串后加上省略号
+    """
+    is_encode = False
+    try:
+        str_encode = str.encode('gb18030') #为了中文和英文的长度一致（中文按长度2计算）
+        is_encode = True
+    except:
+        pass
+    if is_encode:
+        l = length*2
+        if l < len(str_encode):
+            l = l - 3
+            str_encode = str_encode[:l]
+            try:
+                str = str_encode.decode('gb18030') + '...'
+            except:
+                str_encode = str_encode[:-1]
+                try:
+                    str = str_encode.decode('gb18030') + '...'
+                except:
+                    is_encode = False
+    if not is_encode:
+        if length < len(str):
+            length = length - 2
+            return str[:length] + '...'
+    return str

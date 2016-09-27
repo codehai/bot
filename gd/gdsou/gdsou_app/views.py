@@ -65,7 +65,7 @@ def detail(request, id):
 
 def zixun(request):
     user = getUser(request)
-    limit = 3  # 每页显示的记录数
+    limit = 10  # 每页显示的记录数
     post_list = Zixun.objects.all()  #获取全部的Article对象
     paginator = Paginator(post_list, limit)  # 实例化一个分页对象
     page = request.GET.get('page')  # 获取页码
