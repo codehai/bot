@@ -16,7 +16,7 @@
 
                         <div class="post-description">
                             <p>
-                                {{ post.content }}
+                                {{ post.content | custom_markdown }}
                             </p>
                         </div>
                          <a class="btn btn-primary" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>

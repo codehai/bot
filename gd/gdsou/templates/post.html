@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% load poll_extras %}
 
 {% block title %}{{ title }}{% endblock %}
 
@@ -15,7 +16,7 @@
 
                 <div class="post-description">
                     <p>
-                        {{ post.content }}
+                        {{ post.content | custom_markdown }}
                     </p>
                 </div>
         </section>

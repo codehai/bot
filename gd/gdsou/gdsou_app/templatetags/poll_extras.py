@@ -1,7 +1,10 @@
 #coding=utf-8
 from django import template
 import datetime
+import markdown
 from django.template.defaultfilters import stringfilter
+from django.utils.encoding import force_text
+from django.utils.safestring import mark_safe
 register = template.Library()
 
 @register.filter
@@ -22,4 +25,9 @@ def timeformat(value):
     elif seconds>=62208000:
         time_str = str(int(seconds/60/60/24/30/12))+'月前'
     return time_str
+
+@register.filter(is_safe=True)  #注册template filter
+@stringfilter  #希望字符串作为参数
+def custom_markdown(value):
+    return mark_safe(markdown.markdown(value,extensions = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite'],safe_mode=True,enable_attributes=False))
         
