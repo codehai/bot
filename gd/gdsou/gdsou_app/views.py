@@ -22,6 +22,8 @@ from django.views.decorators.csrf import csrf_protect
 from django.core.urlresolvers import reverse
 from django.utils.translation import ugettext as _
 from django.template.response import TemplateResponse
+from django.contrib.auth import (REDIRECT_FIELD_NAME, login as auth_login,
+    logout as auth_logout, get_user_model, update_session_auth_hash)
 
 def getUser(request):
     is_logged_in = request.user.is_authenticated()
@@ -135,9 +137,11 @@ def password_change(request,
             return HttpResponseRedirect(post_change_redirect)
     else:
         form = password_change_form(user=request.user)
+    user = getUser(request)
     context = {
         'form': form,
         'title': _(u'修改密码'),
+        'user':user,
     }
     if extra_context is not None:
         context.update(extra_context)
@@ -153,8 +157,10 @@ def password_change(request,
 def password_change_done(request,
                          template_name='registration/password_change_done.html',
                          current_app=None, extra_context=None):
+    user = getUser(request)
     context = {
         'title': _(u'密码修改成功'),
+        'user':user,
     }
     if extra_context is not None:
         context.update(extra_context)
