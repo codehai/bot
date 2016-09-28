@@ -75,18 +75,18 @@ class SetPasswordForm(forms.Form):
     password
     """
     error_messages = {
-        'password_mismatch': _("The two password fields didn't match."),
+        'password_mismatch': _(u"两次密码输入不一致"),
     }
     new_password1 = forms.CharField(
-        label=_("New password"),
-        widget=forms.PasswordInput,
+        label=_(u"新密码"),
+        widget=forms.PasswordInput(attrs={'class': 'form-control'}),
         strip=False,
-        help_text=password_validation.password_validators_help_text_html(),
+        # help_text=password_validation.password_validators_help_text_html(),
     )
     new_password2 = forms.CharField(
-        label=_("New password confirmation"),
+        label=_(u"确认新密码"),
         strip=False,
-        widget=forms.PasswordInput,
+        widget=forms.PasswordInput(attrs={'class': 'form-control'}),
     )
 
     def __init__(self, user, *args, **kwargs):
@@ -119,12 +119,12 @@ class PasswordChangeForm(SetPasswordForm):
     password.
     """
     error_messages = dict(SetPasswordForm.error_messages, **{
-        'password_incorrect': _("Your old password was entered incorrectly. Please enter it again."),
+        'password_incorrect': _(u"旧密码输入不正确，请确认后重新输入！"),
     })
     old_password = forms.CharField(
         label=_(u"旧密码"),
         strip=False,
-        widget=forms.PasswordInput(attrs={'autofocus': True}),
+        widget=forms.PasswordInput(attrs={'autofocus': True,'class':'form-control'}),
     )
 
     field_order = ['old_password', 'new_password1', 'new_password2']
