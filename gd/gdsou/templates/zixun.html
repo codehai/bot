@@ -5,33 +5,39 @@
 <div class="container" id="zixun">
     <div class="row">
         <div class="col-sm-8">
-            {% for post in post_list.object_list %}
-                <div class="panel panel-default">
-                    <div class="panel-body">
+               <ul class="article-list list-unstyled">
+                {% for post in post_list.object_list %}
+                   <li>
                          <section class="post">
                             <header class="post-header">
-                                <a class="" href="{% url "detail" id=post.id %}">
-                                    <h3 class="post-title">{{ post.title | cut_str }}</h3>
-                                </a>
-                                    <p class="post-meta">
+                                <h4 class="title">
+                                    <a class="" href="{% url "detail" id=post.id %}">
+                                        {{ post.title | cut_str }}
+                                    </a>
+                                </h4>
+                                    <div class="post-meta">
                                         <span class="glyphicon glyphicon-time" aria-hidden="false"></span>
-                                        <a class="post-author" href="#">{{ post.date_time|timeformat}}</a> <a class="post-category post-category-js label label-info" href="#">{{ post.category }}</a>
-                                    </p>
+                                        <span class="tag">{{ post.date_time|timeformat}}</span>
+                                        <span class="glyphicon glyphicon-tag" aria-hidden="false"></span> 
+                                        <span class="tag" href="#">{{ post.category }}</span>
+                                    </div>
                             </header>
 
 
-                            <div class="post-description">
+                            <!--<div class="post-description">
                                 <p>
                                     {{ post.content | custom_markdown }}
                                 </p>
-                            </div>
+                            </div>-->
                             <!--<hr>-->
                             <!--<a class="btn btn-primary" href="{% url "detail" id=post.id %}">阅读更多 &raquo;</a>-->
                         </section>
 
-                    </div>
-                </div>
-            {% endfor %}
+                   </li>
+                {% endfor %}
+               </ul>
+
+
             <!-- 另一种分页显示方式 -->
             <nav class="text-center">
                 <ul class="pagination">
