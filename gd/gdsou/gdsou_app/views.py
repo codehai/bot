@@ -13,15 +13,12 @@ from django.contrib.auth.decorators import login_required
 from gdsou_app.models import Zixun, Races, Vipuser 
 
 from django.contrib.auth import logout,authenticate
-from .forms import RegisterForm
+from .forms import RegisterForm,PasswordChangeForm,SetPasswordForm
 from django.core.urlresolvers import reverse_lazy
 from django.views.generic.edit import FormView
 from django.utils import timezone
 from django.views.decorators.debug import sensitive_post_parameters
 from django.views.decorators.csrf import csrf_protect
-from django.contrib.auth.forms import (
-    AuthenticationForm, PasswordChangeForm, PasswordResetForm, SetPasswordForm,
-)
 from django.core.urlresolvers import reverse
 from django.utils.translation import ugettext as _
 from django.template.response import TemplateResponse
