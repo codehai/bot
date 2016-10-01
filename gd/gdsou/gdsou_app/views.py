@@ -12,7 +12,7 @@ from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
 from django.contrib.auth.decorators import login_required
 from gdsou_app.models import Zixun, Races, Vipuser 
 
-from django.contrib.auth import logout,authenticate
+from django.contrib.auth import logout,authenticate,login
 from .forms import RegisterForm,PasswordChangeForm,SetPasswordForm
 from django.core.urlresolvers import reverse_lazy
 from django.views.generic.edit import FormView
@@ -56,10 +56,26 @@ def home(request):
     post_list = Zixun.objects.all()[:3]  #获取全部的Article对象
     return render(request, 'home.html', {'post_list' : post_list,'user':user, 'title':title})
 
+@csrf_protect
+@login_required
 def profile(request):
     title = '鸽度搜－个人设置'
     user = getUser(request)
     return render(request, 'profile.html', {'user':user, 'title':title})
+
+@csrf_protect
+@login_required
+def contact(request):
+    title = '鸽度搜－联系站长'
+    user = getUser(request)
+    return render(request, 'contact.html', {'user':user, 'title':title})
+
+@csrf_protect
+@login_required
+def voucher(request):
+    title = '鸽度搜－账户充值'
+    user = getUser(request)
+    return render(request, 'voucher.html', {'user':user, 'title':title})
 
 def detail(request, id):
     user = getUser(request)
@@ -87,6 +103,7 @@ def zixun(request):
 
     return render(request, 'zixun.html', {'post_list' : post_list,'user':user, 'title':title})
 
+@csrf_protect
 def race(request):
     title = '比赛成绩'
     user = getUser(request)
