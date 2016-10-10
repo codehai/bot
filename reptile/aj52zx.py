@@ -8,7 +8,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime, date, time
 import urllib2
 from types import NoneType
-# import mySql
 import sqlite3
 
 def addRace(score, release_date, belong, return_date, velocity, distance, company, foot_num, shed_num, race_name):
@@ -17,7 +16,7 @@ def addRace(score, release_date, belong, return_date, velocity, distance, compan
         cursor.execute('insert into gdsou_app_races (score, release_date, belong, return_date, velocity, distance, company, foot_num, shed_num, race_name) values (?,?,?,?,?,?,?,?,?,?)',(score, release_date, belong, return_date, velocity, distance, company, foot_num, shed_num, race_name))
         conn.commit()
         conn.close()
-        
+
 def score(score_soup,score_name,pagenum,race):
         try:
                 score_content = score_soup.find_all('td')
