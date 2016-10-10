@@ -101,8 +101,8 @@ for race in race_items:
                         if len(scores):
                                 print json.dumps(scores,ensure_ascii=False,indent=2) #比赛成绩 updata to sql
                                 for score in scores:
-                                        # print score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称']
-                                        addRace(score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称'])
-                                break
+                                        print score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称']
+                                        # addRace(score[u'名次'], score[u'司放时间'], score[u'鸽主姓名'], score[u'归巢时间'], score[u'分速'], score[u'空距'], score[u'所属单位'], score[u'足环号码'], score[u'棚号'], score[u'比赛名称'])
+                                # break
 
 

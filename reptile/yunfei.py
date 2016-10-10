@@ -63,6 +63,9 @@ def  get_race(page,y_url,name):
 			race = {}
 			race['赛事名称'] = td_list[0].text
 			race['比赛时间'] = td_list[1].text
+			'''
+			添加时间检测
+			'''
 			race['放飞地'] = td_list[2].text
 			race['天气'] = td_list[3].text
 			race['赛段(km)'] = td_list[4].text
