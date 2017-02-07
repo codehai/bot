@@ -14,3 +14,4 @@
 > * vpn：pptp连接vpn(shell)
 > * vpnconnect：pptp连接vpn(shell)
 > * toutiao：抓取头条账号里的一些信息(python requests beautifulsoup Session)
+> * move_db: 迁移sqlite到postgres的脚本
