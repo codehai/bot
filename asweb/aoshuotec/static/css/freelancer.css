@@ -124,12 +124,19 @@ header .intro-text .skills {
   }
 }
 .navbar {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
+  /*font-weight: 700;*/
 }
 .navbar a:focus {
   outline: none;
+}
+
+@media (min-width: 768px){
+  .navbar-nav>li>a {
+      padding-top: 19.5px;
+      padding-bottom: 0px;
+  }
 }
 .navbar .navbar-nav {
   letter-spacing: 1px;

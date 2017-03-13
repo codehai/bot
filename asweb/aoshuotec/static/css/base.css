@@ -64,16 +64,19 @@ body {
 .navbar-brand{
   display: -webkit-flex;
   align-items: center;
-  padding-left: 10px;
+  padding: 10px;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #F08200;
-    background-color: transparent;
-    border-bottom: 2px solid #F08200;
-    height: 50px; 
+  color: #F08200;
+  background-color: transparent;
+  border-bottom: 2px solid #F08200;
+  height: 50px; 
 }
 
+.navbar-default .navbar-nav>li{
+  padding-left: 30px;
+}
 
 
 /*.navbar .container{
