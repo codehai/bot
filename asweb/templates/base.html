@@ -1,71 +1,95 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
-  <head>
-    <meta charset="utf-8">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no"">
-    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
-    <title>{% block title %}{% endblock %}</title>
-    <meta>{% block meta %}{% endblock %}
-    <!-- Bootstrap core CSS -->
-    <link href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom styles for this template -->
-    <link href="/static/css/base.css" rel="stylesheet">
-    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <title>傲硕科技</title>
+    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="/static/css/freelancer.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="/static/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/static/css/css" rel="stylesheet" type="text/css">
+    <link href="/static/css/base.css" rel="stylesheet" type="text/css">
 
-  </head>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
 
-  <body>
+<body id="page-top" class="index">
 
-<nav class="navbar navbar-default">
-  <div class="container-fluid container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">鸽度搜</a>
-    </div>
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="">
+                    <img class="img-responsive" height='50' src="/static/images/logo.png" alt="">
+                </a>
+            </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li><a href="/">首页<span class="sr-only">(current)</span></a></li>
-        <li><a href="/zixun">资讯</a></li>
-      </ul>
-      
-        {% if user.is_logged_in %}
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="/profile">{{ user.username }}</a></li>
-            <li><a href="/accounts/logout">退出</a></li>
-          </ul>
-        {% else %}
-          <form class="navbar-form navbar-right" role="search">    
-            <a href="/accounts/login/" class="btn btn-default">登录</a>
-            <a href="/accounts/register/"  class="btn btn-default">注册</a>
-          </form>
-        {% endif %}
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden active">
+                        <a href=""></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="">首页</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="">核心技术</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="">产品案例</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href=>关于我们</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
 
-    {% block content %}
-    {% endblock %}
-   
-    <footer class="footer">
-      <div class="footer-content">
-      </div>
-    </footer>
+    <!-- jQuery -->
+    <script src="/static/js/jquery.js"></script>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  </body>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="/static/js/jquery.easing.min.js"></script>
+    <script src="/static/js/classie.js"></script>
+    <script src="/static/js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="/static/js/jqBootstrapValidation.js"></script>
+    <!--script src="js/contact_me.js"></script-->
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/static/js/freelancer.js"></script>
+
+    <script type="text/javascript">
+        $('.nav-pills').click(function (e) {
+          e.preventDefault()
+          $(this).tab('show')
+        })
+    </script>
+</body>
 </html>
