@@ -35,25 +35,21 @@ html {
   box-sizing: border-box;
 }
 
-*,
-*:before,
-*:after {
+*,*:before,*:after {
   box-sizing: inherit;
 }
 
 body {
   position: relative;
-  margin: 0;
   /*padding-bottom: 6rem;*/
   min-height: 100%;
   font-family: "Helvetica Neue", Arial, sans-serif;
   overflow-x: hidden; /* Prevent scroll on narrow devices */
-  background-image: url(/static/images/background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
+
 .navbar {
+  position: absolute;
  /* position: relative;
   min-height: 80px;
   margin-bottom: 20px;*/
@@ -78,11 +74,66 @@ body {
   padding-left: 30px;
 }
 
-
-/*.navbar .container{
-  min-height:  80px; 
+header{
+  height: 340px;
 }
-*/
+
+@media (min-width: 768px) {
+  header{
+    height: 540px
+  }
+}
+
+.card{
+  height: 40vw;
+  color: rgb(252, 212, 138);
+  text-align: center;
+  background-color: rgb(98,98,98);
+  -webkit-box-shadow:0 0 40px rgba(0, 0, 0, .5);  
+  -moz-box-shadow:0 0 40px rgba(0, 0, 0, .5);  
+  box-shadow:0px 10px 60px rgba(0, 0, 0, 1), 3px 0px 0px rgba(0, 0, 0, .7) inset; 
+}
+
+.card h1{
+  font-size: 26px;
+  font-weight: 500;
+  padding: 30px 0;
+}
+
+.card img{
+  width: 15vw;
+  height: 15vw;
+  margin: 0 auto;
+  margin-bottom: 30px; 
+}
+
+.card p{
+  font-size: 12px;
+}
+
+#cooperation{
+  margin-top: 12vh;
+}
+
+#cooperation h2{
+  font-weight: 500;
+  font-size: 26px;
+  color: rgb(98, 98, 98);
+}
+
+#cooperation hr{
+  border-color: rgb(98, 98, 98);
+  border-top: solid 2px;
+  max-width: 150px;
+}
+
+#cooperation .row{
+  margin-top: 30px;
+}
+#cooperation .row .col-md-2{
+  height: 10vw;
+}
+
 .footer {
   position: absolute;
   display: table;
