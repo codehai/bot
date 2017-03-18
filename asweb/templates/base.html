@@ -9,7 +9,7 @@
     <title>傲硕科技</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="/static/css/freelancer.css" rel="stylesheet">
@@ -17,8 +17,6 @@
 
     <!-- Custom Fonts -->
     <link href="/static/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="/static/css/css" rel="stylesheet" type="text/css">
-    <link href="/static/css/css(1)" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -60,7 +58,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href=""><img class="img-responsive" src="/static/images/logo.png" alt=""></a>
+                <a class="navbar-brand" href="">
+                    <img height="45" width="175" src="/static/images/logo.png" alt="logo">
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,41 +86,82 @@
     </nav>
 
     <!-- Header -->
-    <header>
+    <!--<header>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-<!--                     <img class="img-responsive" src="/static/js/paper-plane.png" alt="">
-                    <div class="intro-text">
-                        <span class="name">Echo Publish</span>
-                        <hr class="star-light">
-                        <span class="skills">A Simple Cloud-Based MailMerge Service<br>For Developers</span>
-                    </div> -->
                 </div>
             </div>
         </div>
-    </header>
+    </header>-->
 
-    <div id="card" class="container-fluid">
+
+        <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active" style="background-image:url(/static/images/bg1.jpg)">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>我们专注于为车载领域提供语音解决方案</h1>
+            </div>
+          </div>
+        </div>
+        <div class="item" style="background-image:url(/static/images/bg2.jpg)">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>我们专注于为车载领域提供语音解决方案</h1>
+            </div>
+          </div>
+        </div>
+        <div class="item" style="background-image:url(/static/images/bg3.jpg)">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>我们专注于为车载领域提供语音解决方案</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+    <div id="card" class="container">
         <div class="row">
-            <div class="col-md-3 card">
-                <h1>语音识别</h1>
-                <img src="/static/images/icon1.png">    
+            <div class="col-md-3 card-item">
+                <div class="icon" style="background-image:url(/static/images/icon1.png)">
+                </div>
+                <h1>语音识别</h1>    
                 <p>Hello, world!</p>   
             </div>
-            <div class="col-md-3 card">
+            <div class="col-md-3 card-item">
+                <div class="icon" style="background-image:url(/static/images/icon2.png)">
+                </div>
                 <h1>语义理解</h1>
-                <img src="/static/images/icon2.png"> 
                 <p>Hello, world!</p>   
             </div>
-            <div class="col-md-3 card">
+            <div class="col-md-3 card-item">
+                <div class="icon" style="background-image:url(/static/images/icon3.png)">
+                </div>
                 <h1>语音合成</h1>
-                <img src="/static/images/icon3.png"> 
                 <p>Hello, world!</p>   
             </div>
-            <div class="col-md-3 card">
+            <div class="col-md-3 card-item">
+                <div class="icon" style="background-image:url(/static/images/icon4.png)">
+                </div>
                 <h1>声纹识别</h1>
-                <img src="/static/images/icon4.png">
                 <p>Hello, world!</p>   
             </div>
         </div>
@@ -167,25 +208,49 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <h3>傲硕科技</h3>
-                </div>
-                <div class="row">
-                    <div class="footer-col col-md-4">
-
+                    <div class="footer-col col-md-3">
+                        <h4>关于傲硕科技</h4>
+                        <p>dadfnngagnlalngg</p>
+                        <p>dadfnngagnl</p>
+                        <p>dadfnngagnlalngglalngg</p>
+                        <p>dadfnngagnlalngg</p>
+                        
                     </div>
-                    <div class="footer-col col-md-4">
+                    <div class="footer-col col-md-3">
+                        <h4>关于傲硕科技</h4>
+                        <p>dadfnngagnlalngg</p>
+                        <p>dadfnngagnl</p>
+                        <p>dadfnngagnlalngglalngg</p>
+                        <p>dadfnngagnlalngg</p>
+                        
                     </div>
-                    <div class="footer-col col-md-4">
-
+                    <div class="footer-col col-md-3">
+                        <h4>关于傲硕科技</h4>
+                        <p>dadfnngagnlalngg</p>
+                        <p>dadfnngagnl</p>
+                        <p>dadfnngagnlalngglalngg</p>
+                        <p>dadfnngagnlalngg</p>
+                    </div>
+                    <div class="footer-col col-md-3">
+                        <h4>关于傲硕科技</h4>
+                        <p>dadfnngagnlalngg</p>
+                        <p>dadfnngagnl</p>
+                        <p>dadfnngagnlalngglalngg</p>
+                        <p>dadfnngagnlalngg</p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="footer-below">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
+                <div class="row row-eq-height">
+                    <div class="col-md-4">
+                        <img src="/static/images/logo1.png" height="75" width="150">
+                    </div>
+                    <div class="col-md-4 center-block copy-right">
                         Copyright © AoshuoTec 2015
+                    </div>
+                    <div class="col-md-4">
                     </div>
                 </div>
             </div>
@@ -199,26 +264,14 @@
         </a>
     </div>
 
- 
-   
-
-  
-   
-
     <!-- jQuery -->
     <script src="/static/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="/static/js/jquery.easing.min.js"></script>
-    <script src="/static/js/classie.js"></script>
-    <script src="/static/js/cbpAnimatedHeader.js"></script>
-
-    <!-- Contact Form JavaScript -->
-    <script src="/static/js/jqBootstrapValidation.js"></script>
-    <!--script src="js/contact_me.js"></script-->
 
     <!-- Custom Theme JavaScript -->
     <script src="/static/js/freelancer.js"></script>
