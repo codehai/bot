@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>傲硕科技</title>
-
+    <link rel="icon" href="/static/images/favicon.ico">
+    <title>{% block title %}{% endblock %}</title>
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -24,24 +24,6 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <script id="echo-reflect-settings" async="" src="/static/js/echo-reflect-settings.js"><script async="" src="https://requestmirror.appspot.com/?callback=window.RevsysAnalyticsClientInstance61532.processServerInfo&amp;includeNetwork=true"></script></script><script type="text/javascript" async="" defer="" id="ecLWC" src="/static/js/echoREFLECT.js"></script><script id="echoCentralScript" type="text/javascript" data-ec-accountid="4a54af21-6af7-4f54-9883-be2889dad115">
-      var ECHOREFLECTPRELOAD={errors:[]};
-      (function(w,d,c,t,v){
-        if(c&&c.error){
-          var oce=c.error;
-          c.error=function(){
-            v.errors.push({u:"console",e:arguments})
-            oce.apply(c,arguments);}}
-        w.onerror=function(m,u,l,co,e){
-          v.errors.push({m:m,u:u,l:l,c:co,e:e});
-          return false;}
-        var ec=d.createElement(t);
-        ec.type='text/javascript';ec.async=true;ec.defer=true;ec.id='ecLWC';
-        ec.src=('https:'==d.location.protocol?'https://':'http://')+'script.echo-central.com/echoREFLECT.js';
-        var s=d.getElementsByTagName(t)[0];
-        setTimeout(function(){s.parentNode.insertBefore(ec,s)},100);
-      }(window,document,console,'script',ECHOREFLECTPRELOAD));
-    </script>
 
 </head>
 
@@ -58,8 +40,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="">
-                    <img height="45" width="175" src="/static/images/logo.png" alt="logo">
+                <a class="navbar-brand" href="/">
+                    <img height="20" width="134" src="/static/images/logo5.png" alt="logo">
                 </a>
             </div>
 
@@ -67,7 +49,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="page-scroll">
-                        <a href="">首页</a>
+                        <a href="/">首页</a>
                     </li>
                     <li class="page-scroll">
                         <a href="">核心技术</a>
@@ -84,7 +66,7 @@
                             <li role="presentation" class="divider"></li>
                             <li><a href="">招贤纳士</a></li>
                             <li role="presentation" class="divider"></li>
-                            <li><a href="">联系我们</a></li>
+                            <li><a href="/contact">联系我们</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -94,123 +76,8 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <!-- Header -->
-    <!--<header>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                </div>
-            </div>
-        </div>
-    </header>-->
-
-
-        <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner" role="listbox">
-        <div class="item active" style="background-image:url(/static/images/bg1.jpg)">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>专注汽车领域智能语音解决方案</h1>
-            </div>
-          </div>
-        </div>
-        <div class="item" style="background-image:url(/static/images/bg2.jpg)">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>专注汽车领域智能语音解决方案</h1>
-            </div>
-          </div>
-        </div>
-        <div class="item" style="background-image:url(/static/images/bg3.jpg)">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>专注汽车领域智能语音解决方案</h1>
-            </div>
-          </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div><!-- /.carousel -->
-
-    <div id="card" class="container">
-        <div class="row">
-            <div class="col-md-3 card-item">
-                <div class="icon" style="background-image:url(/static/images/icon1.png)">
-                </div>
-                <h1>语音识别</h1>    
-                <p>基于专有架构的DNN声学模型，支持百万级词汇量大规模中文语音识别，支持本地和云端混合识别，适应不同的网络环境</p>   
-            </div>
-            <div class="col-md-3 card-item">
-                <div class="icon" style="background-image:url(/static/images/icon2.png)">
-                </div>
-                <h1>语义理解</h1>
-                <p>基于规则与机器学习算法、专为汽车领域打造的自然语义理解引擎，支持超过50种车内应用场景，并持续更新中</p>   
-            </div>
-            <div class="col-md-3 card-item">
-                <div class="icon" style="background-image:url(/static/images/icon3.png)">
-                </div>
-                <h1>语音合成</h1>
-                <p>自有的语音合成引擎，将任意文字信息实时转化为标准流畅的语音朗读出来</p>   
-            </div>
-            <div class="col-md-3 card-item">
-                <div class="icon" style="background-image:url(/static/images/icon4.png)">
-                </div>
-                <h1>声纹识别</h1>
-                <p>根据声波频谱自动识别说话人的身份，与唤醒词搭配使用，进行车内功能个性化设置</p>   
-            </div>
-        </div>
-    </div>
-
-    <!-- Portfolio Grid Section -->
-    <section id="cooperation">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>合作伙伴</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-            </div>
-            <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-            </div>
-            <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-                <div class="col-md-2"></div>
-            </div>
-        </div>
-    </section>
+    {% block content %}
+    {% endblock %}
 
     <!-- Footer -->
     <footer class="text-center">
@@ -284,17 +151,7 @@
     <!-- Plugin JavaScript -->
     <script src="/static/js/jquery.easing.min.js"></script>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="/static/js/freelancer.js"></script>
-
     <script src="/static/js/base.js"></script>
-
-    <script type="text/javascript">
-        $('.nav-pills').click(function (e) {
-          e.preventDefault()
-          $(this).tab('show')
-        })
-    </script>
 
 </body>
 

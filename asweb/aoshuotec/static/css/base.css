@@ -307,6 +307,66 @@ body {
 }
 
 /*
+ * contact us
+ * --------------------------------------------------
+ */
+
+#contact{
+  padding-top: 140px;
+  text-align: center;
+  background-color: rgb(244, 244, 244);
+}
+
+#contact .container h1{
+  padding: 50px;
+  font-weight: 500;
+}
+
+#contact .row{
+  padding-top: 80px;
+  text-align: left;
+}
+
+#contact .row h5{
+  color: rgb(197, 153, 108);
+  padding-bottom: 20px;
+}
+
+#contact .row p{
+  font-size: 12px;
+  text-align: left;
+  line-height: 10px;
+}
+
+#contact .row .col-md-4 div{
+  display: inline-block;
+  float: left;
+  height: 200px;
+}
+
+#contact .row .col-md-4 .icon{
+  font-size: 30px;
+  padding: 0 15px;
+}
+
+#contact .map{
+  background-color: rgb(204, 204, 204);
+  padding:30px;
+  text-align: center;
+}
+
+#contact .map div{
+  height: 24vw;
+}
+/*#contact .map div{
+  height: 24vw;
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(/static/images/poi.jpg);
+}*/
+
+/*
  * Off Canvas
  * --------------------------------------------------
  */
