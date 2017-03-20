@@ -48,7 +48,7 @@
 <body id="page-top" class="index">
 
     <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top ">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -75,8 +75,17 @@
                     <li class="page-scroll">
                         <a href="">产品案例</a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="">关于我们</a>
+                    <li class="page-scroll" role="presentation" class="dropdown">
+                        <a class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            关于我们 <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-left">
+                            <li><a href="">公司介绍</a></li>
+                            <li role="presentation" class="divider"></li>
+                            <li><a href="">招贤纳士</a></li>
+                            <li role="presentation" class="divider"></li>
+                            <li><a href="">联系我们</a></li>
+                        </ul>
                     </li>
                 </ul>
             </div>
@@ -109,21 +118,21 @@
         <div class="item active" style="background-image:url(/static/images/bg1.jpg)">
           <div class="container">
             <div class="carousel-caption">
-              <h1>我们专注于为车载领域提供语音解决方案</h1>
+              <h1>专注汽车领域智能语音解决方案</h1>
             </div>
           </div>
         </div>
         <div class="item" style="background-image:url(/static/images/bg2.jpg)">
           <div class="container">
             <div class="carousel-caption">
-              <h1>我们专注于为车载领域提供语音解决方案</h1>
+              <h1>专注汽车领域智能语音解决方案</h1>
             </div>
           </div>
         </div>
         <div class="item" style="background-image:url(/static/images/bg3.jpg)">
           <div class="container">
             <div class="carousel-caption">
-              <h1>我们专注于为车载领域提供语音解决方案</h1>
+              <h1>专注汽车领域智能语音解决方案</h1>
             </div>
           </div>
         </div>
@@ -144,25 +153,25 @@
                 <div class="icon" style="background-image:url(/static/images/icon1.png)">
                 </div>
                 <h1>语音识别</h1>    
-                <p>Hello, world!</p>   
+                <p>基于专有架构的DNN声学模型，支持百万级词汇量大规模中文语音识别，支持本地和云端混合识别，适应不同的网络环境</p>   
             </div>
             <div class="col-md-3 card-item">
                 <div class="icon" style="background-image:url(/static/images/icon2.png)">
                 </div>
                 <h1>语义理解</h1>
-                <p>Hello, world!</p>   
+                <p>基于规则与机器学习算法、专为汽车领域打造的自然语义理解引擎，支持超过50种车内应用场景，并持续更新中</p>   
             </div>
             <div class="col-md-3 card-item">
                 <div class="icon" style="background-image:url(/static/images/icon3.png)">
                 </div>
                 <h1>语音合成</h1>
-                <p>Hello, world!</p>   
+                <p>自有的语音合成引擎，将任意文字信息实时转化为标准流畅的语音朗读出来</p>   
             </div>
             <div class="col-md-3 card-item">
                 <div class="icon" style="background-image:url(/static/images/icon4.png)">
                 </div>
                 <h1>声纹识别</h1>
-                <p>Hello, world!</p>   
+                <p>根据声波频谱自动识别说话人的身份，与唤醒词搭配使用，进行车内功能个性化设置</p>   
             </div>
         </div>
     </div>
@@ -172,7 +181,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>合作商户</h2>
+                    <h2>合作伙伴</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -270,11 +279,15 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="/static/bootstrap/js/bootstrap.min.js"></script>
 
+    <script src="http://cdn.bootcss.com/bootstrap-hover-dropdown/2.0.10/bootstrap-hover-dropdown.min.js"></script>
+
     <!-- Plugin JavaScript -->
     <script src="/static/js/jquery.easing.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="/static/js/freelancer.js"></script>
+
+    <script src="/static/js/base.js"></script>
 
     <script type="text/javascript">
         $('.nav-pills').click(function (e) {

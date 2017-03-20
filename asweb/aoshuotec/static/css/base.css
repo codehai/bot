@@ -51,12 +51,18 @@ body {
   display: flex;
 }
 .navbar {
-  position: absolute;
+  /*position: absolute;*/
  /* position: relative;
   min-height: 80px;
   margin-bottom: 20px;*/
   border: 1px solid transparent;
+  border-bottom: 1px solid rgba(200, 200, 200, .7);
   background-color: rgba(255,255,255,.8);
+}
+
+.navbar .dropdown-menu{
+  background-color: rgba(255, 255, 255, .8);
+  text-align: center;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -76,14 +82,48 @@ body {
   height: 50px; 
 }
 
+.navbar-default .navbar-nav>li.open>a{
+  color: #F08200;
+  background-color: transparent!important;
+  border-bottom: 2px solid #F08200;
+  height: 50px; 
+}
+
+.navbar-nav{
+  margin-right: 50px;
+}
+
 .navbar-default .navbar-nav>li{
   padding-left: 30px;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    color: #F08200;
+    text-decoration: none;
+    background-color: transparent!important;
 }
 
 @media (max-width: 768px) {
   .navbar-brand img{
     height: 30px;
     width: 125px;
+  }
+  .navbar-default .navbar-nav>li.open>a{
+    color: black;
+    background-color: transparent!important;
+    border-bottom: 0;
+  }
+  .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #F08200;
+    background-color: transparent;
+    border-bottom: 0;
+    height: 50px; 
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: black;
+  }
+  .navbar-collapse{
+    background-color: rgba(150,150,150,.5);
   }
 }
 
@@ -120,9 +160,9 @@ body {
 
 .carousel-caption h1{
   font-family: "Microsoft YaHei", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 32px;
   font-weight: 500;
-  letter-spacing:5px;
+  letter-spacing:15px;
 }
 
 @media (max-width: 768px) {
@@ -134,6 +174,10 @@ body {
   }
   .carousel-caption{
     height: 60%;
+  }
+  .carousel-caption h1{
+    font-size: 14px;
+    letter-spacing: 5px;
   }
 }
 #card{
@@ -147,6 +191,7 @@ body {
 
 .card-item h1{
   padding: 0;
+  margin: 0;
   font-size: 26px;
   font-weight: 500;
   color: rgb(67, 67, 67);
@@ -161,8 +206,11 @@ body {
 }
 
 .card-item p{
-  padding-top: 20px;
-  font-size: 12px;
+  font-size: 14px;
+  text-align: left;
+  padding: 35px;
+  line-height: 25px;
+  color: rgb(125,125,125)
 }
 
 @media (max-width: 768px) {
@@ -481,10 +529,7 @@ header .intro-text .skills {
 .navbar .navbar-nav li a:focus {
   outline: none;
 }
-.navbar-default,
-.navbar-inverse {
-  border: none;
-}
+
 .navbar-fixed-top .navbar-brand {
   max-width: 270px;
 }
