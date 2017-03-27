@@ -10,7 +10,7 @@ class Zixun(models.Model) :
     content = models.TextField(blank = True, null = True)  #博客文章正文
 
     #python2使用__unicode__, python3使用__str__
-    def __unicode__(self) :
+    def __str__(self) :
         return self.title
 
     class Meta:  #按时间下降排序
@@ -33,7 +33,7 @@ class Races(models.Model):
     shed_num = models.IntegerField()
     race_name = models.CharField(max_length = 100)
 
-    def __unicode__(self) :
+    def __str__(self) :
         return self.foot_num
 
 
