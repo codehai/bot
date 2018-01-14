@@ -1,0 +1,719 @@
+1515843319669	geckodriver	INFO	geckodriver 0.19.1
+1515843319676	geckodriver	INFO	Listening on 127.0.0.1:54426
+1515843346491	geckodriver	INFO	geckodriver 0.19.1
+1515843346496	geckodriver	INFO	Listening on 127.0.0.1:54493
+1515843385062	geckodriver	INFO	geckodriver 0.19.1
+1515843385067	geckodriver	INFO	Listening on 127.0.0.1:54584
+1515843479424	geckodriver	INFO	geckodriver 0.19.1
+1515843479431	geckodriver	INFO	Listening on 127.0.0.1:54942
+1515843479633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.QmKQi5Rs9hf7"
+1515843480403	Marionette	INFO	Enabled via --marionette
+2018-01-13 19:38:01.499 plugin-container[5864:101756] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515843482122	Marionette	INFO	Listening on port 54947
+1515843482265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843482325	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843482348	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843482575	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843482575	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515843483083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515843483166	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=n&json=1&p=3&sid=1452_21124_18559_17001_20927&csor=1&cb=jQuery110206148476092653347_1515843482850&_=1515843482852, line 1: TypeError: jQuery110206148476092653347_1515843482850 is not a function
+1515843792257	geckodriver	INFO	geckodriver 0.19.1
+1515843792262	geckodriver	INFO	Listening on 127.0.0.1:55716
+1515843792458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.VojOSS7nHkw2"
+1515843793122	Marionette	INFO	Enabled via --marionette
+2018-01-13 19:43:14.223 plugin-container[6268:114367] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515843794857	Marionette	INFO	Listening on port 55721
+1515843794924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843794993	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843795028	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843795264	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843795264	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515843795755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515843795867	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515843858580	geckodriver	INFO	geckodriver 0.19.1
+1515843858585	geckodriver	INFO	Listening on 127.0.0.1:55861
+1515843858764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.n7BEGuCnXllJ"
+1515843859388	Marionette	INFO	Enabled via --marionette
+2018-01-13 19:44:20.362 plugin-container[6393:116963] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515843860973	Marionette	INFO	Listening on port 55866
+1515843861232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843861305	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843861349	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843861480	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843861480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515843862170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515843862324	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515843948502	geckodriver	INFO	geckodriver 0.19.1
+1515843948507	geckodriver	INFO	Listening on 127.0.0.1:56102
+1515843948698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.Gvc33L47yHQE"
+1515843949243	Marionette	INFO	Enabled via --marionette
+2018-01-13 19:45:50.203 plugin-container[6544:119232] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515843950781	Marionette	INFO	Listening on port 56107
+1515843951154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843951221	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843951234	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843951410	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843951410	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515843952326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515843952430	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+2018-01-13 19:46:25.732 plugin-container[6585:119883] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-13 19:46:29.649 plugin-container[6591:120004] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-13 19:46:32.802 plugin-container[6595:120081] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-01-13 19:46:38.886 plugin-container[6604:120244] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-13 19:46:42.958 plugin-container[6608:120339] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515844062100	geckodriver	INFO	geckodriver 0.19.1
+1515844062105	geckodriver	INFO	Listening on 127.0.0.1:56387
+1515844062297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.bGnyYIqdTOAc"
+1515844062948	Marionette	INFO	Enabled via --marionette
+2018-01-13 19:47:44.051 plugin-container[6720:123768] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515844064739	Marionette	INFO	Listening on port 56392
+1515844064790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844064864	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844064902	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844065357	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844065357	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515844066650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844066789	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+2018-01-13 19:50:18.825 plugin-container[6927:127142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515844507714	geckodriver	INFO	geckodriver 0.19.1
+1515844507720	geckodriver	INFO	Listening on 127.0.0.1:57395
+1515844507908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.N2RHHk6Vz5aj"
+1515844508459	Marionette	INFO	Enabled via --marionette
+2018-01-13 19:55:09.412 plugin-container[7288:136077] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515844510005	Marionette	INFO	Listening on port 57400
+1515844510361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844510460	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844535103	geckodriver	INFO	geckodriver 0.19.1
+1515844535108	geckodriver	INFO	Listening on 127.0.0.1:57479
+1515844535293	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.jhbsaAHZPxzj"
+1515844535828	Marionette	INFO	Enabled via --marionette
+2018-01-13 19:55:36.781 plugin-container[7359:136953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515844537320	Marionette	INFO	Listening on port 57486
+1515844537795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844537851	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844591918	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844592091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844592091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844592889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=.`Lug%E3%80%91%22%E2%80%B2`%E2%80%B2`%E3%80%8DJJ%E3%80%8DluL`\Jll%E2%80%B2ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?\nhaodeMacBook%E4%B8%80P%E3%80%8Co:cddhsunhao$pythonCddh.py.llusetool%27Tesse%E3%80%8Cact(sh)%27ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844593006	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=.`Lug%E3%80%91%22%E2%80%B2`%E2%80%B2`%E3%80%8DJJ%E3%80%8DluL`\Jll%E2%80%B2ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?\nhaodeMacBook%E4%B8%80P%E3%80%8Co:cddhsunhao$pythonCddh.py.llusetool%27Tesse%E3%80%8Cact(sh)%27ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844623245	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=.`Lug%E3%80%91%22%E2%80%B2`%E2%80%B2`%E3%80%8DJJ%E3%80%8DluL`\Jll%E2%80%B2ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?\nhaodeMacBook%E4%B8%80P%E3%80%8Co:cddhsunhao$pythonCddh.py.llusetool%27Tesse%E3%80%8Cact(sh)%27ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844623287	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=.`Lug%E3%80%91%22%E2%80%B2`%E2%80%B2`%E3%80%8DJJ%E3%80%8DluL`\Jll%E2%80%B2ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?\nhaodeMacBook%E4%B8%80P%E3%80%8Co:cddhsunhao$pythonCddh.py.llusetool%27Tesse%E3%80%8Cact(sh)%27ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844623293	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=.`Lug%E3%80%91%22%E2%80%B2`%E2%80%B2`%E3%80%8DJJ%E3%80%8DluL`\Jll%E2%80%B2ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?\nhaodeMacBook%E4%B8%80P%E3%80%8Co:cddhsunhao$pythonCddh.py.llusetool%27Tesse%E3%80%8Cact(sh)%27ailablelanguages:chi_sim%E2%80%B2eng%E2%80%B2osd.lluselang%27chi_sim%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%E3%80%91%E8%A7%92%E2%80%B3%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%B3%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844623830	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844623904	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844645407	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844645493	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844645494	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844645832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515844645907	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515846305871	Marionette	DEBUG	Register listener.js for window 2147483655
+1515846305945	Marionette	DEBUG	Register listener.js for window 2147483658
+1515846323550	Marionette	DEBUG	Register listener.js for window 2147483669
+JavaScript warning: https://pos.baidu.com/dcym?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=31x5&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1515846325858&ti=%E5%88%98%E8%83%BD%EF%BC%88%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E7%B3%BB%E5%88%97%E4%B8%AD%E7%9A%84%E8%A7%92%E8%89%B2%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=897x625&pss=1189x5801&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1515846325&prot=2&rw=625&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2588%2598%25E8%2583%25BD%2F6144232%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DVYtf-bS8d9zeAjvAMPYoTAZ3DXoQZTJME7xpA6zbrh6bavntf37-NmhygfWx6xkmNoQdmAhq6JJiHADiyAXfWsBn8nUkC6AuQnfuMAVagwa%26wd%3D%26eqid%3D85213f430004bd7a000000045a59f425&ecd=1&uc=1280x716&pis=-1x-1&sr=1280x800&tcn=1515846326&qn=da66825c5fb92508&tt=1515846325807.54.402.404, line 118: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/dcym?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=31x5&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1515846325858&ti=%E5%88%98%E8%83%BD%EF%BC%88%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E7%B3%BB%E5%88%97%E4%B8%AD%E7%9A%84%E8%A7%92%E8%89%B2%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=897x625&pss=1189x5801&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1515846325&prot=2&rw=625&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2588%2598%25E8%2583%25BD%2F6144232%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DVYtf-bS8d9zeAjvAMPYoTAZ3DXoQZTJME7xpA6zbrh6bavntf37-NmhygfWx6xkmNoQdmAhq6JJiHADiyAXfWsBn8nUkC6AuQnfuMAVagwa%26wd%3D%26eqid%3D85213f430004bd7a000000045a59f425&ecd=1&uc=1280x716&pis=-1x-1&sr=1280x800&tcn=1515846326&qn=da66825c5fb92508&tt=1515846325807.54.402.404, line 118: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1515853299331	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515853299503	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515853299506	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%27%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515853301487	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4.%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515853301737	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4.%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515853350137	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4.%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515853350197	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4.%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515853350201	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4.%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515853351345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515853351523	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515920267710	geckodriver	INFO	geckodriver 0.19.1
+1515920267714	geckodriver	INFO	Listening on 127.0.0.1:55148
+1515920267904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.m8ZGPmMZTFkh"
+1515920268505	Marionette	INFO	Enabled via --marionette
+2018-01-14 16:57:49.398 plugin-container[38157:349364] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515920269919	Marionette	INFO	Listening on port 55153
+1515920270343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515920270394	Marionette	DEBUG	Register listener.js for window 2147483649
+1515920344891	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515920345124	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515920345124	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515920345484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515920345560	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515920360834	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1515920360894	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1515920360896	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1515920361056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515920361108	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515920662987	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1515920663101	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1515920663105	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1515920663893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1.%E5%B0%8F%E8%AF%B4%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%AF%B8%E8%91%9B%E5%A3%B3%E6%96%BD%E7%A9%BA%E5%9F%8E%E8%AE%A1%E5%AF%B9%E5%BC%88%E7%9A%84%E5%B0%86%E9%A2%86%E6%98%AF?"
+1515920664011	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1.%E5%B0%8F%E8%AF%B4%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%AF%B8%E8%91%9B%E5%A3%B3%E6%96%BD%E7%A9%BA%E5%9F%8E%E8%AE%A1%E5%AF%B9%E5%BC%88%E7%9A%84%E5%B0%86%E9%A2%86%E6%98%AF?"
+1515920715632	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1.%E5%B0%8F%E8%AF%B4%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%AF%B8%E8%91%9B%E5%A3%B3%E6%96%BD%E7%A9%BA%E5%9F%8E%E8%AE%A1%E5%AF%B9%E5%BC%88%E7%9A%84%E5%B0%86%E9%A2%86%E6%98%AF?"
+1515920715693	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1.%E5%B0%8F%E8%AF%B4%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%AF%B8%E8%91%9B%E5%A3%B3%E6%96%BD%E7%A9%BA%E5%9F%8E%E8%AE%A1%E5%AF%B9%E5%BC%88%E7%9A%84%E5%B0%86%E9%A2%86%E6%98%AF?"
+1515920715694	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1.%E5%B0%8F%E8%AF%B4%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%AF%B8%E8%91%9B%E5%A3%B3%E6%96%BD%E7%A9%BA%E5%9F%8E%E8%AE%A1%E5%AF%B9%E5%BC%88%E7%9A%84%E5%B0%86%E9%A2%86%E6%98%AF?"
+1515920716853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=2%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%BB%E6%BC%94%E7%9A%84%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E3%80%8B%E6%9C%89%E4%B8%A4%E9%83%A8%EF%BC%8C_%E9%83%A8%E6%98%AF%E3%80%8A%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92%E3%80%8B%EF%BC%8C%E5%8F%A6_%E9%83%A8%E6%98%AF?"
+1515920716955	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=2%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%BB%E6%BC%94%E7%9A%84%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E3%80%8B%E6%9C%89%E4%B8%A4%E9%83%A8%EF%BC%8C_%E9%83%A8%E6%98%AF%E3%80%8A%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92%E3%80%8B%EF%BC%8C%E5%8F%A6_%E9%83%A8%E6%98%AF?"
+1515920769684	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=2%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%BB%E6%BC%94%E7%9A%84%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E3%80%8B%E6%9C%89%E4%B8%A4%E9%83%A8%EF%BC%8C_%E9%83%A8%E6%98%AF%E3%80%8A%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92%E3%80%8B%EF%BC%8C%E5%8F%A6_%E9%83%A8%E6%98%AF?"
+1515920769722	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=2%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%BB%E6%BC%94%E7%9A%84%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E3%80%8B%E6%9C%89%E4%B8%A4%E9%83%A8%EF%BC%8C_%E9%83%A8%E6%98%AF%E3%80%8A%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92%E3%80%8B%EF%BC%8C%E5%8F%A6_%E9%83%A8%E6%98%AF?"
+1515920769726	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=2%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%BB%E6%BC%94%E7%9A%84%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E3%80%8B%E6%9C%89%E4%B8%A4%E9%83%A8%EF%BC%8C_%E9%83%A8%E6%98%AF%E3%80%8A%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92%E3%80%8B%EF%BC%8C%E5%8F%A6_%E9%83%A8%E6%98%AF?"
+1515920770378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920770447	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920796018	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920796056	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920796057	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920796395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920796457	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920821921	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920821972	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920821973	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=3.%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%92%A4%E8%B4%9D%E5%AE%81%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%94%A7%E6%89%80%E5%A4%A7%E5%AD%A6?"
+1515920823192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E5%86%9B%E8%A1%94?"
+1515920823295	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E5%86%9B%E8%A1%94?"
+1515920877663	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E5%86%9B%E8%A1%94?"
+1515920877703	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E5%86%9B%E8%A1%94?"
+1515920877707	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E5%86%9B%E8%A1%94?"
+1515920878272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E4%BB%A5%E4%B8%8B%E5%93%AA%E7%A7%8D%E9%85%B1%E5%9C%A8%E4%B9%8B%E5%89%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E8%BF%87%E8%8D%AF%E5%93%81?"
+1515920878360	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E4%BB%A5%E4%B8%8B%E5%93%AA%E7%A7%8D%E9%85%B1%E5%9C%A8%E4%B9%8B%E5%89%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E8%BF%87%E8%8D%AF%E5%93%81?"
+1515920928898	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E4%BB%A5%E4%B8%8B%E5%93%AA%E7%A7%8D%E9%85%B1%E5%9C%A8%E4%B9%8B%E5%89%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E8%BF%87%E8%8D%AF%E5%93%81?"
+1515920928935	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E4%BB%A5%E4%B8%8B%E5%93%AA%E7%A7%8D%E9%85%B1%E5%9C%A8%E4%B9%8B%E5%89%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E8%BF%87%E8%8D%AF%E5%93%81?"
+1515920928937	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5.%E4%BB%A5%E4%B8%8B%E5%93%AA%E7%A7%8D%E9%85%B1%E5%9C%A8%E4%B9%8B%E5%89%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E8%BF%87%E8%8D%AF%E5%93%81?"
+1515920929457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=6.%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%E4%B8%AD%EF%BC%8C%E8%93%9D%E8%89%B2%E4%BB%A3%E8%A1%A8%E5%93%AA%E4%B8%AA%E6%B4%B2?"
+1515920929534	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=6.%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%E4%B8%AD%EF%BC%8C%E8%93%9D%E8%89%B2%E4%BB%A3%E8%A1%A8%E5%93%AA%E4%B8%AA%E6%B4%B2?"
+1515921000731	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=6.%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%E4%B8%AD%EF%BC%8C%E8%93%9D%E8%89%B2%E4%BB%A3%E8%A1%A8%E5%93%AA%E4%B8%AA%E6%B4%B2?"
+1515921000769	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=6.%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%E4%B8%AD%EF%BC%8C%E8%93%9D%E8%89%B2%E4%BB%A3%E8%A1%A8%E5%93%AA%E4%B8%AA%E6%B4%B2?"
+1515921000772	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=6.%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%E4%B8%AD%EF%BC%8C%E8%93%9D%E8%89%B2%E4%BB%A3%E8%A1%A8%E5%93%AA%E4%B8%AA%E6%B4%B2?"
+1515921001383	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=7.%E5%8A%A8%E6%BB%A2%E3%80%8A%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E3%80%8B%E4%B8%AD%E4%BB%A5%E4%B8%8B%E4%B8%89%E4%BA%BA%E8%B0%81%E6%9C%80%E7%9F%AE?"
+1515921001452	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=7.%E5%8A%A8%E6%BB%A2%E3%80%8A%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E3%80%8B%E4%B8%AD%E4%BB%A5%E4%B8%8B%E4%B8%89%E4%BA%BA%E8%B0%81%E6%9C%80%E7%9F%AE?"
+1515921060800	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=7.%E5%8A%A8%E6%BB%A2%E3%80%8A%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E3%80%8B%E4%B8%AD%E4%BB%A5%E4%B8%8B%E4%B8%89%E4%BA%BA%E8%B0%81%E6%9C%80%E7%9F%AE?"
+1515921060845	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=7.%E5%8A%A8%E6%BB%A2%E3%80%8A%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E3%80%8B%E4%B8%AD%E4%BB%A5%E4%B8%8B%E4%B8%89%E4%BA%BA%E8%B0%81%E6%9C%80%E7%9F%AE?"
+1515921060847	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=7.%E5%8A%A8%E6%BB%A2%E3%80%8A%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E3%80%8B%E4%B8%AD%E4%BB%A5%E4%B8%8B%E4%B8%89%E4%BA%BA%E8%B0%81%E6%9C%80%E7%9F%AE?"
+1515921061370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=8.%E3%80%8A%E5%AE%9D%E8%8E%B2%E7%81%AF%E3%80%8B%E4%B8%AD%E4%BA%8C%E9%83%8E%E7%A5%9E%E6%98%AF%E6%B2%89%E9%A6%99%E7%9A%84?"
+1515921061506	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=8.%E3%80%8A%E5%AE%9D%E8%8E%B2%E7%81%AF%E3%80%8B%E4%B8%AD%E4%BA%8C%E9%83%8E%E7%A5%9E%E6%98%AF%E6%B2%89%E9%A6%99%E7%9A%84?"
+1515921111858	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=8.%E3%80%8A%E5%AE%9D%E8%8E%B2%E7%81%AF%E3%80%8B%E4%B8%AD%E4%BA%8C%E9%83%8E%E7%A5%9E%E6%98%AF%E6%B2%89%E9%A6%99%E7%9A%84?"
+1515921111896	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=8.%E3%80%8A%E5%AE%9D%E8%8E%B2%E7%81%AF%E3%80%8B%E4%B8%AD%E4%BA%8C%E9%83%8E%E7%A5%9E%E6%98%AF%E6%B2%89%E9%A6%99%E7%9A%84?"
+1515921111900	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=8.%E3%80%8A%E5%AE%9D%E8%8E%B2%E7%81%AF%E3%80%8B%E4%B8%AD%E4%BA%8C%E9%83%8E%E7%A5%9E%E6%98%AF%E6%B2%89%E9%A6%99%E7%9A%84?"
+1515921112311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=9%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E9%87%8C%E6%B1%89%E5%AD%97%E2%80%9C%E5%8D%95%E2%80%9D%E5%AD%97%E6%9C%89%E5%87%A0%E7%A7%8D%E8%AF%BB%E9%9F%B3?"
+1515921112382	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=9%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E9%87%8C%E6%B1%89%E5%AD%97%E2%80%9C%E5%8D%95%E2%80%9D%E5%AD%97%E6%9C%89%E5%87%A0%E7%A7%8D%E8%AF%BB%E9%9F%B3?"
+1515921172074	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=9%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E9%87%8C%E6%B1%89%E5%AD%97%E2%80%9C%E5%8D%95%E2%80%9D%E5%AD%97%E6%9C%89%E5%87%A0%E7%A7%8D%E8%AF%BB%E9%9F%B3?"
+1515921172114	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=9%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E9%87%8C%E6%B1%89%E5%AD%97%E2%80%9C%E5%8D%95%E2%80%9D%E5%AD%97%E6%9C%89%E5%87%A0%E7%A7%8D%E8%AF%BB%E9%9F%B3?"
+1515921172120	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=9%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E9%87%8C%E6%B1%89%E5%AD%97%E2%80%9C%E5%8D%95%E2%80%9D%E5%AD%97%E6%9C%89%E5%87%A0%E7%A7%8D%E8%AF%BB%E9%9F%B3?"
+1515921172453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=10.%E9%80%86%E6%97%B6%E9%92%88%E5%BC%AF%E9%81%93%E8%B7%91%E6%97%B6%EF%BC%8C%E8%BA%AB%E4%BD%93%E5%BA%94%E5%90%91%E5%93%AA%E4%B8%AA%E6%96%B9%E5%90%91%E5%80%BE%E6%96%9C?"
+1515921172521	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=10.%E9%80%86%E6%97%B6%E9%92%88%E5%BC%AF%E9%81%93%E8%B7%91%E6%97%B6%EF%BC%8C%E8%BA%AB%E4%BD%93%E5%BA%94%E5%90%91%E5%93%AA%E4%B8%AA%E6%96%B9%E5%90%91%E5%80%BE%E6%96%9C?"
+1515921227496	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=10.%E9%80%86%E6%97%B6%E9%92%88%E5%BC%AF%E9%81%93%E8%B7%91%E6%97%B6%EF%BC%8C%E8%BA%AB%E4%BD%93%E5%BA%94%E5%90%91%E5%93%AA%E4%B8%AA%E6%96%B9%E5%90%91%E5%80%BE%E6%96%9C?"
+1515921227534	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=10.%E9%80%86%E6%97%B6%E9%92%88%E5%BC%AF%E9%81%93%E8%B7%91%E6%97%B6%EF%BC%8C%E8%BA%AB%E4%BD%93%E5%BA%94%E5%90%91%E5%93%AA%E4%B8%AA%E6%96%B9%E5%90%91%E5%80%BE%E6%96%9C?"
+1515921227538	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=10.%E9%80%86%E6%97%B6%E9%92%88%E5%BC%AF%E9%81%93%E8%B7%91%E6%97%B6%EF%BC%8C%E8%BA%AB%E4%BD%93%E5%BA%94%E5%90%91%E5%93%AA%E4%B8%AA%E6%96%B9%E5%90%91%E5%80%BE%E6%96%9C?"
+1515921228662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11.%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E7%AC%AC_%E9%83%A8%E6%9C%89%E5%A3%B0%E7%94%B5%E5%BD%B1%E6%98%AF?"
+1515921228782	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11.%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E7%AC%AC_%E9%83%A8%E6%9C%89%E5%A3%B0%E7%94%B5%E5%BD%B1%E6%98%AF?"
+1515921291446	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11.%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E7%AC%AC_%E9%83%A8%E6%9C%89%E5%A3%B0%E7%94%B5%E5%BD%B1%E6%98%AF?"
+1515921291484	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11.%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E7%AC%AC_%E9%83%A8%E6%9C%89%E5%A3%B0%E7%94%B5%E5%BD%B1%E6%98%AF?"
+1515921291487	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11.%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E7%AC%AC_%E9%83%A8%E6%9C%89%E5%A3%B0%E7%94%B5%E5%BD%B1%E6%98%AF?"
+1515921291925	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515921291983	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515923719334	geckodriver	INFO	geckodriver 0.19.1
+1515923719338	geckodriver	INFO	Listening on 127.0.0.1:58724
+1515923719521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.EC6puEGe0RGr"
+1515923720088	Marionette	INFO	Enabled via --marionette
+2018-01-14 17:55:21.025 plugin-container[41737:390003] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515923721652	Marionette	INFO	Listening on port 58731
+1515923721984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515923722038	Marionette	DEBUG	Register listener.js for window 2147483649
+1515923783815	geckodriver	INFO	geckodriver 0.19.1
+1515923783821	geckodriver	INFO	Listening on 127.0.0.1:58875
+1515923784006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.vgrc6ljgxzZ2"
+1515923784545	Marionette	INFO	Enabled via --marionette
+2018-01-14 17:56:25.455 plugin-container[41844:392589] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515923786003	Marionette	INFO	Listening on port 58882
+1515923786439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515923786489	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515924860107	geckodriver	INFO	geckodriver 0.19.1
+1515924860112	geckodriver	INFO	Listening on 127.0.0.1:60833
+1515924860296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.KbJT8VJfZIF3"
+1515924860852	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:14:21.748 plugin-container[43813:425816] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515924862325	Marionette	INFO	Listening on port 60840
+1515924862813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515924862862	Marionette	DEBUG	Register listener.js for window 2147483649
+1515924868708	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515924868859	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515924868860	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515924869441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515924869594	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515924912561	geckodriver	INFO	geckodriver 0.19.1
+1515924912566	geckodriver	INFO	Listening on 127.0.0.1:60975
+1515924912751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.OwCgXqY8Rfzz"
+1515924913373	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:15:14.254 plugin-container[44008:427729] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515924914779	Marionette	INFO	Listening on port 60980
+1515924915187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515924915237	Marionette	DEBUG	Register listener.js for window 2147483649
+1515924920179	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515924920285	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515924920285	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515924920821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515924920906	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515925416031	geckodriver	INFO	geckodriver 0.19.1
+1515925416035	geckodriver	INFO	Listening on 127.0.0.1:61928
+1515925416220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.IWDDc5WOR5wT"
+1515925416794	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:23:37.674 plugin-container[44560:440062] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515925418172	Marionette	INFO	Listening on port 61933
+1515925418667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515925418718	Marionette	DEBUG	Register listener.js for window 2147483649
+1515925421443	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515925421615	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515925421615	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515925422142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515925422300	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515925447882	geckodriver	INFO	geckodriver 0.19.1
+1515925447886	geckodriver	INFO	Listening on 127.0.0.1:62042
+1515925448065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.taUUrshkbUNw"
+1515925448569	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:24:09.462 plugin-container[44636:441253] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515925449947	Marionette	INFO	Listening on port 62047
+1515925450504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515925450552	Marionette	DEBUG	Register listener.js for window 2147483649
+1515925451709	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515925451805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515925451805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515925452330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515925452430	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926137535	geckodriver	INFO	geckodriver 0.19.1
+1515926137540	geckodriver	INFO	Listening on 127.0.0.1:63320
+1515926137716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.xjab5RCMrKHq"
+1515926138232	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:35:39.142 plugin-container[45414:457955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515926139628	Marionette	INFO	Listening on port 63327
+1515926140156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515926140203	Marionette	DEBUG	Register listener.js for window 2147483649
+1515926142141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515926142308	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515926142309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515926142869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926142976	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926191931	geckodriver	INFO	geckodriver 0.19.1
+1515926191936	geckodriver	INFO	Listening on 127.0.0.1:63469
+1515926192114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.h6fvT1Csvt0i"
+1515926192610	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:36:33.509 plugin-container[45512:459726] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515926194012	Marionette	INFO	Listening on port 63476
+1515926194545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515926194593	Marionette	DEBUG	Register listener.js for window 2147483649
+1515926196346	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515926196444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515926196445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515926196979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926197059	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926505477	geckodriver	INFO	geckodriver 0.19.1
+1515926505482	geckodriver	INFO	Listening on 127.0.0.1:64095
+1515926505660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.Cf62ONkawcoM"
+1515926506165	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:41:47.052 plugin-container[45868:464751] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515926507571	Marionette	INFO	Listening on port 64100
+1515926508174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515926508222	Marionette	DEBUG	Register listener.js for window 2147483649
+1515926509340	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515926509535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515926509536	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515926510093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926510210	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926759355	geckodriver	INFO	geckodriver 0.19.1
+1515926759359	geckodriver	INFO	Listening on 127.0.0.1:64720
+1515926759536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.h3QM3sZmB3UX"
+1515926760047	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:46:00.935 plugin-container[46164:471448] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515926761602	Marionette	INFO	Listening on port 64725
+1515926762027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515926762074	Marionette	DEBUG	Register listener.js for window 2147483649
+1515926763769	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515926763872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515926763872	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515926764386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515926764474	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515927102505	geckodriver	INFO	geckodriver 0.19.1
+1515927102509	geckodriver	INFO	Listening on 127.0.0.1:65490
+1515927102747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.KZqnxuslCUPL"
+1515927103282	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:51:44.209 plugin-container[46588:478787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515927104775	Marionette	INFO	Listening on port 65495
+1515927105193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515927105241	Marionette	DEBUG	Register listener.js for window 2147483649
+1515927110904	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515927111081	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515927111082	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515927111818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515927111936	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=12.%E3%80%8A%E6%9C%9D%E5%A4%A9%E5%AD%90%E3%80%8B%E8%BF%99%E4%B8%AA%E9%A2%98%E7%9B%AE%E6%98%AF?"
+1515927410862	geckodriver	INFO	geckodriver 0.19.1
+1515927410866	geckodriver	INFO	Listening on 127.0.0.1:49997
+1515927411047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.UpcDpfePPoTF"
+1515927411559	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:56:52.466 plugin-container[46979:487658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515927413011	Marionette	INFO	Listening on port 50004
+1515927413504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515927413554	Marionette	DEBUG	Register listener.js for window 2147483649
+1515927507461	geckodriver	INFO	geckodriver 0.19.1
+1515927507466	geckodriver	INFO	Listening on 127.0.0.1:50185
+1515927507656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.rdRDgX9kHhZ1"
+1515927508286	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:58:29.321 plugin-container[47130:491373] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515927509972	Marionette	INFO	Listening on port 50190
+1515927510164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515927510232	Marionette	DEBUG	Register listener.js for window 2147483649
+1515927545680	geckodriver	INFO	geckodriver 0.19.1
+1515927545685	geckodriver	INFO	Listening on 127.0.0.1:50262
+1515927545872	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.DGJ3gRyXy6Dg"
+1515927546455	Marionette	INFO	Enabled via --marionette
+2018-01-14 18:59:07.482 plugin-container[47212:492730] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515927548131	Marionette	INFO	Listening on port 50267
+1515927548341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515927548420	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515927564305	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515927564489	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515927564489	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515927565036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515927565175	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515927594010	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515927594052	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515927594054	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515927595108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515927595186	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515927850074	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515927850157	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515927850162	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD%E6%9C%89%E5%85%B3?"
+1515927850716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF?"
+1515927850786	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF?"
+1515927899745	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF?"
+1515927899790	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF?"
+1515927899794	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=1%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%98%AF?"
+1515927900365	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E7%9A%84%E6%9C%80%E9%AB%98%E8%AF%84%E5%88%86%E6%98%AF?"
+1515927900438	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E7%9A%84%E6%9C%80%E9%AB%98%E8%AF%84%E5%88%86%E6%98%AF?"
+1515927960771	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E7%9A%84%E6%9C%80%E9%AB%98%E8%AF%84%E5%88%86%E6%98%AF?"
+1515927960805	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E7%9A%84%E6%9C%80%E9%AB%98%E8%AF%84%E5%88%86%E6%98%AF?"
+1515927960810	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E7%9A%84%E6%9C%80%E9%AB%98%E8%AF%84%E5%88%86%E6%98%AF?"
+1515927961340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BC%A6%E6%95%A6%E5%A5%A5%E8%BF%90%E4%BC%9A%EF%BC%8C%E5%AD%99%E6%9D%A8%E8%8E%B7%E5%BE%97%E4%BA%86400%E7%B1%B3%E4%BB%80%E4%B9%88%E6%B3%B3%E7%9A%84%E5%86%A0%E5%86%9B?"
+1515927961428	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BC%A6%E6%95%A6%E5%A5%A5%E8%BF%90%E4%BC%9A%EF%BC%8C%E5%AD%99%E6%9D%A8%E8%8E%B7%E5%BE%97%E4%BA%86400%E7%B1%B3%E4%BB%80%E4%B9%88%E6%B3%B3%E7%9A%84%E5%86%A0%E5%86%9B?"
+1515928012771	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BC%A6%E6%95%A6%E5%A5%A5%E8%BF%90%E4%BC%9A%EF%BC%8C%E5%AD%99%E6%9D%A8%E8%8E%B7%E5%BE%97%E4%BA%86400%E7%B1%B3%E4%BB%80%E4%B9%88%E6%B3%B3%E7%9A%84%E5%86%A0%E5%86%9B?"
+1515928012816	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BC%A6%E6%95%A6%E5%A5%A5%E8%BF%90%E4%BC%9A%EF%BC%8C%E5%AD%99%E6%9D%A8%E8%8E%B7%E5%BE%97%E4%BA%86400%E7%B1%B3%E4%BB%80%E4%B9%88%E6%B3%B3%E7%9A%84%E5%86%A0%E5%86%9B?"
+1515928012818	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BC%A6%E6%95%A6%E5%A5%A5%E8%BF%90%E4%BC%9A%EF%BC%8C%E5%AD%99%E6%9D%A8%E8%8E%B7%E5%BE%97%E4%BA%86400%E7%B1%B3%E4%BB%80%E4%B9%88%E6%B3%B3%E7%9A%84%E5%86%A0%E5%86%9B?"
+1515928013747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E8%87%AA%E7%84%B6%E7%95%8C%E4%B8%AD%E7%9D%A2_%E8%83%BD%E5%A4%9F%E5%89%8D%E5%90%8E%E5%B7%A6%E5%8F%B3%E9%A3%9E%E8%A1%8C%E7%9A%84%E9%B8%9F%E6%98%AF%E4%BB%80%E4%B9%88%E9%B8%9F?"
+1515928013830	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E8%87%AA%E7%84%B6%E7%95%8C%E4%B8%AD%E7%9D%A2_%E8%83%BD%E5%A4%9F%E5%89%8D%E5%90%8E%E5%B7%A6%E5%8F%B3%E9%A3%9E%E8%A1%8C%E7%9A%84%E9%B8%9F%E6%98%AF%E4%BB%80%E4%B9%88%E9%B8%9F?"
+1515928059053	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E8%87%AA%E7%84%B6%E7%95%8C%E4%B8%AD%E7%9D%A2_%E8%83%BD%E5%A4%9F%E5%89%8D%E5%90%8E%E5%B7%A6%E5%8F%B3%E9%A3%9E%E8%A1%8C%E7%9A%84%E9%B8%9F%E6%98%AF%E4%BB%80%E4%B9%88%E9%B8%9F?"
+1515928059089	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E8%87%AA%E7%84%B6%E7%95%8C%E4%B8%AD%E7%9D%A2_%E8%83%BD%E5%A4%9F%E5%89%8D%E5%90%8E%E5%B7%A6%E5%8F%B3%E9%A3%9E%E8%A1%8C%E7%9A%84%E9%B8%9F%E6%98%AF%E4%BB%80%E4%B9%88%E9%B8%9F?"
+1515928059093	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E8%87%AA%E7%84%B6%E7%95%8C%E4%B8%AD%E7%9D%A2_%E8%83%BD%E5%A4%9F%E5%89%8D%E5%90%8E%E5%B7%A6%E5%8F%B3%E9%A3%9E%E8%A1%8C%E7%9A%84%E9%B8%9F%E6%98%AF%E4%BB%80%E4%B9%88%E9%B8%9F?"
+1515928059668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%E6%B3%95%E5%9B%BD%E8%91%97%E5%90%8D%E7%9A%84%E5%A5%A2%E4%BE%88%E5%93%81%E7%89%8CYSL%E7%9A%84%E4%B8%AD%E6%96%87%E6%98%AF?"
+1515928059750	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%E6%B3%95%E5%9B%BD%E8%91%97%E5%90%8D%E7%9A%84%E5%A5%A2%E4%BE%88%E5%93%81%E7%89%8CYSL%E7%9A%84%E4%B8%AD%E6%96%87%E6%98%AF?"
+1515928116969	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%E6%B3%95%E5%9B%BD%E8%91%97%E5%90%8D%E7%9A%84%E5%A5%A2%E4%BE%88%E5%93%81%E7%89%8CYSL%E7%9A%84%E4%B8%AD%E6%96%87%E6%98%AF?"
+1515928117009	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%E6%B3%95%E5%9B%BD%E8%91%97%E5%90%8D%E7%9A%84%E5%A5%A2%E4%BE%88%E5%93%81%E7%89%8CYSL%E7%9A%84%E4%B8%AD%E6%96%87%E6%98%AF?"
+1515928117016	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5%E6%B3%95%E5%9B%BD%E8%91%97%E5%90%8D%E7%9A%84%E5%A5%A2%E4%BE%88%E5%93%81%E7%89%8CYSL%E7%9A%84%E4%B8%AD%E6%96%87%E6%98%AF?"
+1515928117938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%8F%A4%E9%83%BD%E5%94%A7%E4%B8%AA%E8%A2%AB%E7%A7%B0%E4%B8%BA%22%E5%85%AD%E6%9C%9D%E5%8F%A4%E9%83%BD%22?"
+1515928118019	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%8F%A4%E9%83%BD%E5%94%A7%E4%B8%AA%E8%A2%AB%E7%A7%B0%E4%B8%BA%22%E5%85%AD%E6%9C%9D%E5%8F%A4%E9%83%BD%22?"
+1515928188443	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%8F%A4%E9%83%BD%E5%94%A7%E4%B8%AA%E8%A2%AB%E7%A7%B0%E4%B8%BA%22%E5%85%AD%E6%9C%9D%E5%8F%A4%E9%83%BD%22?"
+1515928188485	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%8F%A4%E9%83%BD%E5%94%A7%E4%B8%AA%E8%A2%AB%E7%A7%B0%E4%B8%BA%22%E5%85%AD%E6%9C%9D%E5%8F%A4%E9%83%BD%22?"
+1515928188487	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%8F%A4%E9%83%BD%E5%94%A7%E4%B8%AA%E8%A2%AB%E7%A7%B0%E4%B8%BA%22%E5%85%AD%E6%9C%9D%E5%8F%A4%E9%83%BD%22?"
+1515928189356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BB%A5%E4%B8%8B%E5%93%AA%E4%B8%AA%E6%8A%A4%E8%82%A4%E9%A1%BA%E5%BA%8F%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84?"
+1515928189451	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BB%A5%E4%B8%8B%E5%93%AA%E4%B8%AA%E6%8A%A4%E8%82%A4%E9%A1%BA%E5%BA%8F%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84?"
+1515928231832	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BB%A5%E4%B8%8B%E5%93%AA%E4%B8%AA%E6%8A%A4%E8%82%A4%E9%A1%BA%E5%BA%8F%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84?"
+1515928231882	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BB%A5%E4%B8%8B%E5%93%AA%E4%B8%AA%E6%8A%A4%E8%82%A4%E9%A1%BA%E5%BA%8F%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84?"
+1515928231886	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BB%A5%E4%B8%8B%E5%93%AA%E4%B8%AA%E6%8A%A4%E8%82%A4%E9%A1%BA%E5%BA%8F%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84?"
+1515928232722	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%9D%A2__%E4%B8%AA%E5%9B%BD%E6%97%97%E4%B8%8D%E6%98%AF%E9%95%BF%E6%96%B9%E5%BD%A2%E6%88%96%E8%80%85%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF?"
+1515928232802	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%9D%A2__%E4%B8%AA%E5%9B%BD%E6%97%97%E4%B8%8D%E6%98%AF%E9%95%BF%E6%96%B9%E5%BD%A2%E6%88%96%E8%80%85%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF?"
+1515928291156	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%9D%A2__%E4%B8%AA%E5%9B%BD%E6%97%97%E4%B8%8D%E6%98%AF%E9%95%BF%E6%96%B9%E5%BD%A2%E6%88%96%E8%80%85%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF?"
+1515928291201	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%9D%A2__%E4%B8%AA%E5%9B%BD%E6%97%97%E4%B8%8D%E6%98%AF%E9%95%BF%E6%96%B9%E5%BD%A2%E6%88%96%E8%80%85%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF?"
+1515928291203	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%9D%A2__%E4%B8%AA%E5%9B%BD%E6%97%97%E4%B8%8D%E6%98%AF%E9%95%BF%E6%96%B9%E5%BD%A2%E6%88%96%E8%80%85%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF?"
+1515928291752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%B0%8F%E8%AF%B4%E3%80%8A%E9%9B%AA%E5%9B%BD%E3%80%8B%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AF?"
+1515928291843	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%B0%8F%E8%AF%B4%E3%80%8A%E9%9B%AA%E5%9B%BD%E3%80%8B%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AF?"
+1515928340612	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%B0%8F%E8%AF%B4%E3%80%8A%E9%9B%AA%E5%9B%BD%E3%80%8B%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AF?"
+1515928340664	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%B0%8F%E8%AF%B4%E3%80%8A%E9%9B%AA%E5%9B%BD%E3%80%8B%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AF?"
+1515928340666	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%B0%8F%E8%AF%B4%E3%80%8A%E9%9B%AA%E5%9B%BD%E3%80%8B%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AF?"
+1515928341103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%93%AA%E4%B8%AA%E6%88%90%E8%AF%AD%E4%B8%AD%E6%B2%A1%E6%9C%89%E9%94%99%E5%88%AB%E5%AD%97?"
+1515928341177	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%93%AA%E4%B8%AA%E6%88%90%E8%AF%AD%E4%B8%AD%E6%B2%A1%E6%9C%89%E9%94%99%E5%88%AB%E5%AD%97?"
+1515928389224	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%93%AA%E4%B8%AA%E6%88%90%E8%AF%AD%E4%B8%AD%E6%B2%A1%E6%9C%89%E9%94%99%E5%88%AB%E5%AD%97?"
+1515928389259	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%93%AA%E4%B8%AA%E6%88%90%E8%AF%AD%E4%B8%AD%E6%B2%A1%E6%9C%89%E9%94%99%E5%88%AB%E5%AD%97?"
+1515928389263	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%B8%8B%E5%88%97%E5%93%AA%E4%B8%AA%E6%88%90%E8%AF%AD%E4%B8%AD%E6%B2%A1%E6%9C%89%E9%94%99%E5%88%AB%E5%AD%97?"
+1515928389808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AD%8C%E5%89%A7%E3%80%8A%E6%89%98%E6%96%AF%E5%8D%A1%E3%80%8B%E4%BA%8E1900%E5%B9%B4%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%93%AA%E9%87%8C%E9%A6%96%E6%BC%94?"
+1515928389907	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AD%8C%E5%89%A7%E3%80%8A%E6%89%98%E6%96%AF%E5%8D%A1%E3%80%8B%E4%BA%8E1900%E5%B9%B4%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%93%AA%E9%87%8C%E9%A6%96%E6%BC%94?"
+1515928473722	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AD%8C%E5%89%A7%E3%80%8A%E6%89%98%E6%96%AF%E5%8D%A1%E3%80%8B%E4%BA%8E1900%E5%B9%B4%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%93%AA%E9%87%8C%E9%A6%96%E6%BC%94?"
+1515928473762	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AD%8C%E5%89%A7%E3%80%8A%E6%89%98%E6%96%AF%E5%8D%A1%E3%80%8B%E4%BA%8E1900%E5%B9%B4%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%93%AA%E9%87%8C%E9%A6%96%E6%BC%94?"
+1515928473771	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=11%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AD%8C%E5%89%A7%E3%80%8A%E6%89%98%E6%96%AF%E5%8D%A1%E3%80%8B%E4%BA%8E1900%E5%B9%B4%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%93%AA%E9%87%8C%E9%A6%96%E6%BC%94?"
+1515928474221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BA%BA%E4%BB%AC%E5%B8%B8%E8%AF%B4%E7%9A%84%E2%80%9C%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E2%80%9D%E4%B8%AD%E7%9A%84%E2%80%9C%E4%B9%A6%E9%A6%99%E2%80%9D%E6%8C%87%E7%9A%84%E6%98%AF?"
+1515928474300	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E4%BA%BA%E4%BB%AC%E5%B8%B8%E8%AF%B4%E7%9A%84%E2%80%9C%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E2%80%9D%E4%B8%AD%E7%9A%84%E2%80%9C%E4%B9%A6%E9%A6%99%E2%80%9D%E6%8C%87%E7%9A%84%E6%98%AF?"
+1515931378916	geckodriver	INFO	geckodriver 0.19.1
+1515931378921	geckodriver	INFO	Listening on 127.0.0.1:56167
+1515931379116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.U5vE4KLwUpXU"
+1515931379817	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:03:00.876 plugin-container[51336:557160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931381675	Marionette	INFO	Listening on port 56174
+1515931381838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931381901	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931401608	geckodriver	INFO	geckodriver 0.19.1
+1515931401618	geckodriver	INFO	Listening on 127.0.0.1:56237
+1515931401801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.eOON3NITyqGG"
+1515931402378	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:03:23.393 plugin-container[51399:557955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931404087	Marionette	INFO	Listening on port 56242
+1515931405153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931405208	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931457801	geckodriver	INFO	geckodriver 0.19.1
+1515931457807	geckodriver	INFO	Listening on 127.0.0.1:56373
+1515931459888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.FTFja5KRZOfL"
+1515931460432	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:04:21.401 plugin-container[51502:559847] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931461982	Marionette	INFO	Listening on port 56384
+1515931462131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931462197	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931507036	geckodriver	INFO	geckodriver 0.19.1
+1515931507041	geckodriver	INFO	Listening on 127.0.0.1:56506
+1515931509131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.63LrzyBNZZx2"
+1515931509716	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:05:10.631 plugin-container[51593:561367] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931511211	Marionette	INFO	Listening on port 56517
+1515931511364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931511423	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515931559102	geckodriver	INFO	geckodriver 0.19.1
+1515931559107	geckodriver	INFO	Listening on 127.0.0.1:56642
+1515931561192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.fPI9OMKUISSG"
+1515931561801	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:06:02.711 plugin-container[51687:563379] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931563228	Marionette	INFO	Listening on port 56653
+1515931563443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931563511	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515931606937	geckodriver	INFO	geckodriver 0.19.1
+1515931606942	geckodriver	INFO	Listening on 127.0.0.1:56765
+1515931609024	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.soUXiTQfSuHa"
+1515931609588	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:06:50.501 plugin-container[51778:565028] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931611079	Marionette	INFO	Listening on port 56776
+1515931611266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931611337	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931659240	geckodriver	INFO	geckodriver 0.19.1
+1515931659245	geckodriver	INFO	Listening on 127.0.0.1:56907
+1515931661329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.n35QKY2JAM3D"
+1515931661840	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:07:42.739 plugin-container[51872:566277] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931663304	Marionette	INFO	Listening on port 56920
+1515931663561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931663638	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931700755	geckodriver	INFO	geckodriver 0.19.1
+1515931700759	geckodriver	INFO	Listening on 127.0.0.1:57023
+1515931702844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.5ovBGZsqPrYB"
+1515931703367	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:08:24.299 plugin-container[51954:567546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931704903	Marionette	INFO	Listening on port 57034
+1515931705102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931705160	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515931729855	geckodriver	INFO	geckodriver 0.19.1
+1515931729860	geckodriver	INFO	Listening on 127.0.0.1:57114
+1515931731946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.Ybbm1BoMfiFC"
+1515931732539	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:08:53.423 plugin-container[52026:568462] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931734002	Marionette	INFO	Listening on port 57127
+1515931734187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931734250	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931753150	geckodriver	INFO	geckodriver 0.19.1
+1515931753155	geckodriver	INFO	Listening on 127.0.0.1:57192
+1515931755240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.djdojym0qk3G"
+1515931755754	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:09:16.675 plugin-container[52091:569169] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931757183	Marionette	INFO	Listening on port 57203
+1515931757483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931757562	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931789321	geckodriver	INFO	geckodriver 0.19.1
+1515931789326	geckodriver	INFO	Listening on 127.0.0.1:57293
+1515931791408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.mfSDEO8knduL"
+1515931791930	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:09:52.884 plugin-container[52170:570028] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931793455	Marionette	INFO	Listening on port 57304
+1515931793667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931793729	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931798930	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515931799202	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515931799203	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515931799573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515931799653	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515931818897	geckodriver	INFO	geckodriver 0.19.1
+1515931818902	geckodriver	INFO	Listening on 127.0.0.1:57393
+1515931820993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.xRHzbvB0moE0"
+1515931821622	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:10:22.532 plugin-container[52247:570985] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931823190	Marionette	INFO	Listening on port 57404
+1515931823236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931823306	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931828685	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515931828859	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515931828860	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515931829277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515931829346	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515931903235	geckodriver	INFO	geckodriver 0.19.1
+1515931903240	geckodriver	INFO	Listening on 127.0.0.1:57609
+1515931905335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.VkQHj7pzJ24K"
+1515931905898	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:11:46.780 plugin-container[52377:572986] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931907364	Marionette	INFO	Listening on port 57621
+1515931907582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931907656	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931919633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515931919764	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515931919764	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515931921108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515931921227	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515931949524	geckodriver	INFO	geckodriver 0.19.1
+1515931949529	geckodriver	INFO	Listening on 127.0.0.1:57752
+1515931951610	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.aJvWSBwRu4rE"
+1515931952152	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:12:33.054 plugin-container[52469:574568] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515931953653	Marionette	INFO	Listening on port 57764
+1515931953839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515931953901	Marionette	DEBUG	Register listener.js for window 2147483649
+1515931965625	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515931965723	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515931965724	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515931966479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515931966581	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932020316	geckodriver	INFO	geckodriver 0.19.1
+1515932020320	geckodriver	INFO	Listening on 127.0.0.1:57955
+1515932022402	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.NlEZ0WUCVPmq"
+1515932022965	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:13:43.900 plugin-container[52586:576877] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515932024375	Marionette	INFO	Listening on port 57966
+1515932024654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515932024719	Marionette	DEBUG	Register listener.js for window 2147483649
+1515932037522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515932037624	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515932037625	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515932038269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932038385	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932100763	geckodriver	INFO	geckodriver 0.19.1
+1515932100768	geckodriver	INFO	Listening on 127.0.0.1:58210
+1515932102854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.ONVayI5pvByB"
+1515932103379	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:15:04.313 plugin-container[52713:578868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515932104895	Marionette	INFO	Listening on port 58221
+1515932105091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515932105165	Marionette	DEBUG	Register listener.js for window 2147483649
+1515932116795	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515932116984	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515932116984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515932118796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932119034	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932129680	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932129790	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932129793	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932130267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932130353	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932150880	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932150930	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932150931	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932151939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4%27%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD\%E6%9C%89%E5%85%B3?"
+1515932152093	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=4%27%E4%B8%8B%E5%88%97%E5%94%A7%E4%B8%AA%E6%88%90%E8%AF%AD%E5%85%B8%E6%95%85%E4%B8%8E%E9%A1%B9%E7%BE%BD\%E6%9C%89%E5%85%B3?"
+1515932244884	geckodriver	INFO	geckodriver 0.19.1
+1515932244888	geckodriver	INFO	Listening on 127.0.0.1:58874
+1515932246978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.rSszdbxAnoh0"
+1515932247518	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:17:28.538 plugin-container[52913:581551] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515932249309	Marionette	INFO	Listening on port 58885
+1515932250330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515932250384	Marionette	DEBUG	Register listener.js for window 2147483649
+1515932378716	geckodriver	INFO	geckodriver 0.19.1
+1515932378721	geckodriver	INFO	Listening on 127.0.0.1:59145
+1515932380811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.LKnY3ypZRpBB"
+1515932381376	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:19:42.384 plugin-container[53089:584192] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515932383288	Marionette	INFO	Listening on port 59157
+1515932384183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515932384231	Marionette	DEBUG	Register listener.js for window 2147483649
+1515932393015	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515932393164	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515932393164	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515932394945	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932395248	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932447137	geckodriver	INFO	geckodriver 0.19.1
+1515932447142	geckodriver	INFO	Listening on 127.0.0.1:59393
+1515932449227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p7/_7tnkc1n6bdb5gcg00f7q9hm0000gn/T/rust_mozprofile.iNc0tADM2cBX"
+1515932449753	Marionette	INFO	Enabled via --marionette
+2018-01-14 20:20:50.665 plugin-container[53204:586685] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515932451256	Marionette	INFO	Listening on port 59405
+1515932451467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515932451525	Marionette	DEBUG	Register listener.js for window 2147483649
+1515932464770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515932464955	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515932464955	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1515932465609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932465716	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932474405	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932474500	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932474502	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932474902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
+1515932474987	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E3%80%8B%E4%B8%AD%EF%BC%8C%E8%A7%92\%E8%89%B2%E2%80%9C%E8%B0%A2%E5%A4%A7%E8%84%9A%E2%80%9D%E5%9C%A8%E5%89%A7%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%90%8D%E5%8F%AB?"
